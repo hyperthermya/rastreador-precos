@@ -1,0 +1,46 @@
+name: Rastrear preços
+
+on:
+  schedule:
+    - cron: "17 */3 * * *" # a cada 3h (minuto 17 para fugir da congestão do Actions)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rastrear
+  cancel-in-progress: false
+
+jobs:
+  rastrear:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Coletar preços e avaliar alertas
+        working-directory: scraper
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          ALERT_EMAIL: ${{ secrets.ALERT_EMAIL }}
+        run: |
+          export DASHBOARD_URL="https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}/"
+          node index.js
+
+      - name: Commitar dados atualizados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          if git diff --staged --quiet; then
+            echo "Sem mudanças nesta rodada."
+          else
+            git commit -m "dados: atualização automática"
+            git pull --rebase --autostash
+            git push
+          fi

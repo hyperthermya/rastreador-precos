@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": "tablet-lenovo-ideatab",
+      "nome": "Tablet Lenovo IdeaTab 4GB 128GB WiFi + caneta + case (azul)",
+      "palavrasChave": "tablet lenovo",
+      "termosObrigatorios": ["lenovo", "128"],
+      "precoAlvo": 1599,
+      "precoMin": 800,
+      "precoMax": 2600,
+      "amazonUrl": "https://www.amazon.com.br/dp/B0FN4BK3V7"
+    }
+  ]
+}

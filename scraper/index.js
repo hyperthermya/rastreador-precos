@@ -1,0 +1,118 @@
+// Orquestrador: roda as 4 fontes para cada produto, grava os JSONs do
+// dashboard e dispara os alertas. Falha de uma fonte não derruba a rodada.
+import fs from "node:fs";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+import * as amazon from "./sources/amazon.js";
+import * as mercadolivre from "./sources/mercadolivre.js";
+import * as pelando from "./sources/pelando.js";
+import * as promobit from "./sources/promobit.js";
+import { precoNaFaixa } from "./lib.js";
+import { processarAlertas } from "./alert.js";
+
+const raiz = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
+const dataDir = path.join(raiz, "docs", "data");
+
+const FONTES = { amazon, mercadolivre, pelando, promobit };
+
+function lerJson(arquivo, padrao) {
+  try {
+    return JSON.parse(fs.readFileSync(arquivo, "utf8"));
+  } catch {
+    return padrao;
+  }
+}
+
+async function coletarProduto(produto, anterior, agora) {
+  // config embutida para o dashboard (products.json da raiz não é servido pelo Pages)
+  const resultado = {
+    config: {
+      nome: produto.nome,
+      precoAlvo: produto.precoAlvo,
+      precoMin: produto.precoMin,
+      precoMax: produto.precoMax,
+      palavrasChave: produto.palavrasChave,
+    },
+    ofertas: [],
+    promocoes: [],
+    fontes: {},
+  };
+
+  const execucoes = await Promise.allSettled(
+    Object.entries(FONTES).map(async ([nome, mod]) => [nome, await mod.buscar(produto)])
+  );
+
+  for (let i = 0; i < execucoes.length; i++) {
+    const nome = Object.keys(FONTES)[i];
+    const exec = execucoes[i];
+    if (exec.status === "fulfilled") {
+      const [, r] = exec.value;
+      if (r.pulada) {
+        resultado.fontes[nome] = { ok: true, pulada: true, em: agora };
+        continue;
+      }
+      const novas = (r.ofertas ?? []).map((o) => ({ ...o, coletadoEm: agora }));
+      const promos = (r.promocoes ?? []).map((o) => ({ ...o, coletadoEm: agora }));
+      resultado.ofertas.push(...novas);
+      resultado.promocoes.push(...promos);
+      resultado.fontes[nome] = { ok: true, em: agora, ultimoOkEm: agora };
+    } else {
+      const erro = exec.reason?.message ?? String(exec.reason);
+      // mantém os últimos dados conhecidos da fonte, marcados como desatualizados
+      const antigasOfertas = (anterior?.ofertas ?? []).filter((o) => o.fonte === nome);
+      const antigasPromos = (anterior?.promocoes ?? []).filter((o) => o.fonte === nome);
+      resultado.ofertas.push(...antigasOfertas.map((o) => ({ ...o, desatualizado: true })));
+      resultado.promocoes.push(...antigasPromos.map((o) => ({ ...o, desatualizado: true })));
+      resultado.fontes[nome] = {
+        ok: false,
+        erro,
+        em: agora,
+        ultimoOkEm: anterior?.fontes?.[nome]?.ultimoOkEm ?? null,
+      };
+      console.error(`  [${produto.id}] fonte ${nome} falhou: ${erro}`);
+    }
+  }
+
+  // melhor oferta: lojas diretas + promoções do Promobit com preço estruturado,
+  // sempre dentro da faixa de preço plausível e sem dado desatualizado
+  const candidatas = [
+    ...resultado.ofertas,
+    ...resultado.promocoes.filter((p) => p.fonte === "promobit" && p.preco != null),
+  ].filter((o) => !o.desatualizado && precoNaFaixa(o.preco, produto));
+  resultado.melhorOferta = candidatas.sort((a, b) => a.preco - b.preco)[0] ?? null;
+  return resultado;
+}
+
+async function main() {
+  const agora = new Date().toISOString();
+  const { products } = JSON.parse(fs.readFileSync(path.join(raiz, "products.json"), "utf8"));
+  const latestAnterior = lerJson(path.join(dataDir, "latest.json"), { produtos: {} });
+  const history = lerJson(path.join(dataDir, "history.json"), {});
+  const state = lerJson(path.join(dataDir, "state.json"), {});
+
+  const latest = { geradoEm: agora, produtos: {} };
+  for (const produto of products) {
+    console.log(`Coletando: ${produto.nome}`);
+    latest.produtos[produto.id] = await coletarProduto(produto, latestAnterior.produtos?.[produto.id], agora);
+    const melhor = latest.produtos[produto.id].melhorOferta;
+    console.log(melhor ? `  melhor: R$ ${melhor.preco} (${melhor.fonte})` : "  nenhuma oferta válida nesta rodada");
+
+    if (melhor) {
+      history[produto.id] = (history[produto.id] ?? []).concat({ em: agora, preco: melhor.preco, fonte: melhor.fonte });
+      if (history[produto.id].length > 2000) history[produto.id] = history[produto.id].slice(-2000);
+    }
+  }
+
+  fs.mkdirSync(dataDir, { recursive: true });
+  fs.writeFileSync(path.join(dataDir, "latest.json"), JSON.stringify(latest, null, 1));
+  fs.writeFileSync(path.join(dataDir, "history.json"), JSON.stringify(history, null, 1));
+
+  const novoState = await processarAlertas(products, latest, state);
+  fs.writeFileSync(path.join(dataDir, "state.json"), JSON.stringify(novoState, null, 1));
+  console.log("Rodada concluída.");
+}
+
+main().catch((e) => {
+  console.error("Falha fatal na rodada:", e);
+  process.exit(1);
+});
