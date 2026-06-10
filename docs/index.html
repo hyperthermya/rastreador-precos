@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rastreador de Preços</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='80' font-size='80'>💸</text></svg>" />
+</head>
+<body>
+  <header>
+    <h1>💸 Rastreador de Preços</h1>
+    <div class="header-info">
+      <span id="ultima-coleta">carregando…</span>
+      <nav id="links-repo" hidden>
+        <a id="link-editar" href="#" target="_blank" rel="noopener">✏️ Editar produtos</a>
+        <a id="link-rodar" href="#" target="_blank" rel="noopener">🔄 Atualizar agora</a>
+      </nav>
+    </div>
+  </header>
+  <main id="cards">
+    <p class="aviso">Carregando dados…</p>
+  </main>
+  <footer>
+    <p>Coleta automática a cada 3 horas via GitHub Actions · fontes: Amazon BR, Mercado Livre, Pelando, Promobit</p>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>

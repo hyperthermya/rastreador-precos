@@ -32,12 +32,16 @@ Prioridade é função, não estética: HTML/CSS/JS puro, sem framework.
 
 ## Fontes da v1
 
-| Fonte | O que coleta | Como |
+| Fonte | O que coleta | Como (validado na implementação) |
 |---|---|---|
 | Amazon BR | Preço do produto exato (via URL/ASIN em `products.json`) | Fetch da página do produto com headers de navegador + retries |
-| Mercado Livre | Menores preços de anúncios relevantes | Busca por palavras-chave na listagem pública, ordenada por preço |
-| Pelando | Promoções e cupons relacionados | Página de busca pública (parse do HTML/JSON embutido) |
-| Promobit | Promoções e cupons relacionados | Página de busca pública (parse do HTML/JSON embutido) |
+| Mercado Livre | Menores preços de anúncios relevantes | Listagem pública por palavras-chave, baixada com user-agent de Googlebot — com UA normal o site exige JavaScript ou mostra verificação anti-robô |
+| Pelando | Promoções e cupons relacionados | Feeds `/recentes` e `/mais-quentes` (JSON-LD `feed-schema`), filtrados pelas palavras do produto — a busca do site é client-side e inacessível sem JS |
+| Promobit | Promoções e cupons relacionados | Home (`__NEXT_DATA__` com preço, loja e cupom), filtrada pelas palavras do produto — idem |
+
+Consequência dos feeds (Pelando/Promobit): cobrem as promoções das últimas horas/dias, não
+um arquivo histórico de busca. Como a coleta roda a cada 3h, as promoções relevantes vão
+sendo capturadas conforme surgem.
 
 **Filtro de relevância** (evita confundir capinha/película com o produto): o título do
 anúncio precisa conter todos os `termosObrigatorios` e o preço precisa estar dentro de
@@ -54,7 +58,7 @@ API key do Resend ficam em **secrets** do repositório, nunca em arquivos.
 ├── .github/workflows/track.yml      # cron a cada 3h + execução manual
 ├── products.json                    # lista de desejos (editada pelo usuário)
 ├── scraper/
-│   ├── package.json                 # Node 22, dependência: cheerio
+│   ├── package.json                 # Node 22, sem dependências externas
 │   ├── index.js                     # orquestrador da coleta
 │   ├── sources/
 │   │   ├── amazon.js
@@ -141,7 +145,9 @@ Por produto: `{ "menorHistorico": 849.0, "ultimoAlertaPreco": 849.0, "ultimoAler
 1. Cron do Actions (a cada 3h) ou disparo manual inicia o job.
 2. `scraper/index.js` lê `products.json` e roda as 4 fontes por produto, em sequência,
    com timeout individual. Falha de uma fonte não interrompe as demais (`try/catch` por fonte).
-3. Aplica filtro de relevância e faixa de preço; calcula a melhor oferta por produto.
+3. Aplica filtro de relevância e faixa de preço; calcula a melhor oferta por produto
+   (lojas diretas + promoções do Promobit com preço estruturado; preços do Pelando são
+   melhor-esforço e ficam só na listagem).
 4. Escreve `latest.json`, acrescenta em `history.json`.
 5. `alert.js` avalia as regras de alerta e envia email via API do Resend se necessário;
    atualiza `state.json`.
@@ -183,8 +189,8 @@ workflow apenas).
 
 - `schedule: cron '17 */3 * * *'` (minuto deslocado para fugir da congestão dos horários
   cheios; o cron do Actions pode atrasar alguns minutos — aceitável) + `workflow_dispatch`.
-- Passos: checkout → setup Node 22 → `npm ci` → rodar scraper → commit/push dos JSONs
-  (só se houver mudança). `permissions: contents: write`.
+- Passos: checkout → setup Node 22 → rodar scraper → commit/push dos JSONs
+  (só se houver mudança). `permissions: contents: write`. Sem `npm install` — zero deps.
 - O workflow só dispara por schedule/dispatch (não por push), então o push dos dados não
   gera loop.
 
