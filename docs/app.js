@@ -14,12 +14,14 @@ function tempoRelativo(iso) {
   return `há ${Math.round(h / 24)} dias`;
 }
 
-// Em <user>.github.io/<repo>/ dá para deduzir os links do repositório
+// Links do repositório no GitHub. Em <user>.github.io/<repo>/ são deduzidos da URL;
+// em qualquer outro host (ex.: Vercel) caem para o repositório fixo abaixo.
+const REPO_FIXO = "leomerets-prog/rastreador-precos";
 function linksRepo() {
   const m = location.hostname.match(/^([\w-]+)\.github\.io$/);
-  const repo = location.pathname.split("/").filter(Boolean)[0];
-  if (!m || !repo) return null;
-  const base = `https://github.com/${m[1]}/${repo}`;
+  const repoPath = m ? `${m[1]}/${location.pathname.split("/").filter(Boolean)[0]}` : REPO_FIXO;
+  if (!repoPath || repoPath.endsWith("/undefined")) return null;
+  const base = `https://github.com/${repoPath}`;
   return { editar: `${base}/edit/main/products.json`, rodar: `${base}/actions/workflows/track.yml` };
 }
 
