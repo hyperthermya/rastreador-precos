@@ -12,17 +12,56 @@
     <h1>💸 Rastreador de Preços</h1>
     <div class="header-info">
       <span id="ultima-coleta">carregando…</span>
-      <nav id="links-repo" hidden>
-        <a id="link-editar" href="#" target="_blank" rel="noopener">✏️ Editar produtos</a>
-        <a id="link-rodar" href="#" target="_blank" rel="noopener">🔄 Atualizar agora</a>
+      <nav id="links-repo">
+        <button id="btn-add" type="button">➕ Adicionar produto</button>
+        <a id="link-editar" href="#" target="_blank" rel="noopener" hidden>✏️ Editar produtos</a>
+        <a id="link-rodar" href="#" target="_blank" rel="noopener" hidden>🔄 Atualizar agora</a>
       </nav>
     </div>
   </header>
   <main id="cards">
     <p class="aviso">Carregando dados…</p>
   </main>
+
+  <dialog id="form-add">
+    <form method="dialog" id="form-add-form">
+      <h2>Adicionar produto</h2>
+      <label>Nome do produto *
+        <input name="nome" required placeholder="Ex.: Fone JBL Tune 510BT preto" />
+      </label>
+      <label>Palavras-chave da busca
+        <input name="palavrasChave" placeholder="Ex.: fone jbl tune 510bt (vazio = usa o nome)" />
+      </label>
+      <label>Palavras obrigatórias <small>(separe por vírgula; o anúncio precisa conter todas)</small>
+        <input name="termosObrigatorios" placeholder="Ex.: jbl, 510" />
+      </label>
+      <div class="linha">
+        <label>Preço-alvo (R$) *
+          <input name="precoAlvo" type="number" step="0.01" min="0" required placeholder="200" />
+        </label>
+        <label>Preço mín. <small>(opcional)</small>
+          <input name="precoMin" type="number" step="0.01" min="0" placeholder="auto" />
+        </label>
+        <label>Preço máx. <small>(opcional)</small>
+          <input name="precoMax" type="number" step="0.01" min="0" placeholder="auto" />
+        </label>
+      </div>
+      <label>Link da Amazon <small>(opcional)</small>
+        <input name="amazonUrl" placeholder="https://www.amazon.com.br/dp/..." />
+      </label>
+      <label>Senha *
+        <input name="senha" type="password" required placeholder="sua senha de administração" />
+      </label>
+      <p id="form-add-status" class="form-status"></p>
+      <div class="form-acoes">
+        <button type="button" id="form-add-cancelar">Cancelar</button>
+        <button type="submit" id="form-add-enviar">Adicionar</button>
+      </div>
+    </form>
+  </dialog>
+
   <footer>
-    <p>Coleta automática a cada 3 horas via GitHub Actions · fontes: Amazon BR, Mercado Livre, Pelando, Promobit</p>
+    <p>Coleta automática a cada 3 horas (nuvem + PC) · fontes: Amazon, Mercado Livre, Zoom, Buscapé, Pelando, Promobit</p>
   </footer>
   <script src="app.js"></script>
 </body>
