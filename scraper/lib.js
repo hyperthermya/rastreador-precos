@@ -23,14 +23,17 @@ export function headersNavegador(ua) {
 }
 
 // Busca uma URL com tentativas e backoff. Lança erro se todas falharem.
+// `headers` pode ser um objeto fixo ou uma função (tentativa) => headers, útil para
+// rotacionar user-agent a cada tentativa contra bloqueios intermitentes (Amazon).
 export async function fetchComRetry(url, { headers, tentativas = 3, timeoutMs = 25000, validar } = {}) {
   let ultimoErro;
   for (let i = 0; i < tentativas; i++) {
-    if (i > 0) await new Promise((r) => setTimeout(r, 5000 * i));
+    if (i > 0) await new Promise((r) => setTimeout(r, 4000 * i + Math.floor(Math.random() * 4000)));
     try {
       const ctl = new AbortController();
       const t = setTimeout(() => ctl.abort(), timeoutMs);
-      const resp = await fetch(url, { headers, redirect: "follow", signal: ctl.signal });
+      const h = typeof headers === "function" ? headers(i) : headers;
+      const resp = await fetch(url, { headers: h, redirect: "follow", signal: ctl.signal });
       clearTimeout(t);
       const html = await resp.text();
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
