@@ -4,7 +4,7 @@ Dashboard pessoal que acompanha o melhor preço e as promoções/cupons de produ
 lista de desejos. Roda sozinho e de graça:
 
 - **GitHub Actions** coleta os preços a cada 3 horas (Amazon BR, Mercado Livre, Pelando e Promobit).
-- **GitHub Pages** serve o dashboard (pasta [`docs/`](docs/)).
+- **Vercel** serve o dashboard (pasta [`docs/`](docs/), Root Directory `docs`), republicando a cada push de dados.
 - **Resend** envia email quando um produto fica abaixo do preço-alvo ou atinge um novo
   menor preço histórico.
 
