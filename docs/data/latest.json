@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-11T14:26:39.077Z",
+ "geradoEm": "2026-06-11T22:17:19.665Z",
  "produtos": {
   "tablet-lenovo-ideatab": {
    "config": {
@@ -16,8 +16,7 @@
      "titulo": "Tablet Lenovo Idea Tab Octa-Core, 4GB, 128GB Android 15 Wifi 5, Tela 11” 90Hz, Caneta e Capa",
      "preco": 1799,
      "url": "https://www.amazon.com.br/dp/B0FN4BK3V7",
-     "coletadoEm": "2026-06-11T10:35:59.714Z",
-     "desatualizado": true
+     "coletadoEm": "2026-06-11T22:17:19.665Z"
     },
     {
      "fonte": "mercadolivre",
@@ -70,7 +69,7 @@
      "preco": 1819,
      "loja": "Ponto",
      "url": "https://www.zoom.com.br/tablet-ipad/tablet-lenovo-128gb-idea-tab-11-8-mp",
-     "coletadoEm": "2026-06-11T14:26:39.077Z"
+     "coletadoEm": "2026-06-11T22:17:19.665Z"
     },
     {
      "fonte": "zoom",
@@ -78,7 +77,7 @@
      "preco": 2149,
      "loja": "Amazon",
      "url": "https://www.zoom.com.br/lead?oid=1529153171",
-     "coletadoEm": "2026-06-11T14:26:39.077Z"
+     "coletadoEm": "2026-06-11T22:17:19.665Z"
     },
     {
      "fonte": "zoom",
@@ -86,7 +85,7 @@
      "preco": 2172.56,
      "loja": "Extra",
      "url": "https://www.zoom.com.br/lead?oid=1561712638",
-     "coletadoEm": "2026-06-11T14:26:39.077Z"
+     "coletadoEm": "2026-06-11T22:17:19.665Z"
     },
     {
      "fonte": "zoom",
@@ -94,52 +93,51 @@
      "preco": 2172.56,
      "loja": "Ponto",
      "url": "https://www.zoom.com.br/lead?oid=1561712381",
-     "coletadoEm": "2026-06-11T14:26:39.077Z"
+     "coletadoEm": "2026-06-11T22:17:19.665Z"
     }
    ],
    "promocoes": [],
    "fontes": {
     "amazon": {
-     "ok": false,
-     "erro": "preço não encontrado",
-     "em": "2026-06-11T14:26:39.077Z",
-     "ultimoOkEm": "2026-06-11T10:35:59.714Z"
+     "ok": true,
+     "em": "2026-06-11T22:17:19.665Z",
+     "ultimoOkEm": "2026-06-11T22:17:19.665Z"
     },
     "mercadolivre": {
      "ok": false,
      "erro": "bloqueado (verificação anti-robô)",
-     "em": "2026-06-11T14:26:39.077Z",
+     "em": "2026-06-11T22:17:19.665Z",
      "ultimoOkEm": "2026-06-11T10:36:41.236Z"
     },
     "zoom": {
      "ok": true,
-     "em": "2026-06-11T14:26:39.077Z",
-     "ultimoOkEm": "2026-06-11T14:26:39.077Z"
+     "em": "2026-06-11T22:17:19.665Z",
+     "ultimoOkEm": "2026-06-11T22:17:19.665Z"
     },
     "buscape": {
      "ok": true,
-     "em": "2026-06-11T14:26:39.077Z",
-     "ultimoOkEm": "2026-06-11T14:26:39.077Z"
+     "em": "2026-06-11T22:17:19.665Z",
+     "ultimoOkEm": "2026-06-11T22:17:19.665Z"
     },
     "pelando": {
      "ok": false,
      "erro": "https://www.pelando.com.br/recentes: HTTP 403; https://www.pelando.com.br/mais-quentes: HTTP 403",
-     "em": "2026-06-11T14:26:39.077Z",
+     "em": "2026-06-11T22:17:19.665Z",
      "ultimoOkEm": "2026-06-11T10:36:41.236Z"
     },
     "promobit": {
      "ok": true,
-     "em": "2026-06-11T14:26:39.077Z",
-     "ultimoOkEm": "2026-06-11T14:26:39.077Z"
+     "em": "2026-06-11T22:17:19.665Z",
+     "ultimoOkEm": "2026-06-11T22:17:19.665Z"
     }
    },
    "melhorOferta": {
-    "fonte": "zoom",
-    "titulo": "Tablet Lenovo Idea Tab 128GB 11\" Android 15",
-    "preco": 1819,
-    "loja": "Ponto",
-    "url": "https://www.zoom.com.br/tablet-ipad/tablet-lenovo-128gb-idea-tab-11-8-mp",
-    "coletadoEm": "2026-06-11T14:26:39.077Z"
+    "fonte": "amazon",
+    "loja": "Amazon",
+    "titulo": "Tablet Lenovo Idea Tab Octa-Core, 4GB, 128GB Android 15 Wifi 5, Tela 11” 90Hz, Caneta e Capa",
+    "preco": 1799,
+    "url": "https://www.amazon.com.br/dp/B0FN4BK3V7",
+    "coletadoEm": "2026-06-11T22:17:19.665Z"
    }
   }
  }
