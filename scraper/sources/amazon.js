@@ -26,9 +26,18 @@ export function parseAmazon(html) {
 export async function buscar(produto) {
   if (!produto.amazonUrl) return { ofertas: [], pulada: true };
   const url = produto.amazonUrl.split("?")[0];
-  const ua = UAS_DESKTOP[Math.floor(Math.random() * UAS_DESKTOP.length)];
+  // A Amazon bloqueia de forma intermitente: troca de user-agent a cada tentativa
+  // (deslocando o índice por sorteio) e adiciona cabeçalhos de navegação real.
+  const inicio = Math.floor(Math.random() * UAS_DESKTOP.length);
   const html = await fetchComRetry(url, {
-    headers: headersNavegador(ua),
+    tentativas: 4,
+    headers: (tentativa) => ({
+      ...headersNavegador(UAS_DESKTOP[(inicio + tentativa) % UAS_DESKTOP.length]),
+      Referer: "https://www.google.com/",
+      "sec-ch-ua": '"Chromium";v="137", "Google Chrome";v="137", "Not/A)Brand";v="24"',
+      "sec-ch-ua-mobile": "?0",
+      "sec-fetch-site": "cross-site",
+    }),
     validar: (h) => (parseAmazon(h).erro === "bloqueado (captcha)" ? "bloqueado (captcha)" : null),
   });
   const r = parseAmazon(html);
