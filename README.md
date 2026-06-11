@@ -10,8 +10,12 @@ lista de desejos. Roda sozinho e de graça:
 
 ## Como adicionar/editar produtos
 
-Edite o [`products.json`](products.json) (pelo próprio site do GitHub, link "✏️ Editar
-produtos" no dashboard). Campos de cada produto:
+**Pelo dashboard:** botão **➕ Adicionar produto** — preenche nome, preço-alvo, palavras
+e a senha de administração. Salva direto no `products.json` (via função no Vercel) e
+dispara uma coleta na hora. Requer os secrets `GITHUB_TOKEN` e `ADD_PASSWORD` no Vercel.
+
+**Manualmente:** edite o [`products.json`](products.json) (link "✏️ Editar produtos").
+Campos de cada produto:
 
 | Campo | O que é |
 |---|---|

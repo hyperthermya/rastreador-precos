@@ -139,9 +139,53 @@ async function carregar() {
 
 const links = linksRepo();
 if (links) {
-  document.getElementById("links-repo").hidden = false;
-  document.getElementById("link-editar").href = links.editar;
-  document.getElementById("link-rodar").href = links.rodar;
+  const le = document.getElementById("link-editar");
+  const lr = document.getElementById("link-rodar");
+  le.href = links.editar;
+  lr.href = links.rodar;
+  le.hidden = false;
+  lr.hidden = false;
 }
+
+// --- Formulário de adicionar produto (chama a função /api/add-product no Vercel) ---
+const dlg = document.getElementById("form-add");
+document.getElementById("btn-add").addEventListener("click", () => dlg.showModal());
+document.getElementById("form-add-cancelar").addEventListener("click", () => dlg.close());
+
+document.getElementById("form-add-form").addEventListener("submit", async (ev) => {
+  ev.preventDefault(); // não fecha o dialog antes de enviar
+  const form = ev.target;
+  const status = document.getElementById("form-add-status");
+  const botao = document.getElementById("form-add-enviar");
+  const dados = Object.fromEntries(new FormData(form).entries());
+
+  botao.disabled = true;
+  status.className = "form-status";
+  status.textContent = "Enviando…";
+  try {
+    const resp = await fetch("api/add-product", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(dados),
+    });
+    const r = await resp.json().catch(() => ({}));
+    if (!resp.ok) throw new Error(r.erro || `erro ${resp.status}`);
+    status.className = "form-status ok";
+    status.textContent = r.coletaDisparada
+      ? "✓ Produto adicionado! Coleta iniciada — aparece aqui em ~1–2 min."
+      : "✓ Produto adicionado! Aparece na próxima coleta.";
+    form.reset();
+    setTimeout(() => {
+      dlg.close();
+      carregar();
+    }, 2500);
+  } catch (e) {
+    status.className = "form-status erro";
+    status.textContent = `✗ ${e.message}`;
+  } finally {
+    botao.disabled = false;
+  }
+});
+
 carregar();
 setInterval(carregar, 5 * 60 * 1000);
