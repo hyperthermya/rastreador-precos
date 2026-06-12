@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-12T01:32:45.245Z",
+ "geradoEm": "2026-06-12T12:02:50.311Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -26,27 +26,27 @@
      "verificadoHoje": true
     },
     {
+     "codigo": "QUEROPROMO",
+     "descricao": "Desconto de R$300 em Edge 70 Fusion FIFA Edition.",
+     "titulo": "R$300 OFF em Edge 70 Fusion FIFA Edition com cupom Mercado Livre",
+     "verificadoHoje": true
+    },
+    {
      "codigo": "ESPORTES10",
      "descricao": "10% OFF para compras mínimas de R$55, com desconto máximo de R$150.",
      "titulo": "10% OFF em produtos esportivos com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "OFERTA18",
      "descricao": "18% OFF para compras mínimas de R$99 e desconto máximo de R$25.",
      "titulo": "Faça compras com código promocional Mercado Livre e obtenha 18% de economia",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MODA15",
      "descricao": "15% OFF para compras mínimas de R$249 e desconto máximo de R$65.",
      "titulo": "Confira desconto imperdível de 15% com voucher Mercado Livre",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "QUEROPROMO",
-     "descricao": "Desconto de R$300 em Edge 70 Fusion FIFA Edition.",
-     "titulo": "R$300 OFF em Edge 70 Fusion FIFA Edition com cupom Mercado Livre",
      "verificadoHoje": false
     },
     {
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-12T01:32:45.245Z"
+   "em": "2026-06-12T12:02:50.311Z"
   },
   {
    "loja": "Amazon",
@@ -69,19 +69,19 @@
      "codigo": "ATACANTES",
      "descricao": "Desconto de 10% em compras a partir de R$100, com desconto máximo limitado a R$50.",
      "titulo": "Super promo Amazon: 10% OFF com cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MEIOCAMPO",
      "descricao": "10% OFF em compras a partir de R$600, com desconto máximo limitado a R$150.",
      "titulo": "Cupom Amazon garante 10% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "GOLEIROS",
      "descricao": "Desconto de 10% em compras a partir de R$100, com desconto máximo limitado a R$50.",
      "titulo": "Ganhe 10% OFF em compras com cupom Amazon",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "ULTIMO6DO6",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-12T01:32:45.245Z"
+   "em": "2026-06-12T12:02:50.311Z"
   },
   {
    "loja": "Casas Bahia",
@@ -124,15 +124,15 @@
    "url": "https://www.cuponomia.com.br/desconto/casas-bahia",
    "cupons": [
     {
-     "codigo": "VAIBRASIL",
-     "descricao": "Clique no link para conferir as melhores ofertas do site.",
-     "titulo": "Até R$1.000 OFF com cupom Casas Bahia",
-     "verificadoHoje": true
-    },
-    {
      "codigo": "BLACKOUT",
      "descricao": "Confira a seleção de produtos no link.",
      "titulo": "Cupom Casas Bahia com até 40% OFF",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "VAIBRASIL",
+     "descricao": "Clique no link para conferir as melhores ofertas do site.",
+     "titulo": "Até R$1.000 OFF com cupom Casas Bahia",
      "verificadoHoje": true
     },
     {
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-12T01:32:45.245Z"
+   "em": "2026-06-12T12:02:50.311Z"
   },
   {
    "loja": "Magalu",
@@ -185,7 +185,7 @@
      "codigo": "LU300",
      "descricao": "Aproveite os itens selecionados no link.",
      "titulo": "Cupom Magalu com R$300 OFF em suas compras",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "LU120",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-12T01:32:45.245Z"
+   "em": "2026-06-12T12:02:50.311Z"
   },
   {
    "loja": "KaBuM",
@@ -246,9 +246,9 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "CUPOMZASSO",
-     "descricao": "R$300 OFF em consoles selecionados para elevar seu nível de jogo.",
-     "titulo": "Super promo KaBuM!: R$300 de desconto com cupom",
+     "codigo": "GOL500",
+     "descricao": "R$500 OFF para compras acima de R$5.000.",
+     "titulo": "A chance de economizar R$500 em compras com cupom KaBuM!",
      "verificadoHoje": true
     },
     {
@@ -264,18 +264,6 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "SEVEN",
-     "descricao": "Desconto válido para Monitor Gamer Curvo Agon Quad 32” Aoc Wqhd, 180hz, 0.5ms Com 3.500:1 De Contraste - Cq32g4e/57 - Bivolt.",
-     "titulo": "Garanta 7% OFF em Monitor Gamer com voucher KaBuM!",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "GOL500",
-     "descricao": "R$500 OFF para compras acima de R$5.000.",
-     "titulo": "A chance de economizar R$500 em compras com cupom KaBuM!",
-     "verificadoHoje": true
-    },
-    {
      "codigo": "GOL100",
      "descricao": "Aplique cupom KaBuM! no carrinho e obtenha R$100 OFF em compras acima de R$1.500.",
      "titulo": "Itens selecionados com R$100 de economia",
@@ -286,10 +274,22 @@
      "descricao": "Aplique cupom KaBuM! no carrinho para garantir economia.",
      "titulo": "5% OFF em seleção de Cervejeira",
      "verificadoHoje": true
+    },
+    {
+     "codigo": "SEVEN",
+     "descricao": "Desconto válido para Monitor Gamer Curvo Agon Quad 32” Aoc Wqhd, 180hz, 0.5ms Com 3.500:1 De Contraste - Cq32g4e/57 - Bivolt.",
+     "titulo": "Garanta 7% OFF em Monitor Gamer com voucher KaBuM!",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "150NOROBO",
+     "descricao": "Válido para os produtos do link. Aplique o cupom no carrinho de compras.",
+     "titulo": "R$150 OFF em Robôs KaBuM!",
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-12T01:32:45.245Z"
+   "em": "2026-06-12T12:02:50.311Z"
   }
  ]
 }
