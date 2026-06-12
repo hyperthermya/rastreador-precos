@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-12T19:33:12.509Z",
+ "geradoEm": "2026-06-12T21:20:12.521Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -32,6 +32,12 @@
      "verificadoHoje": true
     },
     {
+     "codigo": "MELIMODA15",
+     "descricao": "15% OFF para compras mínimas de R$99 e desconto máximo de R$20.",
+     "titulo": "Faça compras com código promocional Mercado Livre e garanta 15% OFF",
+     "verificadoHoje": false
+    },
+    {
      "codigo": "ESPORTES10",
      "descricao": "10% OFF para compras mínimas de R$55, com desconto máximo de R$150.",
      "titulo": "10% OFF em produtos esportivos com cupom Mercado Livre",
@@ -48,16 +54,10 @@
      "descricao": "15% OFF para compras mínimas de R$249 e desconto máximo de R$65.",
      "titulo": "Confira desconto imperdível de 15% com voucher Mercado Livre",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "BEAUTY15",
-     "descricao": "15% OFF para compras mínimas de R$99,90, e desconto máximo de R$100.",
-     "titulo": "Hora do desconto: 15% OFF com cupom Mercado Livre",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-12T19:33:12.509Z"
+   "em": "2026-06-12T21:20:12.521Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-12T19:33:12.509Z"
+   "em": "2026-06-12T21:20:12.521Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-12T19:33:12.509Z"
+   "em": "2026-06-12T21:20:12.521Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-12T19:33:12.509Z"
+   "em": "2026-06-12T21:20:12.521Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-12T19:33:12.509Z"
+   "em": "2026-06-12T21:20:12.521Z"
   }
  ]
 }
