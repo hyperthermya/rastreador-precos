@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-15T10:22:01.246Z",
+ "geradoEm": "2026-06-15T12:41:43.926Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -8,10 +8,40 @@
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
     {
-     "codigo": "COMPRANOMELI",
+     "codigo": "OFERTA18",
+     "descricao": "18% OFF para compras mínimas de R$99 e desconto máximo de R$25.",
+     "titulo": "Cupom Mercado Livre garante 18% OFF",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "INTERNACIONAL15OFF",
+     "descricao": "15% OFF em compras de produtos internacionais selecionados a partir de R$50, com desconto máximo limitado a R$25.",
+     "titulo": "Ganhe 15% OFF com cupom Mercado Livre",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "QUEROPROMO",
+     "descricao": "Desconto de R$300 em Edge 70 Fusion FIFA Edition.",
+     "titulo": "R$300 OFF em Edge 70 Fusion FIFA Edition com cupom Mercado Livre",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "MELHORESOFERTAS",
+     "descricao": "25% OFF em compras a partir de R$99, limitado a R$80.",
+     "titulo": "Use cupom Mercado Livre e ganhe 25% OFF em compras",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "OFERTA",
      "descricao": "18% OFF em compras a partir de R$79, limitado a R$60.",
-     "titulo": "Mercado Livre garante 18% OFF com cupom",
-     "verificadoHoje": false
+     "titulo": "Ganhe 18% OFF em seus pedidos com cupom Mercado Livre",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "SEMPREMODA",
+     "descricao": "12% OFF em compras a partir de R$49, limitado a R$60.",
+     "titulo": "Código promocional Mercado Livre concede 12% de economia",
+     "verificadoHoje": true
     },
     {
      "codigo": "APROVEITA",
@@ -20,44 +50,14 @@
      "verificadoHoje": false
     },
     {
-     "codigo": "INTERNACIONAL15OFF",
-     "descricao": "15% OFF em compras de produtos internacionais selecionados a partir de R$50, com desconto máximo limitado a R$25.",
-     "titulo": "Ganhe 15% OFF com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "QUEROPROMO",
-     "descricao": "Desconto de R$300 em Edge 70 Fusion FIFA Edition.",
-     "titulo": "R$300 OFF em Edge 70 Fusion FIFA Edition com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "MELIMODA15",
-     "descricao": "15% OFF para compras mínimas de R$99 e desconto máximo de R$20.",
-     "titulo": "Faça compras com código promocional Mercado Livre e garanta 15% OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "ESPORTES10",
-     "descricao": "10% OFF para compras mínimas de R$55, com desconto máximo de R$150.",
-     "titulo": "10% OFF em produtos esportivos com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "OFERTA18",
-     "descricao": "18% OFF para compras mínimas de R$99 e desconto máximo de R$25.",
-     "titulo": "Faça compras com código promocional Mercado Livre e obtenha 18% de economia",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "MODA15",
-     "descricao": "15% OFF para compras mínimas de R$249 e desconto máximo de R$65.",
-     "titulo": "Confira desconto imperdível de 15% com voucher Mercado Livre",
+     "codigo": "COMPRANOMELI",
+     "descricao": "18% OFF em compras a partir de R$79, limitado a R$60.",
+     "titulo": "Mercado Livre garante 18% OFF com cupom",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-15T10:22:01.246Z"
+   "em": "2026-06-15T12:41:43.926Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-15T10:22:01.246Z"
+   "em": "2026-06-15T12:41:43.926Z"
   },
   {
    "loja": "Casas Bahia",
@@ -127,7 +127,7 @@
      "codigo": "BLACKOUT",
      "descricao": "Confira a seleção de produtos no link.",
      "titulo": "Cupom Casas Bahia com até 40% OFF",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "TORCIDA",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-15T10:22:01.246Z"
+   "em": "2026-06-15T12:41:43.926Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-15T10:22:01.246Z"
+   "em": "2026-06-15T12:41:43.926Z"
   },
   {
    "loja": "KaBuM",
@@ -243,53 +243,53 @@
      "codigo": "JBL25OFF",
      "descricao": "Clique no link para conferir a lista selecionada.",
      "titulo": "Obtenha 25% OFF com cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "GOL500",
      "descricao": "R$500 OFF para compras acima de R$5.000.",
      "titulo": "A chance de economizar R$500 em compras com cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "MAGALU3000",
      "descricao": "Aproveite economia em item selecionado.",
      "titulo": "Descontão de R$3.000 utilizando código KaBuM!",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "PLAY7",
-     "descricao": "Aproveite os produtos do link.",
-     "titulo": "7% de desconto em Console Sony PlayStation 5 com cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "TVNACOPA",
      "descricao": "Aproveite a seleção do link.",
      "titulo": "Torça com tudo: 9% OFF na sua TV nova com cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "SEVEN",
      "descricao": "Desconto válido para Monitor Gamer Curvo Agon Quad 32” Aoc Wqhd, 180hz, 0.5ms Com 3.500:1 De Contraste - Cq32g4e/57 - Bivolt.",
      "titulo": "Garanta 7% OFF em Monitor Gamer com voucher KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "MAGALU400",
      "descricao": "Clique no link e confira as ofertas.",
      "titulo": "Aproveite itens com R$400 OFF aplicando cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "MAGALU100",
      "descricao": "Use cupom KaBuM! no carrinho para garantir economia.",
      "titulo": "Smartphone Motorola Moto G56 com R$100 de desconto",
-     "verificadoHoje": false
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "GOL100",
+     "descricao": "Aplique cupom KaBuM! no carrinho e obtenha R$100 OFF em compras acima de R$1.500.",
+     "titulo": "Itens selecionados com R$100 de economia",
+     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-06-15T10:22:01.246Z"
+   "em": "2026-06-15T12:41:43.926Z"
   }
  ]
 }
