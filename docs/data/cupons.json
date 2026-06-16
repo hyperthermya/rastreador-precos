@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-16T10:31:23.065Z",
+ "geradoEm": "2026-06-16T11:33:08.593Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -8,27 +8,21 @@
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
     {
-     "codigo": "TEMCUPOM",
-     "descricao": "15% OFF em compras a partir de R$79, limitado a R$60.",
-     "titulo": "Super promo Mercado Livre com 15% OFF aplicando cupom",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "OFERTA18",
-     "descricao": "18% OFF para compras mínimas de R$99 e desconto máximo de R$25.",
-     "titulo": "Cupom Mercado Livre garante 18% OFF",
-     "verificadoHoje": false
-    },
-    {
      "codigo": "INTERNACIONAL15OFF",
      "descricao": "15% OFF em compras de produtos internacionais selecionados a partir de R$50, com desconto máximo limitado a R$25.",
      "titulo": "Ganhe 15% OFF com cupom Mercado Livre",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "QUEROPROMO",
      "descricao": "Desconto de R$300 em Edge 70 Fusion FIFA Edition.",
-     "titulo": "R$300 OFF em Edge 70 Fusion FIFA Edition com cupom Mercado Livre",
+     "titulo": "Mercado Livre concede R$300 OFF com cupom",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "TEMCUPOM",
+     "descricao": "15% OFF em compras a partir de R$79, limitado a R$60.",
+     "titulo": "Super promo Mercado Livre com 15% OFF aplicando cupom",
      "verificadoHoje": false
     },
     {
@@ -50,14 +44,20 @@
      "verificadoHoje": false
     },
     {
-     "codigo": "APROVEITA",
-     "descricao": "18% OFF em compras a partir de R$79, limitado a R$60.",
-     "titulo": "18% OFF em suas compras com cupom Mercado Livre",
+     "codigo": "OFERTA18",
+     "descricao": "18% OFF para compras mínimas de R$99 e desconto máximo de R$25.",
+     "titulo": "Cupom Mercado Livre garante 18% OFF",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "COLCHAO10",
+     "descricao": "Válido para compras a partir de R$199, desconto máximo de R$150.",
+     "titulo": "10% OFF em colchões aplicando código promocional Mercado Livre",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-16T10:31:23.065Z"
+   "em": "2026-06-16T11:33:08.593Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-16T10:31:23.065Z"
+   "em": "2026-06-16T11:33:08.593Z"
   },
   {
    "loja": "Casas Bahia",
@@ -124,21 +124,27 @@
    "url": "https://www.cuponomia.com.br/desconto/casas-bahia",
    "cupons": [
     {
-     "codigo": "BLACKOUT",
-     "descricao": "Confira a seleção de produtos no link.",
-     "titulo": "Cupom Casas Bahia com até 40% OFF",
-     "verificadoHoje": false
+     "codigo": "TORCIDA",
+     "descricao": "Desconto de até 20% válido para itens do link.",
+     "titulo": "Cupom Casas Bahia com até 20% OFF em compras",
+     "verificadoHoje": true
     },
     {
-     "codigo": "TORCIDA",
-     "descricao": "Desconto de até 10% válido para itens do link.",
-     "titulo": "Aplique cupom Casas Bahia e garanta até 10% OFF em compras",
-     "verificadoHoje": false
+     "codigo": "QUARTO12",
+     "descricao": "12% de desconto em produtos selecionados.",
+     "titulo": "Ganhe 12% OFF com cupom Casas Bahia",
+     "verificadoHoje": true
     },
     {
      "codigo": "OFERTACDC",
      "descricao": "Desconto válido para itens do link. Consulte o regulamento da promoção no site.",
      "titulo": "Compre com cupom Casas Bahia e garanta desconto de até 50%",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "BLACKOUT",
+     "descricao": "Confira a seleção de produtos no link.",
+     "titulo": "Cupom Casas Bahia com até 40% OFF",
      "verificadoHoje": false
     },
     {
@@ -148,15 +154,15 @@
      "verificadoHoje": false
     },
     {
-     "codigo": "6DO6",
-     "descricao": "Aproveite seleção de produtos com até 40% OFF.",
-     "titulo": "Até 40% OFF com cupom Casas Bahia",
-     "verificadoHoje": false
-    },
-    {
      "codigo": "VAIBRASIL",
      "descricao": "Clique no link para conferir as melhores ofertas do site.",
      "titulo": "Até R$1.000 OFF com cupom Casas Bahia",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "6DO6",
+     "descricao": "Aproveite seleção de produtos com até 40% OFF.",
+     "titulo": "Até 40% OFF com cupom Casas Bahia",
      "verificadoHoje": false
     },
     {
@@ -164,16 +170,10 @@
      "descricao": "Desconto de até 30% válido para itens do link.",
      "titulo": "Casas Bahia garante desconto de até 30% com cupom",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "QUARTO15",
-     "descricao": "Confira os itens selecionados no site.",
-     "titulo": "Outlet de móveis Casas Bahia: 15% de desconto com cupom",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-16T10:31:23.065Z"
+   "em": "2026-06-16T11:33:08.593Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-16T10:31:23.065Z"
+   "em": "2026-06-16T11:33:08.593Z"
   },
   {
    "loja": "KaBuM",
@@ -243,30 +243,36 @@
      "codigo": "JBL25OFF",
      "descricao": "Clique no link para conferir a lista selecionada.",
      "titulo": "Obtenha 25% OFF com cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "GOL500",
      "descricao": "R$500 OFF para compras acima de R$5.000.",
      "titulo": "A chance de economizar R$500 em compras com cupom KaBuM!",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "MAGALU3000",
-     "descricao": "Aproveite economia em item selecionado.",
-     "titulo": "Descontão de R$3.000 utilizando código KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "TVNACOPA",
      "descricao": "Aproveite a seleção do link.",
      "titulo": "Torça com tudo: 9% OFF na sua TV nova com cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "SEVEN",
      "descricao": "Desconto válido para Monitor Gamer Curvo Agon Quad 32” Aoc Wqhd, 180hz, 0.5ms Com 3.500:1 De Contraste - Cq32g4e/57 - Bivolt.",
      "titulo": "Garanta 7% OFF em Monitor Gamer com voucher KaBuM!",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "GOL100",
+     "descricao": "Aplique cupom KaBuM! no carrinho e obtenha R$100 OFF em compras acima de R$1.500.",
+     "titulo": "Itens selecionados com R$100 de economia",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "MAGALU3000",
+     "descricao": "Aproveite economia em item selecionado.",
+     "titulo": "Descontão de R$3.000 utilizando código KaBuM!",
      "verificadoHoje": false
     },
     {
@@ -280,16 +286,10 @@
      "descricao": "Use cupom KaBuM! no carrinho para garantir economia.",
      "titulo": "Smartphone Motorola Moto G56 com R$100 de desconto",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "GOL100",
-     "descricao": "Aplique cupom KaBuM! no carrinho e obtenha R$100 OFF em compras acima de R$1.500.",
-     "titulo": "Itens selecionados com R$100 de economia",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-16T10:31:23.065Z"
+   "em": "2026-06-16T11:33:08.593Z"
   }
  ]
 }
