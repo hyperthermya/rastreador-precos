@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-16T21:48:36.420Z",
+ "geradoEm": "2026-06-16T23:22:08.334Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-16T21:48:36.420Z"
+   "em": "2026-06-16T23:22:08.334Z"
   },
   {
    "loja": "Amazon",
@@ -84,38 +84,38 @@
      "verificadoHoje": false
     },
     {
-     "codigo": "ULTIMO6DO6",
-     "descricao": "Ganhe R$150 OFF em compras acima de R$1.499.",
-     "titulo": "Aproveite cupom Amazon com R$150 de desconto",
+     "codigo": "PUMA20",
+     "descricao": "20% de desconto em produtos Puma. Desconto aplicado diretamente no carrinho.",
+     "titulo": "20% OFF em produtos Puma com cupom Amazon",
      "verificadoHoje": false
     },
     {
-     "codigo": "JOGADORES",
-     "descricao": "Válido para pedidos acima de R$200, com desconto máximo limitado a R$200.",
-     "titulo": "Amazon concede 10% OFF em suas compras com cupom",
+     "codigo": "ARQUEIRO15",
+     "descricao": "15% de desconto em Livros da Arqueiro.",
+     "titulo": "Amazon garante 15% OFF em livros com cupom",
      "verificadoHoje": false
     },
     {
-     "codigo": "GOLDEPLACA",
-     "descricao": "Para compras acima de R$300, com desconto máximo limitado a R$100.",
-     "titulo": "10% OFF aplicando cupom Amazon",
+     "codigo": "COPA20",
+     "descricao": "Válido para membros prime.",
+     "titulo": "20% de economia em suas compras com cupom Amazon",
      "verificadoHoje": false
     },
     {
-     "codigo": "CANARINHO",
-     "descricao": "10% OFF para compras a partir de R$200, com desconto máximo limitado a R$50.",
-     "titulo": "Ganhe 10% OFF em seus pedidos com cupom Amazon",
+     "codigo": "TORCEDOR15",
+     "descricao": "15% OFF em produtos selecionados no app.",
+     "titulo": "Itens selecionados com 15% OFF aplicando cupom Amazon",
      "verificadoHoje": false
     },
     {
-     "codigo": "ATACANTE",
-     "descricao": "Válido para produtos elegíveis em compras acima de R$200, com desconto máximo limitado a R$100.",
-     "titulo": "Use cupom Amazon e ganhe 10% OFF em suas compras",
+     "codigo": "LEGO",
+     "descricao": "10% OFF em Lego. Exclusivo para membros prime.",
+     "titulo": "Amazon garante 10% OFF em Lego com cupom",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-16T21:48:36.420Z"
+   "em": "2026-06-16T23:22:08.334Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-16T21:48:36.420Z"
+   "em": "2026-06-16T23:22:08.334Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-16T21:48:36.420Z"
+   "em": "2026-06-16T23:22:08.334Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-16T21:48:36.420Z"
+   "em": "2026-06-16T23:22:08.334Z"
   }
  ]
 }
