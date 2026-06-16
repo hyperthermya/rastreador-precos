@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-16T19:07:25.427Z",
+ "geradoEm": "2026-06-16T21:18:41.177Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -32,6 +32,18 @@
      "verificadoHoje": true
     },
     {
+     "codigo": "SKINCARE15",
+     "descricao": "15% OFF para compras mínimas de R$15 e desconto máximo de R$150.",
+     "titulo": "Especial de beleza com 15% OFF utilizando código Mercado Livre",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "BELEZAS15",
+     "descricao": "15% OFF para compras mínimas de R$15 e desconto máximo de R$150.",
+     "titulo": "Faça compras com cupom Mercado Livre e tenha 15% de desconto",
+     "verificadoHoje": true
+    },
+    {
      "codigo": "TEMCUPOM",
      "descricao": "15% OFF em compras a partir de R$79, limitado a R$60.",
      "titulo": "Super promo Mercado Livre com 15% OFF aplicando cupom",
@@ -42,22 +54,10 @@
      "descricao": "25% OFF em compras a partir de R$99, limitado a R$80.",
      "titulo": "Use cupom Mercado Livre e ganhe 25% OFF em compras",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "OFERTA",
-     "descricao": "18% OFF em compras a partir de R$79, limitado a R$60.",
-     "titulo": "Ganhe 18% OFF em seus pedidos com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "SEMPREMODA",
-     "descricao": "12% OFF em compras a partir de R$49, limitado a R$60.",
-     "titulo": "Código promocional Mercado Livre concede 12% de economia",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-16T19:07:25.427Z"
+   "em": "2026-06-16T21:18:41.177Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-16T19:07:25.427Z"
+   "em": "2026-06-16T21:18:41.177Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-16T19:07:25.427Z"
+   "em": "2026-06-16T21:18:41.177Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-16T19:07:25.427Z"
+   "em": "2026-06-16T21:18:41.177Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-16T19:07:25.427Z"
+   "em": "2026-06-16T21:18:41.177Z"
   }
  ]
 }
