@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-17T05:15:26.006Z",
+ "geradoEm": "2026-06-17T07:27:02.808Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -11,37 +11,37 @@
      "codigo": "SAIUDESCONTO",
      "descricao": "12% OFF em compras a partir de R$149, limitado a R$150.",
      "titulo": "Compre com cupom Mercado Livre e ganhe 12% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "INTERNACIONAL15OFF",
      "descricao": "15% OFF em compras de produtos internacionais selecionados a partir de R$50, com desconto máximo limitado a R$25.",
      "titulo": "Ganhe 15% OFF com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "QUEROPROMO",
      "descricao": "Desconto de R$300 em Edge 70 Fusion FIFA Edition.",
      "titulo": "Mercado Livre concede R$300 OFF com cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "T3RC4C4S4",
      "descricao": "20% OFF para compras mínimas de R$29 e desconto máximo de R$40.",
      "titulo": "Obtenha 20% de desconto com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "SKINCARE15",
      "descricao": "15% OFF para compras mínimas de R$15 e desconto máximo de R$150.",
      "titulo": "Especial de beleza com 15% OFF utilizando código Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "BELEZAS15",
      "descricao": "15% OFF para compras mínimas de R$15 e desconto máximo de R$150.",
      "titulo": "Faça compras com cupom Mercado Livre e tenha 15% de desconto",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "TEMCUPOM",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-17T05:15:26.006Z"
+   "em": "2026-06-17T07:27:02.808Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-17T05:15:26.006Z"
+   "em": "2026-06-17T07:27:02.808Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-17T05:15:26.006Z"
+   "em": "2026-06-17T07:27:02.808Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-17T05:15:26.006Z"
+   "em": "2026-06-17T07:27:02.808Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-17T05:15:26.006Z"
+   "em": "2026-06-17T07:27:02.808Z"
   }
  ]
 }
