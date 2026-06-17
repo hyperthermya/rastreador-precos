@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-17T02:00:30.047Z",
+ "geradoEm": "2026-06-17T05:15:26.006Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-17T02:00:30.047Z"
+   "em": "2026-06-17T05:15:26.006Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-17T02:00:30.047Z"
+   "em": "2026-06-17T05:15:26.006Z"
   },
   {
    "loja": "Casas Bahia",
@@ -127,19 +127,19 @@
      "codigo": "TORCIDA",
      "descricao": "Desconto de até 20% válido para itens do link.",
      "titulo": "Cupom Casas Bahia com até 20% OFF em compras",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "QUARTO12",
      "descricao": "12% de desconto em produtos selecionados.",
      "titulo": "Ganhe 12% OFF com cupom Casas Bahia",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "NOVOAPP",
      "descricao": "Desconto válido para compras no app da loja. Válido apenas para novos clientes. Para produtos vendidos e entregues por Casas Bahia. Promoção não cumulativa com outros descontos.",
      "titulo": "Casas Bahia concede 10% OFF com cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "OFERTACDC",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-17T02:00:30.047Z"
+   "em": "2026-06-17T05:15:26.006Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-17T02:00:30.047Z"
+   "em": "2026-06-17T05:15:26.006Z"
   },
   {
    "loja": "KaBuM",
@@ -243,53 +243,53 @@
      "codigo": "JBL25OFF",
      "descricao": "Clique no link para conferir a lista selecionada.",
      "titulo": "Obtenha 25% OFF com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "GOL500",
      "descricao": "R$500 OFF para compras acima de R$5.000.",
      "titulo": "A chance de economizar R$500 em compras com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "TVNACOPA",
      "descricao": "Aproveite a seleção do link.",
      "titulo": "Torça com tudo: 9% OFF na sua TV nova com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "GABINETE15",
      "descricao": "Válido para seleção de produtos do link.",
      "titulo": "Use código promocional KaBuM! e obtenha 15% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "GOL100",
      "descricao": "Aplique cupom KaBuM! no carrinho e obtenha R$100 OFF em compras acima de R$1.500.",
      "titulo": "Itens selecionados com R$100 de economia",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "RENOVE15",
      "descricao": "Confira os itens selecionados no site e aproveite para economizar.",
      "titulo": "Hora do desconto KaBuM!: 15% OFF com cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "300NOPLAY",
      "descricao": "Use cupom KaBuM! no carrinho para garantir economia.",
      "titulo": "Aproveite desconto de R$300 em Console Sony PlayStation 5",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MAISAURA10",
      "descricao": "Clique no link para conferir a lista selecionada.",
      "titulo": "Os melhores itens do site com 10% de desconto aplicando cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-17T02:00:30.047Z"
+   "em": "2026-06-17T05:15:26.006Z"
   }
  ]
 }
