@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-17T12:04:46.309Z",
+ "geradoEm": "2026-06-17T16:01:44.059Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -7,6 +7,24 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
+    {
+     "codigo": "APROVEITAJA",
+     "descricao": "10% OFF em compras a partir de R$149, limitado a R$150.",
+     "titulo": "Utilize cupom Mercado Livre e ganhe 10% OFF",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "MELHOROFERTA",
+     "descricao": "20% OFF em compras a partir de R$29, limitado a R$100.",
+     "titulo": "20% OFF com cupom Mercado Livre",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "MELIMODA18",
+     "descricao": "18% OFF para compras mínimas de R$300 e desconto máximo de R$60.",
+     "titulo": "Hora do desconto Mercado Livre: 18% OFF com cupom",
+     "verificadoHoje": true
+    },
     {
      "codigo": "INTERNACIONAL15OFF",
      "descricao": "15% OFF em compras de produtos internacionais selecionados a partir de R$50, com desconto máximo limitado a R$25.",
@@ -36,28 +54,10 @@
      "descricao": "Para compras superiores a R$129, com desconto máximo limitado a R$40.",
      "titulo": "Desconto de 10% utilizando cupom Mercado Livre",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "FESTAGOL",
-     "descricao": "Válido para pedidos acima de R$129, com desconto máximo limitado a R$40.",
-     "titulo": "10% OFF em suas compras no Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "SKINCARE15",
-     "descricao": "15% OFF para compras mínimas de R$15 e desconto máximo de R$150.",
-     "titulo": "Especial de beleza com 15% OFF utilizando código Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "BELEZAS15",
-     "descricao": "15% OFF para compras mínimas de R$15 e desconto máximo de R$150.",
-     "titulo": "Faça compras com cupom Mercado Livre e tenha 15% de desconto",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-17T12:04:46.309Z"
+   "em": "2026-06-17T16:01:44.059Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-17T12:04:46.309Z"
+   "em": "2026-06-17T16:01:44.059Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-17T12:04:46.309Z"
+   "em": "2026-06-17T16:01:44.059Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-17T12:04:46.309Z"
+   "em": "2026-06-17T16:01:44.059Z"
   },
   {
    "loja": "KaBuM",
@@ -270,26 +270,26 @@
      "verificadoHoje": true
     },
     {
+     "codigo": "VALE50",
+     "descricao": "Desconto de R$50 em Microsoft 365 Family ESD - Digital para Download - 6GQ-00088.",
+     "titulo": "Aplique cupom KaBuM! e garanta R$50 OFF em pedidos",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "50NOSROBOS",
+     "descricao": "Aplique cupom no carrinho para garantir economia.",
+     "titulo": "Robô Aspirador e Passa Pano KaBuM! com R$50 de desconto",
+     "verificadoHoje": true
+    },
+    {
      "codigo": "RENOVE15",
      "descricao": "Confira os itens selecionados no site e aproveite para economizar.",
      "titulo": "Hora do desconto KaBuM!: 15% OFF com cupom",
      "verificadoHoje": true
-    },
-    {
-     "codigo": "300NOPLAY",
-     "descricao": "Use cupom KaBuM! no carrinho para garantir economia.",
-     "titulo": "Aproveite desconto de R$300 em Console Sony PlayStation 5",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "MAISAURA10",
-     "descricao": "Clique no link para conferir a lista selecionada.",
-     "titulo": "Os melhores itens do site com 10% de desconto aplicando cupom KaBuM!",
-     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-06-17T12:04:46.309Z"
+   "em": "2026-06-17T16:01:44.059Z"
   }
  ]
 }
