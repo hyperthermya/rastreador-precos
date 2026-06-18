@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-18T00:04:36.920Z",
+ "geradoEm": "2026-06-18T05:00:33.131Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -11,31 +11,31 @@
      "codigo": "APROVEITAJA",
      "descricao": "10% OFF em compras a partir de R$149, limitado a R$150.",
      "titulo": "Utilize cupom Mercado Livre e ganhe 10% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MELHOROFERTA",
      "descricao": "20% OFF em compras a partir de R$29, limitado a R$100.",
      "titulo": "20% OFF com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MELIMODA18",
      "descricao": "18% OFF para compras mínimas de R$300 e desconto máximo de R$60.",
      "titulo": "Hora do desconto Mercado Livre: 18% OFF com cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "INTERNACIONAL15OFF",
      "descricao": "15% OFF em compras de produtos internacionais selecionados a partir de R$50, com desconto máximo limitado a R$25.",
      "titulo": "Ganhe 15% OFF com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "QUEROPROMO",
      "descricao": "Desconto de R$300 em Edge 70 Fusion FIFA Edition.",
      "titulo": "Mercado Livre concede R$300 OFF com cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "SAIUDESCONTO",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-18T00:04:36.920Z"
+   "em": "2026-06-18T05:00:33.131Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-18T00:04:36.920Z"
+   "em": "2026-06-18T05:00:33.131Z"
   },
   {
    "loja": "Casas Bahia",
@@ -127,7 +127,7 @@
      "codigo": "TORCIDA",
      "descricao": "Desconto de até 20% válido para itens do link.",
      "titulo": "Cupom Casas Bahia com até 20% OFF em compras",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "NOVOAPP",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-18T00:04:36.920Z"
+   "em": "2026-06-18T05:00:33.131Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-18T00:04:36.920Z"
+   "em": "2026-06-18T05:00:33.131Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-18T00:04:36.920Z"
+   "em": "2026-06-18T05:00:33.131Z"
   }
  ]
 }
