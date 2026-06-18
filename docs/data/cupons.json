@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-18T12:42:06.560Z",
+ "geradoEm": "2026-06-18T16:17:04.351Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -26,38 +26,38 @@
      "verificadoHoje": true
     },
     {
+     "codigo": "MELHORESOFERTAS",
+     "descricao": "25% OFF em compras a partir de R$99, limitado a R$80.",
+     "titulo": "Use cupom Mercado Livre e ganhe 25% OFF em compras",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "SEMPREMODA",
+     "descricao": "12% OFF em compras a partir de R$49, limitado a R$60.",
+     "titulo": "Código promocional Mercado Livre concede 12% de economia",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "OFERTA",
+     "descricao": "18% OFF em compras a partir de R$79, limitado a R$60.",
+     "titulo": "Ganhe 18% OFF em seus pedidos com cupom Mercado Livre",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "MODANOMELIMUSIC",
+     "descricao": "Para compras acima de R$49, com desconto máximo limitado a R$60.",
+     "titulo": "Voucher Mercado Livre concede economia de 15%",
+     "verificadoHoje": true
+    },
+    {
      "codigo": "MELHOROFERTA",
      "descricao": "20% OFF em compras a partir de R$29, limitado a R$100.",
      "titulo": "20% OFF com cupom Mercado Livre",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "MELIMODA18",
-     "descricao": "18% OFF para compras mínimas de R$300 e desconto máximo de R$60.",
-     "titulo": "Hora do desconto Mercado Livre: 18% OFF com cupom",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "APROVEITAJA",
-     "descricao": "10% OFF em compras a partir de R$149, limitado a R$150.",
-     "titulo": "Utilize cupom Mercado Livre e ganhe 10% OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "SAIUDESCONTO",
-     "descricao": "12% OFF em compras a partir de R$149, limitado a R$150.",
-     "titulo": "Compre com cupom Mercado Livre e ganhe 12% OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "T3RC4C4S4",
-     "descricao": "20% OFF para compras mínimas de R$29 e desconto máximo de R$40.",
-     "titulo": "Obtenha 20% de desconto com cupom Mercado Livre",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-18T12:42:06.560Z"
+   "em": "2026-06-18T16:17:04.351Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-18T12:42:06.560Z"
+   "em": "2026-06-18T16:17:04.351Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-18T12:42:06.560Z"
+   "em": "2026-06-18T16:17:04.351Z"
   },
   {
    "loja": "Magalu",
@@ -183,55 +183,55 @@
    "cupons": [
     {
      "codigo": "LU300",
-     "descricao": "Aproveite os itens selecionados no link.",
+     "descricao": "R$300 OFF para itens selecionados vendidos pelo Magalu.",
      "titulo": "Cupom Magalu com R$300 OFF em suas compras",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "LU120",
      "descricao": "R$120 OFF para itens selecionados vendidos pelo Magalu.",
      "titulo": "Magalu garante desconto imperdível de R$120 com cupom",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "LU200",
-     "descricao": "R$200 OFF para itens selecionados vendidos por Magalu",
+     "descricao": "R$200 OFF para itens selecionados vendidos por Magalu.",
      "titulo": "R$200 OFF em pedidos com cupom Magalu",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
-     "codigo": "FRALDA20",
-     "descricao": "20% OFF para itens selecionados vendidos pelo Magalu.",
-     "titulo": "Garanta 20% OFF com cupom Magalu",
-     "verificadoHoje": false
+     "codigo": "LU100",
+     "descricao": "R$100 OFF para itens selecionados vendidos por Magalu.",
+     "titulo": "R$100 de economia com cupom Magalu",
+     "verificadoHoje": true
     },
     {
-     "codigo": "CASACOM300",
-     "descricao": "R$300 OFF para itens para itens selecionados.",
-     "titulo": "Super promo Magalu: R$300 de economia com cupom",
-     "verificadoHoje": false
+     "codigo": "LU50",
+     "descricao": "R$50 OFF para itens selecionados vendidos pelo Magalu.",
+     "titulo": "Seleção especial com R$50 OFF utilizando cupom Magalu",
+     "verificadoHoje": true
     },
     {
-     "codigo": "EPOCA10",
-     "descricao": "Válido para itens selecionados no site.",
-     "titulo": "Aplique código promocional Magalu e tenha 10% de desconto",
-     "verificadoHoje": false
+     "codigo": "TEL100",
+     "descricao": "Válido para produtos selecionados no site.",
+     "titulo": "R$100 OFF em seus pedidos com cupom Magalu",
+     "verificadoHoje": true
     },
     {
-     "codigo": "CASACOM200",
-     "descricao": "Aplicável para itens do link.",
-     "titulo": "Produtos selecionados com R$200 de economia utilizando cupom Magalu",
-     "verificadoHoje": false
+     "codigo": "ANTENA100",
+     "descricao": "Aproveite a lista de itens selecionados.",
+     "titulo": "Desconto de R$100 em suas compras com voucher Magalu",
+     "verificadoHoje": true
     },
     {
-     "codigo": "CUPOMBIKE30",
-     "descricao": "30% OFF em Bike Aro 29 Shimano.",
-     "titulo": "Bike Aro 29 Shimano com 30% OFF utilizando cupom Magalu",
-     "verificadoHoje": false
+     "codigo": "CUPOM25",
+     "descricao": "25% OFF para itens selecionados.",
+     "titulo": "Festival de ofertas: 25% OFF aplicando cupom Magalu",
+     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-06-18T12:42:06.560Z"
+   "em": "2026-06-18T16:17:04.351Z"
   },
   {
    "loja": "KaBuM",
@@ -239,12 +239,6 @@
    "alerta": false,
    "url": "https://www.cuponomia.com.br/desconto/kabum",
    "cupons": [
-    {
-     "codigo": "KORUJAO",
-     "descricao": "Válido para seleção de produtos do link.",
-     "titulo": "Korujão: Produtos com 10% OFF aplicando código KaBuM!",
-     "verificadoHoje": true
-    },
     {
      "codigo": "JBL25OFF",
      "descricao": "Clique no link para conferir a lista selecionada.",
@@ -264,32 +258,38 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "GABINETE15",
-     "descricao": "Válido para seleção de produtos do link.",
-     "titulo": "Use código promocional KaBuM! e obtenha 15% OFF",
-     "verificadoHoje": false
+     "codigo": "PEGAOPLAY",
+     "descricao": "Válido para produtos do link.",
+     "titulo": "Em ritmo de desconto: 7% OFF com cupom KaBuM!",
+     "verificadoHoje": true
     },
     {
-     "codigo": "GOL100",
-     "descricao": "Aplique cupom KaBuM! no carrinho e obtenha R$100 OFF em compras acima de R$1.500.",
-     "titulo": "Itens selecionados com R$100 de economia",
-     "verificadoHoje": false
+     "codigo": "60OFF",
+     "descricao": "Aplique cupom KaBuM! no carrinho para garantir economia.",
+     "titulo": "Aproveite produtos selecionados com R$60 OFF",
+     "verificadoHoje": true
     },
     {
-     "codigo": "VALE50",
-     "descricao": "Desconto de R$50 em Microsoft 365 Family ESD - Digital para Download - 6GQ-00088.",
-     "titulo": "Aplique cupom KaBuM! e garanta R$50 OFF em pedidos",
-     "verificadoHoje": false
+     "codigo": "GOLCERTO",
+     "descricao": "Itens selecionados no site com 9% de desconto.",
+     "titulo": "A chance de economizar 9% em compras com cupom KaBuM!",
+     "verificadoHoje": true
     },
     {
-     "codigo": "50NOSROBOS",
-     "descricao": "Aplique cupom no carrinho para garantir economia.",
-     "titulo": "Robô Aspirador e Passa Pano KaBuM! com R$50 de desconto",
-     "verificadoHoje": false
+     "codigo": "MONITOR10",
+     "descricao": "10% OFF em monitores selecionados.",
+     "titulo": "Confira monitores com 10% de desconto utilizando código KaBuM!",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "MONT15",
+     "descricao": "Use cupom KaBuM! no carrinho para garantir economia.",
+     "titulo": "Fontes selecionadas com 15% de economia",
+     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-06-18T12:42:06.560Z"
+   "em": "2026-06-18T16:17:04.351Z"
   }
  ]
 }
