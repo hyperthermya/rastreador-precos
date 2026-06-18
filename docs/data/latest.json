@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-18T15:51:44.813Z",
+ "geradoEm": "2026-06-18T20:38:01.830Z",
  "produtos": {
   "tablet-lenovo-ideatab": {
    "config": {
@@ -16,7 +16,7 @@
      "titulo": "Tablet Lenovo Idea Tab Octa-Core, 4GB, 128GB Android 15 Wifi 5, Tela 11” 90Hz, Caneta e Capa",
      "preco": 1799,
      "url": "https://www.amazon.com.br/dp/B0FN4BK3V7",
-     "coletadoEm": "2026-06-18T15:51:44.813Z"
+     "coletadoEm": "2026-06-18T20:38:01.830Z"
     },
     {
      "fonte": "mercadolivre",
@@ -66,20 +66,18 @@
     {
      "fonte": "zoom",
      "titulo": "Tablet Lenovo Idea Tab 128GB 11\" Android 15",
-     "preco": 1779,
+     "preco": 1727.9,
      "loja": "Amazon",
      "url": "https://www.zoom.com.br/tablet-ipad/tablet-lenovo-128gb-idea-tab-11-8-mp",
-     "coletadoEm": "2026-06-18T10:46:37.569Z",
-     "desatualizado": false
+     "coletadoEm": "2026-06-18T20:38:01.830Z"
     },
     {
      "fonte": "zoom",
      "titulo": "Tablet Lenovo Idea Tab Octa Core 8GB RAMB 128GB Com Capa Teclado e Caneta - ZAFR0857BR Luna Grey",
-     "preco": 2099,
+     "preco": 2049,
      "loja": "Amazon",
      "url": "https://www.zoom.com.br/lead?oid=1529153171",
-     "coletadoEm": "2026-06-18T10:46:37.569Z",
-     "desatualizado": false
+     "coletadoEm": "2026-06-18T20:38:01.830Z"
     },
     {
      "fonte": "zoom",
@@ -87,8 +85,7 @@
      "preco": 2172.56,
      "loja": "Extra",
      "url": "https://www.zoom.com.br/lead?oid=1561712638",
-     "coletadoEm": "2026-06-18T10:46:37.569Z",
-     "desatualizado": false
+     "coletadoEm": "2026-06-18T20:38:01.830Z"
     },
     {
      "fonte": "zoom",
@@ -96,55 +93,51 @@
      "preco": 2172.56,
      "loja": "Ponto",
      "url": "https://www.zoom.com.br/lead?oid=1561712381",
-     "coletadoEm": "2026-06-18T10:46:37.569Z",
-     "desatualizado": false
+     "coletadoEm": "2026-06-18T20:38:01.830Z"
     }
    ],
    "promocoes": [],
    "fontes": {
     "amazon": {
      "ok": true,
-     "em": "2026-06-18T15:51:44.813Z",
-     "ultimoOkEm": "2026-06-18T15:51:44.813Z"
+     "em": "2026-06-18T20:38:01.830Z",
+     "ultimoOkEm": "2026-06-18T20:38:01.830Z"
     },
     "mercadolivre": {
      "ok": false,
      "erro": "bloqueado (verificação anti-robô)",
-     "em": "2026-06-18T15:51:44.813Z",
+     "em": "2026-06-18T20:38:01.830Z",
      "ultimoOkEm": "2026-06-11T22:59:47.353Z"
     },
     "zoom": {
      "ok": true,
-     "erro": "HTTP 403",
-     "em": "2026-06-18T15:51:44.813Z",
-     "ultimoOkEm": "2026-06-18T10:46:37.569Z"
+     "em": "2026-06-18T20:38:01.830Z",
+     "ultimoOkEm": "2026-06-18T20:38:01.830Z"
     },
     "buscape": {
      "ok": true,
-     "erro": "HTTP 403",
-     "em": "2026-06-18T15:51:44.813Z",
-     "ultimoOkEm": "2026-06-18T10:46:37.569Z"
+     "em": "2026-06-18T20:38:01.830Z",
+     "ultimoOkEm": "2026-06-18T20:38:01.830Z"
     },
     "pelando": {
      "ok": false,
      "erro": "https://www.pelando.com.br/recentes: HTTP 403; https://www.pelando.com.br/mais-quentes: HTTP 403",
-     "em": "2026-06-18T15:51:44.813Z",
+     "em": "2026-06-18T20:38:01.830Z",
      "ultimoOkEm": "2026-06-11T22:59:47.353Z"
     },
     "promobit": {
      "ok": true,
-     "em": "2026-06-18T15:51:44.813Z",
-     "ultimoOkEm": "2026-06-18T15:51:44.813Z"
+     "em": "2026-06-18T20:38:01.830Z",
+     "ultimoOkEm": "2026-06-18T20:38:01.830Z"
     }
    },
    "melhorOferta": {
     "fonte": "zoom",
     "titulo": "Tablet Lenovo Idea Tab 128GB 11\" Android 15",
-    "preco": 1779,
+    "preco": 1727.9,
     "loja": "Amazon",
     "url": "https://www.zoom.com.br/tablet-ipad/tablet-lenovo-128gb-idea-tab-11-8-mp",
-    "coletadoEm": "2026-06-18T10:46:37.569Z",
-    "desatualizado": false
+    "coletadoEm": "2026-06-18T20:38:01.830Z"
    }
   }
  }
