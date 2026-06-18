@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-18T10:46:37.569Z",
+ "geradoEm": "2026-06-18T12:42:06.560Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -7,6 +7,12 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
+    {
+     "codigo": "HOJEPODE",
+     "descricao": "10% OFF em compras a partir de R$149, limitado a R$150.",
+     "titulo": "10% OFF em suas compras com cupom Mercado Livre",
+     "verificadoHoje": true
+    },
     {
      "codigo": "INTERNACIONAL15OFF",
      "descricao": "15% OFF em compras de produtos internacionais selecionados a partir de R$50, com desconto máximo limitado a R$25.",
@@ -48,16 +54,10 @@
      "descricao": "20% OFF para compras mínimas de R$29 e desconto máximo de R$40.",
      "titulo": "Obtenha 20% de desconto com cupom Mercado Livre",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "JOGOCERTO",
-     "descricao": "Para compras superiores a R$129, com desconto máximo limitado a R$40.",
-     "titulo": "Desconto de 10% utilizando cupom Mercado Livre",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-18T10:46:37.569Z"
+   "em": "2026-06-18T12:42:06.560Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-18T10:46:37.569Z"
+   "em": "2026-06-18T12:42:06.560Z"
   },
   {
    "loja": "Casas Bahia",
@@ -127,7 +127,31 @@
      "codigo": "TORCIDA",
      "descricao": "Desconto de até 20% válido para itens do link.",
      "titulo": "Cupom Casas Bahia com até 20% OFF em compras",
-     "verificadoHoje": false
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "CASANOVA",
+     "descricao": "Aplique cupom no carrinho para garantir desconto em itens da seleção.",
+     "titulo": "Faça compras com cupom Casas Bahia e ganhe 12% OFF",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "MOVEIS5",
+     "descricao": "5% de desconto em móveis de sala de estar, estofados, e escritório.",
+     "titulo": "Aplique cupom Casas Bahia e obtenha 5% de desconto",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "MOVEIS10",
+     "descricao": "Aproveite desconto de 10% em móveis de cozinha, sala de jantar, e infantil.",
+     "titulo": "10% OFF em seus pedidos com cupom Casas Bahia",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "MOVEIS12",
+     "descricao": "Desconto válido para quarto e colchões da seleção.",
+     "titulo": "Economize 12% aplicando código Casas Bahia",
+     "verificadoHoje": true
     },
     {
      "codigo": "NOVOAPP",
@@ -146,34 +170,10 @@
      "descricao": "Desconto válido para itens do link. Consulte o regulamento da promoção no site.",
      "titulo": "Compre com cupom Casas Bahia e garanta desconto de até 50%",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "BLACKOUT",
-     "descricao": "Confira a seleção de produtos no link.",
-     "titulo": "Cupom Casas Bahia com até 40% OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "EXCLUSIVO",
-     "descricao": "Desconto válido para os itens do link.",
-     "titulo": "Aproveite até 10% OFF em suas compras utilizando cupom Casas Bahia",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "VAIBRASIL",
-     "descricao": "Clique no link para conferir as melhores ofertas do site.",
-     "titulo": "Até R$1.000 OFF com cupom Casas Bahia",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "6DO6",
-     "descricao": "Aproveite seleção de produtos com até 40% OFF.",
-     "titulo": "Até 40% OFF com cupom Casas Bahia",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-18T10:46:37.569Z"
+   "em": "2026-06-18T12:42:06.560Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-18T10:46:37.569Z"
+   "em": "2026-06-18T12:42:06.560Z"
   },
   {
    "loja": "KaBuM",
@@ -243,25 +243,25 @@
      "codigo": "KORUJAO",
      "descricao": "Válido para seleção de produtos do link.",
      "titulo": "Korujão: Produtos com 10% OFF aplicando código KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "JBL25OFF",
      "descricao": "Clique no link para conferir a lista selecionada.",
      "titulo": "Obtenha 25% OFF com cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "GOL500",
      "descricao": "R$500 OFF para compras acima de R$5.000.",
      "titulo": "A chance de economizar R$500 em compras com cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "TVNACOPA",
      "descricao": "Aproveite a seleção do link.",
      "titulo": "Torça com tudo: 9% OFF na sua TV nova com cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "GABINETE15",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-18T10:46:37.569Z"
+   "em": "2026-06-18T12:42:06.560Z"
   }
  ]
 }
