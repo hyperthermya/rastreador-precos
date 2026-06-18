@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-18T05:01:02.225Z",
+ "geradoEm": "2026-06-18T09:44:54.625Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-18T05:01:02.225Z"
+   "em": "2026-06-18T09:44:54.625Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-18T05:01:02.225Z"
+   "em": "2026-06-18T09:44:54.625Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-18T05:01:02.225Z"
+   "em": "2026-06-18T09:44:54.625Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-18T05:01:02.225Z"
+   "em": "2026-06-18T09:44:54.625Z"
   },
   {
    "loja": "KaBuM",
@@ -240,56 +240,56 @@
    "url": "https://www.cuponomia.com.br/desconto/kabum",
    "cupons": [
     {
+     "codigo": "KORUJAO",
+     "descricao": "Válido para seleção de produtos do link.",
+     "titulo": "Korujão: Produtos com 10% OFF aplicando código KaBuM!",
+     "verificadoHoje": false
+    },
+    {
      "codigo": "JBL25OFF",
      "descricao": "Clique no link para conferir a lista selecionada.",
      "titulo": "Obtenha 25% OFF com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "GOL500",
      "descricao": "R$500 OFF para compras acima de R$5.000.",
      "titulo": "A chance de economizar R$500 em compras com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "TVNACOPA",
      "descricao": "Aproveite a seleção do link.",
      "titulo": "Torça com tudo: 9% OFF na sua TV nova com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "GABINETE15",
      "descricao": "Válido para seleção de produtos do link.",
      "titulo": "Use código promocional KaBuM! e obtenha 15% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "GOL100",
      "descricao": "Aplique cupom KaBuM! no carrinho e obtenha R$100 OFF em compras acima de R$1.500.",
      "titulo": "Itens selecionados com R$100 de economia",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "VALE50",
      "descricao": "Desconto de R$50 em Microsoft 365 Family ESD - Digital para Download - 6GQ-00088.",
      "titulo": "Aplique cupom KaBuM! e garanta R$50 OFF em pedidos",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "50NOSROBOS",
      "descricao": "Aplique cupom no carrinho para garantir economia.",
      "titulo": "Robô Aspirador e Passa Pano KaBuM! com R$50 de desconto",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "RENOVE15",
-     "descricao": "Confira os itens selecionados no site e aproveite para economizar.",
-     "titulo": "Hora do desconto KaBuM!: 15% OFF com cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-18T05:01:02.225Z"
+   "em": "2026-06-18T09:44:54.625Z"
   }
  ]
 }
