@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-19T05:23:17.784Z",
+ "geradoEm": "2026-06-19T07:26:55.619Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -11,53 +11,53 @@
      "codigo": "HOJEPODE",
      "descricao": "10% OFF em compras a partir de R$149, limitado a R$150.",
      "titulo": "10% OFF em suas compras com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "INTERNACIONAL15OFF",
      "descricao": "15% OFF em compras de produtos internacionais selecionados a partir de R$50, com desconto máximo limitado a R$25.",
      "titulo": "Ganhe 15% OFF com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "QUEROPROMO",
      "descricao": "Desconto de R$300 em Edge 70 Fusion FIFA Edition.",
      "titulo": "Mercado Livre concede R$300 OFF com cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "BELEZA20",
      "descricao": "Aplique cupom no carrinho para garantir economia em itens selecionados.",
      "titulo": "Compre com cupom Mercado Livre e ganhe 20% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MELHORESOFERTAS",
      "descricao": "25% OFF em compras a partir de R$99, limitado a R$80.",
      "titulo": "Use cupom Mercado Livre e ganhe 25% OFF em compras",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "SEMPREMODA",
      "descricao": "12% OFF em compras a partir de R$49, limitado a R$60.",
      "titulo": "Código promocional Mercado Livre concede 12% de economia",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "OFERTA",
      "descricao": "18% OFF em compras a partir de R$79, limitado a R$60.",
      "titulo": "Ganhe 18% OFF em seus pedidos com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
-     "codigo": "MODANOMELI",
-     "descricao": "Para compras acima de R$49, com desconto máximo limitado a R$60.",
-     "titulo": "Voucher Mercado Livre concede economia de 18%",
-     "verificadoHoje": true
+     "codigo": "MELHOROFERTA",
+     "descricao": "20% OFF em compras a partir de R$29, limitado a R$100.",
+     "titulo": "20% OFF com cupom Mercado Livre",
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-19T05:23:17.784Z"
+   "em": "2026-06-19T07:26:55.619Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-19T05:23:17.784Z"
+   "em": "2026-06-19T07:26:55.619Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-19T05:23:17.784Z"
+   "em": "2026-06-19T07:26:55.619Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-19T05:23:17.784Z"
+   "em": "2026-06-19T07:26:55.619Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-19T05:23:17.784Z"
+   "em": "2026-06-19T07:26:55.619Z"
   }
  ]
 }
