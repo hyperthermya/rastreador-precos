@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-19T14:57:57.791Z",
+ "geradoEm": "2026-06-19T15:41:03.942Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-19T14:57:57.791Z"
+   "em": "2026-06-19T15:41:03.942Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-19T14:57:57.791Z"
+   "em": "2026-06-19T15:41:03.942Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-19T14:57:57.791Z"
+   "em": "2026-06-19T15:41:03.942Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-19T14:57:57.791Z"
+   "em": "2026-06-19T15:41:03.942Z"
   },
   {
    "loja": "KaBuM",
@@ -264,32 +264,32 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "60OFF",
+     "codigo": "10porcento",
+     "descricao": "Desconto de 10% em itens selecionados no site.",
+     "titulo": "Compre com cupom KaBuM! e tenha 10% OFF",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "EPSON100",
      "descricao": "Aplique cupom KaBuM! no carrinho para garantir economia.",
-     "titulo": "Aproveite produtos selecionados com R$60 OFF",
-     "verificadoHoje": false
+     "titulo": "Economize R$100 em Impressora Epson",
+     "verificadoHoje": true
     },
     {
-     "codigo": "GOLCERTO",
-     "descricao": "Itens selecionados no site com 9% de desconto.",
-     "titulo": "A chance de economizar 9% em compras com cupom KaBuM!",
-     "verificadoHoje": false
+     "codigo": "VEMGTA",
+     "descricao": "Desconto válido para itens selecionados.",
+     "titulo": "Garanta economia de 7% com cupom KaBuM!",
+     "verificadoHoje": true
     },
     {
-     "codigo": "MONITOR10",
-     "descricao": "10% OFF em monitores selecionados.",
-     "titulo": "Confira monitores com 10% de desconto utilizando código KaBuM!",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "MONT15",
-     "descricao": "Use cupom KaBuM! no carrinho para garantir economia.",
-     "titulo": "Fontes selecionadas com 15% de economia",
-     "verificadoHoje": false
+     "codigo": "Magalu600",
+     "descricao": "Aplicável para itens do link.",
+     "titulo": "Confira seleção de Smartphones com R$600 de desconto com voucher KaBuM!",
+     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-06-19T14:57:57.791Z"
+   "em": "2026-06-19T15:41:03.942Z"
   }
  ]
 }
