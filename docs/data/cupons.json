@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-19T11:48:48.346Z",
+ "geradoEm": "2026-06-19T14:57:57.791Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -7,6 +7,12 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
+    {
+     "codigo": "PROMOML",
+     "descricao": "10% OFF em compras a partir de R$149, limitado a R$150.",
+     "titulo": "Aproveite para economizar 10% com cupom Mercado Livre",
+     "verificadoHoje": true
+    },
     {
      "codigo": "INTERNACIONAL15OFF",
      "descricao": "15% OFF em compras de produtos internacionais selecionados a partir de R$50, com desconto máximo limitado a R$25.",
@@ -17,6 +23,12 @@
      "codigo": "QUEROPROMO",
      "descricao": "Desconto de R$300 em Edge 70 Fusion FIFA Edition.",
      "titulo": "Mercado Livre concede R$300 OFF com cupom",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "MELHOROFERTA",
+     "descricao": "20% OFF em compras a partir de R$29, limitado a R$100.",
+     "titulo": "20% OFF com cupom Mercado Livre",
      "verificadoHoje": true
     },
     {
@@ -42,22 +54,10 @@
      "descricao": "12% OFF em compras a partir de R$49, limitado a R$60.",
      "titulo": "Código promocional Mercado Livre concede 12% de economia",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "OFERTA",
-     "descricao": "18% OFF em compras a partir de R$79, limitado a R$60.",
-     "titulo": "Ganhe 18% OFF em seus pedidos com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "MELHOROFERTA",
-     "descricao": "20% OFF em compras a partir de R$29, limitado a R$100.",
-     "titulo": "20% OFF com cupom Mercado Livre",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-19T11:48:48.346Z"
+   "em": "2026-06-19T14:57:57.791Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-19T11:48:48.346Z"
+   "em": "2026-06-19T14:57:57.791Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-19T11:48:48.346Z"
+   "em": "2026-06-19T14:57:57.791Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-19T11:48:48.346Z"
+   "em": "2026-06-19T14:57:57.791Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-19T11:48:48.346Z"
+   "em": "2026-06-19T14:57:57.791Z"
   }
  ]
 }
