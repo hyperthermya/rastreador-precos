@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-19T20:02:32.269Z",
+ "geradoEm": "2026-06-19T20:47:41.618Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -38,26 +38,26 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "HOJEPODE",
-     "descricao": "10% OFF em compras a partir de R$149, limitado a R$150.",
-     "titulo": "10% OFF em suas compras com cupom Mercado Livre",
+     "codigo": "GUARDA10",
+     "descricao": "Aplique cupom Mercado Livre no carrinho e garanta economia em compras a partir de R$199, com desconto máximo de R$150.",
+     "titulo": "As melhores ofertas de móveis com 10% OFF",
      "verificadoHoje": false
     },
     {
-     "codigo": "MELHORESOFERTAS",
-     "descricao": "25% OFF em compras a partir de R$99, limitado a R$80.",
-     "titulo": "Use cupom Mercado Livre e ganhe 25% OFF em compras",
+     "codigo": "SOFA10",
+     "descricao": "Válido para compras a partir de R$199, com desconto máximo de R$150.",
+     "titulo": "Confira sofás selecionados com 10% de desconto utilizando cupom Mercado Livre",
      "verificadoHoje": false
     },
     {
-     "codigo": "SEMPREMODA",
-     "descricao": "12% OFF em compras a partir de R$49, limitado a R$60.",
-     "titulo": "Código promocional Mercado Livre concede 12% de economia",
+     "codigo": "COLCHAO10",
+     "descricao": "Válido para compras a partir de R$199, desconto máximo de R$150.",
+     "titulo": "10% OFF em colchões aplicando código promocional Mercado Livre",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-19T20:02:32.269Z"
+   "em": "2026-06-19T20:47:41.618Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-19T20:02:32.269Z"
+   "em": "2026-06-19T20:47:41.618Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-19T20:02:32.269Z"
+   "em": "2026-06-19T20:47:41.618Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-19T20:02:32.269Z"
+   "em": "2026-06-19T20:47:41.618Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-19T20:02:32.269Z"
+   "em": "2026-06-19T20:47:41.618Z"
   }
  ]
 }
