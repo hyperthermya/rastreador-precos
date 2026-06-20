@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-20T01:30:27.954Z",
+ "geradoEm": "2026-06-20T04:39:39.765Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-20T01:30:27.954Z"
+   "em": "2026-06-20T04:39:39.765Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-20T01:30:27.954Z"
+   "em": "2026-06-20T04:39:39.765Z"
   },
   {
    "loja": "Casas Bahia",
@@ -127,25 +127,25 @@
      "codigo": "TORCIDA",
      "descricao": "Desconto de até 20% válido para itens do link.",
      "titulo": "Cupom Casas Bahia com até 20% OFF em compras",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "CASANOVA",
      "descricao": "Aplique cupom no carrinho para garantir desconto em itens da seleção.",
      "titulo": "Faça compras com cupom Casas Bahia e ganhe 12% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MOVEIS5",
      "descricao": "5% de desconto em móveis de sala de estar, estofados, e escritório.",
      "titulo": "Aplique cupom Casas Bahia e obtenha 5% de desconto",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MOVEIS10",
      "descricao": "Aproveite desconto de 10% em móveis de cozinha, sala de jantar, e infantil.",
      "titulo": "10% OFF em seus pedidos com cupom Casas Bahia",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MOVEIS12",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-20T01:30:27.954Z"
+   "em": "2026-06-20T04:39:39.765Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-20T01:30:27.954Z"
+   "em": "2026-06-20T04:39:39.765Z"
   },
   {
    "loja": "KaBuM",
@@ -243,53 +243,53 @@
      "codigo": "JBL25OFF",
      "descricao": "Clique no link para conferir a lista selecionada.",
      "titulo": "Obtenha 25% OFF com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "GOL500",
      "descricao": "R$500 OFF para compras acima de R$5.000.",
      "titulo": "A chance de economizar R$500 em compras com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "TVNACOPA",
      "descricao": "Aproveite a seleção do link.",
      "titulo": "Torça com tudo: 9% OFF na sua TV nova com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "PEGAOPLAY",
      "descricao": "Válido para produtos do link.",
      "titulo": "Em ritmo de desconto: 7% OFF com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "10porcento",
      "descricao": "Desconto de 10% em itens selecionados no site.",
      "titulo": "Compre com cupom KaBuM! e tenha 10% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "EPSON100",
      "descricao": "Aplique cupom KaBuM! no carrinho para garantir economia.",
      "titulo": "Economize R$100 em Impressora Epson",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "VEMGTA",
      "descricao": "Desconto válido para itens selecionados.",
      "titulo": "Garanta economia de 7% com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "Magalu600",
      "descricao": "Aplicável para itens do link.",
      "titulo": "Confira seleção de Smartphones com R$600 de desconto com voucher KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-20T01:30:27.954Z"
+   "em": "2026-06-20T04:39:39.765Z"
   }
  ]
 }
