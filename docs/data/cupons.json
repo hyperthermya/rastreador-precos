@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-20T04:39:39.765Z",
+ "geradoEm": "2026-06-20T06:02:49.723Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -11,31 +11,31 @@
      "codigo": "PROMOML",
      "descricao": "10% OFF em compras a partir de R$149, limitado a R$150.",
      "titulo": "Aproveite para economizar 10% com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "INTERNACIONAL15OFF",
      "descricao": "15% OFF em compras de produtos internacionais selecionados a partir de R$50, com desconto máximo limitado a R$25.",
      "titulo": "Ganhe 15% OFF com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "QUEROPROMO",
      "descricao": "Desconto de R$300 em Edge 70 Fusion FIFA Edition.",
      "titulo": "Mercado Livre concede R$300 OFF com cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MELHOROFERTA",
      "descricao": "20% OFF em compras a partir de R$29, limitado a R$100.",
      "titulo": "20% OFF com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "BELEZA20",
      "descricao": "Aplique cupom no carrinho para garantir economia em itens selecionados.",
      "titulo": "Compre com cupom Mercado Livre e ganhe 20% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "GUARDA10",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-20T04:39:39.765Z"
+   "em": "2026-06-20T06:02:49.723Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-20T04:39:39.765Z"
+   "em": "2026-06-20T06:02:49.723Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-20T04:39:39.765Z"
+   "em": "2026-06-20T06:02:49.723Z"
   },
   {
    "loja": "Magalu",
@@ -185,25 +185,25 @@
      "codigo": "LU300",
      "descricao": "R$300 OFF para itens selecionados vendidos pelo Magalu.",
      "titulo": "Cupom Magalu com R$300 OFF em suas compras",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "LU120",
      "descricao": "R$120 OFF para itens selecionados vendidos pelo Magalu.",
      "titulo": "Magalu garante desconto imperdível de R$120 com cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "LU200",
      "descricao": "R$200 OFF para itens selecionados vendidos por Magalu.",
      "titulo": "R$200 OFF em pedidos com cupom Magalu",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "LU100",
      "descricao": "R$100 OFF para itens selecionados vendidos por Magalu.",
      "titulo": "R$100 de economia com cupom Magalu",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "LU50",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-20T04:39:39.765Z"
+   "em": "2026-06-20T06:02:49.723Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-20T04:39:39.765Z"
+   "em": "2026-06-20T06:02:49.723Z"
   }
  ]
 }
