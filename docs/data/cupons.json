@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-20T13:12:20.854Z",
+ "geradoEm": "2026-06-20T14:28:53.870Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -26,38 +26,38 @@
      "verificadoHoje": false
     },
     {
+     "codigo": "MLCUPOM",
+     "descricao": "Para compras acima de R$149, com desconto máximo limitado a R$150.",
+     "titulo": "10% a menos usando cupom Mercado Livre",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "MELHORNOMELI",
+     "descricao": "R$30 OFF para compras mínimas de R$179.",
+     "titulo": "Use cupom Mercado Livre e ganhe R$30 OFF em compras",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "CASAEDECOR",
+     "descricao": "Para compras acima de R$79, com desconto máximo limitado a R$60.",
+     "titulo": "Itens selecionados com 18% de economia utilizando cupom Mercado Livre",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "TENDENCIA",
+     "descricao": "Aplicável para compras superiores a R$49, com desconto máximo limitado a R$50.",
+     "titulo": "Desconto imperdível de 20% com código promocional Mercado Livre",
+     "verificadoHoje": false
+    },
+    {
      "codigo": "MELHOROFERTA",
      "descricao": "20% OFF em compras a partir de R$29, limitado a R$100.",
      "titulo": "20% OFF com cupom Mercado Livre",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "BELEZA20",
-     "descricao": "Aplique cupom no carrinho para garantir economia em itens selecionados.",
-     "titulo": "Compre com cupom Mercado Livre e ganhe 20% OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "GUARDA10",
-     "descricao": "Aplique cupom Mercado Livre no carrinho e garanta economia em compras a partir de R$199, com desconto máximo de R$150.",
-     "titulo": "As melhores ofertas de móveis com 10% OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "SOFA10",
-     "descricao": "Válido para compras a partir de R$199, com desconto máximo de R$150.",
-     "titulo": "Confira sofás selecionados com 10% de desconto utilizando cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "COLCHAO10",
-     "descricao": "Válido para compras a partir de R$199, desconto máximo de R$150.",
-     "titulo": "10% OFF em colchões aplicando código promocional Mercado Livre",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-20T13:12:20.854Z"
+   "em": "2026-06-20T14:28:53.870Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-20T13:12:20.854Z"
+   "em": "2026-06-20T14:28:53.870Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-20T13:12:20.854Z"
+   "em": "2026-06-20T14:28:53.870Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-20T13:12:20.854Z"
+   "em": "2026-06-20T14:28:53.870Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-20T13:12:20.854Z"
+   "em": "2026-06-20T14:28:53.870Z"
   }
  ]
 }
