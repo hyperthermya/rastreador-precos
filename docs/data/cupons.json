@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-21T13:25:20.431Z",
+ "geradoEm": "2026-06-21T14:31:52.110Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -11,6 +11,12 @@
      "codigo": "PROMOML",
      "descricao": "10% OFF em compras a partir de R$149, limitado a R$150.",
      "titulo": "Aproveite para economizar 10% com cupom Mercado Livre",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "MELICUPONS",
+     "descricao": "Para pedidos acima de R$149, com desconto máximo limitado a R$150.",
+     "titulo": "Código Mercado Livre garante 10% de desconto",
      "verificadoHoje": false
     },
     {
@@ -48,16 +54,10 @@
      "descricao": "Aplicável para compras superiores a R$49, com desconto máximo limitado a R$50.",
      "titulo": "Desconto imperdível de 20% com código promocional Mercado Livre",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "MELHOROFERTA",
-     "descricao": "20% OFF em compras a partir de R$29, limitado a R$100.",
-     "titulo": "20% OFF com cupom Mercado Livre",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-21T13:25:20.431Z"
+   "em": "2026-06-21T14:31:52.110Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-21T13:25:20.431Z"
+   "em": "2026-06-21T14:31:52.110Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-21T13:25:20.431Z"
+   "em": "2026-06-21T14:31:52.110Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-21T13:25:20.431Z"
+   "em": "2026-06-21T14:31:52.110Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-21T13:25:20.431Z"
+   "em": "2026-06-21T14:31:52.110Z"
   }
  ]
 }
