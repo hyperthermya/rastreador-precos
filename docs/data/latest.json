@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-22T18:53:10.424Z",
+ "geradoEm": "2026-06-22T22:54:27.059Z",
  "produtos": {
   "tablet-lenovo-ideatab": {
    "config": {
@@ -16,7 +16,7 @@
      "titulo": "Tablet Lenovo Idea Tab Octa-Core, 4GB, 128GB Android 15 Wifi 5, Tela 11” 90Hz, Caneta e Capa",
      "preco": 1799,
      "url": "https://www.amazon.com.br/dp/B0FN4BK3V7",
-     "coletadoEm": "2026-06-22T18:53:10.424Z"
+     "coletadoEm": "2026-06-22T22:54:27.059Z"
     },
     {
      "fonte": "mercadolivre",
@@ -69,7 +69,7 @@
      "preco": 1699,
      "loja": "Fast Shop",
      "url": "https://www.zoom.com.br/tablet-ipad/tablet-lenovo-128gb-idea-tab-11-8-mp",
-     "coletadoEm": "2026-06-22T18:53:10.424Z"
+     "coletadoEm": "2026-06-22T22:54:27.059Z"
     },
     {
      "fonte": "zoom",
@@ -77,7 +77,7 @@
      "preco": 1799.95,
      "loja": "Webcontinental",
      "url": "https://www.zoom.com.br/lead?oid=1572331583",
-     "coletadoEm": "2026-06-22T18:53:10.424Z"
+     "coletadoEm": "2026-06-22T22:54:27.059Z"
     },
     {
      "fonte": "zoom",
@@ -85,7 +85,7 @@
      "preco": 2049,
      "loja": "Amazon",
      "url": "https://www.zoom.com.br/lead?oid=1529153171",
-     "coletadoEm": "2026-06-22T18:53:10.424Z"
+     "coletadoEm": "2026-06-22T22:54:27.059Z"
     },
     {
      "fonte": "zoom",
@@ -93,42 +93,42 @@
      "preco": 2172.56,
      "loja": "Extra",
      "url": "https://www.zoom.com.br/lead?oid=1561712638",
-     "coletadoEm": "2026-06-22T18:53:10.424Z"
+     "coletadoEm": "2026-06-22T22:54:27.059Z"
     }
    ],
    "promocoes": [],
    "fontes": {
     "amazon": {
      "ok": true,
-     "em": "2026-06-22T18:53:10.424Z",
-     "ultimoOkEm": "2026-06-22T18:53:10.424Z"
+     "em": "2026-06-22T22:54:27.059Z",
+     "ultimoOkEm": "2026-06-22T22:54:27.059Z"
     },
     "mercadolivre": {
      "ok": false,
      "erro": "bloqueado (verificação anti-robô)",
-     "em": "2026-06-22T18:53:10.424Z",
+     "em": "2026-06-22T22:54:27.059Z",
      "ultimoOkEm": "2026-06-11T22:59:47.353Z"
     },
     "zoom": {
      "ok": true,
-     "em": "2026-06-22T18:53:10.424Z",
-     "ultimoOkEm": "2026-06-22T18:53:10.424Z"
+     "em": "2026-06-22T22:54:27.059Z",
+     "ultimoOkEm": "2026-06-22T22:54:27.059Z"
     },
     "buscape": {
      "ok": true,
-     "em": "2026-06-22T18:53:10.424Z",
-     "ultimoOkEm": "2026-06-22T18:53:10.424Z"
+     "em": "2026-06-22T22:54:27.059Z",
+     "ultimoOkEm": "2026-06-22T22:54:27.059Z"
     },
     "pelando": {
      "ok": false,
      "erro": "https://www.pelando.com.br/recentes: HTTP 403; https://www.pelando.com.br/mais-quentes: HTTP 403",
-     "em": "2026-06-22T18:53:10.424Z",
+     "em": "2026-06-22T22:54:27.059Z",
      "ultimoOkEm": "2026-06-11T22:59:47.353Z"
     },
     "promobit": {
      "ok": true,
-     "em": "2026-06-22T18:53:10.424Z",
-     "ultimoOkEm": "2026-06-22T18:53:10.424Z"
+     "em": "2026-06-22T22:54:27.059Z",
+     "ultimoOkEm": "2026-06-22T22:54:27.059Z"
     }
    },
    "melhorOferta": {
@@ -137,7 +137,7 @@
     "preco": 1699,
     "loja": "Fast Shop",
     "url": "https://www.zoom.com.br/tablet-ipad/tablet-lenovo-128gb-idea-tab-11-8-mp",
-    "coletadoEm": "2026-06-22T18:53:10.424Z"
+    "coletadoEm": "2026-06-22T22:54:27.059Z"
    }
   }
  }
