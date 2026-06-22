@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-22T13:05:36.508Z",
+ "geradoEm": "2026-06-22T17:49:04.302Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -26,6 +26,18 @@
      "verificadoHoje": true
     },
     {
+     "codigo": "AFILIADOSCAZETV",
+     "descricao": "Utilize cupom Mercado Livre no carrinho para garantir economia em produtos selecionados.",
+     "titulo": "Itens CazéTV com 10% de desconto",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "15MELIMAIS",
+     "descricao": "Desconto válido para produtos selecionados.",
+     "titulo": "Toy Story no Mercado Livre com 15% OFF aplicando cupom",
+     "verificadoHoje": true
+    },
+    {
      "codigo": "CASAHOJE",
      "descricao": "18% OFF em compras a partir de R$79, limitado a R$60.",
      "titulo": "Obtenha 18% de economia com código promocional Mercado Livre",
@@ -42,22 +54,10 @@
      "descricao": "Aplique cupom Mercado Livre e ganhe 25% OFF em compras a partir de R$99, limitado a R$80.",
      "titulo": "Produtos selecionados com 25% de desconto",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "MELINAMODA",
-     "descricao": "18% OFF em compras a partir de R$49, limitado a R$50.",
-     "titulo": "Use cupom Mercado Livre e garanta 18% OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "PROMOML",
-     "descricao": "10% OFF em compras a partir de R$149, limitado a R$150.",
-     "titulo": "Aproveite para economizar 10% com cupom Mercado Livre",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-22T13:05:36.508Z"
+   "em": "2026-06-22T17:49:04.302Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-22T13:05:36.508Z"
+   "em": "2026-06-22T17:49:04.302Z"
   },
   {
    "loja": "Casas Bahia",
@@ -127,6 +127,18 @@
      "codigo": "TORCIDA",
      "descricao": "Desconto de até 20% válido para itens do link.",
      "titulo": "Cupom Casas Bahia com até 20% OFF em compras",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "NOVOAPP",
+     "descricao": "Desconto válido para compras no app da loja. Válido apenas para novos clientes. Para produtos vendidos e entregues por Casas Bahia. Promoção não cumulativa com outros descontos.",
+     "titulo": "Casas Bahia concede 10% OFF com cupom",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "VAIBRASIL",
+     "descricao": "Clique no link para conferir as melhores ofertas do site.",
+     "titulo": "Até R$1.000 OFF com cupom Casas Bahia",
      "verificadoHoje": false
     },
     {
@@ -154,26 +166,14 @@
      "verificadoHoje": false
     },
     {
-     "codigo": "NOVOAPP",
-     "descricao": "Desconto válido para compras no app da loja. Válido apenas para novos clientes. Para produtos vendidos e entregues por Casas Bahia. Promoção não cumulativa com outros descontos.",
-     "titulo": "Casas Bahia concede 10% OFF com cupom",
-     "verificadoHoje": false
-    },
-    {
      "codigo": "QUARTO12",
      "descricao": "12% de desconto em produtos selecionados.",
      "titulo": "Ganhe 12% OFF com cupom Casas Bahia",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "OFERTACDC",
-     "descricao": "Desconto válido para itens do link. Consulte o regulamento da promoção no site.",
-     "titulo": "Compre com cupom Casas Bahia e garanta desconto de até 50%",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-22T13:05:36.508Z"
+   "em": "2026-06-22T17:49:04.302Z"
   },
   {
    "loja": "Magalu",
@@ -182,15 +182,39 @@
    "url": "https://www.cuponomia.com.br/desconto/magazine-luiza",
    "cupons": [
     {
+     "codigo": "TEL100",
+     "descricao": "Válido para produtos selecionados no site.",
+     "titulo": "Cupom Magalu garante R$100 OFF",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "ANTENA100",
+     "descricao": "Aproveite a lista de itens selecionados.",
+     "titulo": "Desconto de R$100 em suas compras com cupom Magalu",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "CUPOM25",
+     "descricao": "25% OFF para itens selecionados.",
+     "titulo": "Magalu concede 25% OFF aplicando cupom",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "TECH150",
+     "descricao": "Desconto válido para produto selecionado.",
+     "titulo": "Notebook com R$150 de desconto aplicando código Magalu",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "CUPOM35",
+     "descricao": "35% OFF para itens selecionados.",
+     "titulo": "Confira desconto imperdível de 35% com código Magalu",
+     "verificadoHoje": true
+    },
+    {
      "codigo": "LU300",
      "descricao": "R$300 OFF para itens selecionados vendidos pelo Magalu.",
      "titulo": "Cupom Magalu com R$300 OFF em suas compras",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "LU120",
-     "descricao": "R$120 OFF para itens selecionados vendidos pelo Magalu.",
-     "titulo": "Magalu garante desconto imperdível de R$120 com cupom",
      "verificadoHoje": false
     },
     {
@@ -200,38 +224,14 @@
      "verificadoHoje": false
     },
     {
-     "codigo": "LU100",
-     "descricao": "R$100 OFF para itens selecionados vendidos por Magalu.",
-     "titulo": "R$100 de economia com cupom Magalu",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "LU50",
-     "descricao": "R$50 OFF para itens selecionados vendidos pelo Magalu.",
-     "titulo": "Seleção especial com R$50 OFF utilizando cupom Magalu",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "TEL100",
-     "descricao": "Válido para produtos selecionados no site.",
-     "titulo": "R$100 OFF em seus pedidos com cupom Magalu",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "ANTENA100",
-     "descricao": "Aproveite a lista de itens selecionados.",
-     "titulo": "Desconto de R$100 em suas compras com voucher Magalu",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "CUPOM25",
-     "descricao": "25% OFF para itens selecionados.",
-     "titulo": "Festival de ofertas: 25% OFF aplicando cupom Magalu",
+     "codigo": "LU120",
+     "descricao": "R$120 OFF para itens selecionados vendidos pelo Magalu.",
+     "titulo": "Magalu garante desconto imperdível de R$120 com cupom",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-22T13:05:36.508Z"
+   "em": "2026-06-22T17:49:04.302Z"
   },
   {
    "loja": "KaBuM",
@@ -249,6 +249,18 @@
      "codigo": "TVNACOPA",
      "descricao": "Aproveite a seleção do link.",
      "titulo": "Torça com tudo: 9% OFF na sua TV nova com cupom KaBuM!",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "15OFFPERI",
+     "descricao": "Desconto válido para itens selecionados com a \"tag\".",
+     "titulo": "Ganhe 15% OFF com cupom KaBuM!",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "MAGALU5",
+     "descricao": "Desconto válido para itens do link.",
+     "titulo": "Aproveite Kindle, Tablet e iPad com 5% OFF aplicando cupom KaBuM!",
      "verificadoHoje": true
     },
     {
@@ -270,26 +282,14 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "Magalu600",
-     "descricao": "Aplicável para itens do link.",
-     "titulo": "Confira seleção de Smartphones com R$600 de desconto com voucher KaBuM!",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "Magalu350",
-     "descricao": "Aplique cupom no carrinho para garantir economia em produtos selecionados.",
-     "titulo": "R$350 OFF com cupom KaBuM!",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "JBL25OFF",
-     "descricao": "Clique no link para conferir a lista selecionada.",
-     "titulo": "Obtenha 25% OFF com cupom KaBuM!",
-     "verificadoHoje": false
+     "codigo": "DESLIZA20",
+     "descricao": "Aplicável para produtos selecionados.",
+     "titulo": "Economize 20% em suas compras com código KaBuM!",
+     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-06-22T13:05:36.508Z"
+   "em": "2026-06-22T17:49:04.302Z"
   }
  ]
 }
