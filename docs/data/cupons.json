@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-23T10:01:42.560Z",
+ "geradoEm": "2026-06-23T10:34:54.670Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-23T10:01:42.560Z"
+   "em": "2026-06-23T10:34:54.670Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-23T10:01:42.560Z"
+   "em": "2026-06-23T10:34:54.670Z"
   },
   {
    "loja": "Casas Bahia",
@@ -127,7 +127,7 @@
      "codigo": "TORCIDA",
      "descricao": "Desconto de até 20% válido para itens do link.",
      "titulo": "Cupom Casas Bahia com até 20% OFF em compras",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "NOVOAPP",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-23T10:01:42.560Z"
+   "em": "2026-06-23T10:34:54.670Z"
   },
   {
    "loja": "Magalu",
@@ -185,13 +185,13 @@
      "codigo": "TEL100",
      "descricao": "Válido para produtos selecionados no site.",
      "titulo": "Cupom Magalu garante R$100 OFF",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "ANTENA100",
      "descricao": "Aproveite a lista de itens selecionados.",
      "titulo": "Desconto de R$100 em suas compras com cupom Magalu",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "CUPOM25",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-23T10:01:42.560Z"
+   "em": "2026-06-23T10:34:54.670Z"
   },
   {
    "loja": "KaBuM",
@@ -243,25 +243,25 @@
      "codigo": "GOL500",
      "descricao": "R$500 OFF para compras acima de R$5.000.",
      "titulo": "A chance de economizar R$500 em compras com cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "TVNACOPA",
      "descricao": "Aproveite a seleção do link.",
      "titulo": "Torça com tudo: 9% OFF na sua TV nova com cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "15OFFPERI",
      "descricao": "Desconto válido para itens selecionados com a \"tag\".",
      "titulo": "Ganhe 15% OFF com cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "MAGALU5",
      "descricao": "Desconto válido para itens do link.",
      "titulo": "Aproveite Kindle, Tablet e iPad com 5% OFF aplicando cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "10porcento",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-23T10:01:42.560Z"
+   "em": "2026-06-23T10:34:54.670Z"
   }
  ]
 }
