@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-23T02:53:25.752Z",
+ "geradoEm": "2026-06-23T04:19:22.483Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -11,43 +11,43 @@
      "codigo": "HOJETEMCUPOM",
      "descricao": "10% OFF em compras a partir de R$149, limitado a R$150.",
      "titulo": "Cupom Mercado Livre concede 10% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "INTERNACIONAL15OFF",
      "descricao": "15% OFF em compras de produtos internacionais selecionados a partir de R$50, com desconto máximo limitado a R$25.",
      "titulo": "Ganhe 15% OFF com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "QUEROPROMO",
      "descricao": "Desconto de R$300 em Edge 70 Fusion FIFA Edition.",
      "titulo": "Mercado Livre concede R$300 OFF com cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "AFILIADOSCAZETV",
      "descricao": "Utilize cupom Mercado Livre no carrinho para garantir economia em produtos selecionados.",
      "titulo": "Itens CazéTV com 10% de desconto",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "15MELIMAIS",
      "descricao": "Desconto válido para produtos selecionados.",
      "titulo": "Toy Story no Mercado Livre com 15% OFF aplicando cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "CASAHOJE",
      "descricao": "18% OFF em compras a partir de R$79, limitado a R$60.",
      "titulo": "Obtenha 18% de economia com código promocional Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "BELEZA20",
      "descricao": "Aplique cupom no carrinho para garantir economia em itens selecionados.",
      "titulo": "Compre com cupom Mercado Livre e ganhe 20% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MELIHOJE",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-23T02:53:25.752Z"
+   "em": "2026-06-23T04:19:22.483Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-23T02:53:25.752Z"
+   "em": "2026-06-23T04:19:22.483Z"
   },
   {
    "loja": "Casas Bahia",
@@ -127,13 +127,13 @@
      "codigo": "TORCIDA",
      "descricao": "Desconto de até 20% válido para itens do link.",
      "titulo": "Cupom Casas Bahia com até 20% OFF em compras",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "NOVOAPP",
      "descricao": "Desconto válido para compras no app da loja. Válido apenas para novos clientes. Para produtos vendidos e entregues por Casas Bahia. Promoção não cumulativa com outros descontos.",
      "titulo": "Casas Bahia concede 10% OFF com cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "VAIBRASIL",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-23T02:53:25.752Z"
+   "em": "2026-06-23T04:19:22.483Z"
   },
   {
    "loja": "Magalu",
@@ -185,31 +185,31 @@
      "codigo": "TEL100",
      "descricao": "Válido para produtos selecionados no site.",
      "titulo": "Cupom Magalu garante R$100 OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "ANTENA100",
      "descricao": "Aproveite a lista de itens selecionados.",
      "titulo": "Desconto de R$100 em suas compras com cupom Magalu",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "CUPOM25",
      "descricao": "25% OFF para itens selecionados.",
      "titulo": "Magalu concede 25% OFF aplicando cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "TECH150",
      "descricao": "Desconto válido para produto selecionado.",
      "titulo": "Notebook com R$150 de desconto aplicando código Magalu",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "CUPOM35",
      "descricao": "35% OFF para itens selecionados.",
      "titulo": "Confira desconto imperdível de 35% com código Magalu",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "LU300",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-23T02:53:25.752Z"
+   "em": "2026-06-23T04:19:22.483Z"
   },
   {
    "loja": "KaBuM",
@@ -243,53 +243,53 @@
      "codigo": "GOL500",
      "descricao": "R$500 OFF para compras acima de R$5.000.",
      "titulo": "A chance de economizar R$500 em compras com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "TVNACOPA",
      "descricao": "Aproveite a seleção do link.",
      "titulo": "Torça com tudo: 9% OFF na sua TV nova com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "15OFFPERI",
      "descricao": "Desconto válido para itens selecionados com a \"tag\".",
      "titulo": "Ganhe 15% OFF com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MAGALU5",
      "descricao": "Desconto válido para itens do link.",
      "titulo": "Aproveite Kindle, Tablet e iPad com 5% OFF aplicando cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "10porcento",
      "descricao": "Desconto de 10% em itens selecionados no site.",
      "titulo": "Compre com cupom KaBuM! e tenha 10% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "GOL100",
      "descricao": "Aplique cupom KaBuM! no carrinho e obtenha R$100 OFF em compras acima de R$1.500.",
      "titulo": "Itens selecionados com R$100 de economia",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "VEMGTA",
      "descricao": "Desconto válido para itens selecionados.",
      "titulo": "Garanta economia de 7% com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "DESLIZA20",
      "descricao": "Aplicável para produtos selecionados.",
      "titulo": "Economize 20% em suas compras com código KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-23T02:53:25.752Z"
+   "em": "2026-06-23T04:19:22.483Z"
   }
  ]
 }
