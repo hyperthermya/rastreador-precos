@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-23T13:30:05.706Z",
+ "geradoEm": "2026-06-23T15:23:22.148Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -44,20 +44,20 @@
      "verificadoHoje": false
     },
     {
+     "codigo": "MANTECORP14",
+     "descricao": "Clique no link para conferir a promoção.",
+     "titulo": "14% OFF utilizando código Mercado Livre",
+     "verificadoHoje": false
+    },
+    {
      "codigo": "CASAHOJE",
      "descricao": "18% OFF em compras a partir de R$79, limitado a R$60.",
      "titulo": "Obtenha 18% de economia com código promocional Mercado Livre",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "BELEZA20",
-     "descricao": "Aplique cupom no carrinho para garantir economia em itens selecionados.",
-     "titulo": "Compre com cupom Mercado Livre e ganhe 20% OFF",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-23T13:30:05.706Z"
+   "em": "2026-06-23T15:23:22.148Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-23T13:30:05.706Z"
+   "em": "2026-06-23T15:23:22.148Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-23T13:30:05.706Z"
+   "em": "2026-06-23T15:23:22.148Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-23T13:30:05.706Z"
+   "em": "2026-06-23T15:23:22.148Z"
   },
   {
    "loja": "KaBuM",
@@ -264,32 +264,32 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "10porcento",
-     "descricao": "Desconto de 10% em itens selecionados no site.",
-     "titulo": "Compre com cupom KaBuM! e tenha 10% OFF",
-     "verificadoHoje": false
+     "codigo": "JBL25OFF",
+     "descricao": "Clique no link para conferir a lista selecionada.",
+     "titulo": "Obtenha 25% OFF com cupom KaBuM!",
+     "verificadoHoje": true
     },
     {
-     "codigo": "GOL100",
-     "descricao": "Aplique cupom KaBuM! no carrinho e obtenha R$100 OFF em compras acima de R$1.500.",
-     "titulo": "Itens selecionados com R$100 de economia",
-     "verificadoHoje": false
+     "codigo": "OPAITAON10",
+     "descricao": "Válido para produtos do link.",
+     "titulo": "Super promo KaBuM! com 10% OFF utilizando cupom",
+     "verificadoHoje": true
     },
     {
-     "codigo": "VEMGTA",
-     "descricao": "Desconto válido para itens selecionados.",
-     "titulo": "Garanta economia de 7% com cupom KaBuM!",
-     "verificadoHoje": false
+     "codigo": "BASSDECRIA",
+     "descricao": "Utilize cupom KaBuM! no carrinho para garantir economia.",
+     "titulo": "Caixas de som e fones de ouvido com 10% de desconto",
+     "verificadoHoje": true
     },
     {
-     "codigo": "DESLIZA20",
-     "descricao": "Aplicável para produtos selecionados.",
-     "titulo": "Economize 20% em suas compras com código KaBuM!",
-     "verificadoHoje": false
+     "codigo": "AGON5",
+     "descricao": "Desconto de 5% válido para Monitor Gamer Curvo Agon Quad 32” Aoc Wqhd, 180hz, 0.5ms Com 3.500:1 De Contraste - Cq32g4e/57 - Bivolt.",
+     "titulo": "5% OFF em Monitor Gamer Curvo Agon com cupom KaBuM!",
+     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-06-23T13:30:05.706Z"
+   "em": "2026-06-23T15:23:22.148Z"
   }
  ]
 }
