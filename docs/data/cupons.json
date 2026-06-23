@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-23T16:11:59.493Z",
+ "geradoEm": "2026-06-23T18:14:58.185Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -50,14 +50,14 @@
      "verificadoHoje": false
     },
     {
-     "codigo": "CASAHOJE",
-     "descricao": "18% OFF em compras a partir de R$79, limitado a R$60.",
-     "titulo": "Obtenha 18% de economia com código promocional Mercado Livre",
+     "codigo": "MELIECASACOR",
+     "descricao": "20% OFF em compras a partir de R$149, limitado a R$60.",
+     "titulo": "Mercado Livre concede 20% OFF com cupom",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-23T16:11:59.493Z"
+   "em": "2026-06-23T18:14:58.185Z"
   },
   {
    "loja": "Amazon",
@@ -65,6 +65,12 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/amazon",
    "cupons": [
+    {
+     "codigo": "CURTEAI",
+     "descricao": "Ganhe R$40 OFF em produtos selecionados a partir de R$350.",
+     "titulo": "Aplique cupom Amazon e ganhe R$40 OFF",
+     "verificadoHoje": true
+    },
     {
      "codigo": "ATACANTES",
      "descricao": "Desconto de 10% em compras a partir de R$100, com desconto máximo limitado a R$50.",
@@ -106,16 +112,10 @@
      "descricao": "Válido para membros prime.",
      "titulo": "20% de economia em suas compras com cupom Amazon",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "MOTO1000",
-     "descricao": "Consulte o regulamento da promoção no site.",
-     "titulo": "Código promocional Amazon oferece R$1.000 de desconto",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-23T16:11:59.493Z"
+   "em": "2026-06-23T18:14:58.185Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-23T16:11:59.493Z"
+   "em": "2026-06-23T18:14:58.185Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-23T16:11:59.493Z"
+   "em": "2026-06-23T18:14:58.185Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-23T16:11:59.493Z"
+   "em": "2026-06-23T18:14:58.185Z"
   }
  ]
 }
