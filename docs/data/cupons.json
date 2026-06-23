@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-23T10:34:54.670Z",
+ "geradoEm": "2026-06-23T13:30:05.706Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -17,6 +17,18 @@
      "codigo": "QUEROPROMO",
      "descricao": "Desconto de R$300 em Edge 70 Fusion FIFA Edition.",
      "titulo": "Mercado Livre concede R$300 OFF com cupom",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "SUPERMELI",
+     "descricao": "20% OFF em compras a partir de R$29, limitado a R$100.",
+     "titulo": "Compre com cupom Mercado Livre e garanta 20% de desconto",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "VEMAPROVEITAR",
+     "descricao": "15% OFF em compras a partir de R$49, limitado a R$60",
+     "titulo": "O melhor da moda com 15% de desconto aplicando cupom Mercado Livre",
      "verificadoHoje": true
     },
     {
@@ -42,22 +54,10 @@
      "descricao": "Aplique cupom no carrinho para garantir economia em itens selecionados.",
      "titulo": "Compre com cupom Mercado Livre e ganhe 20% OFF",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "HOJETEMCUPOM",
-     "descricao": "10% OFF em compras a partir de R$149, limitado a R$150.",
-     "titulo": "Cupom Mercado Livre concede 10% OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "MELIHOJE",
-     "descricao": "Aplique cupom Mercado Livre e ganhe 25% OFF em compras a partir de R$99, limitado a R$80.",
-     "titulo": "Produtos selecionados com 25% de desconto",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-23T10:34:54.670Z"
+   "em": "2026-06-23T13:30:05.706Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-23T10:34:54.670Z"
+   "em": "2026-06-23T13:30:05.706Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-23T10:34:54.670Z"
+   "em": "2026-06-23T13:30:05.706Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-23T10:34:54.670Z"
+   "em": "2026-06-23T13:30:05.706Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-23T10:34:54.670Z"
+   "em": "2026-06-23T13:30:05.706Z"
   }
  ]
 }
