@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-24T00:11:09.206Z",
+ "geradoEm": "2026-06-24T04:34:02.985Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-24T00:11:09.206Z"
+   "em": "2026-06-24T04:34:02.985Z"
   },
   {
    "loja": "Amazon",
@@ -69,7 +69,7 @@
      "codigo": "CURTEAI",
      "descricao": "Ganhe R$40 OFF em produtos selecionados a partir de R$350.",
      "titulo": "Aplique cupom Amazon e ganhe R$40 OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "ATACANTES",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-24T00:11:09.206Z"
+   "em": "2026-06-24T04:34:02.985Z"
   },
   {
    "loja": "Casas Bahia",
@@ -127,7 +127,7 @@
      "codigo": "TORCIDA",
      "descricao": "Desconto de até 20% válido para itens do link.",
      "titulo": "Cupom Casas Bahia com até 20% OFF em compras",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "NOVOAPP",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-24T00:11:09.206Z"
+   "em": "2026-06-24T04:34:02.985Z"
   },
   {
    "loja": "Magalu",
@@ -185,13 +185,13 @@
      "codigo": "TEL100",
      "descricao": "Válido para produtos selecionados no site.",
      "titulo": "Cupom Magalu garante R$100 OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "ANTENA100",
      "descricao": "Aproveite a lista de itens selecionados.",
      "titulo": "Desconto de R$100 em suas compras com cupom Magalu",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "CUPOM25",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-24T00:11:09.206Z"
+   "em": "2026-06-24T04:34:02.985Z"
   },
   {
    "loja": "KaBuM",
@@ -243,53 +243,53 @@
      "codigo": "GOL500",
      "descricao": "R$500 OFF para compras acima de R$5.000.",
      "titulo": "A chance de economizar R$500 em compras com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "TVNACOPA",
      "descricao": "Aproveite a seleção do link.",
      "titulo": "Torça com tudo: 9% OFF na sua TV nova com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "15OFFPERI",
      "descricao": "Desconto válido para itens selecionados com a \"tag\".",
      "titulo": "Ganhe 15% OFF com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MAGALU5",
      "descricao": "Desconto válido para itens do link.",
      "titulo": "Aproveite Kindle, Tablet e iPad com 5% OFF aplicando cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "JBL25OFF",
      "descricao": "Clique no link para conferir a lista selecionada.",
      "titulo": "Obtenha 25% OFF com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "OPAITAON10",
      "descricao": "Válido para produtos do link.",
      "titulo": "Super promo KaBuM! com 10% OFF utilizando cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "BASSDECRIA",
      "descricao": "Utilize cupom KaBuM! no carrinho para garantir economia.",
      "titulo": "Caixas de som e fones de ouvido com 10% de desconto",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "AGON5",
      "descricao": "Desconto de 5% válido para Monitor Gamer Curvo Agon Quad 32” Aoc Wqhd, 180hz, 0.5ms Com 3.500:1 De Contraste - Cq32g4e/57 - Bivolt.",
      "titulo": "5% OFF em Monitor Gamer Curvo Agon com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-06-24T00:11:09.206Z"
+   "em": "2026-06-24T04:34:02.985Z"
   }
  ]
 }
