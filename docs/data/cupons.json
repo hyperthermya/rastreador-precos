@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-06-24T04:35:43.111Z",
+ "geradoEm": "2026-06-24T08:04:01.429Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -11,25 +11,25 @@
      "codigo": "INTERNACIONAL15OFF",
      "descricao": "15% OFF em compras de produtos internacionais selecionados a partir de R$50, com desconto máximo limitado a R$25.",
      "titulo": "Ganhe 15% OFF com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "QUEROPROMO",
      "descricao": "Desconto de R$300 em Edge 70 Fusion FIFA Edition.",
      "titulo": "Mercado Livre concede R$300 OFF com cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "SUPERMELI",
      "descricao": "20% OFF em compras a partir de R$29, limitado a R$100.",
      "titulo": "Compre com cupom Mercado Livre e garanta 20% de desconto",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "VEMAPROVEITAR",
      "descricao": "15% OFF em compras a partir de R$49, limitado a R$60",
      "titulo": "O melhor da moda com 15% de desconto aplicando cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "AFILIADOSCAZETV",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-24T04:35:43.111Z"
+   "em": "2026-06-24T08:04:01.429Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-24T04:35:43.111Z"
+   "em": "2026-06-24T08:04:01.429Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-24T04:35:43.111Z"
+   "em": "2026-06-24T08:04:01.429Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-24T04:35:43.111Z"
+   "em": "2026-06-24T08:04:01.429Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-06-24T04:35:43.111Z"
+   "em": "2026-06-24T08:04:01.429Z"
   }
  ]
 }
