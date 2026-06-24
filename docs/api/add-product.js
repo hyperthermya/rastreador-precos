@@ -65,6 +65,10 @@ module.exports = async (req, res) => {
     .split(",")
     .map((t) => t.trim().toLowerCase())
     .filter(Boolean);
+  const termosProibidos = String(body.termosProibidos || "")
+    .split(",")
+    .map((t) => t.trim().toLowerCase())
+    .filter(Boolean);
   const precoMin = Number.isFinite(Number(body.precoMin)) && Number(body.precoMin) > 0
     ? Number(body.precoMin)
     : Math.round(precoAlvo * 0.5);
@@ -89,6 +93,7 @@ module.exports = async (req, res) => {
 
     const novo = { id, nome, palavrasChave };
     if (termosObrigatorios.length) novo.termosObrigatorios = termosObrigatorios;
+    if (termosProibidos.length) novo.termosProibidos = termosProibidos;
     novo.precoAlvo = precoAlvo;
     novo.precoMin = precoMin;
     novo.precoMax = precoMax;

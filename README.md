@@ -28,7 +28,8 @@ Campos de cada produto:
 | `id` | identificador único, sem espaços (ex.: `tablet-lenovo-ideatab`) |
 | `nome` | nome exibido no dashboard |
 | `palavrasChave` | termos usados na busca do Mercado Livre |
-| `termosObrigatorios` | palavras que o título do anúncio PRECISA conter (filtra capinha/película) |
+| `termosObrigatorios` | palavras que o título do anúncio PRECISA conter (ex.: `jbl, 510`) |
+| `termosProibidos` | palavras que fazem o anúncio ser ignorado (ex.: `capinha, película`) |
 | `precoAlvo` | preço que dispara o alerta por email |
 | `precoMin` / `precoMax` | faixa plausível de preço (descarta acessórios e anúncios errados) |
 | `amazonUrl` | link direto do produto na Amazon (opcional) |
