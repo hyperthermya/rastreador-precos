@@ -30,6 +30,13 @@ test("lib: tituloRelevante exige todos os termos", () => {
   assert.equal(tituloRelevante("Capa para Tablet Lenovo", produto), false);
 });
 
+test("lib: tituloRelevante filtra termos proibidos", () => {
+  const produto = { termosObrigatorios: ["tablet"], termosProibidos: ["capinha", "película"] };
+  assert.equal(tituloRelevante("Tablet Lenovo", produto), true);
+  assert.equal(tituloRelevante("Capinha Tablet Lenovo", produto), false);
+  assert.equal(tituloRelevante("Película para Tablet", produto), false);
+});
+
 test("amazon: extrai título e preço do fixture real", () => {
   const r = parseAmazon(fixture("amazon.html"));
   assert.equal(r.erro, undefined);

@@ -69,7 +69,9 @@ export function normalizar(s) {
 // título contém todos os termos obrigatórios do produto?
 export function tituloRelevante(titulo, produto) {
   const t = normalizar(titulo);
-  return (produto.termosObrigatorios ?? []).every((termo) => t.includes(normalizar(termo)));
+  const obrigOk = (produto.termosObrigatorios ?? []).every((termo) => t.includes(normalizar(termo)));
+  const proibOk = !(produto.termosProibidos ?? []).some((termo) => t.includes(normalizar(termo)));
+  return obrigOk && proibOk;
 }
 
 // preço dentro da faixa plausível do produto?
