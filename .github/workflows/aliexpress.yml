@@ -1,0 +1,45 @@
+name: Rastrear preços (AliExpress)
+
+on:
+  schedule:
+    - cron: "35 14 * * *" # 1x/dia — mais pesado (navegador headless), não roda a cada 3h como o resto
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rastrear-aliexpress
+  cancel-in-progress: false
+
+jobs:
+  rastrear:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Instalar dependências (Puppeteer + Chromium)
+        working-directory: scraper
+        run: npm install
+
+      - name: Coletar preços no AliExpress
+        working-directory: scraper
+        run: node aliexpress-run.mjs
+
+      - name: Commitar dados atualizados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/aliexpress.json
+          if git diff --staged --quiet; then
+            echo "Sem mudanças nesta rodada."
+          else
+            git commit -m "dados: atualização AliExpress"
+            git pull --rebase --autostash
+            git push
+          fi
