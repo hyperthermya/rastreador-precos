@@ -1508,67 +1508,6 @@
       "aliexpressBusca": "ds3231 rtc real time clock module"
     },
     {
-      "id": "estufa-led-grow-light-100w-fullspectrum",
-      "nome": "Painel LED grow light full-spectrum ~100W",
-      "palavrasChave": "painel led grow light full spectrum 100w cultivo plantas",
-      "termosObrigatorios": [
-        [
-          "grow",
-          "cultivo",
-          "plantas",
-          "horticultura"
-        ],
-        [
-          "full spectrum",
-          "espectro completo"
-        ]
-      ],
-      "termosProibidos": [
-        "fita led",
-        "luminaria residencial",
-        "lampada residencial",
-        "equivalente",
-        "holofote comum",
-        "led strip"
-      ],
-      "precoAlvo": 150,
-      "precoMin": 60,
-      "precoMax": 400,
-      "aliexpress": true,
-      "aliexpressBusca": "100w led grow light full spectrum panel ppf"
-    },
-    {
-      "id": "estufa-led-grow-light-150w-fullspectrum",
-      "nome": "Painel LED grow light full-spectrum ~150-200W",
-      "palavrasChave": "painel led grow light full spectrum 150w 200w quantum board cultivo",
-      "termosObrigatorios": [
-        [
-          "grow",
-          "cultivo",
-          "plantas",
-          "horticultura"
-        ],
-        [
-          "full spectrum",
-          "quantum board",
-          "ppf"
-        ]
-      ],
-      "termosProibidos": [
-        "fita led",
-        "luminaria residencial",
-        "lampada residencial",
-        "equivalente",
-        "holofote comum",
-        "led strip"
-      ],
-      "precoAlvo": 250,
-      "precoMin": 100,
-      "precoMax": 600,
-      "aliexpress": true,
-      "aliexpressBusca": "150w 200w led grow light full spectrum panel ppf samsung lm301"
-    },
-    {
       "id": "estufa-cd74hc4067",
       "nome": "CD74HC4067 Multiplexador Analogico 16 canais",
       "palavrasChave": "cd74hc4067 multiplexador 16 canais",
@@ -1577,16 +1516,6 @@
       "precoMax": 30,
       "aliexpress": true,
       "aliexpressBusca": "CD74HC4067 16 channel analog multiplexer module"
-    },
-    {
-      "id": "estufa-veml7700",
-      "nome": "VEML7700 Sensor de Luz Ambiente I2C",
-      "palavrasChave": "veml7700 sensor de luz",
-      "precoAlvo": 15,
-      "precoMin": 5,
-      "precoMax": 35,
-      "aliexpress": true,
-      "aliexpressBusca": "VEML7700 ambient light sensor module"
     },
     {
       "id": "estufa-moc3063",
