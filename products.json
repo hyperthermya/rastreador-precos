@@ -1616,6 +1616,16 @@
       "precoMax": 25,
       "aliexpress": true,
       "aliexpressBusca": "74HC595 shift register 10pcs"
+    },
+    {
+      "id": "estufa-ina226",
+      "nome": "INA226 Sensor Corrente/Tensao DC I2C (A3, Fugu2 MPPT)",
+      "palavrasChave": "ina226 sensor corrente tensao dc",
+      "precoAlvo": 15,
+      "precoMin": 5,
+      "precoMax": 35,
+      "aliexpress": true,
+      "aliexpressBusca": "INA226 current voltage sensor module I2C"
     }
   ],
   "lojasCupons": [

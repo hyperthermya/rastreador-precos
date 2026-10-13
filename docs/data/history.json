@@ -104,6 +104,716 @@
    "em": "2026-06-22T18:53:10.424Z",
    "preco": 1699,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-07-04T15:09:01.574Z",
+   "preco": 1424.05,
+   "fonte": "amazon"
+  },
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 1500,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "bicicleta-eletrica-dobravel-500w-48v-lithium": [
+  {
+   "em": "2026-07-04T15:10:18.985Z",
+   "preco": 3990,
+   "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 559.87,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "fonte-ajustavel-0-600v-2000w": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 1102,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-motor-tongsheng-tsdz2b-500w": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 400.33,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-bms-16s-lifepo4": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 65.62,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-cassete-sunshine-8v": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 61.88,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-cambio-traseiro-8v-gaiola-longa": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 55.99,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-passador-shimano-8v": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 39.9,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-corrente-8v-reforcada": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 40.11,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-cambio-dianteiro-8v": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 54.99,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-pedais-plataforma-aluminio": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 32.95,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-suspensao-absolute-nero-32": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 204,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-caixa-direcao-absolute-megaover": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 60.36,
+   "fonte": "zoom"
+  }
+ ],
+ "ebike-espacadores-aheadset-aluminio": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 16.9,
+   "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-09-24T19:24:26.992Z",
+   "preco": 19,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-mesa-curta-60-80mm": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 29.9,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-guidao-rise": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 41.19,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-manopla-simples": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 10.23,
+   "fonte": "zoom"
+  }
+ ],
+ "ebike-acelerador-polegar": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 17.84,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-selim-absolute-vazado-gel": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 40.84,
+   "fonte": "zoom"
+  }
+ ],
+ "ebike-canote-offset-20-30mm": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 46,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-retrovisor-gvs-zefal": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 63.54,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-abracadeira-selim-31-8": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 10,
+   "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-09-24T19:24:26.992Z",
+   "preco": 14.11,
+   "fonte": "zoom"
+  }
+ ],
+ "ebike-paralamas-dianteiro-traseiro": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 22.9,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-powerbank-20000mah": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 46.71,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-bolsa-alforge-estanque": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 68.9,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-torquimetro-2-20nm": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 69.9,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-alicate-elo-rapido": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 15.75,
+   "fonte": "zoom"
+  }
+ ],
+ "ebike-desmontador-de-pneu": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 18.82,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-chave-de-raio-latao": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 17.58,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-extrator-de-cassete": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 16.11,
+   "fonte": "zoom"
+  }
+ ],
+ "ebike-extrator-caixa-direcao-megaover": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 25.9,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-kit-sangria-freio-shimano": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 31.57,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-cortador-cabo-conduite": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 26.18,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-alicate-crimpagem": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 23.59,
+   "fonte": "zoom"
+  }
+ ],
+ "ebike-multimetro": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 25.68,
+   "fonte": "zoom"
+  }
+ ],
+ "ebike-martelo-borracha": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 17.96,
+   "fonte": "zoom"
+  }
+ ],
+ "ebike-graxa-rolamentos": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 15.99,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-cavalete-suporte": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 83.69,
+   "fonte": "zoom"
+  }
+ ],
+ "ebike-freio-shimano-mt200": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 108,
+   "fonte": "zoom"
+  }
+ ],
+ "ebike-rotores-203mm": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 40.1,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-pastilhas-sinterizadas": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 44.91,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-sensores-e-brake": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 28.81,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-trava-u-lock": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 62.95,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-gps-rastreamento-48v": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 56.55,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-manete-freio-hidraulico": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 20.95,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-parafusos-inox-a4": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 21,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-descontaminante-ferroso": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 34.11,
+   "fonte": "zoom"
+  }
+ ],
+ "ebike-capa-de-chuva": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 94.05,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-luva-motoqueiro-meio-dedo-protetor": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 23,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-balaclava": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 16.49,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-capacete-ciclismo-viseira": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 60.32,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-descanso-pezinho": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 15.5,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-lubrificante-corrente-maresia": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 15.11,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-colete-refletivo": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 24.63,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-aros-vzan-aro26-36furos": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 89.2,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-cubo-absolute-brutus-dj": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 72.79,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-raios-inox-niples-latao": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 47.49,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-pneus-175-semislick": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 96.76,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-couro-de-bode-antifuro": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 34.09,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-antifurto-eixo-onipax": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 285.48,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-camaras-de-ar-aro26": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 15.6,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-sistema-auxiliar-12v-buckboost": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 34.5,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-conectores-xt90s": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 16.4,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-sinalizacao-full-range-12-80v": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 100.53,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-buzina-caracol-12v": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 25,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "ebike-conduites-cabos-fiacao": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 17.07,
+   "fonte": "zoom"
+  }
+ ],
+ "celula-lifepo4-eve-c33-33140": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 690,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "celula-lifepo4-eve-c40-40135": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 130.97,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "hidraulica-manometro-63mm-20kgf-14npt": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 33.93,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "hidraulica-bucha-reducao-latao-12x14npt": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 8.82,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "hidraulica-te-agua-fria-12-vs": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 13.33,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "hidraulica-registro-esfera-vs-12": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 19,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "hidraulica-engate-rapido-lava-jato-12-250psi": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 20.29,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "estufa-esp32-s3-devkit": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 36,
+   "fonte": "promobit"
+  },
+  {
+   "em": "2026-09-24T19:24:26.992Z",
+   "preco": 37.08,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "estufa-mcp23017": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 20,
+   "fonte": "promobit"
+  },
+  {
+   "em": "2026-09-24T19:24:26.992Z",
+   "preco": 11.69,
+   "fonte": "promobit"
+  }
+ ],
+ "estufa-sensor-umidade-capacitivo": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 15.6,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "estufa-ads1115": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 13.02,
+   "fonte": "zoom"
+  },
+  {
+   "em": "2026-09-24T19:24:26.992Z",
+   "preco": 11.69,
+   "fonte": "promobit"
+  }
+ ],
+ "estufa-bme280": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 12.2,
+   "fonte": "zoom"
+  },
+  {
+   "em": "2026-09-24T19:24:26.992Z",
+   "preco": 11.69,
+   "fonte": "promobit"
+  }
+ ],
+ "estufa-aht20-sht31": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 18.51,
+   "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-09-24T19:24:26.992Z",
+   "preco": 4,
+   "fonte": "promobit"
+  }
+ ],
+ "estufa-bh1750": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 12.54,
+   "fonte": "zoom"
+  },
+  {
+   "em": "2026-09-24T19:24:26.992Z",
+   "preco": 4,
+   "fonte": "promobit"
+  }
+ ],
+ "estufa-ds18b20": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 12.9,
+   "fonte": "zoom"
+  },
+  {
+   "em": "2026-09-24T19:24:26.992Z",
+   "preco": 4,
+   "fonte": "promobit"
+  }
+ ],
+ "estufa-jsn-sr04t": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 13.7,
+   "fonte": "zoom"
+  }
+ ],
+ "estufa-bpw34": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 8.56,
+   "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-09-24T19:24:26.992Z",
+   "preco": 4,
+   "fonte": "promobit"
+  }
+ ],
+ "estufa-as7341": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 11.69,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "estufa-ds3231": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 15.21,
+   "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-09-24T19:24:26.992Z",
+   "preco": 4,
+   "fonte": "promobit"
+  }
+ ],
+ "estufa-ina226": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 14.34,
+   "fonte": "zoom"
+  }
+ ],
+ "estufa-valvula-solenoide-12v-baixa-pressao": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 20,
+   "fonte": "promobit"
+  },
+  {
+   "em": "2026-09-24T19:24:26.992Z",
+   "preco": 24.13,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "estufa-mosfet-logic-level": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 4.8,
+   "fonte": "zoom"
+  },
+  {
+   "em": "2026-09-24T19:24:26.992Z",
+   "preco": 4,
+   "fonte": "promobit"
+  }
+ ],
+ "estufa-tca9548a": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 18.99,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "estufa-led-grow-light-100w-fullspectrum": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 63.49,
+   "fonte": "mercadolivre"
+  }
+ ],
+ "estufa-led-grow-light-150w-fullspectrum": [
+  {
+   "em": "2026-09-24T17:35:50.283Z",
+   "preco": 100,
+   "fonte": "mercadolivre"
   }
  ]
 }

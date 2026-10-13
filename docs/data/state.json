@@ -3,5 +3,275 @@
   "menorHistorico": 937.8,
   "ultimoAlertaPreco": 1529.11,
   "ultimoAlertaEm": "2026-06-22T05:29:43.126Z"
+ },
+ "bicicleta-eletrica-dobravel-500w-48v-lithium": {
+  "menorHistorico": 559.87
+ },
+ "fonte-ajustavel-0-600v-2000w": {
+  "menorHistorico": 1102
+ },
+ "ebike-motor-tongsheng-tsdz2b-500w": {
+  "menorHistorico": 400.33
+ },
+ "ebike-bms-16s-lifepo4": {
+  "menorHistorico": 65.62
+ },
+ "ebike-cassete-sunshine-8v": {
+  "menorHistorico": 61.88
+ },
+ "ebike-cambio-traseiro-8v-gaiola-longa": {
+  "menorHistorico": 55.99
+ },
+ "ebike-passador-shimano-8v": {
+  "menorHistorico": 39.9
+ },
+ "ebike-corrente-8v-reforcada": {
+  "menorHistorico": 40.11
+ },
+ "ebike-cambio-dianteiro-8v": {
+  "menorHistorico": 54.99
+ },
+ "ebike-pedais-plataforma-aluminio": {
+  "menorHistorico": 32.95
+ },
+ "ebike-suspensao-absolute-nero-32": {
+  "menorHistorico": 204
+ },
+ "ebike-caixa-direcao-absolute-megaover": {
+  "menorHistorico": 60.36
+ },
+ "ebike-espacadores-aheadset-aluminio": {
+  "menorHistorico": 16.9
+ },
+ "ebike-mesa-curta-60-80mm": {
+  "menorHistorico": 29.9
+ },
+ "ebike-guidao-rise": {
+  "menorHistorico": 41.19
+ },
+ "ebike-manopla-simples": {
+  "menorHistorico": 10.23
+ },
+ "ebike-acelerador-polegar": {
+  "menorHistorico": 17.84
+ },
+ "ebike-selim-absolute-vazado-gel": {
+  "menorHistorico": 40.84
+ },
+ "ebike-canote-offset-20-30mm": {
+  "menorHistorico": 46
+ },
+ "ebike-retrovisor-gvs-zefal": {
+  "menorHistorico": 63.54
+ },
+ "ebike-abracadeira-selim-31-8": {
+  "menorHistorico": 10
+ },
+ "ebike-paralamas-dianteiro-traseiro": {
+  "menorHistorico": 22.9
+ },
+ "ebike-powerbank-20000mah": {
+  "menorHistorico": 46.71
+ },
+ "ebike-bolsa-alforge-estanque": {
+  "menorHistorico": 68.9
+ },
+ "ebike-torquimetro-2-20nm": {
+  "menorHistorico": 69.9
+ },
+ "ebike-alicate-elo-rapido": {
+  "menorHistorico": 15.75
+ },
+ "ebike-desmontador-de-pneu": {
+  "menorHistorico": 18.82
+ },
+ "ebike-chave-de-raio-latao": {
+  "menorHistorico": 17.58
+ },
+ "ebike-extrator-de-cassete": {
+  "menorHistorico": 16.11
+ },
+ "ebike-extrator-caixa-direcao-megaover": {
+  "menorHistorico": 25.9
+ },
+ "ebike-kit-sangria-freio-shimano": {
+  "menorHistorico": 31.57
+ },
+ "ebike-cortador-cabo-conduite": {
+  "menorHistorico": 26.18
+ },
+ "ebike-alicate-crimpagem": {
+  "menorHistorico": 23.59
+ },
+ "ebike-multimetro": {
+  "menorHistorico": 25.68
+ },
+ "ebike-martelo-borracha": {
+  "menorHistorico": 17.96
+ },
+ "ebike-graxa-rolamentos": {
+  "menorHistorico": 15.99
+ },
+ "ebike-cavalete-suporte": {
+  "menorHistorico": 83.69
+ },
+ "ebike-freio-shimano-mt200": {
+  "menorHistorico": 108
+ },
+ "ebike-rotores-203mm": {
+  "menorHistorico": 40.1
+ },
+ "ebike-pastilhas-sinterizadas": {
+  "menorHistorico": 44.91
+ },
+ "ebike-sensores-e-brake": {
+  "menorHistorico": 28.81
+ },
+ "ebike-trava-u-lock": {
+  "menorHistorico": 62.95
+ },
+ "ebike-gps-rastreamento-48v": {
+  "menorHistorico": 56.55
+ },
+ "ebike-manete-freio-hidraulico": {
+  "menorHistorico": 20.95
+ },
+ "ebike-parafusos-inox-a4": {
+  "menorHistorico": 21
+ },
+ "ebike-descontaminante-ferroso": {
+  "menorHistorico": 34.11
+ },
+ "ebike-capa-de-chuva": {
+  "menorHistorico": 94.05
+ },
+ "ebike-luva-motoqueiro-meio-dedo-protetor": {
+  "menorHistorico": 23
+ },
+ "ebike-balaclava": {
+  "menorHistorico": 16.49
+ },
+ "ebike-capacete-ciclismo-viseira": {
+  "menorHistorico": 60.32
+ },
+ "ebike-descanso-pezinho": {
+  "menorHistorico": 15.5
+ },
+ "ebike-lubrificante-corrente-maresia": {
+  "menorHistorico": 15.11
+ },
+ "ebike-colete-refletivo": {
+  "menorHistorico": 24.63
+ },
+ "ebike-aros-vzan-aro26-36furos": {
+  "menorHistorico": 89.2
+ },
+ "ebike-cubo-absolute-brutus-dj": {
+  "menorHistorico": 72.79
+ },
+ "ebike-raios-inox-niples-latao": {
+  "menorHistorico": 47.49
+ },
+ "ebike-pneus-175-semislick": {
+  "menorHistorico": 96.76
+ },
+ "ebike-couro-de-bode-antifuro": {
+  "menorHistorico": 34.09
+ },
+ "ebike-antifurto-eixo-onipax": {
+  "menorHistorico": 285.48
+ },
+ "ebike-camaras-de-ar-aro26": {
+  "menorHistorico": 15.6
+ },
+ "ebike-sistema-auxiliar-12v-buckboost": {
+  "menorHistorico": 34.5
+ },
+ "ebike-conectores-xt90s": {
+  "menorHistorico": 16.4
+ },
+ "ebike-sinalizacao-full-range-12-80v": {
+  "menorHistorico": 100.53
+ },
+ "ebike-buzina-caracol-12v": {
+  "menorHistorico": 25
+ },
+ "ebike-conduites-cabos-fiacao": {
+  "menorHistorico": 17.07
+ },
+ "celula-lifepo4-eve-c33-33140": {
+  "menorHistorico": 690
+ },
+ "celula-lifepo4-eve-c40-40135": {
+  "menorHistorico": 130.97
+ },
+ "hidraulica-manometro-63mm-20kgf-14npt": {
+  "menorHistorico": 33.93
+ },
+ "hidraulica-bucha-reducao-latao-12x14npt": {
+  "menorHistorico": 8.82
+ },
+ "hidraulica-te-agua-fria-12-vs": {
+  "menorHistorico": 13.33
+ },
+ "hidraulica-registro-esfera-vs-12": {
+  "menorHistorico": 19
+ },
+ "hidraulica-engate-rapido-lava-jato-12-250psi": {
+  "menorHistorico": 20.29
+ },
+ "estufa-esp32-s3-devkit": {
+  "menorHistorico": 36
+ },
+ "estufa-mcp23017": {
+  "menorHistorico": 11.69
+ },
+ "estufa-sensor-umidade-capacitivo": {
+  "menorHistorico": 15.6
+ },
+ "estufa-ads1115": {
+  "menorHistorico": 11.69
+ },
+ "estufa-bme280": {
+  "menorHistorico": 11.69
+ },
+ "estufa-aht20-sht31": {
+  "menorHistorico": 4
+ },
+ "estufa-bh1750": {
+  "menorHistorico": 4
+ },
+ "estufa-ds18b20": {
+  "menorHistorico": 4
+ },
+ "estufa-jsn-sr04t": {
+  "menorHistorico": 13.7
+ },
+ "estufa-bpw34": {
+  "menorHistorico": 4
+ },
+ "estufa-as7341": {
+  "menorHistorico": 11.69
+ },
+ "estufa-ds3231": {
+  "menorHistorico": 4
+ },
+ "estufa-ina226": {
+  "menorHistorico": 14.34
+ },
+ "estufa-valvula-solenoide-12v-baixa-pressao": {
+  "menorHistorico": 20
+ },
+ "estufa-mosfet-logic-level": {
+  "menorHistorico": 4
+ },
+ "estufa-tca9548a": {
+  "menorHistorico": 18.99
+ },
+ "estufa-led-grow-light-100w-fullspectrum": {
+  "menorHistorico": 63.49
+ },
+ "estufa-led-grow-light-150w-fullspectrum": {
+  "menorHistorico": 100
  }
 }
