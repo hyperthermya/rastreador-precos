@@ -1489,7 +1489,7 @@
     },
     {
       "id": "estufa-as7341",
-      "nome": "AS7341 sensor espectral I2C",
+      "nome": "AS7341 Sensor Espectral 11 canais I2C (3 unidades, por zona)",
       "palavrasChave": "as7341 sensor espectral",
       "precoAlvo": 25,
       "precoMin": 10,
