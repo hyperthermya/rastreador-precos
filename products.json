@@ -1,21 +1,1796 @@
 {
   "products": [
     {
+      "id": "fonte-ajustavel-0-600v-2000w",
+      "nome": "Fonte Chaveada Ajustável 0-600VDC 2000W (entrada 110/220/380VAC)",
+      "palavrasChave": "fonte ajustavel 600v 2000w",
+      "termosObrigatorios": [
+        [
+          "600v",
+          "0-600"
+        ]
+      ],
+      "termosProibidos": [
+        "24v",
+        "12v",
+        "36v somente"
+      ],
+      "precoAlvo": 900,
+      "precoMin": 400,
+      "precoMax": 1600,
+      "aliexpress": true,
+      "aliexpressBusca": "2000w adjustable switching power supply 0-300v 400v 500v 600v"
+    },
+    {
+      "id": "bicicleta-eletrica-dobravel-500w-48v-lithium",
+      "nome": "Bicicleta Elétrica 500W 48V Lítio com Pedal Assistido (dobrável é bônus, não obrigatório)",
+      "palavrasChave": "bicicleta eletrica 500w 48v litio lithium",
+      "termosObrigatorios": [
+        [
+          "bicicleta",
+          "bike"
+        ],
+        "48v"
+      ],
+      "termosProibidos": [
+        "400w",
+        "350w",
+        "300w",
+        "250w",
+        "240w",
+        "200w",
+        "150w",
+        "100w",
+        "chumbo",
+        "acido",
+        "fat",
+        "3.5",
+        "4.0",
+        "infantil",
+        "crianca",
+        "menina",
+        "menino",
+        "scoo",
+        "sem pedal",
+        "s/ pedal",
+        "autopropelid",
+        "kit ",
+        "controlador",
+        "controller",
+        "display",
+        "reposicao",
+        "peca de",
+        "mt-5",
+        "mt 5",
+        "mt5",
+        "para bicicleta",
+        "p/ bicicleta",
+        "placa bms",
+        " bms",
+        "chilwee",
+        "litio lithium bicicleta",
+        "li-ion lithium"
+      ],
+      "precoAlvo": 2500,
+      "precoMin": 500,
+      "precoMax": 3000,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/esportes-fitness/ciclismo/bicicletas/bicicletas-eletricas/novo/48v/_OrderId_PRICE_PriceRange_0-3000_Installments_NoInterest_NoIndex_True_WITH_REMOVABLE_BATTERY_242085_original_category_landing_true"
+      ]
+    },
+    {
       "id": "tablet-lenovo-ideatab",
       "nome": "Tablet Lenovo IdeaTab 4GB 128GB WiFi + caneta + case (azul)",
       "palavrasChave": "tablet lenovo",
-      "termosObrigatorios": ["lenovo", "idea", "128"],
+      "termosObrigatorios": [
+        "lenovo",
+        "idea",
+        "128"
+      ],
       "precoAlvo": 1599,
       "precoMin": 800,
       "precoMax": 2600,
       "amazonUrl": "https://www.amazon.com.br/dp/B0FN4BK3V7"
+    },
+    {
+      "id": "ebike-motor-tongsheng-tsdz2b-500w",
+      "nome": "Motor Mid-Drive Tongsheng TSDZ2B 500W (48V, firmware open source)",
+      "palavrasChave": "motor tongsheng tsdz2 500w",
+      "termosObrigatorios": [
+        [
+          "tongsheng",
+          "tsdz2"
+        ]
+      ],
+      "termosProibidos": [
+        "250w",
+        "36v somente",
+        "capa",
+        "adesivo"
+      ],
+      "precoAlvo": 900,
+      "precoMin": 400,
+      "precoMax": 1600,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/motor-tongsheng-tsdz2-500w_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-bms-16s-lifepo4",
+      "nome": "BMS 16S para pack LiFePO4 (51.2V nominal, células EVE C33/C40)",
+      "palavrasChave": "bms 16s lifepo4 51.2v bateria bicicleta eletrica",
+      "termosObrigatorios": [
+        [
+          "16s"
+        ],
+        [
+          "lifepo4",
+          "life po4",
+          "lfp"
+        ]
+      ],
+      "termosProibidos": [
+        "chumbo",
+        "gel",
+        "acido",
+        "18650",
+        "21700",
+        "liion",
+        "li-ion"
+      ],
+      "precoAlvo": 150,
+      "precoMin": 40,
+      "precoMax": 500,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/bms-16s-lifepo4_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "aliexpress": true,
+      "aliexpressBusca": "16S LiFePO4 BMS 51.2V smart battery protection board"
+    },
+    {
+      "id": "ebike-cassete-sunshine-8v",
+      "nome": "Cassete SUNSHINE 8v (11-40T ou 11-42T)",
+      "palavrasChave": "cassete sunshine 8v 11-40 11-42",
+      "termosObrigatorios": [
+        [
+          "sunshine"
+        ],
+        "8v"
+      ],
+      "precoAlvo": 150,
+      "precoMin": 60,
+      "precoMax": 300,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/cassete-sunshine-8v_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-cambio-traseiro-8v-gaiola-longa",
+      "nome": "Câmbio Traseiro Gaiola Longa 8v (Shimano Altus/Acera)",
+      "palavrasChave": "cambio traseiro shimano altus acera 8v gaiola longa",
+      "termosObrigatorios": [
+        [
+          "altus",
+          "acera"
+        ]
+      ],
+      "precoAlvo": 130,
+      "precoMin": 50,
+      "precoMax": 250,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/cambio-traseiro-shimano-altus-acera-8v-gaiola-longa_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-passador-shimano-8v",
+      "nome": "Passador (Trigger/Shifter) Shimano Altus ou Acera 8v",
+      "palavrasChave": "passador shimano altus acera 8v",
+      "termosObrigatorios": [
+        [
+          "altus",
+          "acera"
+        ],
+        "8v"
+      ],
+      "precoAlvo": 90,
+      "precoMin": 30,
+      "precoMax": 180,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/passador-shimano-altus-acera-8v_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-corrente-8v-reforcada",
+      "nome": "Corrente KMC Z8.3 ou Shimano LinkGlide LG500 (8v reforçada p/ e-bike)",
+      "palavrasChave": "corrente kmc z8 shimano linkglide lg500 8v",
+      "termosObrigatorios": [
+        [
+          "kmc",
+          "linkglide",
+          "lg500"
+        ]
+      ],
+      "precoAlvo": 90,
+      "precoMin": 40,
+      "precoMax": 200,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/corrente-kmc-z8-shimano-linkglide-lg500-8v_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-cambio-dianteiro-8v",
+      "nome": "Câmbio Dianteiro 8v (Shimano Altus/Acera, coroa dupla)",
+      "palavrasChave": "cambio dianteiro shimano altus acera 8v coroa dupla",
+      "termosObrigatorios": [
+        [
+          "shimano"
+        ],
+        [
+          "dianteiro"
+        ]
+      ],
+      "termosProibidos": [
+        "traseiro"
+      ],
+      "precoAlvo": 70,
+      "precoMin": 25,
+      "precoMax": 180,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/cambio-dianteiro-shimano-altus-acera-8v_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-pedais-plataforma-aluminio",
+      "nome": "Pedais Plataforma de Alumínio (rosca 9/16)",
+      "palavrasChave": "pedal plataforma aluminio mtb 9/16",
+      "termosObrigatorios": [
+        "pedal"
+      ],
+      "precoAlvo": 80,
+      "precoMin": 30,
+      "precoMax": 200,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/pedal-plataforma-aluminio-mtb_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-suspensao-absolute-nero-32",
+      "nome": "Suspensão Dianteira Absolute Nero 32, Aro 26, espiga reta, 100mm",
+      "palavrasChave": "suspensao absolute nero 32 aro 26 100mm",
+      "termosObrigatorios": [
+        [
+          "absolute"
+        ],
+        [
+          "nero"
+        ]
+      ],
+      "precoAlvo": 350,
+      "precoMin": 150,
+      "precoMax": 600,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/suspensao-absolute-nero-32-aro-26-100mm_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-caixa-direcao-absolute-megaover",
+      "nome": "Caixa de Direção Absolute Mega Over 44mm (integrada/semi-integrada reforçada)",
+      "palavrasChave": "caixa direcao absolute mega over 44mm",
+      "termosObrigatorios": [
+        [
+          "absolute"
+        ],
+        [
+          "mega over",
+          "megaover"
+        ]
+      ],
+      "termosProibidos": [
+        "neco"
+      ],
+      "precoAlvo": 120,
+      "precoMin": 50,
+      "precoMax": 250,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/caixa-direcao-absolute-mega-over-44mm_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-espacadores-aheadset-aluminio",
+      "nome": "Espaçadores Aheadset de Alumínio (kit)",
+      "palavrasChave": "espacadores aheadset aluminio bicicleta",
+      "termosObrigatorios": [
+        "espacador"
+      ],
+      "termosProibidos": [
+        "plastico"
+      ],
+      "precoAlvo": 40,
+      "precoMin": 15,
+      "precoMax": 100,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/espacadores-aheadset-aluminio-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-mesa-curta-60-80mm",
+      "nome": "Mesa Curta 60-80mm, inclinação positiva (Simera ou similar)",
+      "palavrasChave": "mesa guidao curta 60mm 70mm 80mm mtb inclinacao positiva",
+      "termosObrigatorios": [
+        "mesa"
+      ],
+      "termosProibidos": [
+        "90mm",
+        "100mm",
+        "110mm",
+        "120mm",
+        "130mm"
+      ],
+      "precoAlvo": 60,
+      "precoMin": 20,
+      "precoMax": 180,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/mesa-guidao-curta-60-80mm-mtb_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-guidao-rise",
+      "nome": "Guidão Rise Alumínio 6061/7075 (440-460mm)",
+      "palavrasChave": "guidao rise aluminio mtb 440 460mm",
+      "termosObrigatorios": [
+        [
+          "rise"
+        ]
+      ],
+      "precoAlvo": 100,
+      "precoMin": 40,
+      "precoMax": 250,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/guidao-rise-aluminio-mtb_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-manopla-simples",
+      "nome": "Manopla (punho) simples, sem acelerador integrado",
+      "palavrasChave": "manopla punho bicicleta mtb borracha",
+      "termosObrigatorios": [
+        [
+          "manopla",
+          "punho"
+        ]
+      ],
+      "termosProibidos": [
+        "acelerador",
+        "moto"
+      ],
+      "precoAlvo": 30,
+      "precoMin": 10,
+      "precoMax": 90,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/manopla-punho-bicicleta-mtb_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-acelerador-polegar",
+      "nome": "Acelerador de Polegar (thumb throttle) para e-bike",
+      "palavrasChave": "acelerador polegar thumb throttle bicicleta eletrica",
+      "termosObrigatorios": [
+        [
+          "acelerador",
+          "throttle"
+        ],
+        [
+          "polegar",
+          "thumb"
+        ]
+      ],
+      "precoAlvo": 50,
+      "precoMin": 15,
+      "precoMax": 130,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/acelerador-polegar-bicicleta-eletrica_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "aliexpress": true,
+      "aliexpressBusca": "ebike thumb throttle accelerator"
+    },
+    {
+      "id": "ebike-selim-absolute-vazado-gel",
+      "nome": "Selim Absolute Vazado Gel 268x174mm (SKU 44679)",
+      "palavrasChave": "selim absolute vazado gel",
+      "termosObrigatorios": [
+        [
+          "absolute"
+        ],
+        [
+          "vazado"
+        ]
+      ],
+      "precoAlvo": 100,
+      "precoMin": 40,
+      "precoMax": 220,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/selim-absolute-vazado-gel_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-canote-offset-20-30mm",
+      "nome": "Canote de Alumínio 400mm COM offset 20-30mm",
+      "palavrasChave": "canote aluminio 400mm offset recuado bicicleta",
+      "termosObrigatorios": [
+        "canote",
+        [
+          "offset",
+          "recuado",
+          "recuo"
+        ]
+      ],
+      "precoAlvo": 60,
+      "precoMin": 20,
+      "precoMax": 150,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/canote-offset-aluminio-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-retrovisor-gvs-zefal",
+      "nome": "Retrovisor GVS (BMW F800/Twister) ou Zéfal Spin/Dooback 2 — lente convexa",
+      "palavrasChave": "retrovisor convexo gvs zefal spin bicicleta moto",
+      "termosObrigatorios": [
+        [
+          "gvs",
+          "zefal",
+          "zéfal"
+        ],
+        [
+          "convexo",
+          "convexa"
+        ]
+      ],
+      "precoAlvo": 80,
+      "precoMin": 30,
+      "precoMax": 200,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/retrovisor-gvs-zefal-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-abracadeira-selim-31-8",
+      "nome": "Abraçadeira de Selim 31.8mm",
+      "palavrasChave": "abracadeira de selim 31.8mm",
+      "termosObrigatorios": [
+        "abracadeira"
+      ],
+      "precoAlvo": 25,
+      "precoMin": 10,
+      "precoMax": 70,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/abracadeira-de-selim-31-8mm_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-paralamas-dianteiro-traseiro",
+      "nome": "Paralamas Dianteiro e Traseiro",
+      "palavrasChave": "paralama dianteiro traseiro bicicleta mtb",
+      "termosObrigatorios": [
+        "paralam"
+      ],
+      "precoAlvo": 60,
+      "precoMin": 20,
+      "precoMax": 150,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/paralama-dianteiro-traseiro-bicicleta-mtb_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-powerbank-20000mah",
+      "nome": "Powerbank 20.000mAh para celular (1 ou 2 unidades)",
+      "palavrasChave": "powerbank 20000mah carregador portatil",
+      "termosObrigatorios": [
+        "20000"
+      ],
+      "precoAlvo": 90,
+      "precoMin": 40,
+      "precoMax": 250,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/powerbank-20000mah_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-bolsa-alforge-estanque",
+      "nome": "Bolsa Alforge Estanque (Absolute ou Rockbros)",
+      "palavrasChave": "alforge estanque absolute rockbros bicicleta",
+      "termosObrigatorios": [
+        [
+          "alforge"
+        ]
+      ],
+      "precoAlvo": 150,
+      "precoMin": 60,
+      "precoMax": 350,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/alforge-estanque-absolute-rockbros-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-torquimetro-2-20nm",
+      "nome": "Torquímetro 2-20 Nm",
+      "palavrasChave": "torquimetro 2-20nm bicicleta",
+      "termosObrigatorios": [
+        "torquimetro"
+      ],
+      "precoAlvo": 100,
+      "precoMin": 40,
+      "precoMax": 250,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/torquimetro-2-20nm-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-quebra-corrente-8v",
+      "nome": "Quebra-Corrente compatível 8v (KMC/Shimano)",
+      "palavrasChave": "quebra corrente bicicleta 8v kmc shimano",
+      "termosObrigatorios": [
+        "quebra-corrente",
+        "quebra corrente"
+      ],
+      "precoAlvo": 40,
+      "precoMin": 15,
+      "precoMax": 100,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/quebra-corrente-bicicleta-8v_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-alicate-elo-rapido",
+      "nome": "Alicate para Elo Rápido (Missing Link Pliers)",
+      "palavrasChave": "alicate elo rapido missing link pliers bicicleta",
+      "termosObrigatorios": [
+        [
+          "elo rapido",
+          "missing link"
+        ]
+      ],
+      "precoAlvo": 40,
+      "precoMin": 15,
+      "precoMax": 90,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/alicate-elo-rapido-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-desmontador-de-pneu",
+      "nome": "Desmontador de Pneu (Tire Levers, jogo 2-3 unid.)",
+      "palavrasChave": "desmontador de pneu tire levers bicicleta",
+      "termosObrigatorios": [
+        [
+          "desmontador",
+          "tire lever"
+        ]
+      ],
+      "precoAlvo": 25,
+      "precoMin": 10,
+      "precoMax": 60,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/desmontador-de-pneu-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-chave-de-raio-latao",
+      "nome": "Chave de Raio compatível com niples de latão",
+      "palavrasChave": "chave de raio bicicleta latao",
+      "termosObrigatorios": [
+        "chave de raio"
+      ],
+      "precoAlvo": 25,
+      "precoMin": 10,
+      "precoMax": 60,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/chave-de-raio-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-extrator-de-cassete",
+      "nome": "Extrator de Cassete (saca-catraca + chave de corrente)",
+      "palavrasChave": "extrator de cassete saca catraca bicicleta",
+      "termosObrigatorios": [
+        [
+          "extrator",
+          "saca-catraca",
+          "saca catraca"
+        ]
+      ],
+      "precoAlvo": 45,
+      "precoMin": 15,
+      "precoMax": 100,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/extrator-de-cassete-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-extrator-caixa-direcao-megaover",
+      "nome": "Chave/Extrator de Caixa de Direção Mega Over 44mm",
+      "palavrasChave": "extrator caixa de direcao mega over 44mm",
+      "termosObrigatorios": [
+        [
+          "mega over",
+          "megaover"
+        ]
+      ],
+      "precoAlvo": 60,
+      "precoMin": 25,
+      "precoMax": 150,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/extrator-caixa-de-direcao-mega-over-44mm_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-kit-sangria-freio-shimano",
+      "nome": "Kit de Sangria de Freio Hidráulico Shimano (óleo mineral + seringas)",
+      "palavrasChave": "kit sangria freio hidraulico shimano oleo mineral",
+      "termosObrigatorios": [
+        [
+          "sangria"
+        ],
+        [
+          "shimano"
+        ]
+      ],
+      "precoAlvo": 80,
+      "precoMin": 30,
+      "precoMax": 180,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/kit-sangria-freio-hidraulico-shimano_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-cortador-cabo-conduite",
+      "nome": "Cortador de Cabo/Conduíte para bicicleta",
+      "palavrasChave": "cortador de cabo conduite bicicleta",
+      "termosObrigatorios": [
+        "cortador"
+      ],
+      "precoAlvo": 40,
+      "precoMin": 15,
+      "precoMax": 100,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/cortador-de-cabo-conduite-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-alicate-crimpagem",
+      "nome": "Alicate de Crimpagem para ponteiras de cabo",
+      "palavrasChave": "alicate de crimpagem ponteira cabo bicicleta",
+      "termosObrigatorios": [
+        "crimpagem"
+      ],
+      "precoAlvo": 35,
+      "precoMin": 15,
+      "precoMax": 90,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/alicate-de-crimpagem-ponteira-cabo-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-multimetro",
+      "nome": "Multímetro (diagnóstico bateria/motor/sinalização)",
+      "palavrasChave": "multimetro digital automotivo",
+      "termosObrigatorios": [
+        "multimetro"
+      ],
+      "precoAlvo": 60,
+      "precoMin": 25,
+      "precoMax": 150,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/multimetro-digital-automotivo_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-martelo-borracha",
+      "nome": "Martelo de Borracha",
+      "palavrasChave": "martelo de borracha oficina",
+      "termosObrigatorios": [
+        "martelo"
+      ],
+      "precoAlvo": 30,
+      "precoMin": 10,
+      "precoMax": 70,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/martelo-de-borracha_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-graxa-rolamentos",
+      "nome": "Graxa para Rolamentos (caixa de direção e cubos)",
+      "palavrasChave": "graxa para rolamento bicicleta",
+      "termosObrigatorios": [
+        "graxa"
+      ],
+      "precoAlvo": 30,
+      "precoMin": 10,
+      "precoMax": 80,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/graxa-para-rolamento-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-cavalete-suporte",
+      "nome": "Cavalete de Bike (Suporte para manutenção)",
+      "palavrasChave": "cavalete suporte manutencao bicicleta",
+      "termosObrigatorios": [
+        "cavalete"
+      ],
+      "precoAlvo": 200,
+      "precoMin": 80,
+      "precoMax": 500,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/cavalete-suporte-manutencao-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-freio-shimano-mt200",
+      "nome": "Sistema de Freio Hidráulico Shimano MT200 (par)",
+      "palavrasChave": "freio hidraulico shimano mt200",
+      "termosObrigatorios": [
+        [
+          "mt200"
+        ]
+      ],
+      "precoAlvo": 250,
+      "precoMin": 100,
+      "precoMax": 450,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/freio-hidraulico-shimano-mt200_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-rotores-203mm",
+      "nome": "Rotores de Freio 203mm (par)",
+      "palavrasChave": "rotor disco de freio 203mm bicicleta",
+      "termosObrigatorios": [
+        "203"
+      ],
+      "precoAlvo": 100,
+      "precoMin": 40,
+      "precoMax": 200,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/rotor-disco-de-freio-203mm-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-pastilhas-sinterizadas",
+      "nome": "Pastilhas de Freio Sinterizadas (Absolute ou Bremstec B01S/B05S)",
+      "palavrasChave": "pastilha de freio sinterizada absolute bremstec",
+      "termosObrigatorios": [
+        [
+          "sinterizada"
+        ]
+      ],
+      "precoAlvo": 50,
+      "precoMin": 20,
+      "precoMax": 120,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/pastilha-de-freio-sinterizada-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-sensores-e-brake",
+      "nome": "Sensores E-brake Universais (corte de motor ao frear)",
+      "palavrasChave": "sensor freio eletrico bicicleta eletrica corta motor",
+      "termosObrigatorios": [
+        [
+          "sensor",
+          "chave"
+        ],
+        [
+          "freio"
+        ],
+        [
+          "bike",
+          "bicicleta"
+        ]
+      ],
+      "termosProibidos": [
+        "hall 41f",
+        "hall 49e",
+        "acelerador",
+        "moto",
+        "cg ",
+        "job ",
+        "en 125",
+        "yes",
+        "cargo",
+        "titan",
+        "fazer",
+        "factor",
+        "cb 300",
+        "cb300"
+      ],
+      "precoAlvo": 40,
+      "precoMin": 15,
+      "precoMax": 100,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/sensor-freio-eletrico-bicicleta-eletrica_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "aliexpress": true,
+      "aliexpressBusca": "ebike brake cut off sensor lever electric bicycle"
+    },
+    {
+      "id": "ebike-trava-u-lock",
+      "nome": "Trava U-Lock (pesada e resistente)",
+      "palavrasChave": "trava u-lock bicicleta",
+      "termosObrigatorios": [
+        [
+          "u-lock",
+          "u lock"
+        ]
+      ],
+      "precoAlvo": 150,
+      "precoMin": 60,
+      "precoMax": 350,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/trava-u-lock-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-gps-rastreamento-48v",
+      "nome": "GPS de Rastreamento 48V (embutido na bateria) + Samsung SmartTag2",
+      "palavrasChave": "gps rastreador bicicleta eletrica 48v smarttag2",
+      "termosObrigatorios": [
+        [
+          "gps",
+          "smarttag"
+        ]
+      ],
+      "precoAlvo": 150,
+      "precoMin": 50,
+      "precoMax": 350,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/gps-rastreador-bicicleta-eletrica_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-manete-freio-hidraulico",
+      "nome": "Manete de Freio Hidráulico (verificar se incluso no kit MT200)",
+      "palavrasChave": "manete de freio hidraulico bicicleta",
+      "termosObrigatorios": [
+        "manete"
+      ],
+      "precoAlvo": 60,
+      "precoMin": 20,
+      "precoMax": 150,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/manete-de-freio-hidraulico-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-parafusos-inox-a4",
+      "nome": "Kit Parafusos Aço Inox Grade 316 (A4) — substituir originais",
+      "palavrasChave": "kit parafusos inox 316 a4 bicicleta",
+      "termosObrigatorios": [
+        [
+          "inox"
+        ]
+      ],
+      "precoAlvo": 60,
+      "precoMin": 20,
+      "precoMax": 150,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/kit-parafusos-inox-316-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-descontaminante-ferroso",
+      "nome": "Descontaminante Ferroso (proteção contra maresia)",
+      "palavrasChave": "descontaminante ferroso automotivo",
+      "termosObrigatorios": [
+        "descontaminante"
+      ],
+      "precoAlvo": 40,
+      "precoMin": 15,
+      "precoMax": 90,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/descontaminante-ferroso-automotivo_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-capa-de-chuva",
+      "nome": "Capa de Chuva para Motociclista/Ciclista (Delta/Alba/Pantaneiro)",
+      "palavrasChave": "capa de chuva motociclista delta alba pantaneiro",
+      "termosObrigatorios": [
+        [
+          "delta",
+          "alba",
+          "pantaneiro"
+        ]
+      ],
+      "precoAlvo": 100,
+      "precoMin": 40,
+      "precoMax": 250,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/capa-de-chuva-motociclista-delta-alba-pantaneiro_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-luva-motoqueiro-meio-dedo-protetor",
+      "nome": "Luva Motoqueiro Meio Dedo com Protetor (nós dos dedos)",
+      "palavrasChave": "luva motoqueiro meio dedo protetor nos dedos",
+      "termosObrigatorios": [
+        [
+          "meio dedo",
+          "dedo curto"
+        ],
+        [
+          "protetor",
+          "protecao"
+        ]
+      ],
+      "termosProibidos": [
+        "dedo inteiro",
+        "dedo longo"
+      ],
+      "precoAlvo": 50,
+      "precoMin": 20,
+      "precoMax": 120,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/luva-motoqueiro-meio-dedo-protetor_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-balaclava",
+      "nome": "Balaclava (proteção facial)",
+      "palavrasChave": "balaclava motociclista ciclista",
+      "termosObrigatorios": [
+        "balaclava"
+      ],
+      "precoAlvo": 35,
+      "precoMin": 10,
+      "precoMax": 80,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/balaclava-motociclista-ciclista_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-capacete-ciclismo-viseira",
+      "nome": "Capacete de Ciclismo com Viseira",
+      "palavrasChave": "capacete de ciclismo com viseira",
+      "termosObrigatorios": [
+        "capacete"
+      ],
+      "precoAlvo": 150,
+      "precoMin": 60,
+      "precoMax": 350,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/capacete-de-ciclismo-com-viseira_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-descanso-pezinho",
+      "nome": "Descanso / Pezinho para estacionar a bike",
+      "palavrasChave": "descanso pezinho bicicleta",
+      "termosObrigatorios": [
+        [
+          "descanso",
+          "pezinho"
+        ]
+      ],
+      "precoAlvo": 30,
+      "precoMin": 10,
+      "precoMax": 80,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/descanso-pezinho-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-lubrificante-corrente-maresia",
+      "nome": "Lubrificante de Corrente resistente à maresia",
+      "palavrasChave": "lubrificante de corrente bicicleta maresia",
+      "termosObrigatorios": [
+        "lubrificante"
+      ],
+      "precoAlvo": 40,
+      "precoMin": 15,
+      "precoMax": 90,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/lubrificante-de-corrente-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-colete-refletivo",
+      "nome": "Colete Refletivo (visibilidade noturna)",
+      "palavrasChave": "colete refletivo motociclista ciclista",
+      "termosObrigatorios": [
+        "refletivo"
+      ],
+      "precoAlvo": 30,
+      "precoMin": 10,
+      "precoMax": 70,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/colete-refletivo-motociclista_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-aros-vzan-aro26-36furos",
+      "nome": "Aros VZAN (VMAXX DH ou Extreme Pro), Aro 26, Parede Dupla Downhill, Freio a Disco, 36 furos",
+      "palavrasChave": "aro vzan aro 26 parede dupla downhill freio a disco 36 furos",
+      "termosObrigatorios": [
+        [
+          "vzan"
+        ],
+        [
+          "disco",
+          "dh",
+          "downhill"
+        ]
+      ],
+      "precoAlvo": 200,
+      "precoMin": 80,
+      "precoMax": 400,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/aro-vzan-aro-26-parede-dupla-downhill-freio-a-disco-36-furos_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-cubo-absolute-brutus-dj",
+      "nome": "Cubo Absolute Brutus DJ (traseiro, cassete/freehub, 135mm)",
+      "palavrasChave": "cubo absolute brutus dj 135mm",
+      "termosObrigatorios": [
+        [
+          "absolute"
+        ],
+        [
+          "brutus"
+        ]
+      ],
+      "precoAlvo": 150,
+      "precoMin": 60,
+      "precoMax": 300,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/cubo-absolute-brutus-dj-135mm_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-raios-inox-niples-latao",
+      "nome": "Raios Aço Inox grosso 2,3mm/2,5mm, Aro 26, com Niples de Latão Niquelado",
+      "palavrasChave": "raio inox grosso 2.3mm 2.5mm aro 26 niple latao bicicleta",
+      "termosObrigatorios": [
+        [
+          "raio"
+        ],
+        [
+          "inox"
+        ],
+        "26"
+      ],
+      "termosProibidos": [
+        "aro 20",
+        "aro 29",
+        "aro 700",
+        "bmx",
+        "niple de ar",
+        "niple pneumatico",
+        "aeroquipe",
+        "npt"
+      ],
+      "precoAlvo": 100,
+      "precoMin": 40,
+      "precoMax": 250,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/raio-inox-2.3mm-2.5mm-aro-26-niple-latao-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-pneus-175-semislick",
+      "nome": "Pneus 1.75\" Semi-slick (Kenda K-847 Kross Plus ou Pirelli Scorpion MB2) — par",
+      "palavrasChave": "pneu bicicleta 1.75 kenda k-847 pirelli scorpion mb2",
+      "termosObrigatorios": [
+        [
+          "kenda",
+          "pirelli",
+          "scorpion"
+        ]
+      ],
+      "precoAlvo": 200,
+      "precoMin": 80,
+      "precoMax": 400,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/pneu-bicicleta-kenda-k-847-pirelli-scorpion-mb2_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-couro-de-bode-antifuro",
+      "nome": "Couro de Bode (artesanal) para Antifuro — usado com Câmara de Ar",
+      "palavrasChave": "couro de bode antifuro bicicleta pneu",
+      "termosObrigatorios": [
+        [
+          "couro de bode"
+        ]
+      ],
+      "precoAlvo": 60,
+      "precoMin": 20,
+      "precoMax": 150,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/couro-de-bode-antifuro-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-antifurto-eixo-onipax",
+      "nome": "Antifurto de Eixo ONIPAX (sistema com chave específica)",
+      "palavrasChave": "antifurto de eixo onipax bicicleta",
+      "termosObrigatorios": [
+        [
+          "onipax"
+        ]
+      ],
+      "precoAlvo": 150,
+      "precoMin": 60,
+      "precoMax": 350,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/antifurto-de-eixo-onipax-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-camaras-de-ar-aro26",
+      "nome": "Câmaras de Ar Aro 26 (par, compatível com pneu escolhido)",
+      "palavrasChave": "camara de ar aro 26 bicicleta",
+      "termosObrigatorios": [
+        [
+          "camara de ar"
+        ],
+        "26"
+      ],
+      "precoAlvo": 40,
+      "precoMin": 15,
+      "precoMax": 90,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/camara-de-ar-aro-26-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-sistema-auxiliar-12v-buckboost",
+      "nome": "Sistema Auxiliar 12V: Conversor Buck-Boost (8-60V→12.6V) + Diodo Schottky + Pack 3S",
+      "palavrasChave": "conversor buck boost 12v diodo schottky bicicleta eletrica",
+      "termosObrigatorios": [
+        [
+          "buck",
+          "boost"
+        ]
+      ],
+      "precoAlvo": 80,
+      "precoMin": 30,
+      "precoMax": 200,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/conversor-buck-boost-12v-bicicleta-eletrica_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-conectores-xt90s",
+      "nome": "Conectores XT90-S (Anti-faísca)",
+      "palavrasChave": "conector xt90s anti faisca bateria",
+      "termosObrigatorios": [
+        [
+          "xt90"
+        ]
+      ],
+      "precoAlvo": 30,
+      "precoMin": 10,
+      "precoMax": 70,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/conector-xt90s-anti-faisca-bateria_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-sinalizacao-full-range-12-80v",
+      "nome": "Sinalização Farol/Setas/Luz de Freio \"Full Range\" (12V-80V)",
+      "palavrasChave": "farol seta luz de freio moto full range 12v 80v",
+      "termosObrigatorios": [
+        [
+          "full range",
+          "12v-80v",
+          "12-80v"
+        ]
+      ],
+      "precoAlvo": 100,
+      "precoMin": 40,
+      "precoMax": 250,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/farol-seta-luz-de-freio-full-range-12v-80v_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-buzina-caracol-12v",
+      "nome": "Buzina 12V tipo \"Caracol\"",
+      "palavrasChave": "buzina caracol 12v moto",
+      "termosObrigatorios": [
+        [
+          "caracol"
+        ]
+      ],
+      "precoAlvo": 40,
+      "precoMin": 15,
+      "precoMax": 100,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/buzina-caracol-12v-moto_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "ebike-conduites-cabos-fiacao",
+      "nome": "Conduítes para cabos de freio/câmbio e fiação elétrica",
+      "palavrasChave": "conduite para cabo bicicleta fiacao",
+      "termosObrigatorios": [
+        "conduite"
+      ],
+      "precoAlvo": 30,
+      "precoMin": 10,
+      "precoMax": 70,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/conduite-para-cabo-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "celula-lifepo4-eve-c33-33140",
+      "nome": "Célula LiFePO4 EVE C33 33140 (3.2V, 15Ah) — costuma vender em kit de 4",
+      "palavrasChave": "kit 4 celulas bateria lifepo4 eve c33 33140 15ah",
+      "termosObrigatorios": [
+        [
+          "c33",
+          "33140"
+        ]
+      ],
+      "termosProibidos": [
+        "carregador",
+        "solda",
+        "spot welder",
+        "maquina",
+        "placa",
+        "case",
+        "suporte",
+        "organizador",
+        "mb31",
+        "mb56"
+      ],
+      "precoAlvo": 160,
+      "precoMin": 15,
+      "precoMax": 700,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/celula-lifepo4-eve-c33_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True",
+        "https://lista.mercadolivre.com.br/kit-4-celulas-lifepo4-eve-c33-33140_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "aliexpress": true,
+      "aliexpressBusca": "EVE C33 33140 15Ah LiFePO4 battery cell 4pcs pack"
+    },
+    {
+      "id": "celula-lifepo4-eve-c40-40135",
+      "nome": "Célula LiFePO4 EVE C40 40135 (3.2V, 20Ah) — costuma vender em kit de 4",
+      "palavrasChave": "kit 4 celulas bateria lifepo4 eve c40 40135 20ah",
+      "termosObrigatorios": [
+        [
+          "c40",
+          "40135"
+        ]
+      ],
+      "termosProibidos": [
+        "carregador",
+        "solda",
+        "spot welder",
+        "maquina",
+        "placa",
+        "case",
+        "suporte",
+        "organizador",
+        "disjuntor",
+        "tramontina"
+      ],
+      "precoAlvo": 200,
+      "precoMin": 15,
+      "precoMax": 800,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/celula-lifepo4-eve-c40_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True",
+        "https://lista.mercadolivre.com.br/kit-4-celulas-lifepo4-eve-c40-40135_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "aliexpress": true,
+      "aliexpressBusca": "EVE C40 40135 20Ah LiFePO4 battery cell 4pcs pack"
+    },
+    {
+      "id": "hidraulica-manometro-63mm-20kgf-14npt",
+      "nome": "Manômetro com Glicerina 63mm, 0-20 kgf/cm², rosca 1/4\" NPT",
+      "palavrasChave": "manometro glicerina 63mm 0-20 kgf/cm2 rosca 1/4 npt",
+      "termosObrigatorios": [
+        [
+          "manometro"
+        ],
+        [
+          "1/4",
+          "14 npt",
+          "1.4"
+        ]
+      ],
+      "termosProibidos": [
+        "vacuometro",
+        "vacuômetro",
+        "polhg",
+        "400 kgf",
+        "300 kgf",
+        "industrial"
+      ],
+      "precoAlvo": 60,
+      "precoMin": 20,
+      "precoMax": 150,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/manometro-glicerina-0-20-kgf-cm2-rosca-1-4-npt-63mm_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "hidraulica-bucha-reducao-latao-12x14npt",
+      "nome": "Bucha de Redução Latão 1/2\" x 1/4\" NPT (adaptador para manômetro)",
+      "palavrasChave": "bucha reducao latao 1/2 x 1/4 npt manometro",
+      "termosObrigatorios": [
+        [
+          "bucha"
+        ],
+        [
+          "1/4",
+          "14"
+        ]
+      ],
+      "termosProibidos": [
+        "1/8",
+        "3/4 x 1/2",
+        "3/4x1/2"
+      ],
+      "precoAlvo": 12,
+      "precoMin": 3,
+      "precoMax": 40,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/bucha-reducao-latao-12-x-14-npt_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "hidraulica-te-agua-fria-12-vs",
+      "nome": "Tê 1/2\" PVC linha água fria (linha reforçada VS, ≥10 kgf/cm², não a linha normal 7,5 kgf/cm²)",
+      "palavrasChave": "te 1/2 pvc agua fria vs reforcado",
+      "termosObrigatorios": [
+        [
+          "te "
+        ],
+        [
+          "1/2",
+          "20mm"
+        ]
+      ],
+      "termosProibidos": [
+        "esgoto",
+        "3/4",
+        "latao",
+        "glp",
+        "gas"
+      ],
+      "precoAlvo": 15,
+      "precoMin": 5,
+      "precoMax": 50,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/te-agua-fria-12-vs_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "hidraulica-registro-esfera-vs-12",
+      "nome": "Registro de Esfera PVC 1/2\" linha VS (10 kgf/cm² / ~9,8 bar, não a linha normal 7,5 kgf/cm²)",
+      "palavrasChave": "registro esfera pvc 1/2 vs 10 kgf/cm2 agua fria",
+      "termosObrigatorios": [
+        [
+          "registro"
+        ],
+        [
+          "esfera"
+        ],
+        [
+          "1/2",
+          "20mm"
+        ]
+      ],
+      "termosProibidos": [
+        "3/4",
+        "1.1/2",
+        "1 1/2",
+        "latao",
+        "industrial"
+      ],
+      "precoAlvo": 20,
+      "precoMin": 8,
+      "precoMax": 60,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/registro-esfera-pvc-1-2-vs_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "hidraulica-engate-rapido-lava-jato-12-250psi",
+      "nome": "Engate Rápido tipo Lava-Jato/Pneumático 1/2\" (250 PSI ≈17 bar, para mangueira sob pressão)",
+      "palavrasChave": "engate rapido lava jato pneumatico rosca 1/2 250 psi",
+      "termosObrigatorios": [
+        [
+          "engate"
+        ],
+        [
+          "1/2"
+        ]
+      ],
+      "termosProibidos": [
+        "jardim",
+        "click plastico",
+        "3/4",
+        "3/8",
+        "1/4"
+      ],
+      "precoAlvo": 25,
+      "precoMin": 8,
+      "precoMax": 80,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/engate-rapido-lava-jato-12-250psi_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
+      "id": "estufa-esp32-s3-devkit",
+      "nome": "ESP32-S3 DevKit (com PSRAM)",
+      "palavrasChave": "esp32-s3 devkitc n8r8",
+      "precoAlvo": 60,
+      "precoMin": 30,
+      "precoMax": 150,
+      "aliexpress": true,
+      "aliexpressBusca": "esp32-s3 devkitc-1 n8r8 wifi bluetooth"
+    },
+    {
+      "id": "estufa-mcp23017",
+      "nome": "MCP23017 expansor I/O I2C 16 canais",
+      "palavrasChave": "mcp23017 modulo i2c",
+      "precoAlvo": 10,
+      "precoMin": 5,
+      "precoMax": 40,
+      "aliexpress": true,
+      "aliexpressBusca": "mcp23017 i2c io expander module"
+    },
+    {
+      "id": "estufa-sensor-umidade-capacitivo",
+      "nome": "Sensor de umidade do solo capacitivo v2.0 (kit)",
+      "palavrasChave": "sensor umidade solo capacitivo v1.2",
+      "precoAlvo": 40,
+      "precoMin": 15,
+      "precoMax": 120,
+      "aliexpress": true,
+      "aliexpressBusca": "capacitive soil moisture sensor v1.2 10pcs"
+    },
+    {
+      "id": "estufa-ads1115",
+      "nome": "ADS1115 ADC I2C 16-bit 4 canais",
+      "palavrasChave": "ads1115 modulo conversor",
+      "precoAlvo": 15,
+      "precoMin": 8,
+      "precoMax": 50,
+      "aliexpress": true,
+      "aliexpressBusca": "ads1115 16 bit adc module i2c"
+    },
+    {
+      "id": "estufa-bme280",
+      "nome": "BME280 sensor temperatura umidade pressao I2C",
+      "palavrasChave": "bme280 sensor i2c",
+      "precoAlvo": 10,
+      "precoMin": 5,
+      "precoMax": 40,
+      "aliexpress": true,
+      "aliexpressBusca": "bme280 temperature humidity pressure sensor module"
+    },
+    {
+      "id": "estufa-aht20-sht31",
+      "nome": "AHT20 ou SHT31 sensor temperatura umidade I2C",
+      "palavrasChave": "sht31 aht20 sensor i2c",
+      "precoAlvo": 8,
+      "precoMin": 3,
+      "precoMax": 30,
+      "aliexpress": true,
+      "aliexpressBusca": "sht31 aht20 temperature humidity sensor i2c"
+    },
+    {
+      "id": "estufa-bh1750",
+      "nome": "BH1750 sensor luminosidade lux I2C",
+      "palavrasChave": "bh1750 sensor luminosidade",
+      "precoAlvo": 6,
+      "precoMin": 2,
+      "precoMax": 25,
+      "aliexpress": true,
+      "aliexpressBusca": "bh1750 light intensity sensor module"
+    },
+    {
+      "id": "estufa-ds18b20",
+      "nome": "DS18B20 sensor temperatura OneWire",
+      "palavrasChave": "ds18b20 sensor temperatura",
+      "precoAlvo": 5,
+      "precoMin": 2,
+      "precoMax": 25,
+      "aliexpress": true,
+      "aliexpressBusca": "ds18b20 waterproof temperature sensor probe"
+    },
+    {
+      "id": "estufa-jsn-sr04t",
+      "nome": "JSN-SR04T sensor ultrassonico a prova d'agua",
+      "palavrasChave": "jsn-sr04t sensor ultrassonico",
+      "precoAlvo": 15,
+      "precoMin": 8,
+      "precoMax": 50,
+      "aliexpress": true,
+      "aliexpressBusca": "jsn-sr04t waterproof ultrasonic sensor module"
+    },
+    {
+      "id": "estufa-bpw34",
+      "nome": "BPW34 fotodiodo",
+      "palavrasChave": "bpw34 fotodiodo",
+      "precoAlvo": 3,
+      "precoMin": 1,
+      "precoMax": 15,
+      "aliexpress": true,
+      "aliexpressBusca": "bpw34 photodiode"
+    },
+    {
+      "id": "estufa-as7341",
+      "nome": "AS7341 sensor espectral I2C",
+      "palavrasChave": "as7341 sensor espectral",
+      "precoAlvo": 25,
+      "precoMin": 10,
+      "precoMax": 80,
+      "aliexpress": true,
+      "aliexpressBusca": "as7341 10-channel spectral sensor module"
+    },
+    {
+      "id": "estufa-ds3231",
+      "nome": "DS3231 RTC com TCXO",
+      "palavrasChave": "ds3231 modulo rtc",
+      "precoAlvo": 8,
+      "precoMin": 3,
+      "precoMax": 30,
+      "aliexpress": true,
+      "aliexpressBusca": "ds3231 rtc real time clock module"
+    },
+    {
+      "id": "estufa-ina226",
+      "nome": "INA226 sensor corrente potencia I2C",
+      "palavrasChave": "ina226 sensor corrente",
+      "precoAlvo": 10,
+      "precoMin": 5,
+      "precoMax": 40,
+      "aliexpress": true,
+      "aliexpressBusca": "ina226 current power monitor module i2c"
+    },
+    {
+      "id": "estufa-valvula-solenoide-12v-baixa-pressao",
+      "nome": "Válvula solenoide DC 12V NF baixa pressão",
+      "palavrasChave": "valvula solenoide 12v baixa pressao",
+      "precoAlvo": 25,
+      "precoMin": 10,
+      "precoMax": 80,
+      "aliexpress": true,
+      "aliexpressBusca": "12v dc solenoid valve normally closed low pressure"
+    },
+    {
+      "id": "estufa-mosfet-logic-level",
+      "nome": "MOSFET logic-level (IRLZ44N/AO3400, kit)",
+      "palavrasChave": "mosfet irlz44n logic level",
+      "precoAlvo": 10,
+      "precoMin": 3,
+      "precoMax": 40,
+      "aliexpress": true,
+      "aliexpressBusca": "irlz44n logic level mosfet 10pcs"
+    },
+    {
+      "id": "estufa-tca9548a",
+      "nome": "TCA9548A multiplexador I2C 8 canais",
+      "palavrasChave": "tca9548a multiplexador i2c",
+      "precoAlvo": 10,
+      "precoMin": 5,
+      "precoMax": 35,
+      "aliexpress": true,
+      "aliexpressBusca": "tca9548a i2c multiplexer module"
+    },
+    {
+      "id": "estufa-led-grow-light-100w-fullspectrum",
+      "nome": "Painel LED grow light full-spectrum ~100W",
+      "palavrasChave": "painel led grow light full spectrum 100w cultivo plantas",
+      "termosObrigatorios": [
+        [
+          "grow",
+          "cultivo",
+          "plantas",
+          "horticultura"
+        ],
+        [
+          "full spectrum",
+          "espectro completo"
+        ]
+      ],
+      "termosProibidos": [
+        "fita led",
+        "luminaria residencial",
+        "lampada residencial",
+        "equivalente",
+        "holofote comum",
+        "led strip"
+      ],
+      "precoAlvo": 150,
+      "precoMin": 60,
+      "precoMax": 400,
+      "aliexpress": true,
+      "aliexpressBusca": "100w led grow light full spectrum panel ppf"
+    },
+    {
+      "id": "estufa-led-grow-light-150w-fullspectrum",
+      "nome": "Painel LED grow light full-spectrum ~150-200W",
+      "palavrasChave": "painel led grow light full spectrum 150w 200w quantum board cultivo",
+      "termosObrigatorios": [
+        [
+          "grow",
+          "cultivo",
+          "plantas",
+          "horticultura"
+        ],
+        [
+          "full spectrum",
+          "quantum board",
+          "ppf"
+        ]
+      ],
+      "termosProibidos": [
+        "fita led",
+        "luminaria residencial",
+        "lampada residencial",
+        "equivalente",
+        "holofote comum",
+        "led strip"
+      ],
+      "precoAlvo": 250,
+      "precoMin": 100,
+      "precoMax": 600,
+      "aliexpress": true,
+      "aliexpressBusca": "150w 200w led grow light full spectrum panel ppf samsung lm301"
+    },
+    {
+      "id": "estufa-cd74hc4067",
+      "nome": "CD74HC4067 Multiplexador Analogico 16 canais",
+      "palavrasChave": "cd74hc4067 multiplexador 16 canais",
+      "precoAlvo": 10,
+      "precoMin": 3,
+      "precoMax": 30,
+      "aliexpress": true,
+      "aliexpressBusca": "CD74HC4067 16 channel analog multiplexer module"
+    },
+    {
+      "id": "estufa-veml7700",
+      "nome": "VEML7700 Sensor de Luz Ambiente I2C",
+      "palavrasChave": "veml7700 sensor de luz",
+      "precoAlvo": 15,
+      "precoMin": 5,
+      "precoMax": 35,
+      "aliexpress": true,
+      "aliexpressBusca": "VEML7700 ambient light sensor module"
+    },
+    {
+      "id": "estufa-moc3063",
+      "nome": "MOC3063 Optoacoplador Zero-Cross",
+      "palavrasChave": "moc3063 optoacoplador",
+      "precoAlvo": 10,
+      "precoMin": 3,
+      "precoMax": 25,
+      "aliexpress": true,
+      "aliexpressBusca": "MOC3063 optoisolator zero cross"
+    },
+    {
+      "id": "estufa-bta16",
+      "nome": "BTA16-600B TRIAC",
+      "palavrasChave": "bta16 600b triac",
+      "precoAlvo": 10,
+      "precoMin": 3,
+      "precoMax": 25,
+      "aliexpress": true,
+      "aliexpressBusca": "BTA16-600B triac"
+    },
+    {
+      "id": "estufa-irlz44n",
+      "nome": "IRLZ44N MOSFET TO-220",
+      "palavrasChave": "irlz44n mosfet kit",
+      "precoAlvo": 15,
+      "precoMin": 5,
+      "precoMax": 35,
+      "aliexpress": true,
+      "aliexpressBusca": "IRLZ44N mosfet TO-220 10pcs"
+    },
+    {
+      "id": "estufa-sensor-umidade-solo",
+      "nome": "Sensor Umidade Solo Capacitivo V2.0",
+      "palavrasChave": "sensor umidade solo capacitivo v2",
+      "precoAlvo": 10,
+      "precoMin": 3,
+      "precoMax": 25,
+      "aliexpress": true,
+      "aliexpressBusca": "Capacitive Soil Moisture Sensor V2.0 IP67"
+    },
+    {
+      "id": "estufa-eletrovalvula-12v",
+      "nome": "Eletrovalvula 12V DC NC Agua",
+      "palavrasChave": "eletrovalvula 12v dc agua",
+      "precoAlvo": 20,
+      "precoMin": 8,
+      "precoMax": 50,
+      "aliexpress": true,
+      "aliexpressBusca": "Normally Closed Water Inlet Solenoid Valve DC 12V"
+    },
+    {
+      "id": "estufa-zmpt101b",
+      "nome": "ZMPT101B Sensor de Tensao AC",
+      "palavrasChave": "zmpt101b sensor tensao",
+      "precoAlvo": 15,
+      "precoMin": 5,
+      "precoMax": 35,
+      "aliexpress": true,
+      "aliexpressBusca": "ZMPT101B voltage sensor module"
+    },
+    {
+      "id": "estufa-sct013",
+      "nome": "SCT-013-005 Sensor de Corrente AC",
+      "palavrasChave": "sct-013-005 sensor corrente",
+      "precoAlvo": 15,
+      "precoMin": 5,
+      "precoMax": 40,
+      "aliexpress": true,
+      "aliexpressBusca": "SCT-013-005 non invasive AC current sensor"
+    },
+    {
+      "id": "estufa-aht20-bmp280",
+      "nome": "AHT20+BMP280 Modulo Temperatura Umidade Pressao",
+      "palavrasChave": "aht20 bmp280 modulo",
+      "precoAlvo": 10,
+      "precoMin": 2,
+      "precoMax": 25,
+      "aliexpress": true,
+      "aliexpressBusca": "AHT20 BMP280 temperature humidity pressure module"
+    },
+    {
+      "id": "estufa-esp32s3-n16r8",
+      "nome": "ESP32-S3-WROOM-1-N16R8 Modulo",
+      "palavrasChave": "esp32 s3 wroom n16r8",
+      "precoAlvo": 40,
+      "precoMin": 15,
+      "precoMax": 90,
+      "aliexpress": true,
+      "aliexpressBusca": "ESP32-S3-WROOM-1-N16R8 module"
+    },
+    {
+      "id": "estufa-74hc595",
+      "nome": "74HC595 Shift Register",
+      "palavrasChave": "74hc595 shift register",
+      "precoAlvo": 10,
+      "precoMin": 2,
+      "precoMax": 25,
+      "aliexpress": true,
+      "aliexpressBusca": "74HC595 shift register 10pcs"
     }
   ],
   "lojasCupons": [
-    { "slug": "mercado-livre", "nome": "Mercado Livre", "alerta": true },
-    { "slug": "amazon", "nome": "Amazon", "alerta": true },
-    { "slug": "casas-bahia", "nome": "Casas Bahia" },
-    { "slug": "magazine-luiza", "nome": "Magalu" },
-    { "slug": "kabum", "nome": "KaBuM" }
+    {
+      "slug": "mercado-livre",
+      "nome": "Mercado Livre",
+      "alerta": true
+    },
+    {
+      "slug": "amazon",
+      "nome": "Amazon",
+      "alerta": true
+    },
+    {
+      "slug": "casas-bahia",
+      "nome": "Casas Bahia"
+    },
+    {
+      "slug": "magazine-luiza",
+      "nome": "Magalu"
+    },
+    {
+      "slug": "kabum",
+      "nome": "KaBuM"
+    }
   ]
 }
