@@ -3,11 +3,12 @@ import assert from "node:assert/strict";
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { parseAmazon } from "../sources/amazon.js";
+import { parseAmazon, parseAmazonBusca } from "../sources/amazon.js";
 import { parseMercadoLivre } from "../sources/mercadolivre.js";
 import { parsePelando } from "../sources/pelando.js";
 import { parsePromobit } from "../sources/promobit.js";
 import { parseComparador } from "../sources/comparador.js";
+import { parseAliExpress } from "../sources/aliexpress.js";
 import { parsePrecoBR, normalizar, tituloRelevante } from "../lib.js";
 
 const aqui = path.dirname(fileURLToPath(import.meta.url));
@@ -44,6 +45,15 @@ test("amazon: extrai título e preço do fixture real", () => {
   assert.equal(r.preco, 1799);
 });
 
+test("amazon: busca por termo extrai título/preço/prime do fixture real", () => {
+  const r = parseAmazonBusca(fixture("amazon-busca.html"));
+  assert.equal(r.erro, undefined);
+  assert.ok(r.anuncios.length >= 30, `esperava >=30 anúncios, veio ${r.anuncios.length}`);
+  const comPrime = r.anuncios.filter((a) => a.prime);
+  assert.equal(comPrime.length, 11, "página real tem 11 cards com badge Prime");
+  for (const a of r.anuncios) assert.ok(a.preco > 0 && a.preco < 1000000);
+});
+
 test("mercadolivre: extrai anúncios com preço atual (não o riscado)", () => {
   const r = parseMercadoLivre(fixture("ml.html"));
   assert.equal(r.erro, undefined);
@@ -54,6 +64,22 @@ test("mercadolivre: extrai anúncios com preço atual (não o riscado)", () => {
   assert.equal(exato.preco, 1709);
   assert.match(exato.url, /^https:\/\/(www|produto|click1)\.mercadolivre\.com/);
   for (const a of r.anuncios) assert.ok(a.preco > 0 && a.preco < 1000000);
+});
+
+test("aliexpress: extrai productId/título/preço do JSON embutido (_dida_config_)", () => {
+  const r = parseAliExpress(fixture("aliexpress.html"));
+  assert.equal(r.erro, undefined);
+  assert.ok(r.anuncios.length >= 30, `esperava >=30 anúncios, veio ${r.anuncios.length}`);
+  const exato = r.anuncios.find((a) => /tongsheng tsdz2b/i.test(a.titulo));
+  assert.ok(exato, "produto exato do exemplo deveria estar na busca");
+  assert.equal(exato.preco, 2001.99);
+  assert.match(exato.url, /^https:\/\/pt\.aliexpress\.com\/item\/\d+\.html$/);
+  for (const a of r.anuncios) assert.ok(a.preco > 0 && a.preco < 1000000);
+});
+
+test("aliexpress: página bloqueada (sem _dida_config_) vira erro, não dados", () => {
+  const r = parseAliExpress("<html><body>bloqueado</body></html>");
+  assert.match(r.erro, /bloqueada/);
 });
 
 test("pelando: extrai deals do feed-schema", () => {

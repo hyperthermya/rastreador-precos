@@ -67,9 +67,14 @@ export function normalizar(s) {
 }
 
 // título contém todos os termos obrigatórios do produto?
+// cada termo pode ser uma string (precisa aparecer) ou um array de alternativas
+// (basta uma delas aparecer) — ex.: [["bicicleta", "bike"], "48v"] exige
+// ("bicicleta" OU "bike") E "48v".
 export function tituloRelevante(titulo, produto) {
   const t = normalizar(titulo);
-  const obrigOk = (produto.termosObrigatorios ?? []).every((termo) => t.includes(normalizar(termo)));
+  const obrigOk = (produto.termosObrigatorios ?? []).every((termo) =>
+    Array.isArray(termo) ? termo.some((alt) => t.includes(normalizar(alt))) : t.includes(normalizar(termo))
+  );
   const proibOk = !(produto.termosProibidos ?? []).some((termo) => t.includes(normalizar(termo)));
   return obrigOk && proibOk;
 }

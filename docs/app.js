@@ -9,6 +9,7 @@ const NOMES_FONTES = {
   buscape: "Buscapé",
   pelando: "Pelando",
   promobit: "Promobit",
+  aliexpress: "AliExpress",
 };
 
 function tempoRelativo(iso) {
@@ -117,13 +118,34 @@ function cardProduto(id, p, historico) {
   </section>`;
 }
 
+// AliExpress roda separado (workflow diário, headless) e grava em aliexpress.json;
+// aqui a gente mescla essas ofertas nos mesmos cards, sem mexer no pipeline de 3h.
+function mesclarAliexpress(latest, aliexpress) {
+  if (!aliexpress?.produtos) return latest;
+  for (const [id, dados] of Object.entries(aliexpress.produtos)) {
+    const p = latest.produtos?.[id];
+    if (!p || !dados.ofertas?.length) continue;
+    const novas = dados.ofertas.map((o) => ({ ...o, coletadoEm: dados.em }));
+    p.ofertas = [...(p.ofertas ?? []), ...novas];
+    p.fontes = { ...p.fontes, aliexpress: { ok: dados.ok, erro: dados.erro, em: dados.em } };
+    // recalcula a melhor oferta considerando o AliExpress (o backend calculou sem ele)
+    const maisBarataAli = novas.reduce((min, o) => (min == null || o.preco < min.preco ? o : min), null);
+    if (maisBarataAli && (!p.melhorOferta || maisBarataAli.preco < p.melhorOferta.preco)) {
+      p.melhorOferta = maisBarataAli;
+    }
+  }
+  return latest;
+}
+
 async function carregar() {
   try {
     const cb = `?t=${Date.now()}`;
-    const [latest, history] = await Promise.all([
+    const [latest, history, aliexpress] = await Promise.all([
       fetch(`data/latest.json${cb}`).then((r) => r.json()),
       fetch(`data/history.json${cb}`).then((r) => r.json()).catch(() => ({})),
+      fetch(`data/aliexpress.json${cb}`).then((r) => r.json()).catch(() => null),
     ]);
+    mesclarAliexpress(latest, aliexpress);
     document.getElementById("ultima-coleta").textContent =
       `última coleta: ${tempoRelativo(latest.geradoEm)} (${new Date(latest.geradoEm).toLocaleString("pt-BR")})`;
     const cards = Object.entries(latest.produtos ?? {})

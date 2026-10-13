@@ -2,9 +2,18 @@
   "name": "rastreador-precos-scraper",
   "private": true,
   "type": "module",
-  "engines": { "node": ">=20" },
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "collect": "node index.js",
+    "collect:aliexpress": "node aliexpress-run.mjs",
     "test": "node --test test/parsers.test.js test/alert.test.js"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "puppeteer": "^23.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
   }
 }

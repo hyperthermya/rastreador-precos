@@ -29,7 +29,7 @@ export function parseComparador(html, base) {
 // Fábrica do módulo de fonte: buscar(produto) -> { ofertas: [...] }
 export function criarFonteComparador({ fonte, base, urlBusca }) {
   return {
-    async buscar(produto) {
+    async buscar(produto, { limite = 5 } = {}) {
       const url = urlBusca(produto.palavrasChave);
       const html = await fetchComRetry(url, {
         headers: headersNavegador(UAS_DESKTOP[0]),
@@ -47,7 +47,7 @@ export function criarFonteComparador({ fonte, base, urlBusca }) {
         if (vistos.has(chave)) continue;
         vistos.add(chave);
         ofertas.push({ fonte, ...o });
-        if (ofertas.length >= 5) break;
+        if (ofertas.length >= limite) break;
       }
       return { ofertas };
     },

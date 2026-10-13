@@ -4,6 +4,12 @@ Dashboard pessoal que acompanha o melhor preço e as promoções/cupons de produ
 lista de desejos. Roda sozinho e de graça:
 
 - **GitHub Actions** coleta os preços a cada 3 horas (Amazon BR, Mercado Livre, Pelando e Promobit).
+- **AliExpress** roda separado, 1x/dia (`.github/workflows/aliexpress.yml`) — usa navegador headless
+  (Puppeteer + stealth) porque a busca do site é toda renderizada via JS, diferente das outras
+  fontes (fetch simples + regex). Só roda para produtos marcados com `"aliexpress": true` em
+  `products.json` (ex.: peças de nicho que não aparecem no Mercado Livre, como controlador VESC).
+  Os resultados ficam em `docs/data/aliexpress.json` e são mesclados nos mesmos cards pelo
+  dashboard — não passam pelo sistema de alertas por email por enquanto.
 - **Vercel** serve o dashboard (pasta [`docs/`](docs/), Root Directory `docs`), republicando a cada push de dados.
 - **Resend** envia email quando um produto fica abaixo do preço-alvo ou atinge um novo
   menor preço histórico.
@@ -33,6 +39,9 @@ Campos de cada produto:
 | `precoAlvo` | preço que dispara o alerta por email |
 | `precoMin` / `precoMax` | faixa plausível de preço (descarta acessórios e anúncios errados) |
 | `amazonUrl` | link direto do produto na Amazon (opcional) |
+| `mercadoLivreUrls` | lista de URLs de busca/categoria do Mercado Livre já com filtros aplicados (usado, faixa de preço, características como "bateria removível") — colar direto da barra de endereço depois de configurar os filtros manualmente no site. Buscadas além da busca padrão por `palavrasChave`; os anúncios de todas as URLs são combinados antes do filtro de relevância (opcional) |
+| `aliexpress` | `true` para incluir o produto na coleta diária do AliExpress (opcional, só para o que não acha no ML) |
+| `aliexpressBusca` | termo de busca alternativo para o AliExpress, quando o termo em português não existe no catálogo (opcional — sem isso usa `palavrasChave`) |
 
 ## Como força uma atualização agora
 
