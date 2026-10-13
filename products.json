@@ -1428,16 +1428,6 @@
       ]
     },
     {
-      "id": "estufa-esp32-s3-devkit",
-      "nome": "ESP32-S3 DevKit (com PSRAM)",
-      "palavrasChave": "esp32-s3 devkitc n8r8",
-      "precoAlvo": 60,
-      "precoMin": 30,
-      "precoMax": 150,
-      "aliexpress": true,
-      "aliexpressBusca": "esp32-s3 devkitc-1 n8r8 wifi bluetooth"
-    },
-    {
       "id": "estufa-mcp23017",
       "nome": "MCP23017 expansor I/O I2C 16 canais",
       "palavrasChave": "mcp23017 modulo i2c",
@@ -1448,16 +1438,6 @@
       "aliexpressBusca": "mcp23017 i2c io expander module"
     },
     {
-      "id": "estufa-sensor-umidade-capacitivo",
-      "nome": "Sensor de umidade do solo capacitivo v2.0 (kit)",
-      "palavrasChave": "sensor umidade solo capacitivo v1.2",
-      "precoAlvo": 40,
-      "precoMin": 15,
-      "precoMax": 120,
-      "aliexpress": true,
-      "aliexpressBusca": "capacitive soil moisture sensor v1.2 10pcs"
-    },
-    {
       "id": "estufa-ads1115",
       "nome": "ADS1115 ADC I2C 16-bit 4 canais",
       "palavrasChave": "ads1115 modulo conversor",
@@ -1466,26 +1446,6 @@
       "precoMax": 50,
       "aliexpress": true,
       "aliexpressBusca": "ads1115 16 bit adc module i2c"
-    },
-    {
-      "id": "estufa-bme280",
-      "nome": "BME280 sensor temperatura umidade pressao I2C",
-      "palavrasChave": "bme280 sensor i2c",
-      "precoAlvo": 10,
-      "precoMin": 5,
-      "precoMax": 40,
-      "aliexpress": true,
-      "aliexpressBusca": "bme280 temperature humidity pressure sensor module"
-    },
-    {
-      "id": "estufa-aht20-sht31",
-      "nome": "AHT20 ou SHT31 sensor temperatura umidade I2C",
-      "palavrasChave": "sht31 aht20 sensor i2c",
-      "precoAlvo": 8,
-      "precoMin": 3,
-      "precoMax": 30,
-      "aliexpress": true,
-      "aliexpressBusca": "sht31 aht20 temperature humidity sensor i2c"
     },
     {
       "id": "estufa-bh1750",
@@ -1546,46 +1506,6 @@
       "precoMax": 30,
       "aliexpress": true,
       "aliexpressBusca": "ds3231 rtc real time clock module"
-    },
-    {
-      "id": "estufa-ina226",
-      "nome": "INA226 sensor corrente potencia I2C",
-      "palavrasChave": "ina226 sensor corrente",
-      "precoAlvo": 10,
-      "precoMin": 5,
-      "precoMax": 40,
-      "aliexpress": true,
-      "aliexpressBusca": "ina226 current power monitor module i2c"
-    },
-    {
-      "id": "estufa-valvula-solenoide-12v-baixa-pressao",
-      "nome": "Válvula solenoide DC 12V NF baixa pressão",
-      "palavrasChave": "valvula solenoide 12v baixa pressao",
-      "precoAlvo": 25,
-      "precoMin": 10,
-      "precoMax": 80,
-      "aliexpress": true,
-      "aliexpressBusca": "12v dc solenoid valve normally closed low pressure"
-    },
-    {
-      "id": "estufa-mosfet-logic-level",
-      "nome": "MOSFET logic-level (IRLZ44N/AO3400, kit)",
-      "palavrasChave": "mosfet irlz44n logic level",
-      "precoAlvo": 10,
-      "precoMin": 3,
-      "precoMax": 40,
-      "aliexpress": true,
-      "aliexpressBusca": "irlz44n logic level mosfet 10pcs"
-    },
-    {
-      "id": "estufa-tca9548a",
-      "nome": "TCA9548A multiplexador I2C 8 canais",
-      "palavrasChave": "tca9548a multiplexador i2c",
-      "precoAlvo": 10,
-      "precoMin": 5,
-      "precoMax": 35,
-      "aliexpress": true,
-      "aliexpressBusca": "tca9548a i2c multiplexer module"
     },
     {
       "id": "estufa-led-grow-light-100w-fullspectrum",
