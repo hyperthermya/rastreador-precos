@@ -1626,6 +1626,36 @@
       "precoMax": 35,
       "aliexpress": true,
       "aliexpressBusca": "INA226 current voltage sensor module I2C"
+    },
+    {
+      "id": "estufa-fugu2-indutor-100uh",
+      "nome": "Indutor 100uH 8A+ (Fugu2 MPPT redimensionado)",
+      "palavrasChave": "indutor 100uh 8a toroidal",
+      "precoAlvo": 15,
+      "precoMin": 3,
+      "precoMax": 35,
+      "aliexpress": true,
+      "aliexpressBusca": "100uH power inductor 8A toroidal"
+    },
+    {
+      "id": "estufa-fugu2-shunt-10mohm",
+      "nome": "Resistor Shunt 10mOhm 1W (INA226, Fugu2)",
+      "palavrasChave": "resistor shunt 10mohm 1w",
+      "precoAlvo": 10,
+      "precoMin": 2,
+      "precoMax": 25,
+      "aliexpress": true,
+      "aliexpressBusca": "10mohm 0.01 ohm shunt resistor 1W current sense"
+    },
+    {
+      "id": "estufa-painel-solar-80w",
+      "nome": "Painel Solar 80W 18-20V (carga banco 48Ah via Fugu2)",
+      "palavrasChave": "painel solar 80w 18v",
+      "precoAlvo": 150,
+      "precoMin": 60,
+      "precoMax": 300,
+      "aliexpress": true,
+      "aliexpressBusca": "80W solar panel 18V monocrystalline"
     }
   ],
   "lojasCupons": [
