@@ -1635,7 +1635,7 @@
       "precoMin": 3,
       "precoMax": 35,
       "aliexpress": true,
-      "aliexpressBusca": "100uH power inductor 8A toroidal"
+      "aliexpressBusca": "toroid power choke inductor 10A high current"
     },
     {
       "id": "estufa-fugu2-shunt-10mohm",
