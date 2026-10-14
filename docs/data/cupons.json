@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-14T20:08:36.294Z",
+ "geradoEm": "2026-10-14T23:14:51.894Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-14T20:08:36.294Z"
+   "em": "2026-10-14T23:14:51.894Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-14T20:08:36.294Z"
+   "em": "2026-10-14T23:14:51.894Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-14T20:08:36.294Z"
+   "em": "2026-10-14T23:14:51.894Z"
   },
   {
    "loja": "Magalu",
@@ -206,32 +206,32 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "MIDEA10",
-     "descricao": "10% OFF em produtos Midea.",
-     "titulo": "Compre com cupom Magalu e ganhe 10% OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "LU250",
-     "descricao": "R$250 OFF em produtos selecionados.",
-     "titulo": "Super promo Magalu: Desconto de R$250 com código promocional",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "LU150",
-     "descricao": "R$150 OFF em produtos selecionados.",
-     "titulo": "Use cupom Magalu e tenha R$150 de desconto",
-     "verificadoHoje": false
-    },
-    {
      "codigo": "LU300",
      "descricao": "R$300 OFF para itens selecionados.",
      "titulo": "Cupom Magalu com R$300 OFF em suas compras",
      "verificadoHoje": false
+    },
+    {
+     "codigo": "LU200",
+     "descricao": "R$200 OFF para itens selecionados.",
+     "titulo": "R$200 OFF em seus pedidos com cupom Magalu",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "LU100",
+     "descricao": "Economize R$100 ao usar o código promocional no carrinho de compras.",
+     "titulo": "Use o cupom Magalu e tenha desconto de R$100",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "MIDEA10",
+     "descricao": "10% OFF em produtos Midea.",
+     "titulo": "Compre com cupom Magalu e ganhe 10% OFF",
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-14T20:08:36.294Z"
+   "em": "2026-10-14T23:14:51.894Z"
   },
   {
    "loja": "KaBuM",
@@ -276,20 +276,20 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "COMP10",
-     "descricao": "Desconto válido na seleção do link.",
-     "titulo": "Aplique cupom KaBuM! e ganhe 10% OFF em Notebooks e Monitores",
+     "codigo": "KORUJAOTEL",
+     "descricao": "Válido para os itens do link.",
+     "titulo": "Korujão KaBuM!: Garanta 10% OFF em iPads e Acessórios",
      "verificadoHoje": false
     },
     {
-     "codigo": "ALIENWARE",
-     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
-     "titulo": "Notebook Gamer Dell Alienware 15 com 6% OFF",
+     "codigo": "KORUJAO5OFF",
+     "descricao": "Válido para os itens do link.",
+     "titulo": "5% OFF em iPhones com o cupom KaBuM!",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-14T20:08:36.294Z"
+   "em": "2026-10-14T23:14:51.894Z"
   }
  ]
 }
