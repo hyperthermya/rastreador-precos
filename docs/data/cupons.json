@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-15T20:11:30.139Z",
+ "geradoEm": "2026-10-15T23:05:18.495Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-15T20:11:30.139Z"
+   "em": "2026-10-15T23:05:18.495Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-15T20:11:30.139Z"
+   "em": "2026-10-15T23:05:18.495Z"
   },
   {
    "loja": "Casas Bahia",
@@ -123,6 +123,12 @@
    "alerta": false,
    "url": "https://www.cuponomia.com.br/desconto/casas-bahia",
    "cupons": [
+    {
+     "codigo": "APROVEITA",
+     "descricao": "Válido em compras a partir de R$ 149. Desconto máximo de R$ 200.",
+     "titulo": "Aproveite 10% OFF com o cupom Casas Bahia",
+     "verificadoHoje": true
+    },
     {
      "codigo": "AQUITEM",
      "descricao": "Válido em compras a partir de R$ 149. Desconto máximo de R$200.",
@@ -164,16 +170,10 @@
      "descricao": "Válido para primeira compra, acima de R$30. Desconto máximo de R$20. Limite de um uso por CPF.",
      "titulo": "Aproveite 50% OFF aplicando cupom Casas Bahia",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "VIPNOML",
-     "descricao": "Válido para compras acima de R$199. Desconto máximo de R$100.",
-     "titulo": "Garanta 10% OFF em suas compras com cupom Casas Bahia",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-15T20:11:30.139Z"
+   "em": "2026-10-15T23:05:18.495Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-15T20:11:30.139Z"
+   "em": "2026-10-15T23:05:18.495Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-15T20:11:30.139Z"
+   "em": "2026-10-15T23:05:18.495Z"
   }
  ]
 }
