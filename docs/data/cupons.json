@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-15T01:33:37.046Z",
+ "geradoEm": "2026-10-15T06:28:11.419Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -11,53 +11,53 @@
      "codigo": "AQUITEM",
      "descricao": "Em compras acima de R$149, com desconto máximo limitado a R$200.",
      "titulo": "10% OFF com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "PEGUESEUCUPOM",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Mercado Livre concede 25% de economia em seus pedidos com cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MEGADESCONTO",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Compre com voucher Mercado Livre e garanta 18% de desconto",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "POUPAMAIS",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Aproveite 25% OFF em suas compras com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "ECONOMIZAMELI",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Garanta desconto de 25% com código Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "CUPOMON",
      "descricao": "30% OFF em compras a partir de R$1, limitado a R$500.",
      "titulo": "Aplique cupom Mercado Livre em suas compras e ganhe 30% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "SUPERCUPOM",
      "descricao": "25% OFF em compras a partir de R$1, limitado a R$500.",
      "titulo": "25% OFF aplicando cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MELIDESCONTOS",
      "descricao": "25% OFF em compras a partir de R$1, limitado a R$500.",
      "titulo": "Utilize código promocional Mercado Livre e obtenha 25% de economia",
-     "verificadoHoje": true
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-15T01:33:37.046Z"
+   "em": "2026-10-15T06:28:11.419Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-15T01:33:37.046Z"
+   "em": "2026-10-15T06:28:11.419Z"
   },
   {
    "loja": "Casas Bahia",
@@ -127,7 +127,7 @@
      "codigo": "AQUITEM",
      "descricao": "Válido em compras a partir de R$ 149. Desconto máximo de R$200.",
      "titulo": "Aplique o cupom Casas Bahia e garanta 10% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "COMPRAPREFERIDA",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-15T01:33:37.046Z"
+   "em": "2026-10-15T06:28:11.419Z"
   },
   {
    "loja": "Magalu",
@@ -181,30 +181,6 @@
    "alerta": false,
    "url": "https://www.cuponomia.com.br/desconto/magazine-luiza",
    "cupons": [
-    {
-     "codigo": "LU400",
-     "descricao": "Aproveite desconto de R$400 para ofertas selecionadas.",
-     "titulo": "Magalu concede R$400 OFF com cupom",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "LU325",
-     "descricao": "R$325 OFF em lista selecionada.",
-     "titulo": "Cupom Magalu garante R$325 OFF em suas compras",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "LU225",
-     "descricao": "Clique no link para conferir os itens selecionados no site.",
-     "titulo": "Ganhe R$225 OFF aplicando cupom Magalu",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "LU175",
-     "descricao": "Lista selecionada com R$175 de desconto.",
-     "titulo": "Aplique cupom Magalu e obtenha R$175 de economia",
-     "verificadoHoje": true
-    },
     {
      "codigo": "LU300",
      "descricao": "R$300 OFF para itens selecionados.",
@@ -224,6 +200,30 @@
      "verificadoHoje": false
     },
     {
+     "codigo": "LU400",
+     "descricao": "Aproveite desconto de R$400 para ofertas selecionadas.",
+     "titulo": "Magalu concede R$400 OFF com cupom",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "LU325",
+     "descricao": "R$325 OFF em lista selecionada.",
+     "titulo": "Cupom Magalu garante R$325 OFF em suas compras",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "LU225",
+     "descricao": "Clique no link para conferir os itens selecionados no site.",
+     "titulo": "Ganhe R$225 OFF aplicando cupom Magalu",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "LU175",
+     "descricao": "Lista selecionada com R$175 de desconto.",
+     "titulo": "Aplique cupom Magalu e obtenha R$175 de economia",
+     "verificadoHoje": false
+    },
+    {
      "codigo": "MIDEA10",
      "descricao": "10% OFF em produtos Midea.",
      "titulo": "Compre com cupom Magalu e ganhe 10% OFF",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-15T01:33:37.046Z"
+   "em": "2026-10-15T06:28:11.419Z"
   },
   {
    "loja": "KaBuM",
@@ -239,42 +239,6 @@
    "alerta": false,
    "url": "https://www.cuponomia.com.br/desconto/kabum",
    "cupons": [
-    {
-     "codigo": "CASATECH15",
-     "descricao": "Clique no link para conferir os produtos da lista selecionada.",
-     "titulo": "15% OFF com cupom KaBuM!",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "COMPRAAGORA",
-     "descricao": "Válido para o produto selecionado.",
-     "titulo": "Nintendo Switch + Super Mario Bros. Wonder com R$300 OFF",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "NINTENDAUM",
-     "descricao": "Válido para o produto do link.",
-     "titulo": "R$500 OFF em suas compras com o código KaBuM!",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "HUSKY10",
-     "descricao": "Aplique o cupom KaBuM! no carrinho de compras. Desconto válido para seleção de produtos do link.",
-     "titulo": "Cadeira Gamer Husky com 10% OFF",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "POP5OFF",
-     "descricao": "Confira a seleção de bonecos no link.",
-     "titulo": "Garanta Boneco Funko Pop! com 5% OFF utilizando cupom KaBuM!",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "ROBONOPRECINHO",
-     "descricao": "Aplique o cupom KaBuM! no carrinho de compras. Válido para a seleção do link.",
-     "titulo": "Garanta Robô Aspirador com 18% OFF",
-     "verificadoHoje": true
-    },
     {
      "codigo": "KORUJAOTEL",
      "descricao": "Válido para os itens do link.",
@@ -286,10 +250,46 @@
      "descricao": "Válido para os itens do link.",
      "titulo": "5% OFF em iPhones com o cupom KaBuM!",
      "verificadoHoje": false
+    },
+    {
+     "codigo": "COMP10",
+     "descricao": "Desconto válido na seleção do link.",
+     "titulo": "Aplique cupom KaBuM! e ganhe 10% OFF em Notebooks e Monitores",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "KABUM10",
+     "descricao": "Desconto válido para itens do link.",
+     "titulo": "Use cupom KaBuM! e obtenha 10% de economia",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "CASATECH15",
+     "descricao": "Clique no link para conferir os produtos da lista selecionada.",
+     "titulo": "15% OFF com cupom KaBuM!",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "COMPRAAGORA",
+     "descricao": "Válido para o produto selecionado.",
+     "titulo": "Nintendo Switch + Super Mario Bros. Wonder com R$300 OFF",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "ALIENWARE",
+     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Notebook Gamer Dell Alienware 15 com 6% OFF",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "PLAY10",
+     "descricao": "Válido para a seleção do link.",
+     "titulo": "Console Sony PlayStation 5 com 10% OFF utilizando cupom KaBuM!",
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-15T01:33:37.046Z"
+   "em": "2026-10-15T06:28:11.419Z"
   }
  ]
 }
