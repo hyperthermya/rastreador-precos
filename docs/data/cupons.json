@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-16T18:56:37.841Z",
+ "geradoEm": "2026-10-16T21:57:55.500Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-16T18:56:37.841Z"
+   "em": "2026-10-16T21:57:55.500Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-16T18:56:37.841Z"
+   "em": "2026-10-16T21:57:55.500Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-16T18:56:37.841Z"
+   "em": "2026-10-16T21:57:55.500Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-16T18:56:37.841Z"
+   "em": "2026-10-16T21:57:55.500Z"
   },
   {
    "loja": "KaBuM",
@@ -254,7 +254,7 @@
     {
      "codigo": "JBL8OFF",
      "descricao": "Válido para os produtos do link.",
-     "titulo": "Produtos JBL com 8% OFF usando cupom KaBuM!",
+     "titulo": "Utilize cupom KaBuM! e garanta produtos JBL com 8% OFF",
      "verificadoHoje": true
     },
     {
@@ -276,20 +276,20 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "ZAFAMD10",
-     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
-     "titulo": "Desconto de 10% em suas compras no site",
+     "codigo": "MAGALU10",
+     "descricao": "Clique no link para conferir os itens da seleção.",
+     "titulo": "Seleção imperdível com 10% OFF aplicando cupom KaBuM!",
      "verificadoHoje": false
     },
     {
-     "codigo": "EPSON10OFF",
-     "descricao": "10% OFF na impressora Epson EcoTank L5590.",
-     "titulo": "Faça compras com cupom KaBuM! e ganhe 10% de desconto",
+     "codigo": "TV9OFF",
+     "descricao": "Válido para o produto selecionado.",
+     "titulo": "Garanta Smart TV 75\" com 9% OFF",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-16T18:56:37.841Z"
+   "em": "2026-10-16T21:57:55.500Z"
   }
  ]
 }
