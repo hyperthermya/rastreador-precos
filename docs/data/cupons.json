@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-16T06:10:11.772Z",
+ "geradoEm": "2026-10-16T11:25:09.781Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -8,56 +8,56 @@
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
     {
-     "codigo": "APROVEITA",
-     "descricao": "Em compras acima de R$149, com desconto máximo limitado a R$200.",
-     "titulo": "Cupom Mercado Livre concede 10% OFF",
-     "verificadoHoje": false
-    },
-    {
      "codigo": "SEUCUPOM",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Promo Mercado Livre garante desconto de 25% com cupom",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "MAISDESCONTO",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Obtenha 30% de economia com cupom Mercado Livre",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "SUPEROFERTA",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "25% OFF com código promocional Mercado Livre",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "PEGUESEUCUPOM",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Mercado Livre concede 25% de economia em seus pedidos com cupom",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "MEGADESCONTO",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Compre com voucher Mercado Livre e garanta 18% de desconto",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "POUPAMAIS",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Aproveite 25% OFF em suas compras com cupom Mercado Livre",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "ECONOMIZAMELI",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Garanta desconto de 25% com código Mercado Livre",
      "verificadoHoje": false
+    },
+    {
+     "codigo": "CUPOMON",
+     "descricao": "30% OFF em compras a partir de R$1, limitado a R$500.",
+     "titulo": "Aplique cupom Mercado Livre em suas compras e ganhe 30% OFF",
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-16T06:10:11.772Z"
+   "em": "2026-10-16T11:25:09.781Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-16T06:10:11.772Z"
+   "em": "2026-10-16T11:25:09.781Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-16T06:10:11.772Z"
+   "em": "2026-10-16T11:25:09.781Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-16T06:10:11.772Z"
+   "em": "2026-10-16T11:25:09.781Z"
   },
   {
    "loja": "KaBuM",
@@ -239,12 +239,6 @@
    "alerta": false,
    "url": "https://www.cuponomia.com.br/desconto/kabum",
    "cupons": [
-    {
-     "codigo": "KORUJAOPERI",
-     "descricao": "Válido para a seleção de produtos do link.",
-     "titulo": "Korujão: Aproveite 10% OFF com o cupom KaBuM!",
-     "verificadoHoje": false
-    },
     {
      "codigo": "COMP10",
      "descricao": "Desconto válido na seleção do link.",
@@ -286,10 +280,16 @@
      "descricao": "Desconto válido para os itens selecionados.",
      "titulo": "30% de economia usando o cupom KaBuM!",
      "verificadoHoje": false
+    },
+    {
+     "codigo": "ATTACK30",
+     "descricao": "Válido para a lista selecionada.",
+     "titulo": "30% OFF em Mouse Gamer com código KaBuM!",
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-16T06:10:11.772Z"
+   "em": "2026-10-16T11:25:09.781Z"
   }
  ]
 }
