@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-16T21:57:55.500Z",
+ "geradoEm": "2026-10-17T00:16:58.289Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-16T21:57:55.500Z"
+   "em": "2026-10-17T00:16:58.289Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-16T21:57:55.500Z"
+   "em": "2026-10-17T00:16:58.289Z"
   },
   {
    "loja": "Casas Bahia",
@@ -123,6 +123,12 @@
    "alerta": false,
    "url": "https://www.cuponomia.com.br/desconto/casas-bahia",
    "cupons": [
+    {
+     "codigo": "OFFHOJE",
+     "descricao": "Válido em compras a partir de R$149. Desconto máximo de R$200.",
+     "titulo": "Use o cupom Casas Bahia e garanta 10% OFF",
+     "verificadoHoje": false
+    },
     {
      "codigo": "APROVEITA",
      "descricao": "Válido em compras a partir de R$ 149. Desconto máximo de R$ 200.",
@@ -164,16 +170,10 @@
      "descricao": "Válido em compras a partir de R$149. Desconto máximo de R$ 200.",
      "titulo": "Use cupom Casas Bahia e garanta 8% OFF",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "COMPRANOML",
-     "descricao": "Válido para primeira compra, acima de R$30. Desconto máximo de R$20. Limite de um uso por CPF.",
-     "titulo": "Aproveite 50% OFF aplicando cupom Casas Bahia",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-16T21:57:55.500Z"
+   "em": "2026-10-17T00:16:58.289Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-16T21:57:55.500Z"
+   "em": "2026-10-17T00:16:58.289Z"
   },
   {
    "loja": "KaBuM",
@@ -276,20 +276,20 @@
      "verificadoHoje": true
     },
     {
+     "codigo": "KORUJAOTECH",
+     "descricao": "Válido para os itens selecionados. Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Korujão: Garanta Notebooks e Monitores com 10% OFF",
+     "verificadoHoje": false
+    },
+    {
      "codigo": "MAGALU10",
      "descricao": "Clique no link para conferir os itens da seleção.",
      "titulo": "Seleção imperdível com 10% OFF aplicando cupom KaBuM!",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "TV9OFF",
-     "descricao": "Válido para o produto selecionado.",
-     "titulo": "Garanta Smart TV 75\" com 9% OFF",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-16T21:57:55.500Z"
+   "em": "2026-10-17T00:16:58.289Z"
   }
  ]
 }
