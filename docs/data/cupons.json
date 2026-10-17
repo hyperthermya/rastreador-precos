@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-17T09:02:24.839Z",
+ "geradoEm": "2026-10-17T12:58:45.403Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -7,6 +7,12 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
+    {
+     "codigo": "OFFNOMELIHOJE",
+     "descricao": "Em compras acima de R$149, com desconto máximo limitado a R$200.",
+     "titulo": "10% OFF com cupom Mercado Livre",
+     "verificadoHoje": false
+    },
     {
      "codigo": "OFFHOJE",
      "descricao": "Em compras acima de R$149, com desconto máximo limitado a R$200.",
@@ -48,16 +54,10 @@
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "25% OFF com código promocional Mercado Livre",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "PEGUESEUCUPOM",
-     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
-     "titulo": "Mercado Livre concede 25% de economia em seus pedidos com cupom",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-17T09:02:24.839Z"
+   "em": "2026-10-17T12:58:45.403Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-17T09:02:24.839Z"
+   "em": "2026-10-17T12:58:45.403Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-17T09:02:24.839Z"
+   "em": "2026-10-17T12:58:45.403Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-17T09:02:24.839Z"
+   "em": "2026-10-17T12:58:45.403Z"
   },
   {
    "loja": "KaBuM",
@@ -239,12 +239,6 @@
    "alerta": false,
    "url": "https://www.cuponomia.com.br/desconto/kabum",
    "cupons": [
-    {
-     "codigo": "KORUJAOTECH",
-     "descricao": "Válido para os itens selecionados. Aplique o cupom KaBuM! no carrinho de compras.",
-     "titulo": "Korujão: Garanta Notebooks e Monitores com 10% OFF",
-     "verificadoHoje": false
-    },
     {
      "codigo": "KABUM10",
      "descricao": "Desconto válido para itens do link.",
@@ -286,10 +280,16 @@
      "descricao": "Válido para o produto do link.",
      "titulo": "R$500 OFF em suas compras com o código KaBuM!",
      "verificadoHoje": false
+    },
+    {
+     "codigo": "HUSKY10",
+     "descricao": "Aplique o cupom KaBuM! no carrinho de compras. Desconto válido para seleção de produtos do link.",
+     "titulo": "Cadeira Gamer Husky com 10% OFF",
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-17T09:02:24.839Z"
+   "em": "2026-10-17T12:58:45.403Z"
   }
  ]
 }
