@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-19T16:49:29.358Z",
+ "geradoEm": "2026-10-19T21:21:26.866Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -44,20 +44,20 @@
      "verificadoHoje": true
     },
     {
+     "codigo": "MUITOBARATO",
+     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
+     "titulo": "Ganhe 25% OFF com código Mercado Livre",
+     "verificadoHoje": true
+    },
+    {
      "codigo": "BOASOFERTAS",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Hora do desconto Mercado Livre: 25% OFF com cupom",
      "verificadoHoje": true
-    },
-    {
-     "codigo": "ESPECIALDESCONTOS",
-     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
-     "titulo": "Ganhe 25% OFF com cupom Mercado Livre",
-     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-10-19T16:49:29.358Z"
+   "em": "2026-10-19T21:21:26.866Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-19T16:49:29.358Z"
+   "em": "2026-10-19T21:21:26.866Z"
   },
   {
    "loja": "Casas Bahia",
@@ -127,6 +127,18 @@
      "codigo": "OFFHOJENOML",
      "descricao": "Válido em compras a partir de R$149. Desconto máximo de R$200.",
      "titulo": "Ganhe 10% OFF com o cupom Casas Bahia",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "TOPMELI",
+     "descricao": "Aplique o cupom no carrinho de compras. Válido em compras a partir de R$ 1.999, em produtos selecionados.",
+     "titulo": "Suas compras com R$300 OFF",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "MELHORDOML",
+     "descricao": "Válido em compras a partir de R$ 1.699, em produtos selecionados.",
+     "titulo": "R$250 de desconto aplicando o código Casas Bahia",
      "verificadoHoje": true
     },
     {
@@ -158,22 +170,10 @@
      "descricao": "Válido para compras acima de R$99. Desconto máximo de R$60.",
      "titulo": "20% de desconto com o código Casas Bahia",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "CLIENTEVIP",
-     "descricao": "Desconto válido para compra acima de R$199. Limite de R$200 OFF.",
-     "titulo": "Suas compras com 10% OFF utilizando cupom Casas Bahia",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "MELIMAIS",
-     "descricao": "Válido em compras a partir de R$799.",
-     "titulo": "Aproveite R$100 OFF com o cupom Casas Bahia",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-19T16:49:29.358Z"
+   "em": "2026-10-19T21:21:26.866Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-19T16:49:29.358Z"
+   "em": "2026-10-19T21:21:26.866Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-19T16:49:29.358Z"
+   "em": "2026-10-19T21:21:26.866Z"
   }
  ]
 }
