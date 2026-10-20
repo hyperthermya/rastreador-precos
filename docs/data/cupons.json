@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-19T21:21:26.866Z",
+ "geradoEm": "2026-10-20T00:31:12.036Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-19T21:21:26.866Z"
+   "em": "2026-10-20T00:31:12.036Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-19T21:21:26.866Z"
+   "em": "2026-10-20T00:31:12.036Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-19T21:21:26.866Z"
+   "em": "2026-10-20T00:31:12.036Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-19T21:21:26.866Z"
+   "em": "2026-10-20T00:31:12.036Z"
   },
   {
    "loja": "KaBuM",
@@ -282,14 +282,14 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "SUANOVAFONTE",
-     "descricao": "Válido para o produto selecionado.",
-     "titulo": "10% OFF em Fonte usando cupom KaBuM!",
+     "codigo": "MEUSONY",
+     "descricao": "Aplique o cupom KaBuM! e ganhe 20% OFF nos produtos do link.",
+     "titulo": "Produtos Sony com 20% OFF",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-19T21:21:26.866Z"
+   "em": "2026-10-20T00:31:12.036Z"
   }
  ]
 }
