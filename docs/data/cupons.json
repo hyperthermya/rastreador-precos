@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-21T20:09:56.116Z",
+ "geradoEm": "2026-10-21T23:19:49.045Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-21T20:09:56.116Z"
+   "em": "2026-10-21T23:19:49.045Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-21T20:09:56.116Z"
+   "em": "2026-10-21T23:19:49.045Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-21T20:09:56.116Z"
+   "em": "2026-10-21T23:19:49.045Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-21T20:09:56.116Z"
+   "em": "2026-10-21T23:19:49.045Z"
   },
   {
    "loja": "KaBuM",
@@ -258,15 +258,15 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "JBL8OFF",
-     "descricao": "Válido para os produtos do link.",
-     "titulo": "Utilize cupom KaBuM! e garanta produtos JBL com 8% OFF",
-     "verificadoHoje": true
-    },
-    {
      "codigo": "CHAPAQUENTE10",
      "descricao": "Desconto válido para os produtos do link.",
      "titulo": "Seleção de produtos com 10% OFF utilizando o código KaBuM!",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "JBL8OFF",
+     "descricao": "Válido para os produtos do link.",
+     "titulo": "Utilize cupom KaBuM! e garanta produtos JBL com 8% OFF",
      "verificadoHoje": true
     },
     {
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-21T20:09:56.116Z"
+   "em": "2026-10-21T23:19:49.045Z"
   }
  ]
 }
