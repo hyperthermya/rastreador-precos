@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-21T05:55:13.068Z",
+ "geradoEm": "2026-10-21T11:18:31.798Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -8,56 +8,56 @@
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
     {
-     "codigo": "OFFSOHJ",
-     "descricao": "10% OFF em compras a partir de R$149 em produtos selecionados da categoria de tecnologia e eletrodomésticos, limitado a R$200.",
-     "titulo": "Cupom Mercado Livre concede 10% OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "OFERTASHJ",
-     "descricao": "20% OFF em compras a partir de R$79 em produtos selecionados da categoria de construção, limitado a R$120.",
-     "titulo": "Garanta 20% de desconto aplicando cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "OFFHOJEML",
-     "descricao": "20% OFF em compras a partir de R$79 em produtos selecionados da categoria de auto partes, limitado a R$100.",
-     "titulo": "Aproveite 20% OFF com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
      "codigo": "ACHADOINCRIVEL",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Código promocional Mercado Livre garante 25% OFF em suas compras",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "PEGAESSEDESCONTO",
      "descricao": "25% OFF em compras a partir de R$1, limitado a R$500.",
      "titulo": "Utilize voucher Mercado Livre e tenha 25% de desconto",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "SUPERVALEMELI",
      "descricao": "30% OFF em compras a partir de R$1, limitado a R$500.",
      "titulo": "Economia de 30% em seus pedidos com cupom Mercado Livre",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "BOAESCOLHAMELI",
      "descricao": "30% OFF em compras a partir de R$1, limitado a R$500.",
      "titulo": "Obtenha 30% OFF com cupom Mercado Livre",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "COMBINACUPOM",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "30% OFF com cupom Mercado Livre",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "FESTIVALDECUPONS",
+     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
+     "titulo": "Seus pedidos com 30% de economia utilizando cupom Mercado Livre",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "APROVEITAMELI",
+     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
+     "titulo": "Use código promocional Mercado Livre e garanta 30% de desconto",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "MUITOBARATO",
+     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
+     "titulo": "Ganhe 25% OFF com código Mercado Livre",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-21T05:55:13.068Z"
+   "em": "2026-10-21T11:18:31.798Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-21T05:55:13.068Z"
+   "em": "2026-10-21T11:18:31.798Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-21T05:55:13.068Z"
+   "em": "2026-10-21T11:18:31.798Z"
   },
   {
    "loja": "Magalu",
@@ -185,31 +185,31 @@
      "codigo": "LU300",
      "descricao": "R$300 OFF para itens selecionados.",
      "titulo": "Cupom Magalu com R$300 OFF em suas compras",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "LU200",
      "descricao": "R$200 OFF para itens selecionados.",
      "titulo": "R$200 OFF em seus pedidos com cupom Magalu",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "LU100",
      "descricao": "Economize R$100 ao usar o código promocional no carrinho de compras.",
      "titulo": "Use o cupom Magalu e tenha desconto de R$100",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "MOVEIS50OFF",
      "descricao": "Válido para produtos selecionados.",
      "titulo": "Economia de R$50 com cupom Magalu",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "MOVEIS100OFF",
      "descricao": "Aproveite a lista selecionada para economizar em suas compras.",
      "titulo": "Hora do desconto Magalu: R$100 OFF com cupom",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "MOVEIS200OFF",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-21T05:55:13.068Z"
+   "em": "2026-10-21T11:18:31.798Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-21T05:55:13.068Z"
+   "em": "2026-10-21T11:18:31.798Z"
   }
  ]
 }
