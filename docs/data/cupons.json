@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-22T20:49:58.184Z",
+ "geradoEm": "2026-10-22T23:54:14.077Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-22T20:49:58.184Z"
+   "em": "2026-10-22T23:54:14.077Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-22T20:49:58.184Z"
+   "em": "2026-10-22T23:54:14.077Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-22T20:49:58.184Z"
+   "em": "2026-10-22T23:54:14.077Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-22T20:49:58.184Z"
+   "em": "2026-10-22T23:54:14.077Z"
   },
   {
    "loja": "KaBuM",
@@ -276,20 +276,20 @@
      "verificadoHoje": false
     },
     {
-     "codigo": "CHAPAQUENTE10",
+     "codigo": "SETUPFULL10",
      "descricao": "Desconto válido para os produtos do link.",
-     "titulo": "Seleção de produtos com 10% OFF utilizando o código KaBuM!",
+     "titulo": "Seleção Gamer com 10% OFF usando cupom KaBuM!",
      "verificadoHoje": false
     },
     {
-     "codigo": "JBL8OFF",
-     "descricao": "Válido para os produtos do link.",
-     "titulo": "Utilize cupom KaBuM! e garanta produtos JBL com 8% OFF",
+     "codigo": "NOTE14",
+     "descricao": "Válido para o produto selecionado.",
+     "titulo": "Ganhe 14% OFF em Notebook Lenovo usando cupom KaBuM!",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-22T20:49:58.184Z"
+   "em": "2026-10-22T23:54:14.077Z"
   }
  ]
 }
