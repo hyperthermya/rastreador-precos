@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-22T06:37:41.123Z",
+ "geradoEm": "2026-10-22T12:28:51.716Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -8,56 +8,56 @@
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
     {
-     "codigo": "TOPOFERTA",
-     "descricao": "Em compras acima de R$1.999.",
-     "titulo": "Ganhe R$300 OFF com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "OFFSEMPREMELI",
+     "codigo": "MELITECH",
      "descricao": "Em compras acima de R$149, com desconto máximo limitado a R$200.",
-     "titulo": "Cupom Mercado Livre concede 10% OFF",
-     "verificadoHoje": false
+     "titulo": "Compre com cupom Mercado Livre e ganhe 10% OFF",
+     "verificadoHoje": true
     },
     {
-     "codigo": "OFERTACONSTRUIR",
+     "codigo": "PROMOCONSTRU",
      "descricao": "Em compras acima de R$79, com desconto máximo limitado a R$50.",
-     "titulo": "10% OFF em seus pedidos com cupom Mercado Livre",
-     "verificadoHoje": false
+     "titulo": "Aplique cupom Mercado Livre e tenha 10% de desconto",
+     "verificadoHoje": true
     },
     {
-     "codigo": "MELIPILOTO",
+     "codigo": "PROMOS",
      "descricao": "Em compras acima de R$99, com desconto máximo limitado a R$50.",
-     "titulo": "Faça compras com cupom Mercado Livre e tenha 10% de desconto",
-     "verificadoHoje": false
+     "titulo": "Use cupom Mercado Livre e obtenha 10% OFF em seus pedidos",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "VALEAPENANOML",
+     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
+     "titulo": "Suas compras com 25% de desconto aplicando cupom Mercado Livre",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "ECONOMIATOTAL",
+     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
+     "titulo": "20% OFF com cupom Mercado Livre",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "MELICUPOM",
+     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
+     "titulo": "Economia de 30% em seus pedidos com cupom Mercado Livre",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "EXCLUSIVONOMELI",
+     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
+     "titulo": "Código promocional Mercado Livre concede 18% OFF",
+     "verificadoHoje": true
     },
     {
      "codigo": "APROVEITAESSE",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Mercado Livre garante economia de 25% com cupom",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "TUDONOMELHOR",
-     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
-     "titulo": "Aproveite desconto de 20% aplicando código Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "CORREQUETEM",
-     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
-     "titulo": "Descontão de 30% com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "ACHADOINCRIVEL",
-     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
-     "titulo": "Código promocional Mercado Livre garante 25% OFF em suas compras",
-     "verificadoHoje": false
+     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-10-22T06:37:41.123Z"
+   "em": "2026-10-22T12:28:51.716Z"
   },
   {
    "loja": "Amazon",
@@ -66,27 +66,27 @@
    "url": "https://www.cuponomia.com.br/desconto/amazon",
    "cupons": [
     {
-     "codigo": "5OFF",
-     "descricao": "Desconto de 5% válido para produtos elegíveis.",
-     "titulo": "Ganhe 5% OFF em suas compras com cupom Amazon",
-     "verificadoHoje": false
-    },
-    {
      "codigo": "VEMDEAMAZON",
      "descricao": "Desconto válido para itens selecionados.",
      "titulo": "R$350 OFF com cupom Amazon",
      "verificadoHoje": false
     },
     {
-     "codigo": "Luuna5",
-     "descricao": "Aproveite 5% de desconto em produtos Luuna selecionados.",
-     "titulo": "Compre com cupom Amazon e ganhe 5% OFF",
-     "verificadoHoje": false
-    },
-    {
      "codigo": "INFLOW10",
      "descricao": "Desconto de 10% válido para produtos selecionados Inflow.",
      "titulo": "Aplique cupom Amazon e obtenha 10% OFF",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "5OFF",
+     "descricao": "Desconto de 5% válido para produtos elegíveis.",
+     "titulo": "Ganhe 5% OFF em suas compras com cupom Amazon",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "Luuna5",
+     "descricao": "Aproveite 5% de desconto em produtos Luuna selecionados.",
+     "titulo": "Compre com cupom Amazon e ganhe 5% OFF",
      "verificadoHoje": false
     },
     {
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-22T06:37:41.123Z"
+   "em": "2026-10-22T12:28:51.716Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-22T06:37:41.123Z"
+   "em": "2026-10-22T12:28:51.716Z"
   },
   {
    "loja": "Magalu",
@@ -185,19 +185,19 @@
      "codigo": "LU300",
      "descricao": "R$300 OFF para itens selecionados.",
      "titulo": "Cupom Magalu com R$300 OFF em suas compras",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "LU200",
      "descricao": "R$200 OFF para itens selecionados.",
      "titulo": "R$200 OFF em seus pedidos com cupom Magalu",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "LU100",
      "descricao": "Economize R$100 ao usar o código promocional no carrinho de compras.",
      "titulo": "Use o cupom Magalu e tenha desconto de R$100",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "MOVEIS50OFF",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-22T06:37:41.123Z"
+   "em": "2026-10-22T12:28:51.716Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-22T06:37:41.123Z"
+   "em": "2026-10-22T12:28:51.716Z"
   }
  ]
 }
