@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-22T12:28:51.716Z",
+ "geradoEm": "2026-10-22T17:32:54.822Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-22T12:28:51.716Z"
+   "em": "2026-10-22T17:32:54.822Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-22T12:28:51.716Z"
+   "em": "2026-10-22T17:32:54.822Z"
   },
   {
    "loja": "Casas Bahia",
@@ -123,6 +123,12 @@
    "alerta": false,
    "url": "https://www.cuponomia.com.br/desconto/casas-bahia",
    "cupons": [
+    {
+     "codigo": "MELITECH",
+     "descricao": "Válido em compras a partir de R$ 149. Desconto máximo de R$ 200.",
+     "titulo": "Aproveite 10% OFF aplicando cupom Casas Bahia",
+     "verificadoHoje": true
+    },
     {
      "codigo": "TOPOFERTA",
      "descricao": "Válido em compras a partir de R$1.999, em itens selecionados.",
@@ -164,16 +170,10 @@
      "descricao": "Válido em compras a partir de R$ 149. Desconto máximo de R$200.",
      "titulo": "Aplique o cupom Casas Bahia e garanta 10% OFF",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "COMPRAPREFERIDA",
-     "descricao": "Válido para compras acima de R$149. Desconto máximo de R$150.",
-     "titulo": "Garanta 15% OFF aplicando o cupom Casas Bahia",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-22T12:28:51.716Z"
+   "em": "2026-10-22T17:32:54.822Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-22T12:28:51.716Z"
+   "em": "2026-10-22T17:32:54.822Z"
   },
   {
    "loja": "KaBuM",
@@ -240,56 +240,56 @@
    "url": "https://www.cuponomia.com.br/desconto/kabum",
    "cupons": [
     {
-     "codigo": "KORUJAO",
-     "descricao": "Válido para seleção de produtos do link.",
-     "titulo": "Korujão: Produtos com 10% OFF aplicando código KaBuM!",
-     "verificadoHoje": false
-    },
-    {
      "codigo": "KABUM10",
      "descricao": "Desconto válido para itens do link.",
      "titulo": "Use cupom KaBuM! e obtenha 10% de economia",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "VEMCOMPLAY",
-     "descricao": "Válido para a seleção do link.",
-     "titulo": "PS5 com R$500 de desconto aplicando cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "MEUSONY",
      "descricao": "Aplique o cupom KaBuM! e ganhe 20% OFF nos produtos do link.",
      "titulo": "Produtos Sony com 20% OFF",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "AIO100",
      "descricao": "Válido para o Computador All In One 21,5\" do link.",
      "titulo": "R$100 OFF em suas compras com cupom KaBuM!",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "MAGALU10",
-     "descricao": "Clique no link para conferir os itens da seleção.",
-     "titulo": "Seleção imperdível com 10% OFF aplicando cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "CINEMAO",
      "descricao": "Desconto válido para os itens selecionados.",
      "titulo": "Economize 10% em Projetor com o código promocional KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "COMP10",
      "descricao": "Desconto válido na seleção do link.",
      "titulo": "Aplique cupom KaBuM! e ganhe 10% OFF em Notebooks e Monitores",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "PLAYNOFINDE",
+     "descricao": "Válido para a seleção do link.",
+     "titulo": "PS5 com R$500 de desconto aplicando cupom KaBuM!",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "CHAPAQUENTE10",
+     "descricao": "Desconto válido para os produtos do link.",
+     "titulo": "Seleção de produtos com 10% OFF utilizando o código KaBuM!",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "JBL8OFF",
+     "descricao": "Válido para os produtos do link.",
+     "titulo": "Utilize cupom KaBuM! e garanta produtos JBL com 8% OFF",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-22T12:28:51.716Z"
+   "em": "2026-10-22T17:32:54.822Z"
   }
  ]
 }
