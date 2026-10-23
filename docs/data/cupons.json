@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-23T18:22:13.670Z",
+ "geradoEm": "2026-10-23T21:34:48.188Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-23T18:22:13.670Z"
+   "em": "2026-10-23T21:34:48.188Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-23T18:22:13.670Z"
+   "em": "2026-10-23T21:34:48.188Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-23T18:22:13.670Z"
+   "em": "2026-10-23T21:34:48.188Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-23T18:22:13.670Z"
+   "em": "2026-10-23T21:34:48.188Z"
   },
   {
    "loja": "KaBuM",
@@ -246,15 +246,15 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "PLAYNOFINDE",
-     "descricao": "Válido para a seleção do link.",
-     "titulo": "PS5 com R$500 de desconto aplicando cupom KaBuM!",
-     "verificadoHoje": true
-    },
-    {
      "codigo": "SETUPFULL10",
      "descricao": "Desconto válido para os produtos do link.",
      "titulo": "Seleção Gamer com 10% OFF usando cupom KaBuM!",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "PLAYNOFINDE",
+     "descricao": "Válido para a seleção do link.",
+     "titulo": "PS5 com R$500 de desconto aplicando cupom KaBuM!",
      "verificadoHoje": true
     },
     {
@@ -282,14 +282,14 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "CHAPAQUENTE10",
-     "descricao": "Desconto válido para os produtos do link.",
-     "titulo": "Seleção de produtos com 10% OFF utilizando o código KaBuM!",
+     "codigo": "LIQUIDA10",
+     "descricao": "Aproveite a lista de itens selecionados.",
+     "titulo": "Os melhores produtos do site com 10% OFF aplicando código KaBuM!",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-23T18:22:13.670Z"
+   "em": "2026-10-23T21:34:48.188Z"
   }
  ]
 }
