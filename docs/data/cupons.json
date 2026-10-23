@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-23T14:05:41.642Z",
+ "geradoEm": "2026-10-23T18:22:13.670Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-23T14:05:41.642Z"
+   "em": "2026-10-23T18:22:13.670Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-23T14:05:41.642Z"
+   "em": "2026-10-23T18:22:13.670Z"
   },
   {
    "loja": "Casas Bahia",
@@ -123,6 +123,12 @@
    "alerta": false,
    "url": "https://www.cuponomia.com.br/desconto/casas-bahia",
    "cupons": [
+    {
+     "codigo": "TECHPROMO",
+     "descricao": "Válido em compras a partir de R$ 149. Desconto máximo de R$ 200.",
+     "titulo": "Faça suas compras com cupom Casas Bahia e ganhe 10% OFF",
+     "verificadoHoje": true
+    },
     {
      "codigo": "MELITECH",
      "descricao": "Válido em compras a partir de R$ 149. Desconto máximo de R$ 200.",
@@ -164,16 +170,10 @@
      "descricao": "Válido em compras a partir de R$ 149. Desconto máximo de R$ 200.",
      "titulo": "Aproveite 10% OFF com o cupom Casas Bahia",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "AQUITEM",
-     "descricao": "Válido em compras a partir de R$ 149. Desconto máximo de R$200.",
-     "titulo": "Aplique o cupom Casas Bahia e garanta 10% OFF",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-23T14:05:41.642Z"
+   "em": "2026-10-23T18:22:13.670Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-23T14:05:41.642Z"
+   "em": "2026-10-23T18:22:13.670Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-23T14:05:41.642Z"
+   "em": "2026-10-23T18:22:13.670Z"
   }
  ]
 }
