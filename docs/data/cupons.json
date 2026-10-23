@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-22T23:54:14.077Z",
+ "geradoEm": "2026-10-23T03:40:10.678Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -11,53 +11,53 @@
      "codigo": "MELITECH",
      "descricao": "Em compras acima de R$149, com desconto máximo limitado a R$200.",
      "titulo": "Compre com cupom Mercado Livre e ganhe 10% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "PROMOCONSTRU",
      "descricao": "Em compras acima de R$79, com desconto máximo limitado a R$50.",
      "titulo": "Aplique cupom Mercado Livre e tenha 10% de desconto",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "PROMOS",
      "descricao": "Em compras acima de R$99, com desconto máximo limitado a R$50.",
      "titulo": "Use cupom Mercado Livre e obtenha 10% OFF em seus pedidos",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "VALEAPENANOML",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Suas compras com 25% de desconto aplicando cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "ECONOMIATOTAL",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "20% OFF com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MELICUPOM",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Economia de 30% em seus pedidos com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "EXCLUSIVONOMELI",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Código promocional Mercado Livre concede 18% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "APROVEITAESSE",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Mercado Livre garante economia de 25% com cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-22T23:54:14.077Z"
+   "em": "2026-10-23T03:40:10.678Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-22T23:54:14.077Z"
+   "em": "2026-10-23T03:40:10.678Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-22T23:54:14.077Z"
+   "em": "2026-10-23T03:40:10.678Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-22T23:54:14.077Z"
+   "em": "2026-10-23T03:40:10.678Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-22T23:54:14.077Z"
+   "em": "2026-10-23T03:40:10.678Z"
   }
  ]
 }
