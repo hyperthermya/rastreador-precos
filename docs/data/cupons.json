@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-24T00:02:53.917Z",
+ "geradoEm": "2026-10-24T04:37:11.803Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -11,53 +11,53 @@
      "codigo": "TECHPROMO",
      "descricao": "Em compras acima de R$149, com desconto máximo limitado a R$200.",
      "titulo": "Cupom Mercado Livre concede 10% OFF em suas compras",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "SEMPRE",
      "descricao": "Em compras acima de R$79, com desconto máximo limitado a R$50.",
      "titulo": "Use cupom Mercado Livre e garanta 10% de desconto",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "AQUITEMOFERTAS",
      "descricao": "Em compras acima de R$99, com desconto máximo limitado a R$50.",
      "titulo": "Promo Mercado Livre com 10% de economia aplicando cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "CLUBEDECUPONS",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Obtenha 20% OFF com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "OPORTUNIDADE",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Aproveite desconto de 25% em seus pedidos com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MAISQUEOFERTA",
      "descricao": "Aplique cupom Mercado Livre no carrinho em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Garanta 25% de desconto no Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MELISUPERCLUB",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Economize 20% com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "VALEAPENANOML",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Suas compras com 25% de desconto aplicando cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-24T00:02:53.917Z"
+   "em": "2026-10-24T04:37:11.803Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-24T00:02:53.917Z"
+   "em": "2026-10-24T04:37:11.803Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-24T00:02:53.917Z"
+   "em": "2026-10-24T04:37:11.803Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-24T00:02:53.917Z"
+   "em": "2026-10-24T04:37:11.803Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-24T00:02:53.917Z"
+   "em": "2026-10-24T04:37:11.803Z"
   }
  ]
 }
