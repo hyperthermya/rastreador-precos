@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-24T04:37:11.803Z",
+ "geradoEm": "2026-10-24T09:08:18.197Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-24T04:37:11.803Z"
+   "em": "2026-10-24T09:08:18.197Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-24T04:37:11.803Z"
+   "em": "2026-10-24T09:08:18.197Z"
   },
   {
    "loja": "Casas Bahia",
@@ -127,7 +127,7 @@
      "codigo": "TECHPROMO",
      "descricao": "Válido em compras a partir de R$ 149. Desconto máximo de R$ 200.",
      "titulo": "Faça suas compras com cupom Casas Bahia e ganhe 10% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MELITECH",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-24T04:37:11.803Z"
+   "em": "2026-10-24T09:08:18.197Z"
   },
   {
    "loja": "Magalu",
@@ -185,19 +185,19 @@
      "codigo": "LU300",
      "descricao": "R$300 OFF para itens selecionados.",
      "titulo": "Cupom Magalu com R$300 OFF em suas compras",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "LU200",
      "descricao": "R$200 OFF para itens selecionados.",
      "titulo": "R$200 OFF em seus pedidos com cupom Magalu",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "LU100",
      "descricao": "Economize R$100 ao usar o código promocional no carrinho de compras.",
      "titulo": "Use o cupom Magalu e tenha desconto de R$100",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MOVEIS50OFF",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-24T04:37:11.803Z"
+   "em": "2026-10-24T09:08:18.197Z"
   },
   {
    "loja": "KaBuM",
@@ -243,53 +243,53 @@
      "codigo": "KABUM10",
      "descricao": "Desconto válido para itens do link.",
      "titulo": "Use cupom KaBuM! e obtenha 10% de economia",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "SETUPFULL10",
-     "descricao": "Desconto válido para os produtos do link.",
-     "titulo": "Seleção Gamer com 10% OFF usando cupom KaBuM!",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "PLAYNOFINDE",
-     "descricao": "Válido para a seleção do link.",
-     "titulo": "PS5 com R$500 de desconto aplicando cupom KaBuM!",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "AIO100",
-     "descricao": "Válido para o Computador All In One 21,5\" do link.",
-     "titulo": "R$100 OFF em suas compras com cupom KaBuM!",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "NOTE14",
-     "descricao": "Válido para o produto selecionado.",
-     "titulo": "Ganhe 14% OFF em Notebook Lenovo usando cupom KaBuM!",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "CINEMAO",
-     "descricao": "Desconto válido para os itens selecionados.",
-     "titulo": "Economize 10% em Projetor com o código promocional KaBuM!",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "COMP10",
-     "descricao": "Desconto válido na seleção do link.",
-     "titulo": "Aplique cupom KaBuM! e ganhe 10% OFF em Notebooks e Monitores",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "LIQUIDA10",
      "descricao": "Aproveite a lista de itens selecionados.",
      "titulo": "Os melhores produtos do site com 10% OFF aplicando código KaBuM!",
      "verificadoHoje": false
+    },
+    {
+     "codigo": "SETUPFULL10",
+     "descricao": "Desconto válido para os produtos do link.",
+     "titulo": "Seleção Gamer com 10% OFF usando cupom KaBuM!",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "PLAYNOFINDE",
+     "descricao": "Válido para a seleção do link.",
+     "titulo": "PS5 com R$500 de desconto aplicando cupom KaBuM!",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "AIO100",
+     "descricao": "Válido para o Computador All In One 21,5\" do link.",
+     "titulo": "R$100 OFF em suas compras com cupom KaBuM!",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "NOTE14",
+     "descricao": "Válido para o produto selecionado.",
+     "titulo": "Ganhe 14% OFF em Notebook Lenovo usando cupom KaBuM!",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "CINEMAO",
+     "descricao": "Desconto válido para os itens selecionados.",
+     "titulo": "Economize 10% em Projetor com o código promocional KaBuM!",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "COMP10",
+     "descricao": "Desconto válido na seleção do link.",
+     "titulo": "Aplique cupom KaBuM! e ganhe 10% OFF em Notebooks e Monitores",
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-24T04:37:11.803Z"
+   "em": "2026-10-24T09:08:18.197Z"
   }
  ]
 }
