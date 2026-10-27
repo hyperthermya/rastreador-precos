@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-27T06:21:16.361Z",
+ "geradoEm": "2026-10-27T12:34:10.570Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -11,53 +11,53 @@
      "codigo": "COMPRAFACIL",
      "descricao": "Em compras acima de R$30 em produtos selecionados, com desconto máximo limitado a R$50.",
      "titulo": "50% OFF com cupom Mercado Livre",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
-     "codigo": "VANTAGEMMELI",
+     "codigo": "HOJETECH",
+     "descricao": "12% OFF em compras a partir de R$149 em produtos selecionados, limitado a R$200.",
+     "titulo": "Aplique cupom Mercado Livre e tenha 12% de desconto",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "OFERTASML",
+     "descricao": "18% OFF em compras a partir de R$99 em produtos selecionados de auto-partes, limitado a R$50.",
+     "titulo": "Ganhe 18% OFF com cupom Mercado Livre",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "OFFSEMPREML",
+     "descricao": "18% OFF em compras a partir de R$79 em produtos selecionados de casa e construção, limitado a R$80.",
+     "titulo": "Mercado Livre concede 18% de economia com cupom",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "AGORAOUNUNCA",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
-     "titulo": "Ganhe 25% OFF com cupom Mercado Livre",
-     "verificadoHoje": false
+     "titulo": "Hora do desconto Mercado Livre: 30% OFF com cupom",
+     "verificadoHoje": true
     },
     {
-     "codigo": "QUEROOFF",
+     "codigo": "PEGUESEUOFF",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
-     "titulo": "Promo Mercado Livre com 30% OFF aplicando cupom",
-     "verificadoHoje": false
+     "titulo": "Código promocional Mercado Livre garante desconto de 30%",
+     "verificadoHoje": true
     },
     {
-     "codigo": "ECONOMIZE",
-     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
-     "titulo": "Economia de 30% em seus pedidos com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "SUPERDESCONTO",
+     "codigo": "MEUMIMO",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Desconto imperdível de 25% com cupom Mercado Livre",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
-     "codigo": "CLUBEDECUPONS",
+     "codigo": "PRESENTINHO",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
-     "titulo": "Obtenha 20% OFF com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "OPORTUNIDADE",
-     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
-     "titulo": "Aproveite desconto de 25% em seus pedidos com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "MAISQUEOFERTA",
-     "descricao": "Aplique cupom Mercado Livre no carrinho em compras acima de R$1, com desconto máximo limitado a R$500.",
-     "titulo": "Garanta 25% de desconto no Mercado Livre",
-     "verificadoHoje": false
+     "titulo": "20% OFF com voucher Mercado Livre",
+     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-10-27T06:21:16.361Z"
+   "em": "2026-10-27T12:34:10.570Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-27T06:21:16.361Z"
+   "em": "2026-10-27T12:34:10.570Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-27T06:21:16.361Z"
+   "em": "2026-10-27T12:34:10.570Z"
   },
   {
    "loja": "Magalu",
@@ -185,13 +185,13 @@
      "codigo": "LU300",
      "descricao": "R$300 OFF para itens selecionados.",
      "titulo": "Cupom Magalu com R$300 OFF em suas compras",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "LU200",
      "descricao": "R$200 OFF para itens selecionados.",
      "titulo": "R$200 OFF em seus pedidos com cupom Magalu",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "LU100",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-27T06:21:16.361Z"
+   "em": "2026-10-27T12:34:10.570Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-27T06:21:16.361Z"
+   "em": "2026-10-27T12:34:10.570Z"
   }
  ]
 }
