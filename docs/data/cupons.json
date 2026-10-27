@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-27T12:34:10.570Z",
+ "geradoEm": "2026-10-27T18:18:43.509Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -17,6 +17,12 @@
      "codigo": "HOJETECH",
      "descricao": "12% OFF em compras a partir de R$149 em produtos selecionados, limitado a R$200.",
      "titulo": "Aplique cupom Mercado Livre e tenha 12% de desconto",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "MELHORPROMO",
+     "descricao": "R$250 OFF em compras a partir de R$1.699 em itens selecionados de tecnologia.",
+     "titulo": "Desconto de R$250 com cupom Mercado Livre",
      "verificadoHoje": true
     },
     {
@@ -48,16 +54,10 @@
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Desconto imperdível de 25% com cupom Mercado Livre",
      "verificadoHoje": true
-    },
-    {
-     "codigo": "PRESENTINHO",
-     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
-     "titulo": "20% OFF com voucher Mercado Livre",
-     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-10-27T12:34:10.570Z"
+   "em": "2026-10-27T18:18:43.509Z"
   },
   {
    "loja": "Amazon",
@@ -66,56 +66,56 @@
    "url": "https://www.cuponomia.com.br/desconto/amazon",
    "cupons": [
     {
-     "codigo": "VEMDEAMAZON",
-     "descricao": "Desconto válido para itens selecionados.",
-     "titulo": "R$350 OFF com cupom Amazon",
-     "verificadoHoje": false
+     "codigo": "20PAGINA",
+     "descricao": "Desconto de 20% válido para a primeira compra de livros, limitado a R$10.",
+     "titulo": "Compre com cupom Amazon e ganhe 20% OFF",
+     "verificadoHoje": true
     },
     {
-     "codigo": "INFLOW10",
-     "descricao": "Desconto de 10% válido para produtos selecionados Inflow.",
-     "titulo": "Aplique cupom Amazon e obtenha 10% OFF",
-     "verificadoHoje": false
+     "codigo": "15ESPORTES",
+     "descricao": "Clique no link para conferir as condições da promoção.",
+     "titulo": "Hora do desconto Amazon: 15% OFF com cupom",
+     "verificadoHoje": true
     },
     {
-     "codigo": "5OFF",
-     "descricao": "Desconto de 5% válido para produtos elegíveis.",
-     "titulo": "Ganhe 5% OFF em suas compras com cupom Amazon",
-     "verificadoHoje": false
+     "codigo": "VEMDECUPOM",
+     "descricao": "Consulte o regulamento da promoção no site.",
+     "titulo": "Use cupom Amazon e obtenha 15% OFF",
+     "verificadoHoje": true
     },
     {
-     "codigo": "Luuna5",
-     "descricao": "Aproveite 5% de desconto em produtos Luuna selecionados.",
-     "titulo": "Compre com cupom Amazon e ganhe 5% OFF",
-     "verificadoHoje": false
+     "codigo": "REFORMA15OFF",
+     "descricao": "Confira as condições da promoção no link e garanta economia.",
+     "titulo": "A chance de ganhar 15% OFF com cupom Amazon",
+     "verificadoHoje": true
     },
     {
-     "codigo": "DEVOLTA500",
-     "descricao": "Compre um iPhone 18 Pro e ganhe R$500 OFF em Eletrônicos em sua próxima compra. A oferta é válida para pedidos de produtos elegíveis, excluindo custos de envio e de embalagem para presente. Consulte as condições da oferta no site.",
-     "titulo": "Ganhe R$500 OFF com cupom Amazon",
-     "verificadoHoje": false
+     "codigo": "BOOO20",
+     "descricao": "20% de desconto em produtos selecionados.",
+     "titulo": "Garanta desconto de 20% com cupom Amazon",
+     "verificadoHoje": true
     },
     {
-     "codigo": "BR15OFF",
-     "descricao": "Desconto válido para itens selecionados.",
-     "titulo": "Amazon concede 15% OFF com cupom",
-     "verificadoHoje": false
+     "codigo": "FERRAMENTA15",
+     "descricao": "Seleção de ferramentas com 15% de desconto. Consulte o regulamento da promoção no site.",
+     "titulo": "15% de economia utilizando cupom Amazon",
+     "verificadoHoje": true
     },
     {
-     "codigo": "BIGENS10",
-     "descricao": "Economize 10% em produtos Bigens.",
-     "titulo": "Compre com cupom Amazon e ganhe 10% OFF",
-     "verificadoHoje": false
+     "codigo": "LAPTOP400",
+     "descricao": "R$400 de desconto em Notebooks. Exclusivo para membros Prime.",
+     "titulo": "Obtenha desconto de R$400 com cupom Amazon",
+     "verificadoHoje": true
     },
     {
-     "codigo": "NET10",
-     "descricao": "Desconto de 10% em compras acima de R$250, com desconto máximo limitado a R$100.",
-     "titulo": "Promo Amazon com 10% OFF aplicando cupom",
-     "verificadoHoje": false
+     "codigo": "ESPORTIVO5",
+     "descricao": "5% OFF em Esportivo, limitado a R$50. Exclusivo para membros Prime",
+     "titulo": "Economia de 5% com cupom Amazon",
+     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-10-27T12:34:10.570Z"
+   "em": "2026-10-27T18:18:43.509Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-27T12:34:10.570Z"
+   "em": "2026-10-27T18:18:43.509Z"
   },
   {
    "loja": "Magalu",
@@ -197,25 +197,25 @@
      "codigo": "LU100",
      "descricao": "Economize R$100 ao usar o código promocional no carrinho de compras.",
      "titulo": "Use o cupom Magalu e tenha desconto de R$100",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "MOVEIS50OFF",
      "descricao": "Válido para produtos selecionados.",
      "titulo": "Economia de R$50 com cupom Magalu",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "MOVEIS100OFF",
      "descricao": "Aproveite a lista selecionada para economizar em suas compras.",
      "titulo": "Hora do desconto Magalu: R$100 OFF com cupom",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "MOVEIS200OFF",
      "descricao": "Confira os produtos selecionados no site.",
      "titulo": "Descontão de R$200 com cupom Magalu",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "LU400",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-27T12:34:10.570Z"
+   "em": "2026-10-27T18:18:43.509Z"
   },
   {
    "loja": "KaBuM",
@@ -243,13 +243,31 @@
      "codigo": "LIQUIDA10",
      "descricao": "Aproveite a lista de itens selecionados.",
      "titulo": "Os melhores produtos do site com 10% OFF aplicando código KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "AIO100",
      "descricao": "Válido para o Computador All In One 21,5\" do link.",
      "titulo": "R$100 OFF em suas compras com cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "STRE10OFF",
+     "descricao": "Válido para a seleção do link.",
+     "titulo": "Itens selecionados com 10% OFF usando código KaBuM!",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "THUNDEROFF",
+     "descricao": "Desconto válido para os produtos selecionados.",
+     "titulo": "Use o código KaBuM! e garanta Teclado Gamer com 10% OFF",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "BASS15",
+     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Compre Caixa de Som com 15% de economia",
+     "verificadoHoje": true
     },
     {
      "codigo": "NOTE14",
@@ -268,28 +286,10 @@
      "descricao": "Válido para os produtos do link.",
      "titulo": "Utilize cupom KaBuM! e garanta produtos JBL com 8% OFF",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "CASACONECTADA",
-     "descricao": "Válido para a lista selecionada.",
-     "titulo": "20% de desconto em suas compras usando cupom KaBuM!",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "STRE10OFF",
-     "descricao": "Válido para a seleção do link.",
-     "titulo": "Itens selecionados com 10% OFF usando código KaBuM!",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "THUNDEROFF",
-     "descricao": "Desconto válido para os produtos selecionados.",
-     "titulo": "Use o código KaBuM! e garanta Teclado Gamer com 10% OFF",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-27T12:34:10.570Z"
+   "em": "2026-10-27T18:18:43.509Z"
   }
  ]
 }
