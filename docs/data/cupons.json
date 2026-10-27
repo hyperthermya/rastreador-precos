@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-26T21:53:14.904Z",
+ "geradoEm": "2026-10-27T01:12:55.604Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-26T21:53:14.904Z"
+   "em": "2026-10-27T01:12:55.604Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-26T21:53:14.904Z"
+   "em": "2026-10-27T01:12:55.604Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-26T21:53:14.904Z"
+   "em": "2026-10-27T01:12:55.604Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-26T21:53:14.904Z"
+   "em": "2026-10-27T01:12:55.604Z"
   },
   {
    "loja": "KaBuM",
@@ -282,14 +282,14 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "CASADIN",
-     "descricao": "Válido para os produtos do link. Aplique o cupom KaBuM! no carrinho de compras.",
-     "titulo": "Garanta Placa-Mãe com 5% de desconto",
+     "codigo": "STRE10OFF",
+     "descricao": "Válido para a seleção do link.",
+     "titulo": "Itens selecionados com 10% OFF usando código KaBuM!",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-26T21:53:14.904Z"
+   "em": "2026-10-27T01:12:55.604Z"
   }
  ]
 }
