@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-28T19:45:58.517Z",
+ "geradoEm": "2026-10-28T23:54:20.069Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-28T19:45:58.517Z"
+   "em": "2026-10-28T23:54:20.069Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-28T19:45:58.517Z"
+   "em": "2026-10-28T23:54:20.069Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-28T19:45:58.517Z"
+   "em": "2026-10-28T23:54:20.069Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-28T19:45:58.517Z"
+   "em": "2026-10-28T23:54:20.069Z"
   },
   {
    "loja": "KaBuM",
@@ -270,6 +270,12 @@
      "verificadoHoje": true
     },
     {
+     "codigo": "CHURRASSOM",
+     "descricao": "Aplique o cupom KaBuM! no carrinho de compras. Válido para a seleção do link.",
+     "titulo": "Compre Caixa de Som com 20% OFF",
+     "verificadoHoje": false
+    },
+    {
      "codigo": "NOTE14",
      "descricao": "Válido para o produto selecionado.",
      "titulo": "Ganhe 14% OFF em Notebook Lenovo usando cupom KaBuM!",
@@ -280,16 +286,10 @@
      "descricao": "Desconto válido na seleção do link.",
      "titulo": "Aplique cupom KaBuM! e ganhe 10% OFF em Notebooks e Monitores",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "JBL8OFF",
-     "descricao": "Válido para os produtos do link.",
-     "titulo": "Utilize cupom KaBuM! e garanta produtos JBL com 8% OFF",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-28T19:45:58.517Z"
+   "em": "2026-10-28T23:54:20.069Z"
   }
  ]
 }
