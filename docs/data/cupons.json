@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-28T14:23:22.001Z",
+ "geradoEm": "2026-10-28T19:45:58.517Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-28T14:23:22.001Z"
+   "em": "2026-10-28T19:45:58.517Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-28T14:23:22.001Z"
+   "em": "2026-10-28T19:45:58.517Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-28T14:23:22.001Z"
+   "em": "2026-10-28T19:45:58.517Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-28T14:23:22.001Z"
+   "em": "2026-10-28T19:45:58.517Z"
   },
   {
    "loja": "KaBuM",
@@ -243,13 +243,31 @@
      "codigo": "LIQUIDA10",
      "descricao": "Aproveite a lista de itens selecionados.",
      "titulo": "Os melhores produtos do site com 10% OFF aplicando código KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "AIO100",
      "descricao": "Válido para o Computador All In One 21,5\" do link.",
      "titulo": "R$100 OFF em suas compras com cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "50OFFTITAN",
+     "descricao": "Aplique o cupom KaBuM! no carrinho de compras e garanta R$50 OFF no produto selecionado.",
+     "titulo": "R$50 OFF em suas compras no site",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "MSINOKABUM",
+     "descricao": "Válido para os produtos selecionados. Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Compre Fonte com 10% de desconto",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "CASADINHO",
+     "descricao": "Válido para os produtos do link. Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Garanta Placa-Mãe com 8% de desconto",
+     "verificadoHoje": true
     },
     {
      "codigo": "NOTE14",
@@ -268,28 +286,10 @@
      "descricao": "Válido para os produtos do link.",
      "titulo": "Utilize cupom KaBuM! e garanta produtos JBL com 8% OFF",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "CASACONECTADA",
-     "descricao": "Válido para a lista selecionada.",
-     "titulo": "20% de desconto em suas compras usando cupom KaBuM!",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "STRE10OFF",
-     "descricao": "Válido para a seleção do link.",
-     "titulo": "Itens selecionados com 10% OFF usando código KaBuM!",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "THUNDEROFF",
-     "descricao": "Desconto válido para os produtos selecionados.",
-     "titulo": "Use o código KaBuM! e garanta Teclado Gamer com 10% OFF",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-28T14:23:22.001Z"
+   "em": "2026-10-28T19:45:58.517Z"
   }
  ]
 }
