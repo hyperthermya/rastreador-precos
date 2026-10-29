@@ -2,19 +2,11 @@
  "codigos": {
   "magazine-luiza:LU300": {
    "loja": "Magalu",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "magazine-luiza:MIDEA10": {
    "loja": "Magalu",
    "em": "2026-10-20T10:18:03.738Z"
-  },
-  "magazine-luiza:LU250": {
-   "loja": "Magalu",
-   "em": "2026-10-14T20:08:36.294Z"
-  },
-  "magazine-luiza:LU150": {
-   "loja": "Magalu",
-   "em": "2026-10-14T20:08:36.294Z"
   },
   "kabum:CASATECH15": {
    "loja": "KaBuM",
@@ -78,11 +70,11 @@
   },
   "magazine-luiza:LU400": {
    "loja": "Magalu",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "magazine-luiza:LU325": {
    "loja": "Magalu",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "magazine-luiza:LU225": {
    "loja": "Magalu",
@@ -138,7 +130,7 @@
   },
   "kabum:HUSKY10": {
    "loja": "KaBuM",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "kabum:POP5OFF": {
    "loja": "KaBuM",
@@ -150,7 +142,7 @@
   },
   "kabum:COMP10": {
    "loja": "KaBuM",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "mercado-livre:AQUITEM": {
    "loja": "Mercado Livre",
@@ -178,11 +170,11 @@
   },
   "magazine-luiza:LU200": {
    "loja": "Magalu",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "magazine-luiza:LU100": {
    "loja": "Magalu",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "kabum:KORUJAOTEL": {
    "loja": "KaBuM",
@@ -230,7 +222,7 @@
   },
   "casas-bahia:APROVEITA": {
    "loja": "Casas Bahia",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "kabum:KORUJAOPERI": {
    "loja": "KaBuM",
@@ -274,7 +266,7 @@
   },
   "casas-bahia:OFFHOJE": {
    "loja": "Casas Bahia",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "kabum:KORUJAOTECH": {
    "loja": "KaBuM",
@@ -294,7 +286,7 @@
   },
   "casas-bahia:OFFHOJENOML": {
    "loja": "Casas Bahia",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "kabum:SUANOVAFONTE": {
    "loja": "KaBuM",
@@ -330,11 +322,11 @@
   },
   "casas-bahia:TOPMELI": {
    "loja": "Casas Bahia",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "casas-bahia:MELHORDOML": {
    "loja": "Casas Bahia",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "mercado-livre:MUITOBARATO": {
    "loja": "Mercado Livre",
@@ -358,15 +350,15 @@
   },
   "magazine-luiza:MOVEIS50OFF": {
    "loja": "Magalu",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "magazine-luiza:MOVEIS100OFF": {
    "loja": "Magalu",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "magazine-luiza:MOVEIS200OFF": {
    "loja": "Magalu",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "kabum:MARIOAGORA": {
    "loja": "KaBuM",
@@ -414,7 +406,7 @@
   },
   "kabum:AIO100": {
    "loja": "KaBuM",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "kabum:BORADEPLAY": {
    "loja": "KaBuM",
@@ -462,7 +454,7 @@
   },
   "casas-bahia:TOPOFERTA": {
    "loja": "Casas Bahia",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "kabum:KORUJAO": {
    "loja": "KaBuM",
@@ -510,7 +502,7 @@
   },
   "casas-bahia:MELITECH": {
    "loja": "Casas Bahia",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "kabum:PLAYNOFINDE": {
    "loja": "KaBuM",
@@ -522,7 +514,7 @@
   },
   "kabum:NOTE14": {
    "loja": "KaBuM",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "mercado-livre:TECHPROMO": {
    "loja": "Mercado Livre",
@@ -554,15 +546,15 @@
   },
   "casas-bahia:TECHPROMO": {
    "loja": "Casas Bahia",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "kabum:LIQUIDA10": {
    "loja": "KaBuM",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "kabum:CASACONECTADA": {
    "loja": "KaBuM",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "kabum:MSINOKABUM": {
    "loja": "KaBuM",
@@ -574,7 +566,7 @@
   },
   "mercado-livre:COMPRAFACIL": {
    "loja": "Mercado Livre",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "mercado-livre:VANTAGEMMELI": {
    "loja": "Mercado Livre",
@@ -598,7 +590,7 @@
   },
   "kabum:THUNDEROFF": {
    "loja": "KaBuM",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "mercado-livre:HOJETECH": {
    "loja": "Mercado Livre",
@@ -638,31 +630,31 @@
   },
   "amazon:20PAGINA": {
    "loja": "Amazon",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "amazon:15ESPORTES": {
    "loja": "Amazon",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "amazon:VEMDECUPOM": {
    "loja": "Amazon",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "amazon:REFORMA15OFF": {
    "loja": "Amazon",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "amazon:BOOO20": {
    "loja": "Amazon",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "amazon:FERRAMENTA15": {
    "loja": "Amazon",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "amazon:LAPTOP400": {
    "loja": "Amazon",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "amazon:ESPORTIVO5": {
    "loja": "Amazon",
@@ -682,11 +674,11 @@
   },
   "mercado-livre:ESQUENTA": {
    "loja": "Mercado Livre",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "mercado-livre:CLIENTEVIP": {
    "loja": "Mercado Livre",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "mercado-livre:ESPECIAL": {
    "loja": "Mercado Livre",
@@ -698,7 +690,7 @@
   },
   "amazon:15OFFPRAVC": {
    "loja": "Amazon",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "kabum:50OFFTITAN": {
    "loja": "KaBuM",
@@ -714,27 +706,27 @@
   },
   "kabum:STREAMER15": {
    "loja": "KaBuM",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "mercado-livre:OFERTAPRATECH": {
    "loja": "Mercado Livre",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "mercado-livre:BONUSML": {
    "loja": "Mercado Livre",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "mercado-livre:MEUDESCONTO": {
    "loja": "Mercado Livre",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "mercado-livre:SUPERDESCONTOS": {
    "loja": "Mercado Livre",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   },
   "mercado-livre:SUPERPROMOS": {
    "loja": "Mercado Livre",
-   "em": "2026-10-29T17:26:17.766Z"
+   "em": "2026-10-29T21:57:10.333Z"
   }
  }
 }
