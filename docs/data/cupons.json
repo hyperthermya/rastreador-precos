@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-30T19:55:42.400Z",
+ "geradoEm": "2026-10-30T23:30:02.928Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-30T19:55:42.400Z"
+   "em": "2026-10-30T23:30:02.928Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-30T19:55:42.400Z"
+   "em": "2026-10-30T23:30:02.928Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-30T19:55:42.400Z"
+   "em": "2026-10-30T23:30:02.928Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-30T19:55:42.400Z"
+   "em": "2026-10-30T23:30:02.928Z"
   },
   {
    "loja": "KaBuM",
@@ -270,26 +270,26 @@
      "verificadoHoje": true
     },
     {
+     "codigo": "LU5OFF",
+     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Smart TV com 5% de desconto",
+     "verificadoHoje": false
+    },
+    {
      "codigo": "ESQUENTAPLAY",
      "descricao": "Aplique o cupom KaBuM! no produto selecionado.",
      "titulo": "Console Sony PlayStation 5 com R$400 OFF",
      "verificadoHoje": false
     },
     {
-     "codigo": "HYPERX15",
-     "descricao": "15% OFF em produtos participantes da HyperX.",
-     "titulo": "Economize 15% aplicando código KaBuM!",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "STARMINI",
-     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
-     "titulo": "Kit Starlink MINI Internet via satélite com 17% OFF",
+     "codigo": "SOFTWARES10",
+     "descricao": "Válido apenas na seleção do link.",
+     "titulo": "Itens selecionados com 10% de desconto",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-30T19:55:42.400Z"
+   "em": "2026-10-30T23:30:02.928Z"
   }
  ]
 }
