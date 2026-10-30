@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-30T15:03:14.937Z",
+ "geradoEm": "2026-10-30T19:55:42.400Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -50,14 +50,14 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "BONUSML",
-     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
-     "titulo": "Compre com cupom Mercado Livre e aproveite 20% de desconto",
+     "codigo": "BEBESML",
+     "descricao": "15% OFF para compras mínimas de R$79 e desconto máximo de R$30.",
+     "titulo": "Desconto de 15% com cupom Mercado Livre",
      "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-10-30T15:03:14.937Z"
+   "em": "2026-10-30T19:55:42.400Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-30T15:03:14.937Z"
+   "em": "2026-10-30T19:55:42.400Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-30T15:03:14.937Z"
+   "em": "2026-10-30T19:55:42.400Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-30T15:03:14.937Z"
+   "em": "2026-10-30T19:55:42.400Z"
   },
   {
    "loja": "KaBuM",
@@ -243,53 +243,53 @@
      "codigo": "ESQUENTA",
      "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
      "titulo": "Esquenta 11.11: Aproveite 5% OFF aplicando o cupom",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "FARMOU",
+     "descricao": "Válido para os produtos selecionados.",
+     "titulo": "11% de desconto em Processadores com cupom KaBuM!",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "ZAFADINHO10",
+     "descricao": "Válido para os produtos selecionados.",
+     "titulo": "Aproveite economia de 10% em placa de vídeo com cupom KaBuM!",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "AURAGAMER",
+     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Processador com 9% de desconto",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "CASADINHO",
+     "descricao": "Válido para os produtos do link. Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Garanta Placa-Mãe com 8% de desconto",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "ESQUENTAPLAY",
+     "descricao": "Aplique o cupom KaBuM! no produto selecionado.",
+     "titulo": "Console Sony PlayStation 5 com R$400 OFF",
      "verificadoHoje": false
     },
     {
-     "codigo": "LIQUIDA10",
-     "descricao": "Aproveite a lista de itens selecionados.",
-     "titulo": "Os melhores produtos do site com 10% OFF aplicando código KaBuM!",
+     "codigo": "HYPERX15",
+     "descricao": "15% OFF em produtos participantes da HyperX.",
+     "titulo": "Economize 15% aplicando código KaBuM!",
      "verificadoHoje": false
     },
     {
-     "codigo": "AIO100",
-     "descricao": "Válido para o Computador All In One 21,5\" do link.",
-     "titulo": "R$100 OFF em suas compras com cupom KaBuM!",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "NOTE14",
-     "descricao": "Válido para o produto selecionado.",
-     "titulo": "Ganhe 14% OFF em Notebook Lenovo usando cupom KaBuM!",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "COMP10",
-     "descricao": "Desconto válido na seleção do link.",
-     "titulo": "Aplique cupom KaBuM! e ganhe 10% OFF em Notebooks e Monitores",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "CASACONECTADA",
-     "descricao": "Válido para a lista selecionada.",
-     "titulo": "20% de desconto em suas compras usando cupom KaBuM!",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "THUNDEROFF",
-     "descricao": "Desconto válido para os produtos selecionados.",
-     "titulo": "Use o código KaBuM! e garanta Teclado Gamer com 10% OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "HUSKY10",
-     "descricao": "Aplique o cupom KaBuM! no carrinho de compras. Desconto válido para seleção de produtos do link.",
-     "titulo": "Cadeira Gamer Husky com 10% OFF",
+     "codigo": "STARMINI",
+     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Kit Starlink MINI Internet via satélite com 17% OFF",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-30T15:03:14.937Z"
+   "em": "2026-10-30T19:55:42.400Z"
   }
  ]
 }
