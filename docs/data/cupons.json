@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-31T08:54:17.763Z",
+ "geradoEm": "2026-10-31T15:06:58.969Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -7,6 +7,12 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
+    {
+     "codigo": "OFFNOTECH",
+     "descricao": "Em compras acima de R$149 em produtos selecionados, com desconto máximo limitado a R$200.",
+     "titulo": "Utilize voucher Mercado Livre e tenha 10% de economia",
+     "verificadoHoje": false
+    },
     {
      "codigo": "COMPRAFACIL",
      "descricao": "Em compras acima de R$30 em produtos selecionados, com desconto máximo limitado a R$50.",
@@ -48,16 +54,10 @@
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
      "titulo": "Economia de 20% com cupom Mercado Livre",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "BEBESML",
-     "descricao": "15% OFF para compras mínimas de R$79 e desconto máximo de R$30.",
-     "titulo": "Desconto de 15% com cupom Mercado Livre",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-10-31T08:54:17.763Z"
+   "em": "2026-10-31T15:06:58.969Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-31T08:54:17.763Z"
+   "em": "2026-10-31T15:06:58.969Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-31T08:54:17.763Z"
+   "em": "2026-10-31T15:06:58.969Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-31T08:54:17.763Z"
+   "em": "2026-10-31T15:06:58.969Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-10-31T08:54:17.763Z"
+   "em": "2026-10-31T15:06:58.969Z"
   }
  ]
 }
