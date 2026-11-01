@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-01T01:29:46.533Z",
+ "geradoEm": "2026-11-01T08:03:13.739Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-01T01:29:46.533Z"
+   "em": "2026-11-01T08:03:13.739Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-01T01:29:46.533Z"
+   "em": "2026-11-01T08:03:13.739Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-01T01:29:46.533Z"
+   "em": "2026-11-01T08:03:13.739Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-01T01:29:46.533Z"
+   "em": "2026-11-01T08:03:13.739Z"
   },
   {
    "loja": "KaBuM",
@@ -243,6 +243,12 @@
      "codigo": "ESQUENTA",
      "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
      "titulo": "Esquenta 11.11: Aproveite 5% OFF aplicando o cupom",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "FLASHNOVEMBRO",
+     "descricao": "Válido para os produtos selecionados.",
+     "titulo": "10% de economia usando cupom KaBuM!",
      "verificadoHoje": false
     },
     {
@@ -270,26 +276,20 @@
      "verificadoHoje": false
     },
     {
+     "codigo": "PLACAMAE20",
+     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Ganhe 20% OFF em Placa-mãe",
+     "verificadoHoje": false
+    },
+    {
      "codigo": "GELOU10OFF",
      "descricao": "Válido para os produtos selecionados.",
      "titulo": "Seleção com 10% OFF usando cupom KaBuM!",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "ZAFADINHO10",
-     "descricao": "Válido para os produtos selecionados.",
-     "titulo": "Aproveite economia de 10% em placa de vídeo com cupom KaBuM!",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "CASATECH12",
-     "descricao": "Clique no link para conferir os produtos da lista selecionada.",
-     "titulo": "12% OFF com cupom KaBuM!",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-01T01:29:46.533Z"
+   "em": "2026-11-01T08:03:13.739Z"
   }
  ]
 }
