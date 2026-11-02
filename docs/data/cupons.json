@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-02T09:59:07.870Z",
+ "geradoEm": "2026-11-02T20:14:04.746Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -7,6 +7,36 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
+    {
+     "codigo": "COMPRAPREFERIDA",
+     "descricao": "Em compras acima de R$79, com desconto máximo limitado a R$100.",
+     "titulo": "Cupom Mercado Livre garante 10% OFF",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "SEMPRECONSTRU",
+     "descricao": "Em compras acima de R$79 em produtos selecionados de construção, com desconto limitado a R$50.",
+     "titulo": "12% OFF com cupom Mercado Livre",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "SEMPRECASA",
+     "descricao": "Em compras acima de R$79 em produtos selecionados de casa e decoração, com desconto limitado a R$60.",
+     "titulo": "Super promo Mercado Livre com 15% OFF utilizando cupom",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "EXCLUSIVO",
+     "descricao": "Em compras acima de R$149 em produtos selecionados de tech e eletrônicos, com desconto limitado a R$200.",
+     "titulo": "Obtenha desconto de 10% com cupom Mercado Livre",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "SEMPREAUTO",
+     "descricao": "Em compras acima de R$99 em produtos selecionados de autopeças, com desconto limitado a R$50.",
+     "titulo": "Faça compras com cupom Mercado Livre e ganhe 10% OFF",
+     "verificadoHoje": false
+    },
     {
      "codigo": "QUEROAGORA",
      "descricao": "Em compras acima de R$79, com desconto limitado a R$100.",
@@ -24,40 +54,10 @@
      "descricao": "Em compras acima de R$79 em produtos selecionados de casa e decoração, com desconto limitado a R$70.",
      "titulo": "Hora do desconto Mercado Livre: 15% OFF com cupom",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "CHEGUEI",
-     "descricao": "Em compras acima de R$149 em produtos selecionados de tech e eletrônicos, com desconto limitado a R$200.",
-     "titulo": "A chance de economizar 10% com código promocional Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "AUTOML",
-     "descricao": "Em compras acima de R$99 em produtos selecionados de autopeças, com desconto limitado a R$50.",
-     "titulo": "Voucher Mercado Livre garante 10% OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "OFFNOTECH",
-     "descricao": "Em compras acima de R$149 em produtos selecionados, com desconto máximo limitado a R$200.",
-     "titulo": "Utilize voucher Mercado Livre e tenha 10% de economia",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "COMPRAFACIL",
-     "descricao": "Em compras acima de R$30 em produtos selecionados, com desconto máximo limitado a R$50.",
-     "titulo": "50% OFF com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "AQUITEMTECH",
-     "descricao": "Em compras acima de R$149, com desconto máximo limitado a R$200.",
-     "titulo": "Aplique cupom Mercado Livre e obtenha 10% OFF",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-02T09:59:07.870Z"
+   "em": "2026-11-02T20:14:04.746Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-02T09:59:07.870Z"
+   "em": "2026-11-02T20:14:04.746Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-02T09:59:07.870Z"
+   "em": "2026-11-02T20:14:04.746Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-02T09:59:07.870Z"
+   "em": "2026-11-02T20:14:04.746Z"
   },
   {
    "loja": "KaBuM",
@@ -258,12 +258,6 @@
      "verificadoHoje": false
     },
     {
-     "codigo": "ESQUENTAPLAY",
-     "descricao": "Aplique o cupom KaBuM! no produto selecionado.",
-     "titulo": "Console Sony PlayStation 5 com R$400 OFF",
-     "verificadoHoje": false
-    },
-    {
      "codigo": "FARMOU",
      "descricao": "Válido para os produtos selecionados.",
      "titulo": "11% de desconto em Processadores com cupom KaBuM!",
@@ -286,10 +280,16 @@
      "descricao": "Válido para os produtos selecionados.",
      "titulo": "Seleção com 10% OFF usando cupom KaBuM!",
      "verificadoHoje": false
+    },
+    {
+     "codigo": "ZAFADINHO10",
+     "descricao": "Válido para os produtos selecionados.",
+     "titulo": "Aproveite economia de 10% em placa de vídeo com cupom KaBuM!",
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-02T09:59:07.870Z"
+   "em": "2026-11-02T20:14:04.746Z"
   }
  ]
 }
