@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-03T17:35:30.886Z",
+ "geradoEm": "2026-11-03T22:31:55.184Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -26,6 +26,12 @@
      "verificadoHoje": true
     },
     {
+     "codigo": "PROMOHOJE",
+     "descricao": "R$300 OFF em compras a partir de R$1.999 em produtos selecionados de tecnologia e eletrodomésticos.",
+     "titulo": "Suas compras com R$300 de desconto com cupom Mercado Livre",
+     "verificadoHoje": true
+    },
+    {
      "codigo": "MODAML",
      "descricao": "12% OFF em compras a partir de R$79 em produtos selecionados de moda, limitado a R$60.",
      "titulo": "Garanta economia de 12% com cupom Mercado Livre",
@@ -48,16 +54,10 @@
      "descricao": "20% OFF em compras a partir de R$79 em produtos selecionados de casa e decoração, limitado a R$80.",
      "titulo": "Casa e decoração com 20% de desconto no Mercado Livre",
      "verificadoHoje": true
-    },
-    {
-     "codigo": "QUEROOFF",
-     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
-     "titulo": "Código promocional Mercado Livre garante 20% de desconto",
-     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-11-03T17:35:30.886Z"
+   "em": "2026-11-03T22:31:55.184Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-03T17:35:30.886Z"
+   "em": "2026-11-03T22:31:55.184Z"
   },
   {
    "loja": "Casas Bahia",
@@ -123,6 +123,18 @@
    "alerta": false,
    "url": "https://www.cuponomia.com.br/desconto/casas-bahia",
    "cupons": [
+    {
+     "codigo": "VOLTESEMPRE",
+     "descricao": "Válido para compras acima de R$149. Limite de R$200 de desconto.",
+     "titulo": "Compre com o cupom Casas Bahia e ganhe 10% OFF",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "OFERTAHOJE",
+     "descricao": "Válido em compras a partir de R$149, limitado a R$200 de desconto.",
+     "titulo": "Use o código Casas Bahia e garanta 10% de desconto",
+     "verificadoHoje": false
+    },
     {
      "codigo": "TECHPROMO",
      "descricao": "Válido em compras a partir de R$ 149. Desconto máximo de R$ 200.",
@@ -158,22 +170,10 @@
      "descricao": "Válido em compras a partir de R$ 1.699, em produtos selecionados.",
      "titulo": "R$250 de desconto aplicando o código Casas Bahia",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "OFFHOJE",
-     "descricao": "Válido em compras a partir de R$149. Desconto máximo de R$200.",
-     "titulo": "Use o cupom Casas Bahia e garanta 10% OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "APROVEITA",
-     "descricao": "Válido em compras a partir de R$ 149. Desconto máximo de R$ 200.",
-     "titulo": "Aproveite 10% OFF com o cupom Casas Bahia",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-03T17:35:30.886Z"
+   "em": "2026-11-03T22:31:55.184Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-03T17:35:30.886Z"
+   "em": "2026-11-03T22:31:55.184Z"
   },
   {
    "loja": "KaBuM",
@@ -270,26 +270,26 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "AURAGAMER",
-     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
-     "titulo": "Processador com 9% de desconto",
-     "verificadoHoje": true
-    },
-    {
      "codigo": "CASADINHO",
      "descricao": "Válido para os produtos do link. Aplique o cupom KaBuM! no carrinho de compras.",
      "titulo": "Garanta Placa-Mãe com 8% de desconto",
      "verificadoHoje": true
     },
     {
-     "codigo": "THEKING",
-     "descricao": "Válido para a seleção do link.",
-     "titulo": "Ganhe 9% de desconto aplicando cupom KaBuM!",
+     "codigo": "AURAGAMER",
+     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Processador com 9% de desconto",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "CASADONINJA10",
+     "descricao": "Válido para os produtos selecionados.",
+     "titulo": "Aplique o código KaBuM! e aproveite 10% OFF em suas compras",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-03T17:35:30.886Z"
+   "em": "2026-11-03T22:31:55.184Z"
   }
  ]
 }
