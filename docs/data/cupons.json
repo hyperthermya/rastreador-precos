@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-04T17:49:30.002Z",
+ "geradoEm": "2026-11-04T23:17:25.424Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-04T17:49:30.002Z"
+   "em": "2026-11-04T23:17:25.424Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-04T17:49:30.002Z"
+   "em": "2026-11-04T23:17:25.424Z"
   },
   {
    "loja": "Casas Bahia",
@@ -123,6 +123,24 @@
    "alerta": false,
    "url": "https://www.cuponomia.com.br/desconto/casas-bahia",
    "cupons": [
+    {
+     "codigo": "MELIPROMO",
+     "descricao": "Válido em compras a partir de R$ 149. Desconto máximo de R$ 200.",
+     "titulo": "Faça suas compras com cupom Casas Bahia e ganhe 10% OFF",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "DESCONTOSEMPRE",
+     "descricao": "Aplique o cupom Casas Bahia no carrinho. Válido em compras a partir de R$ 149. Desconto máximo de R$ 200.",
+     "titulo": "Desconto de 10% em suas compras no site",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "DESCONTOS",
+     "descricao": "Válido em compras a partir de R$79. Desconto máximo de R$ 100.",
+     "titulo": "10% de desconto aplicando o cupom Casas Bahia",
+     "verificadoHoje": false
+    },
     {
      "codigo": "VOLTESEMPRE",
      "descricao": "Válido para compras acima de R$149. Limite de R$200 de desconto.",
@@ -152,28 +170,10 @@
      "descricao": "Válido em compras a partir de R$1.999, em itens selecionados.",
      "titulo": "Garanta R$300 OFF usando o cupom Casas Bahia",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "OFFHOJENOML",
-     "descricao": "Válido em compras a partir de R$149. Desconto máximo de R$200.",
-     "titulo": "Ganhe 10% OFF com o cupom Casas Bahia",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "TOPMELI",
-     "descricao": "Aplique o cupom no carrinho de compras. Válido em compras a partir de R$ 1.999, em produtos selecionados.",
-     "titulo": "Suas compras com R$300 OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "MELHORDOML",
-     "descricao": "Válido em compras a partir de R$ 1.699, em produtos selecionados.",
-     "titulo": "R$250 de desconto aplicando o código Casas Bahia",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-04T17:49:30.002Z"
+   "em": "2026-11-04T23:17:25.424Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-04T17:49:30.002Z"
+   "em": "2026-11-04T23:17:25.424Z"
   },
   {
    "loja": "KaBuM",
@@ -270,26 +270,26 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "LU5OFF",
-     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
-     "titulo": "Smart TV com 5% de desconto",
+     "codigo": "NEXUS",
+     "descricao": "Válido para o produto selecionado.",
+     "titulo": "Placa-Mãe Husky Nexus com 15% OFF aplicando cupom KaBuM!",
      "verificadoHoje": false
     },
     {
-     "codigo": "HYPERX15",
-     "descricao": "15% OFF em produtos participantes da HyperX.",
-     "titulo": "Economize 15% aplicando código KaBuM!",
+     "codigo": "MAGALU10",
+     "descricao": "Clique no link para conferir os itens da seleção.",
+     "titulo": "Seleção imperdível com 10% OFF usando cupom KaBuM!",
      "verificadoHoje": false
     },
     {
-     "codigo": "FARMOU",
-     "descricao": "Válido para os produtos selecionados.",
-     "titulo": "11% de desconto em Processadores com cupom KaBuM!",
+     "codigo": "KUMARARGB",
+     "descricao": "Aplique o cupom KaBuM! no carrinho de compras. Válido para o produto selecionado.",
+     "titulo": "Teclado Mecânico Gamer Redragon Kumara com 20% de economia",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-04T17:49:30.002Z"
+   "em": "2026-11-04T23:17:25.424Z"
   }
  ]
 }
