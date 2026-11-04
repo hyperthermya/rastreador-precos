@@ -1,143 +1,129 @@
 {
- "geradoEm": "2026-11-03T20:36:10.361Z",
+ "geradoEm": "2026-11-04T20:54:17.346Z",
  "produtos": {
   "fonte-ajustavel-0-600v-2000w": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "2000W high voltage DC 0-100V 200V 300V 400V 500V 600V high power regulated adjustable switching power supply",
-     "preco": 419.85,
-     "url": "https://pt.aliexpress.com/item/3256812331439925.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "2000W High Voltage DC 0-100V 200V 300V 400V 500V 600V High Power Regulated Adjustable Switching Power Supply",
-     "preco": 420.83,
-     "url": "https://pt.aliexpress.com/item/3256812457253714.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "2000W high voltage DC 0-100V 200V 300V 400V 500V 600V high power regulated adjustable switching power supply",
-     "preco": 433.53,
-     "url": "https://pt.aliexpress.com/item/3256811600871902.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
      "titulo": "2000W High Power DC Adjustable Power Supply 0-100V 200V 300V 400V 500V 600V Regulated Switching DC Power Supply",
-     "preco": 557.88,
+     "preco": 501.19,
      "url": "https://pt.aliexpress.com/item/3256812304695669.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "High Power Regulated Adjustable Switching Power Supply 2000W High Voltage DC 0-100V 200V 300V 400V 500V 600V",
-     "preco": 626.11,
-     "url": "https://pt.aliexpress.com/item/3256812432770414.html"
+     "titulo": "Adjustable Power Supply 300V 400V 500V 600V Myami 15v 32V 50V 64V 80V 100V 120V 150V 220V 300V 400V 500V 600V 800V Battery Charge Adjustable Regulated Power Supply",
+     "preco": 795.69,
+     "url": "https://pt.aliexpress.com/item/3256809564061906.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "Adjustable Switching power supply 300V 400V 500V 600V 800V MYMAi laboratory Adjustable 30V 50V 60V 100V 120V 150V 220V 300V 400V 500V 600V 800V Switching stabilized DC power supply",
+     "preco": 888.39,
+     "url": "https://pt.aliexpress.com/item/3256810371099189.html"
     }
    ]
   },
   "ebike-bms-16s-lifepo4": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "16S Lifepo4 BMS Smart Battery JBD BMS Xiaoxiang Smart BMS 10S-17S 13S 16S 48V Lifepo4 Battery Management System 20A-120A Bms Built-in BT UART for E-Bike",
-     "preco": 40.41,
+     "preco": 40.33,
      "url": "https://pt.aliexpress.com/item/3256809609103302.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "16S BMS Smart Battery Protection Board Lithium JBD Bluetooth Smart BMS 10S to 17S 13S 14S 16S Lithium Battery Protection Board 36V 48V NMC LFP 20A 40A 50A 60A 80A 100A 120A",
-     "preco": 43.52,
-     "url": "https://pt.aliexpress.com/item/3256807804563206.html"
+     "titulo": "16S Lifepo4 BMS Smart JBD Automatic Identify 10S 12S 13S 14S 15S 16S 17S Smart BMS 20A 40A 50A 60A 80A 100A 120A BMS Lifepo4 Build-in BT With NTC UART",
+     "preco": 41.98,
+     "url": "https://pt.aliexpress.com/item/3256808856812001.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Daly Balance Smart Bms Accessories Wifi BT Module LCD Display Screen CANBus UART 485 Converter Bms Lifepo4 16s 48v",
-     "preco": 44.45,
-     "url": "https://pt.aliexpress.com/item/3256806247916272.html"
+     "titulo": "16S LifePo4 BMS Smart Battery Protection Board JBD 10S 12S 13S 14S 16S 17S Smart BMS 20A 40A 50A 60A 80A For LifePo4 36V 48V Lithium Battery Bms Protection Board Built-in BT",
+     "preco": 43.3,
+     "url": "https://pt.aliexpress.com/item/3256804676254383.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Jikong JK BMS 4s 7s 8s 13s 16s 20s 24s 10s20a 12v 24v 36v 48v 51v 96v 48b 100a 200a Display Seplos Pcb Board Lto Smart Lifepo4",
-     "preco": 60.29,
-     "url": "https://pt.aliexpress.com/item/3256806852907515.html"
+     "titulo": "DALY Smart BMS Lifepo4 4S 7S 8S 10S 16S 17S 24S 60A 100A 150A 300A BMS with Active Balancer Built-in Bluetooth WIFI RS485CANBUS",
+     "preco": 60.84,
+     "url": "https://pt.aliexpress.com/item/3256812546521240.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "JBD BMS Automatized Identify 7S-24S Smart BMS 8S 10S 13S 16S 18S 20S 21S 24S 100A 150A Built-in BT BMS For LiFePo4 NMC Battery",
-     "preco": 85.37,
-     "url": "https://pt.aliexpress.com/item/3256808693218529.html"
+     "titulo": "JK Smart Inverter LFP V22 WIFI BMS 8S 16S 24V 48V 100A 150A 200A 0.6A Balance current For Home Energy Storage",
+     "preco": 62.2,
+     "url": "https://pt.aliexpress.com/item/3256808161649531.html"
     }
    ]
   },
   "ebike-acelerador-polegar": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Electric Bicycle Thumb Throttle Voltmeter Digital Voltage Display Switch Power with Key Lock E-Bike Finger",
-     "preco": 15.07,
-     "url": "https://pt.aliexpress.com/item/3256806454999142.html"
+     "titulo": "E-bike Power Switch Lock Display Thumb Throttle With Key 12V-84V Electric Scooter Handlebars Ignition Switch Key Power Lock",
+     "preco": 15.42,
+     "url": "https://pt.aliexpress.com/item/3256807108626091.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "WUXING 300X Electric Bike Fast Release Thumb Throttle - Speed Accelerator for E-Bikes, E-Scooters \\u0026 Bafang Conversion Kit",
-     "preco": 15.98,
-     "url": "https://pt.aliexpress.com/item/3256810284661966.html"
+     "titulo": "Thumb Throttle For Wuxing 300X 3 Core 5V-72V Electric Bicycle E-Bike Left Right Handlebar For Accelerator Control Accessories",
+     "preco": 15.63,
+     "url": "https://pt.aliexpress.com/item/3256812689672542.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Electric Bike Thumb Throttle Bike 300X Speed Regulater Accelerator Conversion Part with Waterproof Connector",
-     "preco": 16.32,
-     "url": "https://pt.aliexpress.com/item/3256809597232797.html"
+     "titulo": "electric bike E-bike thumb throttle lcd digital battery voltage display switch handle finger bicycle protective gear",
+     "preco": 15.67,
+     "url": "https://pt.aliexpress.com/item/3256806795777286.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "3 Pin Waterproof Thumb Throttle for Electric Bike Scooter 22.2mm Handlebar Accelerator E-Bike Conversion Accessories",
+     "preco": 17.14,
+     "url": "https://pt.aliexpress.com/item/3256812806063098.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Electric Bike Thumb Throttle Bike 300X Speed Regulater Accelerator Conversion Part with Common Connector",
-     "preco": 17.42,
+     "preco": 17.38,
      "url": "https://pt.aliexpress.com/item/3256812484899232.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "Bikes Finger Thumb Throttle With Power Switch LCD Display Switch Handlebar Grips",
-     "preco": 17.65,
-     "url": "https://pt.aliexpress.com/item/3256806558575832.html"
     }
    ]
   },
   "ebike-sensores-e-brake": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": []
   },
   "celula-lifepo4-eve-c33-33140": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "1PCS 3.2V 15Ah 33140 LiFePO4 Battery for EVE C33, Grade A High Capacity Power Cell for Energy Storage Outdoor",
-     "preco": 15.66,
+     "preco": 15.59,
      "url": "https://pt.aliexpress.com/item/3256811579347230.html"
     },
     {
@@ -150,35 +136,35 @@
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "For EVE Yiwei C33 IFR33135 3.2V 15Ah LiFePO4 Battery Large Monomer Power Cell",
-     "preco": 67.39,
-     "url": "https://pt.aliexpress.com/item/3256812948278683.html"
+     "titulo": "Grade A EVE C33/C40 3.2V 15Ah/20Ah Lithium Iron Phosphate Battery 33140/40135 Rechargeable Cylindrical Lifepo4 Cell+M6 Stud",
+     "preco": 28,
+     "url": "https://pt.aliexpress.com/item/3256812268317398.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "1-48PCS NEW 3.2V 15Ah LiFePO4 Battery C33 Lithium Phosphate for 4s 12V Motorcycle Car Motor Modification Inverter Batteries",
-     "preco": 68.32,
-     "url": "https://pt.aliexpress.com/item/3256809471909174.html"
+     "titulo": "1-6pcs VariCore 3.2V 15Ah LiFePO4 Battery C33 Lithium Phosphate for 4s 12V Motorcycle Car Motor Modification Inverter Batteries",
+     "preco": 29.7,
+     "url": "https://pt.aliexpress.com/item/3256806324927096.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "For EVE for Yiwei C33 IFR33135 3.2V 15Ah LiFePO4 Cylindrical Lithium Iron Phosphate Battery Large Monomer Power Cell",
-     "preco": 73.76,
-     "url": "https://pt.aliexpress.com/item/3256813251791480.html"
+     "titulo": "1-6pcs VariCore 3.2V 15Ah LiFePO4 Battery C33 Lithium Phosphate for 4s 12V Motorcycle Car Motor Modification Inverter Batteries",
+     "preco": 33,
+     "url": "https://pt.aliexpress.com/item/3256813084611269.html"
     }
    ]
   },
   "celula-lifepo4-eve-c40-40135": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "10PCS 40135 40159 EVE C40 Battery Holder, Non-Splicable Plastic Bracket 40.5mm Aperture 42.5mm Hole Pitch for DIY Battery Pack",
-     "preco": 23.15,
+     "preco": 23.1,
      "url": "https://pt.aliexpress.com/item/3256812165384276.html"
     },
     {
@@ -187,6 +173,13 @@
      "titulo": "EVE C40 40135 3.2V 20Ah Rechargeable LiFePO4 Battery 4000+ Cycles High Safety – For Solar Storage \\u0026 Backup Power Supply",
      "preco": 25.06,
      "url": "https://pt.aliexpress.com/item/3256812661759675.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "Grade A EVE C33/C40 3.2V 15Ah/20Ah Lithium Iron Phosphate Battery 33140/40135 Rechargeable Cylindrical Lifepo4 Cell+M6 Stud",
+     "preco": 28,
+     "url": "https://pt.aliexpress.com/item/3256812268317398.html"
     },
     {
      "fonte": "aliexpress",
@@ -201,19 +194,12 @@
      "titulo": "Original EVE C40 IFR40135 3.2V Real Capacity 20Ah Lithium Iron Phosphate Battery LiFePO4 Cell For Solar Energy Storage",
      "preco": 29.91,
      "url": "https://pt.aliexpress.com/item/3256812660449091.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "IFR40135 C40 20AH 3.2V Lifepo4 Battery Cylindrical Lithium Ion Battery Lifepo4 Home Solar Energy Storage Lifepo4 Battery",
-     "preco": 41.6,
-     "url": "https://pt.aliexpress.com/item/3256811653154164.html"
     }
    ]
   },
   "estufa-mcp23017": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
@@ -226,14 +212,14 @@
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "I2C Module ADC ADS1220 ADC 24 Bit Converter Module I2C Low Power 24 Bit Analog-to-Digital Converter",
-     "preco": 5.17,
+     "preco": 5.16,
      "url": "https://pt.aliexpress.com/item/3256808770574274.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "MCP23017 I2C Interface 16bit I/O Extension Module Pin Board IIC to GIPO Converter 25mA1 Drive Power Supply for Arduino and C51",
-     "preco": 5.58,
+     "preco": 5.57,
      "url": "https://pt.aliexpress.com/item/3256808954430901.html"
     },
     {
@@ -254,21 +240,28 @@
   },
   "estufa-ads1115": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "ADS1115 16-Bit ADC Module 4-Channel I2C Analog-to-Digital Converter with PGA 1PCS/3PCS/5PCS",
-     "preco": 8.31,
+     "preco": 8.3,
      "url": "https://pt.aliexpress.com/item/3256813273718603.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "16 Bit ADS1115 Module I2C ADC 4 Channel With Pro Gain Amplifier",
-     "preco": 8.46,
+     "preco": 8.44,
      "url": "https://pt.aliexpress.com/item/3256807220994755.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "ADS1115 3.3V ADC Module For Raspberry Pi 3/2/B+ I2C RPI-ADS1115-ADC Analog To Digital Converter Module",
+     "preco": 8.48,
+     "url": "https://pt.aliexpress.com/item/3256806539205051.html"
     },
     {
      "fonte": "aliexpress",
@@ -281,28 +274,35 @@
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "1 - 10PCS ADS1115 ADC Analog to Digital Converter Module with Programmable Gain Amplifier 16 Bit I2C 2.0V To 5.5V for Arduino RP",
-     "preco": 9.27,
+     "preco": 9.25,
      "url": "https://pt.aliexpress.com/item/3256809693275038.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "ZY ADS1115 Four 16-bit ADC Module I2C Communication Module ADC Sampling Channel ADS1115 Chip",
-     "preco": 10.75,
-     "url": "https://pt.aliexpress.com/item/3256809069928882.html"
     }
    ]
   },
   "estufa-bh1750": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "BH1750 Module Light Intensity Illuminance Sensor Module I2C Communication BH1750FVI",
-     "preco": 2.05,
-     "url": "https://pt.aliexpress.com/item/3256806938358420.html"
+     "preco": 2.08,
+     "url": "https://pt.aliexpress.com/item/3256805243598937.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "Ambient Light Shield V1.0.0 for LOLIN D1 Mini BH1750 BH1750FVI I2C Digital Light Sensor Module",
+     "preco": 2.1,
+     "url": "https://pt.aliexpress.com/item/2251832699654388.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "1-10PCS Digital Optical Intensity Illumination Sensor GY-30 GY-302 BH1750FVI BH1750  BH1750FVI Of Module For Arduino 3V-5V",
+     "preco": 2.13,
+     "url": "https://pt.aliexpress.com/item/3256806527817339.html"
     },
     {
      "fonte": "aliexpress",
@@ -315,28 +315,14 @@
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "BAISHUN BH1750 BH1750FVI Light Intensity Sensor Module, Light‑Ball Module for Arduino",
-     "preco": 2.28,
+     "preco": 2.27,
      "url": "https://pt.aliexpress.com/item/3256812726172001.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "1PCS BH1750 BH1750FVI Chip Light Intensity Light Module Light ball for arduino",
-     "preco": 2.34,
-     "url": "https://pt.aliexpress.com/item/2255799888098547.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "1-10pcs GY-302 BH1750 Light Intensity Illumination Module BH1750FVI Digital Light Intensity Module I2C Interface for Arduino",
-     "preco": 2.35,
-     "url": "https://pt.aliexpress.com/item/3256810089707889.html"
     }
    ]
   },
   "estufa-ds18b20": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
@@ -348,42 +334,42 @@
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "1-10pcs DS18B20 Stainless Steel Waterproof DS18b20 1m 3m 5m Thread Temperature Probe Temperature Sensor 18B20 Cable For Arduino",
-     "preco": 2.36,
-     "url": "https://pt.aliexpress.com/item/3256805904053721.html"
+     "titulo": "DS18B20 Temperature Sensor Module Kit Waterproof 100CM Digital Sensor Cable Stainless Steel Probe Terminal Adapter For Arduino",
+     "preco": 2.12,
+     "url": "https://pt.aliexpress.com/item/3256805938835290.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "DS18b20 Waterproof Temperature Sensor Probe Stainless Steel Package Waterproof DS18b20 Temperature Probe Sensor 18B20 (1m 2m 3m 5m)",
-     "preco": 2.5,
-     "url": "https://pt.aliexpress.com/item/3256806916174744.html"
+     "titulo": "DS18B20 Temperature Sensor Waterproof Probe 100cm Cable, -55°C to +125°C, Stainless Steel",
+     "preco": 2.17,
+     "url": "https://pt.aliexpress.com/item/3256810009747285.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "DS18B20 waterproof temperature sensor probe 1pcs DS18B20 waterproof 1 meters temperature probe temperature sensor 1820 Stainless steel Waterproof sensor",
-     "preco": 2.53,
-     "url": "https://pt.aliexpress.com/item/2255799935343103.html"
+     "titulo": "Waterproof temperature sensor probe DS18B20 Waterproof 18B20 temperature probe temperature sensor Stainless steel package 1 meter/2meter/3meters wire (DS18B20)",
+     "preco": 2.32,
+     "url": "https://pt.aliexpress.com/item/3256805610390700.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "DS18B20 Digital Temperature Sensor Waterproof Probe Stainless Steel 100CM(39inch) Cable for Raspberry Pi NodeMCU",
-     "preco": 2.55,
-     "url": "https://pt.aliexpress.com/item/3256809394415657.html"
+     "titulo": "DS18B20 Waterproof Temperature Sensor Probe DS18B20 Temperature Sensor Module Kit Waterproof 100CM Digital Sensor Cable Stainless Steel Probe Terminal Adapter For Arduino",
+     "preco": 2.35,
+     "url": "https://pt.aliexpress.com/item/3256809170040680.html"
     }
    ]
   },
   "estufa-jsn-sr04t": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "JSN-SR04T Integrated Ultrasonic Ranging Module, Reversing Radar Waterproof Ultrasonic Sensor Module",
-     "preco": 9.27,
+     "preco": 9.21,
      "url": "https://pt.aliexpress.com/item/3256809994686561.html"
     },
     {
@@ -396,9 +382,9 @@
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "JSN‑SR04T V3.0 Waterproof Ultrasonic Ranging Sensor Module Reverse Radar Distance Detector Probe Sensor for Arduino DIY Project",
-     "preco": 13.12,
-     "url": "https://pt.aliexpress.com/item/3256812866471627.html"
+     "titulo": "Waterproof Ultrasonic Ranging Module JSN-SR04T Water Proof Integrated Distance Measuring Transducer Sensor JSN-SR20-Y1",
+     "preco": 12.95,
+     "url": "https://pt.aliexpress.com/item/3256804115887817.html"
     },
     {
      "fonte": "aliexpress",
@@ -418,35 +404,28 @@
   },
   "estufa-bpw34": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "NE5532 IC Chip (10piece)100% New NE5534P NE5534 NE5532P NE5532 DIP-8 IC Chip In Stock",
-     "preco": 1.35,
-     "url": "https://pt.aliexpress.com/item/3256809779547743.html"
+     "titulo": "1N4148 Diodes 100PCS DO-35 1N4148 1N4448 LL4148 LL4448 LL34 SOD80 1206 High-speed Switching Diodes",
+     "preco": 1.14,
+     "url": "https://pt.aliexpress.com/item/3256812018053881.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "5PCS BPW34 DIP-2 Silicon PIN Photodiode Sensor",
-     "preco": 1.85,
-     "url": "https://pt.aliexpress.com/item/3256813265774221.html"
+     "titulo": "SMD Zener Diode 100pcs 0.5W 1206LL34 SMD Zener Diode 2V 2.7V 3V 3.3V 3.6V 3.9V 4.7V 5.V 5.1V 5.6V 6.2V.5V 8.2V 10V 12V 13V 15V 20V 24V 39V 5",
+     "preco": 1.49,
+     "url": "https://pt.aliexpress.com/item/3256807804316620.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "5pcs BPW34 DIP2 silicon photocell, photo tube, in-line DIP-2 new original",
-     "preco": 3.05,
-     "url": "https://pt.aliexpress.com/item/3256808914549840.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "5PCS Photodiode BPW34",
-     "preco": 3.11,
-     "url": "https://pt.aliexpress.com/item/3256803472474660.html"
+     "titulo": "SMD Zener Diode 0.5W 1206 100pcs LL-34 0.5W SMD Zener Diode 1206 2V 2.4V 2.7V 3V 3.3V 3.6V 3.9V 4.7V 5.1V 5.6V 7.5V 8.2V 10V 12V 13V 15V 24V 36V 47V 51V",
+     "preco": 3.06,
+     "url": "https://pt.aliexpress.com/item/3256809615391920.html"
     },
     {
      "fonte": "aliexpress",
@@ -454,12 +433,19 @@
      "titulo": "0.5W Zener Diode kit 34 Values 0.5W Zener Diode kit Rectifier Assortment 2V 3V 3.3V 4.7V 5V 5.1V 5.6V 7.5V 10V 12V 13V 15V 18V 24V 30V 33V 200V Set",
      "preco": 3.14,
      "url": "https://pt.aliexpress.com/item/3256803551061428.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "5pcs Photodiode BPW34 DIP-2 new original",
+     "preco": 3.15,
+     "url": "https://pt.aliexpress.com/item/3256806016590687.html"
     }
    ]
   },
   "estufa-as7341": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
@@ -472,50 +458,36 @@
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "AS7341 Module 10-Channel Spectral Color Sensor Expansion Board - Compatible with STEMMA QT/Qwiic, Suitable for Arduino",
-     "preco": 10.34,
+     "preco": 10.29,
      "url": "https://pt.aliexpress.com/item/3256811876795803.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "AS7341 10-Channel Spectral Color Sensor Breakout Board - STEMMA QT / Qwiic Compatible",
-     "preco": 10.42,
+     "preco": 10.39,
      "url": "https://pt.aliexpress.com/item/3256810419343130.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "KLM8G1GETF-B041 EMMC (1-10piece) Original KLM8G1GETF-B041 BGA EMMC KLM8G1GETF B041",
-     "preco": 10.64,
-     "url": "https://pt.aliexpress.com/item/3256810588140272.html"
+     "titulo": "AS7341 10-Channel Light / Color Sensor Breakout - STEMMA QT / Qwiic for Adafruit",
+     "preco": 10.85,
+     "url": "https://pt.aliexpress.com/item/3256811574455453.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "10PCS/IRF7341TRPBF New Original 10PCS/IRF7341TRPBF F7341 SOP8 New Original Genuine",
-     "preco": 10.75,
-     "url": "https://pt.aliexpress.com/item/3256809002680012.html"
+     "titulo": "AS7341 Spectral Sensor Module 10 Channel Color Sensor with I2C Interface for Light Flicker Detection and Plant Monitoring",
+     "preco": 11.36,
+     "url": "https://pt.aliexpress.com/item/3256813059321453.html"
     }
    ]
   },
   "estufa-ds3231": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "1/5PCS DS3231 AT24C32 IIC Precision RTC Real Time Clock Memory Module RTC DS3231SN/M Memory module For Arduino raspberry pi",
-     "preco": 3.11,
-     "url": "https://pt.aliexpress.com/item/3256807986273022.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "DS3231 AT24C32 IIC Precision RTC Real Time Clock Memory Module RTC DS3231SN Memory Module For Arduino Raspberry Pi DIY KIT",
-     "preco": 3.15,
-     "url": "https://pt.aliexpress.com/item/3256806957282138.html"
-    },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
@@ -526,36 +498,43 @@
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "DS3231 Real Time Clock Module RTC 3.3V/5V Raspberry Pi for arduino",
-     "preco": 3.19,
-     "url": "https://pt.aliexpress.com/item/3256807215386344.html"
+     "titulo": "DS3231 RTC Clock module series for Raspberry Pi foreign high-precision RTC module DS3231 modules Original new",
+     "preco": 3.32,
+     "url": "https://pt.aliexpress.com/item/3256809104969289.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "DS3231 RTC Clock module series for Raspberry Pi foreign high-precision RTC module DS3231 modules Original new",
-     "preco": 3.32,
-     "url": "https://pt.aliexpress.com/item/3256809104969289.html"
+     "titulo": "DS3231 Real Time Clock module DS3231 AT24C32 IIC Precision Clock DS3231SN Memory DS3231 mini module Real Time 3.3V/5V for Raspberry Pi",
+     "preco": 3.42,
+     "url": "https://pt.aliexpress.com/item/3256806642763756.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "5pcs/1pc DS3231 DS3231SN Mini High Precision Clock Module IIC I2C Interface CR1220 Battery Holder 2.54mm",
+     "preco": 3.46,
+     "url": "https://pt.aliexpress.com/item/3256805768123618.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "DS3231 RTC Real Time Clock Module DS3231 Real Time Clock Module RTC 3.3V/5V Raspberry Pi for arduino",
+     "preco": 3.47,
+     "url": "https://pt.aliexpress.com/item/3256808444688757.html"
     }
    ]
   },
   "estufa-cd74hc4067": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Estardyn CD74HC4067 16-Channel Analog Digital Multiplexer Module, Breakout Board for ESP32 Sensor Expansion",
-     "preco": 3.15,
+     "preco": 3.14,
      "url": "https://pt.aliexpress.com/item/3256811668964710.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "1PCS 74HC4067 CD74HC4067 16-Channel Analog Digital Multiplexer Breakout Board Module For Arduino Electronic Components DIY",
-     "preco": 3.16,
-     "url": "https://pt.aliexpress.com/item/2251832647598471.html"
     },
     {
      "fonte": "aliexpress",
@@ -568,21 +547,28 @@
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "CD74HC4067 16-Channel Analog Digital Multiplexer Breakout Board Module For Arduino DIY",
-     "preco": 3.24,
+     "preco": 3.23,
      "url": "https://pt.aliexpress.com/item/3256807663365634.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "1PCS 74HC4067 CD74HC4067 16-Channel Analog Digital Multiplexer Breakout Board Module For Arduino Electronic Components DIY",
-     "preco": 3.34,
-     "url": "https://pt.aliexpress.com/item/3256806427493912.html"
+     "titulo": "CD74HC4067 Analog Multiplexer Module 1-10pcs CD74HC4067 16-Channel Analog Digital Multiplexer Breakout Board Module For Arduino",
+     "preco": 3.25,
+     "url": "https://pt.aliexpress.com/item/3256807024940474.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "1~5PCS CD74HC4067 16-Channel Analog Digital Multiplexer Breakout Board Module EGBO",
+     "preco": 3.44,
+     "url": "https://pt.aliexpress.com/item/3256809308689947.html"
     }
    ]
   },
   "estufa-moc3063": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
@@ -595,14 +581,14 @@
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "5PCS MOC3063 DIP6 Photocoupler 6pin DIP zero-cross optoisolators triac driver output Dual-in-line package",
-     "preco": 5.42,
+     "preco": 5.41,
      "url": "https://pt.aliexpress.com/item/3256807022811276.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "10PCS MOC3063 MOC3063S-TA1 DIP-6 SOP-6 Zero Cross Triac Driver Optocoupler 600V Optoisolator",
-     "preco": 5.79,
+     "preco": 5.75,
      "url": "https://pt.aliexpress.com/item/3256813316333880.html"
     },
     {
@@ -623,7 +609,7 @@
   },
   "estufa-bta16": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
@@ -642,78 +628,71 @@
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Triac 10PCS TO-220 10PCS BTA20-600B BTA20-600C BTA20-800B BTA24-600C BTA24-800B BTA24-800C BTA24-1200B TO-220 Triac",
-     "preco": 3.25,
-     "url": "https://pt.aliexpress.com/item/3256811967664381.html"
+     "titulo": "BTA16 600B BTA20 10Pcs BTA16-800C BTA08 600B 600C 800B 800C BTA10 BTA12 BTA16 BTA20 TO-220 IC Chip In Stock Wholesale",
+     "preco": 3.24,
+     "url": "https://pt.aliexpress.com/item/3256808586894893.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "10-20Uds new BTA16 BTA16-600C BTA16-600BW BTA16-600CW BTA16-800B BTA16-800C BTA16-800BW BTA16-800CW BTA16-600B TO-220 Triac",
-     "preco": 3.26,
-     "url": "https://pt.aliexpress.com/item/3256812857721767.html"
+     "titulo": "5PCS Triacs BTA16-600C BTA16-600B TO220 16A600V  BTA16-800B/800C BTA16",
+     "preco": 3.24,
+     "url": "https://pt.aliexpress.com/item/3256813144632812.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "10-20Uds 100% new BTA16-600C BTA16-600BW BTA16-600CW BTA16-800B BTA16-800C BTA16-800BW BTA16-800CW BTA16-600B TO-220 Triac",
-     "preco": 3.26,
-     "url": "https://pt.aliexpress.com/item/3256812747765512.html"
+     "titulo": "Free Ship 10pcs 16 Amp 600 Volt BTA16-600B BTA16-600 BTA16 Triacs TO-220 New Original",
+     "preco": 3.28,
+     "url": "https://pt.aliexpress.com/item/3256810280595332.html"
     }
    ]
   },
   "estufa-irlz44n": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "50-5pcs Original New IRLZ44N IRLZ44NPBF TO-220",
-     "preco": 5.13,
-     "url": "https://pt.aliexpress.com/item/3256812996435618.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "10-30uds Original IRF640N IRF1404 IRF540N IRF4905 IRLZ44N IRLZ34N IRF3205 TO220 IRF9Z24N IRF740 IRF9540N IRF840 IRFZ44N IRF9530N",
-     "preco": 5.14,
-     "url": "https://pt.aliexpress.com/item/3256812259980927.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "10PCS/Lot TO-220 Transistor 10PCS/Lot IRFB4212 TO-220 Transistor Best Really Stock",
-     "preco": 5.59,
-     "url": "https://pt.aliexpress.com/item/3256808961121873.html"
+     "titulo": "10PCS IRLZ44N IRLZ48N IRLZ34N IRLZ46 IRFZ44N IRFZ48N IRFZ46N IRFZ24N IRLZ44N  N-Channel Rectifier Power MOSFET Transistor TO-220",
+     "preco": 5.75,
+     "url": "https://pt.aliexpress.com/item/3256812749369093.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "10PCS IRLZ44N TO-220 IRLZ44 TO220 IRLZ44NPBF",
-     "preco": 5.82,
+     "preco": 5.81,
      "url": "https://pt.aliexpress.com/item/3256810128046832.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "10PCS IRF9Z24 IRF9Z34 IRLZ24N IRLZ34N IRLZ44N IRFZ44N Transistor TO-220 IRF9Z24N IRF9Z34N IRLZ24 IRLZ34 IRLZ44 IRFZ44 MOSFET",
-     "preco": 5.91,
+     "preco": 5.85,
      "url": "https://pt.aliexpress.com/item/3256808371812918.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "100% New 10/25/50PCS IRLZ44N IRFZ34N IRLZ24N IRFZ44N IRLZ34N IRFZ46N IRFZ48N IRFZ24N TO-220 In Stock Wholesale",
+     "preco": 6.3,
+     "url": "https://pt.aliexpress.com/item/3256812142897804.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "10/50/100PCS TO-220  IRLZ24N IRLZ34N IRLZ44N IRLZ24 IRLZ34 IRLZ44 TO-220 IRLZ24N IRLZ34N IRLZ44N",
+     "preco": 6.41,
+     "url": "https://pt.aliexpress.com/item/3256813251172718.html"
     }
    ]
   },
   "estufa-sensor-umidade-solo": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "Soil Moisture Sensor and Soil Detector Module Soil Moisture Test Soil Humidity Test Corrosion Resistance Probe for Arduino",
-     "preco": 3.24,
-     "url": "https://pt.aliexpress.com/item/3256808830575282.html"
-    },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
@@ -724,15 +703,22 @@
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
+     "titulo": "Soil Moisture Sensor 10Pcs LM393 Soil Moisture Hygrometer Detection Humidity Sensor Module Development Board DIY Robot Smart Car For arduino",
+     "preco": 7.39,
+     "url": "https://pt.aliexpress.com/item/3256810234524419.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
      "titulo": "Soil Moisture Sensor ZigBee Soil Moisture Tester Humidity Meter Farm Lawn Plants Flower Soil Monitor Sensor Hygrometer Convenient Gardening Tool",
-     "preco": 10.1,
+     "preco": 10.08,
      "url": "https://pt.aliexpress.com/item/3256812533257180.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Capacitive Soil Moisture Sensor 1-10PCS Capacitive Soil Moisture Sensor Module Corrosion Resistant 3.3~5.5V for Arduino Moisture Detection Garden Watering DIY",
-     "preco": 11.49,
+     "preco": 11.47,
      "url": "https://pt.aliexpress.com/item/3256809368848179.html"
     },
     {
@@ -746,48 +732,48 @@
   },
   "estufa-eletrovalvula-12v": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "1PC Inlet solenoid valve 12V/24V pure water machine, water purifier, reverse osmosis 2-point quick connect valve switch",
-     "preco": 10.3,
-     "url": "https://pt.aliexpress.com/item/3256807430791404.html"
+     "titulo": "DC 6V/12V/24V 2-Position 3-Way Solenoid Valve NC/NO Water Air  Water Purifier Coffee Machine Control Switch",
+     "preco": 8.7,
+     "url": "https://pt.aliexpress.com/item/3256809206132793.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "AC220V DC12V/24V Plastic Solenoid Valve 1/4'' Quick Contact Normally Closed Water Inlet Drain Valve",
-     "preco": 10.75,
-     "url": "https://pt.aliexpress.com/item/3256806823728375.html"
+     "titulo": "2V025-08 G1/4 NC Normally Closed Air Water Oil Solenoid Valve Coil Led 2 Port 2 Ways AC110V 220V 380V 12V 24V DC 2V025",
+     "preco": 8.77,
+     "url": "https://pt.aliexpress.com/item/3256809220140008.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Normally Closed Electric Solenoid Valve Magnetic DC 12V Water Inlet Flow Switch 1/4 \\",
-     "preco": 10.76,
-     "url": "https://pt.aliexpress.com/item/3256804224511715.html"
+     "titulo": "2V025-06 G1/8 2V025-08 G1/4 Normally Closed  Air Water Oil Solenoid Valve 12V 24V 110V 220V 2Port 2Ways Pneumatic Control Valve",
+     "preco": 8.85,
+     "url": "https://pt.aliexpress.com/item/3256808960319377.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Hot 220V DC 12V 24V DN15 G1/2 Brass Electric Solenoid Valve Normally Closed Water Inlet Switch with Filter",
-     "preco": 11.55,
-     "url": "https://pt.aliexpress.com/item/2255799962475947.html"
+     "titulo": "2V025-08 G1/4 Normally Closed NC Air Water Oil Solenoid Valve Coil Led 2 Port 2 Ways  AC110V 220V 380V 12V 24V DC 2V025",
+     "preco": 8.98,
+     "url": "https://pt.aliexpress.com/item/3256806770041228.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "DC 12V Water Solenoid Valve Plastic 0.02-0.8mpa N/C Electrical Inlet Valve Normally Closed Easy Installation for Washing Machine",
-     "preco": 12.53,
-     "url": "https://pt.aliexpress.com/item/3256811633925269.html"
+     "titulo": "1PC Pneumatic Solenoid Air Valve 3 Way 2 Position NC Normal Closed 1/8\\",
+     "preco": 9.34,
+     "url": "https://pt.aliexpress.com/item/3256811624413061.html"
     }
    ]
   },
   "estufa-zmpt101b": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
@@ -807,28 +793,28 @@
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "1-10PCS ZMPT101B AC Voltage Sensor Module – 0-250V Single Phase Voltage Detection for Arduino, STM32",
-     "preco": 5.18,
+     "preco": 5.17,
      "url": "https://pt.aliexpress.com/item/3256810224875132.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Active Single Phase Voltage Transformer Module AC Output Voltage Sensor for Arduino Mega ZMPT101B 2mA",
-     "preco": 5.33,
+     "preco": 5.32,
      "url": "https://pt.aliexpress.com/item/3256808617979115.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Sensor Module TDS Meter V1.0 Development Board Water Meter Filter Measuring Water Sensor Module",
-     "preco": 5.35,
+     "preco": 5.34,
      "url": "https://pt.aliexpress.com/item/3256807031588317.html"
     }
    ]
   },
   "estufa-sct013": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
@@ -854,43 +840,43 @@
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "SCT013 High Quality 5A 10A 15A 20A 30A 50A 60A SCT-013-000 Non-invasive AC Current Sensor Split Core Current Transformer",
-     "preco": 5.48,
-     "url": "https://pt.aliexpress.com/item/3256808099392218.html"
+     "titulo": "SCT-013 Split Core Current Transformer 10A 20A 30A 50A 100A AC Non-Invasive Sensor for Energy Monitoring",
+     "preco": 5.62,
+     "url": "https://pt.aliexpress.com/item/3256809785789740.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "SCT-013 Split Core Current Transformer 10A 20A 30A 50A 100A AC Non-Invasive Sensor for Energy Monitoring",
-     "preco": 5.62,
-     "url": "https://pt.aliexpress.com/item/3256809785789740.html"
+     "titulo": "SCT-013 0-100A Open-Close Current Transformer SCT013 Non-invasive AC Current Sensor Split Core Current Transformer",
+     "preco": 5.72,
+     "url": "https://pt.aliexpress.com/item/3256808984312770.html"
     }
    ]
   },
   "estufa-aht20-bmp280": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
+     "titulo": "Temperature Humidity Pressure Module AHT20+BMP280 Temperature Humidity Air Pressure Module High-precision Digital Temperature Humidity \\u0026 Air Pressure Sensor",
+     "preco": 2.02,
+     "url": "https://pt.aliexpress.com/item/3256807343801552.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "AHT20+BMP280 High precision digital temperature and humidity atmospheric pressure sensor",
+     "preco": 2.05,
+     "url": "https://pt.aliexpress.com/item/3256804274592396.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
      "titulo": "Temperature Humidity Pressure Module 1-10PCS AHT20+BMP280 Temperature Humidity Air Pressure Module High-precisionDigital Temperature Humidity and Air Pressure Sensor",
-     "preco": 2.13,
+     "preco": 2.12,
      "url": "https://pt.aliexpress.com/item/3256812995139415.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "1-10pcs AHT20+BMP280 Temperature Humidity and Air Pressure Sensors Module High-precision For Arduino",
-     "preco": 2.14,
-     "url": "https://pt.aliexpress.com/item/3256813346030912.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "BMP280 Temperature Pressure Module 5pcs BMP280-3.3 BMP280 3.3V I2C IIC SPI Digital Sensor Temperature Barometric Air Pressure Module For Arduino",
-     "preco": 2.32,
-     "url": "https://pt.aliexpress.com/item/3256812875238423.html"
     },
     {
      "fonte": "aliexpress",
@@ -902,77 +888,63 @@
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "AHT20 BMP280 Pressure Module + Sensor AHT20 + BMP280 Digital Environmental Sensor Module I2C Temperature,Humidity \\u0026 Pressure for Arduino ESP32",
-     "preco": 2.6,
-     "url": "https://pt.aliexpress.com/item/3256810459800786.html"
+     "titulo": "Estardyn AHT20+BMP280 2 in 1 Temperature Humidity Air Pressure Module High-precision Digital Temperature and Air Pressure Sensor",
+     "preco": 2.56,
+     "url": "https://pt.aliexpress.com/item/3256807278977556.html"
     }
    ]
   },
   "estufa-esp32s3-n16r8": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "ESP32-S3 CAM Development Board 2.4G Wifi BT Module OV2640/OV5640 Camera Module onboard ESP32-S3 WROOM-1 N16R8 Module Dual Type-C",
-     "preco": 16.54,
-     "url": "https://pt.aliexpress.com/item/3256806309001138.html"
+     "titulo": "ESP32-S3 Development Board 2.4G Wifi Module for Arduino ESP IDF ESP32-S3-WROOM-1 N16R8 44Pin Type-C 16MB Flash 8M PSRAM ESP32 S3",
+     "preco": 15.97,
+     "url": "https://pt.aliexpress.com/item/3256809507344548.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "ESP32-S3 Development Board 2.4G Wifi Module for Arduino ESP IDF ESP32-S3-WROOM-1 N8R2 N16R8 44Pin Type-C 8M PSRAM ESP32 S3",
+     "preco": 16.47,
+     "url": "https://pt.aliexpress.com/item/3256808936651343.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "ESP32 S3 -WROOM-1 N16R8 CAM Development Board WiFi+Bluetooth-compatible Module OV3660 Camera",
-     "preco": 17.58,
+     "preco": 17.54,
      "url": "https://pt.aliexpress.com/item/3256810110567231.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "ESP32 S3 Development Board Dual-Core Onboard CH343 CH334 ESP32-S3-WROOM-1-N8R8 WiFi/Bluetooth 8MB PSRAM options 8MB\\u002616MB Flash",
-     "preco": 18.01,
-     "url": "https://pt.aliexpress.com/item/3256807725738152.html"
+     "titulo": "ESP32-S3-WROOM-1-N16R8 Espressif WiFi BLE 5 Module 16MB Flash 8MB PSRAM Dual-Core New Original",
+     "preco": 21.69,
+     "url": "https://pt.aliexpress.com/item/3256813211902906.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "ESP32 S3 Development Board ESP32-S3-WROOM-1-N8R8 N16R8 N32R16 WiFi Bluetooth",
-     "preco": 18.24,
-     "url": "https://pt.aliexpress.com/item/3256807727237183.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "N16R8 Module ESP32-S3 5PCS ESP32-S3-DevKitC-1 Development Board ESP32-S3 N8R2 N8R8 N16R8 WiFi Bluetooth MCU Module",
-     "preco": 18.34,
-     "url": "https://pt.aliexpress.com/item/3256812528450499.html"
+     "titulo": "Keyestudio ESP32-S3 CAM Development Board WROOM-1-N16R8 Module For Arduino ESP32 With OV3660 Camera Sensor and SD Card Slot",
+     "preco": 23.58,
+     "url": "https://pt.aliexpress.com/item/3256813184691681.html"
     }
    ]
   },
   "estufa-74hc595": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "10pcs 74HC595D 74HC595 SOP16",
-     "preco": 2.06,
-     "url": "https://pt.aliexpress.com/item/3256810229515365.html"
-    },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "10PCS 74HC595 SOP16 74HC595D SOP SN74HC595D SOP-16 SMD New and Original IC Chipset",
      "preco": 2.06,
      "url": "https://pt.aliexpress.com/item/3256811391726659.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "For  Arduino 74HC595 Shift Register – 8-Bit Serial-In Parallel-Out 4-Digit LED Driver",
-     "preco": 2.08,
-     "url": "https://pt.aliexpress.com/item/3256811375913390.html"
     },
     {
      "fonte": "aliexpress",
@@ -984,23 +956,30 @@
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "74HC595 DC 3.3V-5V Expansion Board Module Shift Register with 3pcs Needle SPI Interface",
-     "preco": 2.2,
-     "url": "https://pt.aliexpress.com/item/3256808870463114.html"
+     "titulo": "10PCS SN74HC595N 74HC595N 74HC595 DIP-16 8-bit serial register logic chip",
+     "preco": 2.21,
+     "url": "https://pt.aliexpress.com/item/3256811581700393.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "10pcs 74HC595D 74HC595 SOP16 8-bit serial register chip",
+     "preco": 2.32,
+     "url": "https://pt.aliexpress.com/item/3256812767669172.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "50Pcs/10Pcs 74HC595D,118 74HC595D 74HC595 SOIC-16 8-bit Serial Input Serial or Parallel Output Shift Register 74HC164D 74HC165D",
+     "preco": 2.33,
+     "url": "https://pt.aliexpress.com/item/3256808807967100.html"
     }
    ]
   },
   "estufa-ina226": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "INA226 IIC I2C interface Bi-directional current/Power monitoring sensor module For Arduino",
-     "preco": 5.21,
-     "url": "https://pt.aliexpress.com/item/3256812503087445.html"
-    },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
@@ -1011,43 +990,50 @@
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "DC 0-36V INA226 Current Voltage Monitoring Sensor Module IIC I2C Interface Current Shunt Power Monitor Board for Arduino",
-     "preco": 5.34,
-     "url": "https://pt.aliexpress.com/item/3256805186211000.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "TENSTAR 2pcs INA226 IIC I2C Interface Bi-Directional Current/Power Monitoring Sensor Module CJMCU-226 INA226AIDGSR Chip",
-     "preco": 5.9,
-     "url": "https://pt.aliexpress.com/item/3256809703977405.html"
+     "titulo": "INA226, INA228, INA238 Current, Voltage, Quantity, Power and Charge Measurement Modules, DC2.7-5.5V, I2C Interface",
+     "preco": 5.69,
+     "url": "https://pt.aliexpress.com/item/3256809781406438.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "INA226 Voltage Current Power Monitoring Module, I2C High Precision Power Meter Sensor",
-     "preco": 5.91,
+     "preco": 5.84,
      "url": "https://pt.aliexpress.com/item/3256813311987787.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "INA226 INA228 Current Voltage Monitoring Sensor Module IIC I2C Interface Bi-directional Zero-Drift Breakout Board DC2.7-5.5",
+     "preco": 6.19,
+     "url": "https://pt.aliexpress.com/item/3256807308466751.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "INA226 IIC I2C interface Bi-directional current/Power monitoring sensor module For Arduino",
+     "preco": 6.21,
+     "url": "https://pt.aliexpress.com/item/3256806435697808.html"
     }
    ]
   },
   "estufa-fugu2-indutor-100uh": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "2PCS 22*14*8 2MH 1.0 Line Common mode Filter inductance Choke coil Annular Common Mode Inductance 10A",
-     "preco": 3.11,
-     "url": "https://pt.aliexpress.com/item/3256805945786780.html"
-    },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "2PCS Toroid Core Inductors 10A Winding Magnetic Inductance 47uH Toroid Inductor Coil",
      "preco": 3.24,
      "url": "https://pt.aliexpress.com/item/3256805945811097.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "2pcs 18mm Vertical Horizontal 6852A-22 47 150 220 330UH 10A blue green ring inductor high current",
+     "preco": 3.27,
+     "url": "https://pt.aliexpress.com/item/3256808745284999.html"
     },
     {
      "fonte": "aliexpress",
@@ -1059,98 +1045,98 @@
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "2pcs SQ Flat Copper Wire EMI Filter Inductor Vertical Common Mode Inductance Magnetic Toroidal Coil 5mH 10mH 15mH 20mH 25mH 28mH",
-     "preco": 3.84,
-     "url": "https://pt.aliexpress.com/item/3256808937159158.html"
+     "titulo": "2pcs Flat Copper Wire EMI Filter Inductor Horizontal Common Mode Inductance Magnetic Toroidal Coil 5mH 10mH 15mH 20mH 25mH 28mH",
+     "preco": 3.46,
+     "url": "https://pt.aliexpress.com/item/3256806588084396.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "5-50Pcs5026 Toroid Inductor 3A Power Inductance 22uH-470uH Ferrite Core for LM2596 DC-DC Converter High Efficiency Low Ripple",
-     "preco": 4.28,
-     "url": "https://pt.aliexpress.com/item/3256810450409053.html"
+     "titulo": "2pcs SQ Flat Copper Wire EMI Filter Inductor Vertical Common Mode Inductance Magnetic Toroidal Coil 5mH 10mH 15mH 20mH 25mH 28mH",
+     "preco": 3.83,
+     "url": "https://pt.aliexpress.com/item/3256808937159158.html"
     }
    ]
   },
   "estufa-fugu2-shunt-10mohm": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "100Pcs 1206 5% SMD Resistor 0R - 10M 1/2W 0 1 10 100 150 220 330 470 ohm 1K 2.2K 10K 100K 200K 0R 1R 10R 100R 200R 220R 330R",
-     "preco": 2.04,
-     "url": "https://pt.aliexpress.com/item/3256813026489662.html"
+     "titulo": "20PCS/LOT 1W Carbon Film Resistor 5% 1R ~ 2MΩ 1R 4.7R 47R 220R 330R 1K 3.3K 4.7K 5.6K 10K 470K 1 3.3 4.7 5.6 10 470 Ohm In Stock",
+     "preco": 2.09,
+     "url": "https://pt.aliexpress.com/item/3256807037460605.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "20Pcs 1W Carbon Film Resistors 5% 1R-10M 1K 10K 4K7 100K 200K 560K 1M 3M3 Ohm Color Ring Resistance",
-     "preco": 2.07,
-     "url": "https://pt.aliexpress.com/item/3256813236387362.html"
+     "titulo": "Free Shipping 100pcs/lot 0.25W +-1% 10K Ohm 220R 4.7k 2.2K 1K 100K 470K 360R 560R 820R 910R  1/4W 0R--10M Metal Film Resistor",
+     "preco": 2.26,
+     "url": "https://pt.aliexpress.com/item/3256809080662959.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "(600Pcs/lot)1/4W 1% 20PCS 30Values Metal Film Resistor Assortment Kit Set pack electronic diy kit resistor",
-     "preco": 2.2,
-     "url": "https://pt.aliexpress.com/item/3256804436919076.html"
+     "titulo": "50pcs/lot 2512 smd Chip Resistor 5% 0R-1M R001 R010 R100 R020 1R 10R 100R 1K 10K 100K 1M ohm",
+     "preco": 2.37,
+     "url": "https://pt.aliexpress.com/item/3256801668922840.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "50/100pcs Transistor TO-92 S9011 S9012 S9013 S9014 S9015 S9018 SS8050 SS8550 NPN/PNP Triode Transistors Kit",
-     "preco": 2.22,
-     "url": "https://pt.aliexpress.com/item/3256806829972572.html"
+     "titulo": "10pcs 2W Metal Oxide Film Resistor 5% 1R ~ 10M 100R 220R 330R 1K 2.2K 3.3K 4.7K 10K 22K 47K 100K 1M 100 220 330 Ohm Carbon Film",
+     "preco": 2.58,
+     "url": "https://pt.aliexpress.com/item/3256803750763007.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "10PCS 3296W 1K 2K 5K 10K 20K 50K 100K 200K 500K 1M Ohm 103 501 Multiturn Trimmer Potentiometer High Precision Variable Resistor",
-     "preco": 2.49,
-     "url": "https://pt.aliexpress.com/item/3256809761717378.html"
+     "titulo": "50pcs 1210 1% SMD resistor 0R ~ 1M 1/2W 0 1 10 100 150 220 330 ohm 1K 2.2K 10K 100K 220K 0R 1R 10R 100R 150R 220R 330R 470R 1M",
+     "preco": 2.64,
+     "url": "https://pt.aliexpress.com/item/3256805009519727.html"
     }
    ]
   },
   "estufa-painel-solar-80w": {
    "ok": true,
-   "em": "2026-11-03T20:36:10.361Z",
+   "em": "2026-11-04T20:54:17.346Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "ElEGEEK 18W-180W Flexible Solar Panel Poly USB 5V 2A DC 12V 1A Battery Charger With Controller for Phone 12V Battery Camping",
-     "preco": 63.64,
-     "url": "https://pt.aliexpress.com/item/3256811667778108.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "80W Solar Panel Fast Charger, 8-Foldable Portable Lightweight Dual USB Solar Phone Charger for Outdoor Emergency,Camping",
-     "preco": 64.83,
-     "url": "https://pt.aliexpress.com/item/3256813028374246.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
      "titulo": "80W Portable Solar Charging Panel, Grade A Monocrystalline Silicon Outdoor Solar Panel, Suitable for Camping, Hiking, RV ﻿",
-     "preco": 66.12,
+     "preco": 65.99,
      "url": "https://pt.aliexpress.com/item/3256813268297020.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "80W Folding Solar Panel IP65 Waterproof Foldable Solar Charger Portable Solar Panel Charger Outdoor Phone Power Bank for Phone",
-     "preco": 68.65,
-     "url": "https://pt.aliexpress.com/item/3256808839017261.html"
+     "titulo": "Solar Panel 18V Solar Panel Battery Charger 50W 120W 12V Flexible Solar Panel 18V Photovoltaic Mono Module for Caravan Home Roof Car Motorhome",
+     "preco": 91.34,
+     "url": "https://pt.aliexpress.com/item/3256808132207639.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "A42T-30W Solar Panel Kit Solar Battery With Controller For RV Boat Car Motorcycle Outdoor",
-     "preco": 70.6,
-     "url": "https://pt.aliexpress.com/item/3256813332875660.html"
+     "titulo": "50W-500W High-Efficiency Monocrystalline Solar Panel 18V PV Module Solar Generator for Off-Grid Home/Camping With DC Plug",
+     "preco": 96.39,
+     "url": "https://pt.aliexpress.com/item/3256813008884288.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "28W Portable Solar Charger with  (USB-1+USB-2)，Suitable for outdoor hiking and camping ﻿",
+     "preco": 96.91,
+     "url": "https://pt.aliexpress.com/item/3256813269065173.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "10W Solar Powered Dual Fan Vent Kit Solar Powered Exhaust Fans for Outdoor, Greenhouse, Pet House Shed \\u0026 Attic Cooling Air Circulator",
+     "preco": 97.21,
+     "url": "https://pt.aliexpress.com/item/3256813038322530.html"
     }
    ]
   }
