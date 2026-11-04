@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-03T22:31:55.184Z",
+ "geradoEm": "2026-11-04T02:43:25.256Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-03T22:31:55.184Z"
+   "em": "2026-11-04T02:43:25.256Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-03T22:31:55.184Z"
+   "em": "2026-11-04T02:43:25.256Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-03T22:31:55.184Z"
+   "em": "2026-11-04T02:43:25.256Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-03T22:31:55.184Z"
+   "em": "2026-11-04T02:43:25.256Z"
   },
   {
    "loja": "KaBuM",
@@ -282,14 +282,14 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "CASADONINJA10",
-     "descricao": "Válido para os produtos selecionados.",
-     "titulo": "Aplique o código KaBuM! e aproveite 10% OFF em suas compras",
+     "codigo": "LENOVOIDEAPAD3",
+     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Notebook Lenovo com 20% OFF",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-03T22:31:55.184Z"
+   "em": "2026-11-04T02:43:25.256Z"
   }
  ]
 }
