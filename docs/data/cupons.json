@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-04T23:17:25.424Z",
+ "geradoEm": "2026-11-05T03:37:45.418Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-04T23:17:25.424Z"
+   "em": "2026-11-05T03:37:45.418Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-04T23:17:25.424Z"
+   "em": "2026-11-05T03:37:45.418Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-04T23:17:25.424Z"
+   "em": "2026-11-05T03:37:45.418Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-04T23:17:25.424Z"
+   "em": "2026-11-05T03:37:45.418Z"
   },
   {
    "loja": "KaBuM",
@@ -240,39 +240,33 @@
    "url": "https://www.cuponomia.com.br/desconto/kabum",
    "cupons": [
     {
-     "codigo": "ESQUENTA",
-     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
-     "titulo": "Esquenta 11.11: Aproveite 5% OFF aplicando o cupom",
-     "verificadoHoje": true
+     "codigo": "KORUJAO",
+     "descricao": "Válido para seleção de produtos do link.",
+     "titulo": "Korujão: Produtos com 10% OFF aplicando código KaBuM!",
+     "verificadoHoje": false
     },
     {
-     "codigo": "LENOVOIDEAPAD3",
-     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
-     "titulo": "Notebook Lenovo com 20% OFF",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "CASADONINJA10",
-     "descricao": "Válido para os produtos selecionados.",
-     "titulo": "Aplique o código KaBuM! e aproveite 10% OFF em suas compras",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "CASATECH15",
-     "descricao": "Clique no link para conferir os produtos da lista selecionada.",
-     "titulo": "15% OFF com cupom KaBuM!",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "LOOT15",
-     "descricao": "Desconto válido para os produtos do link.",
-     "titulo": "Produtos com 15% OFF usando código KaBuM!",
-     "verificadoHoje": true
+     "codigo": "TACHEGANDO",
+     "descricao": "Válido para o produto selecionado.",
+     "titulo": "Jogo GTA VI com 10% OFF utilizando cupom KaBuM!",
+     "verificadoHoje": false
     },
     {
      "codigo": "NEXUS",
      "descricao": "Válido para o produto selecionado.",
-     "titulo": "Placa-Mãe Husky Nexus com 15% OFF aplicando cupom KaBuM!",
+     "titulo": "Placa-Mãe Husky Nexus com 15% OFF",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "ESQUENTA",
+     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Esquenta 11.11: Aproveite 5% OFF aplicando o cupom",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "NOTE20OFF",
+     "descricao": "Use o cupom KaBuM! e garanta desconto nos produtos do link.",
+     "titulo": "Notebook com 20% de desconto",
      "verificadoHoje": false
     },
     {
@@ -282,14 +276,20 @@
      "verificadoHoje": false
     },
     {
-     "codigo": "KUMARARGB",
-     "descricao": "Aplique o cupom KaBuM! no carrinho de compras. Válido para o produto selecionado.",
-     "titulo": "Teclado Mecânico Gamer Redragon Kumara com 20% de economia",
+     "codigo": "CASADONINJA10",
+     "descricao": "Válido para os produtos selecionados.",
+     "titulo": "Aplique o código KaBuM! e aproveite 10% OFF em suas compras",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "CASATECH15",
+     "descricao": "Clique no link para conferir os produtos da lista selecionada.",
+     "titulo": "15% OFF com cupom KaBuM!",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-04T23:17:25.424Z"
+   "em": "2026-11-05T03:37:45.418Z"
   }
  ]
 }
