@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-05T03:37:45.418Z",
+ "geradoEm": "2026-11-05T11:31:55.737Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -7,24 +7,6 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
-    {
-     "codigo": "DESCONTOS",
-     "descricao": "Em compras a partir de R$79, com desconto máximo limitado a R$100.",
-     "titulo": "Utilize cupom Mercado Livre e tenha 10% OFF",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "MELIPROMO",
-     "descricao": "Em compras acima de R$149, com desconto máximo limitado a R$200.",
-     "titulo": "Hora do desconto Mercado Livre: 10% OFF com cupom",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "DESCONTOSEMPRE",
-     "descricao": "Em compras acima de R$149, com desconto máximo limitado a R$200.",
-     "titulo": "Ganhe 10% OFF em seus pedidos com cupom Mercado Livre",
-     "verificadoHoje": true
-    },
     {
      "codigo": "SUPERVANTAGEM",
      "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
@@ -50,14 +32,32 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "SEMPREMODA",
-     "descricao": "Em compras acima de R$79, com desconto máximo limitado a R$60.",
-     "titulo": "O melhor da moda com 12% de desconto no Mercado Livre",
+     "codigo": "QUEROOFF",
+     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
+     "titulo": "Código promocional Mercado Livre garante 20% de desconto",
      "verificadoHoje": true
+    },
+    {
+     "codigo": "GANHOUPROMO",
+     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
+     "titulo": "Use cupom Mercado Livre e ganhe 25% OFF",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "GANHOUOFF",
+     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
+     "titulo": "Garanta desconto de 30% aplicando cupom Mercado Livre",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "ESPECIALMELI",
+     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
+     "titulo": "Economia de 20% com cupom Mercado Livre",
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-05T03:37:45.418Z"
+   "em": "2026-11-05T11:31:55.737Z"
   },
   {
    "loja": "Amazon",
@@ -69,31 +69,31 @@
      "codigo": "APPCOMPRA",
      "descricao": "R$20 OFF na primeira compra no app. Confira o regulamento da promoção no site.",
      "titulo": "Amazon concede R$20 OFF com cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "TECH20",
      "descricao": "20% OFF em acessórios tech selecionados.",
      "titulo": "Aproveite 20% OFF com cupom Amazon",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "YOPRO20APP",
      "descricao": "20% OFF em YoPRO selecionados.",
      "titulo": "Garanta 20% de desconto com cupom Amazon",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "BUDDEMEYER20",
      "descricao": "20% OFF em produtos selecionados Buddemeyer.",
      "titulo": "Use cupom Amazon e obtenha 20% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "HEINZ20",
      "descricao": "20% OFF em produtos Heinz selecionados.",
      "titulo": "Economize 20% em suas compras com cupom Amazon",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "20PAGINA",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-05T03:37:45.418Z"
+   "em": "2026-11-05T11:31:55.737Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-05T03:37:45.418Z"
+   "em": "2026-11-05T11:31:55.737Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-05T03:37:45.418Z"
+   "em": "2026-11-05T11:31:55.737Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-05T03:37:45.418Z"
+   "em": "2026-11-05T11:31:55.737Z"
   }
  ]
 }
