@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-05T18:59:26.062Z",
+ "geradoEm": "2026-11-06T00:04:24.395Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-05T18:59:26.062Z"
+   "em": "2026-11-06T00:04:24.395Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-05T18:59:26.062Z"
+   "em": "2026-11-06T00:04:24.395Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-05T18:59:26.062Z"
+   "em": "2026-11-06T00:04:24.395Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-05T18:59:26.062Z"
+   "em": "2026-11-06T00:04:24.395Z"
   },
   {
    "loja": "KaBuM",
@@ -276,10 +276,10 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "NEXUS",
-     "descricao": "Válido para o produto selecionado.",
-     "titulo": "Placa-Mãe Husky Nexus com 15% OFF",
-     "verificadoHoje": true
+     "codigo": "11DO11HUSKY",
+     "descricao": "Confira a seleção de produtos no link.",
+     "titulo": "11.11 KaBuM: Garanta Cadeira Gamer com 11% OFF",
+     "verificadoHoje": false
     },
     {
      "codigo": "CASADONINJA10",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-05T18:59:26.062Z"
+   "em": "2026-11-06T00:04:24.395Z"
   }
  ]
 }
