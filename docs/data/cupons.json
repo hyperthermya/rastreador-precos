@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-07T13:24:58.621Z",
+ "geradoEm": "2026-11-07T18:11:17.647Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -7,6 +7,42 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
+    {
+     "codigo": "MELIOFERTAS",
+     "descricao": "Em compras acima de R$79 em produtos selecionados, com desconto máximo limitado a R$100.",
+     "titulo": "Cupom Mercado Livre oferece 10% OFF em suas compras",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "AMIGOVIP",
+     "descricao": "Em compras acima de R$149 em produtos selecionados, com desconto máximo limitado a R$200.",
+     "titulo": "Use cupom Mercado Livre e tenha desconto de 10%",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "MODAAQUI",
+     "descricao": "Em compras a partir de R$79 em produtos selecionados, com desconto máximo limitado a R$60.",
+     "titulo": "Aproveite para economizar 12% com cupom Mercado Livre",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "CUPOMPRACASA",
+     "descricao": "Em compras acima de R$79 em produtos selecionados, com desconto máximo limitado a R$70.",
+     "titulo": "Faça compras com cupom Mercado Livre e tenha 18% OFF",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "CUPOMPRACONSTRU",
+     "descricao": "Em compras a partir de R$79 em produtos selecionados, com desconto máximo limitado a R$60.",
+     "titulo": "Cupom Mercado Livre concede desconto de 15% em seus pedidos",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "CUPOMPRAAUTO",
+     "descricao": "Em compras acima de R$99 em produtos selecionados, com desconto máximo limitado a R$60.",
+     "titulo": "Compre com código promocional Mercado Livre e garanta 18% OFF",
+     "verificadoHoje": false
+    },
     {
      "codigo": "CORREAGORA",
      "descricao": "15% OFF em compras a partir de R$99 em produtos selecionados, limitado a R$80.",
@@ -18,46 +54,10 @@
      "descricao": "R$400 OFF em compras a partir de R$2.699 em produtos selecionados de tecnologia e eletrodomésticos.",
      "titulo": "R$400 OFF com cupom Mercado Livre",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "FAVORITO",
-     "descricao": "15% OFF em compras a partir de R$149 em produtos selecionados de tecnologia e eletrodomésticos, limitado a R$200.",
-     "titulo": "Cupom Mercado Livre concede 15% OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "OFFNOML",
-     "descricao": "15% OFF em compras a partir de R$149 em produtos selecionados de tecnologia e eletrodomésticos, limitado a R$200.",
-     "titulo": "Garanta 15% de desconto com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "QUEROOFERTA",
-     "descricao": "22% OFF em compras a partir de R$1 em produtos selecionados, limitado a R$500.",
-     "titulo": "Economia de 22% com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "APROVEITAMAIS",
-     "descricao": "30% OFF em compras a partir de R$1 em produtos selecionados, limitado a R$500.",
-     "titulo": "Obtenha 30% de desconto com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "BARATOAGORA",
-     "descricao": "30% OFF em compras a partir de R$1 em produtos selecionados, limitado a R$500.",
-     "titulo": "Compre com cupom Mercado Livre e ganhe 30% OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "MODASEMPRE",
-     "descricao": "15% OFF em compras a partir de R$79 em produtos selecionados de moda, limitado a R$60.",
-     "titulo": "Aproveite 15% de economia com cupom Mercado Livre",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-07T13:24:58.621Z"
+   "em": "2026-11-07T18:11:17.647Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-07T13:24:58.621Z"
+   "em": "2026-11-07T18:11:17.647Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-07T13:24:58.621Z"
+   "em": "2026-11-07T18:11:17.647Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-07T13:24:58.621Z"
+   "em": "2026-11-07T18:11:17.647Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-07T13:24:58.621Z"
+   "em": "2026-11-07T18:11:17.647Z"
   }
  ]
 }
