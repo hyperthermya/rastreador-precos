@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-06T20:42:21.573Z",
+ "geradoEm": "2026-11-07T00:23:45.592Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-06T20:42:21.573Z"
+   "em": "2026-11-07T00:23:45.592Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-06T20:42:21.573Z"
+   "em": "2026-11-07T00:23:45.592Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-06T20:42:21.573Z"
+   "em": "2026-11-07T00:23:45.592Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-06T20:42:21.573Z"
+   "em": "2026-11-07T00:23:45.592Z"
   },
   {
    "loja": "KaBuM",
@@ -276,20 +276,20 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "SOFTWARES10",
-     "descricao": "Válido apenas na seleção do link.",
-     "titulo": "Itens selecionados com 10% de desconto",
+     "codigo": "CASANINJA10",
+     "descricao": "Válido para os produtos do link.",
+     "titulo": "Iten selecionados com 10% OFF usando cupom KaBuM!",
      "verificadoHoje": false
     },
     {
-     "codigo": "REDCOBRA",
-     "descricao": "Válido para o produto selecionado.",
-     "titulo": "Mouse Gamer Redragon Cobra com 25% OFF",
+     "codigo": "FDSNO11",
+     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Aproveite seleção de produtos com 11% OFF",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-06T20:42:21.573Z"
+   "em": "2026-11-07T00:23:45.592Z"
   }
  ]
 }
