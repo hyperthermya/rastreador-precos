@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-08T07:20:56.597Z",
+ "geradoEm": "2026-11-08T14:25:49.215Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -7,6 +7,12 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
+    {
+     "codigo": "CARRINHOML",
+     "descricao": "Em compras acima de R$149 em produtos selecionados, com desconto máximo limitado a R$200.",
+     "titulo": "Economize 10% em seus pedidos aplicando cupom Mercado Livre",
+     "verificadoHoje": false
+    },
     {
      "codigo": "MELIOFERTAS",
      "descricao": "Em compras acima de R$79 em produtos selecionados, com desconto máximo limitado a R$100.",
@@ -48,16 +54,10 @@
      "descricao": "15% OFF em compras a partir de R$99 em produtos selecionados, limitado a R$80.",
      "titulo": "Aplique cupom Mercado Livre e ganhe 15% OFF",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "SEMPREOFF",
-     "descricao": "R$400 OFF em compras a partir de R$2.699 em produtos selecionados de tecnologia e eletrodomésticos.",
-     "titulo": "R$400 OFF com cupom Mercado Livre",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-08T07:20:56.597Z"
+   "em": "2026-11-08T14:25:49.215Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-08T07:20:56.597Z"
+   "em": "2026-11-08T14:25:49.215Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-08T07:20:56.597Z"
+   "em": "2026-11-08T14:25:49.215Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-08T07:20:56.597Z"
+   "em": "2026-11-08T14:25:49.215Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-08T07:20:56.597Z"
+   "em": "2026-11-08T14:25:49.215Z"
   }
  ]
 }
