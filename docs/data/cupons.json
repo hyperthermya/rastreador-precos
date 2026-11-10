@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-10T02:58:18.187Z",
+ "geradoEm": "2026-11-10T10:58:13.662Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -8,56 +8,56 @@
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
     {
+     "codigo": "MELHORDOML",
+     "descricao": "Em compras acima de R$79 em produtos selecionados, com desconto máximo limitado a R$60.",
+     "titulo": "Ganhe 20% OFF com cupom Mercado Livre",
+     "verificadoHoje": false
+    },
+    {
      "codigo": "BELEZAMELI",
      "descricao": "Em compras acima de R$79 em produtos selecionados de beleza, com desconto máximo limitado a R$50.",
      "titulo": "Cupom Mercado Livre oferece 12% OFF em suas compras",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "HOJEMESMO",
      "descricao": "Em compras acima de R$79, com desconto máximo limitado a R$100.",
      "titulo": "Use cupom Mercado Livre e tenha desconto de 10%",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "OFFSEMPRE",
      "descricao": "Em compras acima de R$149 em produtos selecionados de tecnologia e eletrodomésticos, com desconto máximo limitado a R$200.",
      "titulo": "Aproveite para economizar 12% com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "PRESENTE",
      "descricao": "Em compras acima de R$149 em produtos selecionados de tecnologia e eletrodomésticos, com desconto máximo limitado a R$200.",
      "titulo": "Cupom Mercado Livre concede 12% desconto",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "OFFNAMODA",
      "descricao": "Em compras acima de R$79 em produtos selecionados de moda, com desconto máximo limitado a R$60.",
      "titulo": "Compre com código promocional Mercado Livre e garanta 15% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "OFFPRACONSTRUIR",
      "descricao": "Em compras acima de R$79 em produtos selecionados de construção, com desconto máximo limitado a R$100.",
      "titulo": "Faça compras com cupom Mercado Livre e obtenha 20% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "NOMELI",
      "descricao": "Em compras acima de R$99 em produtos selecionados de acessórios para veículos, com desconto máximo limitado a R$60.",
      "titulo": "Economize 25% em seus pedidos aplicando cupom Mercado Livre",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "SAUDESEMPRE",
-     "descricao": "Em compras acima de R$79 em produtos selecionados de saúde, com desconto máximo limitado a R$40.",
-     "titulo": "10% a menos usando cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-10T02:58:18.187Z"
+   "em": "2026-11-10T10:58:13.662Z"
   },
   {
    "loja": "Amazon",
@@ -69,37 +69,37 @@
      "codigo": "CARTEIRA20",
      "descricao": "Válido para produtos selecionados. Consulte as condições da promoção no site.",
      "titulo": "20% OFF com cupom Amazon",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "BF15OFF",
      "descricao": "Aproveite 15% de desconto em produtos selecionados. Consulte as condições da promoção no site.",
      "titulo": "Amazon concede 15% OFF com cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MODAPRIME20",
      "descricao": "20% de desconto em Moda Masculina.",
      "titulo": "Use cupom Amazon e ganhe 20% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "FITNESS20",
      "descricao": "Aproveite desconto de 20% em Fitness.",
      "titulo": "Super promo Amazon com 20% OFF aplicando cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "BUDDEMEYER20",
      "descricao": "20% OFF em produtos selecionados Buddemeyer.",
      "titulo": "Use cupom Amazon e obtenha 20% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "HEINZ20",
      "descricao": "20% OFF em produtos Heinz selecionados.",
      "titulo": "Economize 20% em suas compras com cupom Amazon",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "TECH20",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-10T02:58:18.187Z"
+   "em": "2026-11-10T10:58:13.662Z"
   },
   {
    "loja": "Casas Bahia",
@@ -127,19 +127,19 @@
      "codigo": "OFFSEMPRE",
      "descricao": "Válido em compras a partir de R$ 149. Desconto máximo de R$ 200.",
      "titulo": "Use cupom Casas Bahia e garanta 12% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "PRESENTE",
      "descricao": "Aplique o cupom Casas Bahia no carrinho. Válido em compras a partir de R$ 149. Desconto máximo de R$ 200.",
      "titulo": "12% de desconto em suas compras no site",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "HOJEMESMO",
      "descricao": "Válido em compras a partir de R$ 79. Desconto máximo de R$ 100.",
      "titulo": "Aproveite 10% OFF com o cupom Casas Bahia",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "FAVORITO",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-10T02:58:18.187Z"
+   "em": "2026-11-10T10:58:13.662Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-10T02:58:18.187Z"
+   "em": "2026-11-10T10:58:13.662Z"
   },
   {
    "loja": "KaBuM",
@@ -243,43 +243,43 @@
      "codigo": "ESQUENTA",
      "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
      "titulo": "Esquenta 11.11: Aproveite 5% OFF aplicando o cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "11DO11HUSKY",
      "descricao": "Confira a seleção de produtos no link.",
      "titulo": "11.11 KaBuM: Garanta Cadeira Gamer com 11% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MAGALU10",
      "descricao": "Clique no link para conferir os itens da seleção.",
      "titulo": "Seleção imperdível com 10% OFF usando cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "ZAFADINHO10",
      "descricao": "Válido para os produtos selecionados.",
      "titulo": "Aproveite economia de 10% em placa de vídeo com cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "GTAVAMBORA",
      "descricao": "Válido para o produto selecionado.",
      "titulo": "Jogo GTA VI com R$60 de desconto aplicando código KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "JBL30",
      "descricao": "Desconto válido para produtos selecionados no site.",
      "titulo": "Produtos JBL com 30% de economia aplicando voucher KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "TOMOU15",
      "descricao": "Válido para a seleção do link. Aplique o cupom KaBuM! no carrinho de compras.",
      "titulo": "Seleção de Mouse e Mousepad com 15% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "VEMCOMPLAY",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-10T02:58:18.187Z"
+   "em": "2026-11-10T10:58:13.662Z"
   }
  ]
 }
