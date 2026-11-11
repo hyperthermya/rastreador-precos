@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-10T23:43:56.076Z",
+ "geradoEm": "2026-11-11T03:07:23.701Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-10T23:43:56.076Z"
+   "em": "2026-11-11T03:07:23.701Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-10T23:43:56.076Z"
+   "em": "2026-11-11T03:07:23.701Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-10T23:43:56.076Z"
+   "em": "2026-11-11T03:07:23.701Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-10T23:43:56.076Z"
+   "em": "2026-11-11T03:07:23.701Z"
   },
   {
    "loja": "KaBuM",
@@ -243,53 +243,53 @@
      "codigo": "ESQUENTA",
      "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
      "titulo": "Esquenta 11.11: Aproveite 5% OFF aplicando o cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "11DO11HUSKY",
      "descricao": "Confira a seleção de produtos no link.",
      "titulo": "11.11 KaBuM: Garanta Cadeira Gamer com 11% OFF",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "MAGALU10",
-     "descricao": "Clique no link para conferir os itens da seleção.",
-     "titulo": "Seleção imperdível com 10% OFF usando cupom KaBuM!",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "VEMCOMPLAY",
-     "descricao": "Válido para o produto selecionado.",
-     "titulo": "PS5 com R$350 de desconto aplicando cupom KaBuM!",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "DALHE9800",
-     "descricao": "Válido para o produto do link.",
-     "titulo": "Cupom KaBuM!: Ganhe 5% OFF em Processador AMD Ryzen 7",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "PRECISAO20",
-     "descricao": "Válido para os itens selecionados.",
-     "titulo": "20% OFF em suas compras aplicando cupom KaBuM!",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "SOFTWARES10",
-     "descricao": "Válido apenas na seleção do link.",
-     "titulo": "Itens selecionados com 10% de desconto",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "VEMGTAZIN",
      "descricao": "Válido para o produto selecionado.",
      "titulo": "Jogo GTA VI com R$60 de desconto aplicando código KaBuM!",
      "verificadoHoje": false
+    },
+    {
+     "codigo": "MAGALU10",
+     "descricao": "Clique no link para conferir os itens da seleção.",
+     "titulo": "Seleção imperdível com 10% OFF usando cupom KaBuM!",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "ZAFADINHO11",
+     "descricao": "Válido para os produtos selecionados.",
+     "titulo": "11% de desconto em suas compras utilizando cupom KaBuM!",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "KAMVAS20",
+     "descricao": "Válido para o produto selecionado.",
+     "titulo": "Cupom KaBuM! concede 20% OFF em Mesa Digitalizadora",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "11DO11CPU",
+     "descricao": "Desconto válido para a seleção do link.",
+     "titulo": "Processadores com 11% OFF usando código KaBuM!",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "JBL30",
+     "descricao": "Desconto válido para produtos selecionados no site.",
+     "titulo": "Produtos JBL com 30% de economia aplicando voucher KaBuM!",
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-10T23:43:56.076Z"
+   "em": "2026-11-11T03:07:23.701Z"
   }
  ]
 }
