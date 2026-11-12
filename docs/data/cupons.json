@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-11T18:34:03.606Z",
+ "geradoEm": "2026-11-12T01:00:29.780Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -7,6 +7,18 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
+    {
+     "codigo": "AGORAPROMO",
+     "descricao": "Em compras acima de R$149, com desconto máximo limitado a R$40.",
+     "titulo": "Compre com cupom Mercado Livre e obtenha 25% de desconto",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "MELHOROFERTA",
+     "descricao": "Em compras acima de R$199, com desconto máximo limitado a R$200.",
+     "titulo": "Mercado Livre garante 15% OFF com cupom",
+     "verificadoHoje": true
+    },
     {
      "codigo": "DESCONTOJA",
      "descricao": "Em compras acima de R$99, com desconto máximo limitado a R$60.",
@@ -42,22 +54,10 @@
      "descricao": "Em compras acima de R$79, com desconto máximo limitado a R$50.",
      "titulo": "Faça compras com cupom Mercado Livre ganhe 25% OFF",
      "verificadoHoje": true
-    },
-    {
-     "codigo": "SEMPREAQUI",
-     "descricao": "Em compras acima de R$79, com desconto máximo limitado a R$80.",
-     "titulo": "Compre com cupom Mercado Livre e ganhe 15% OFF",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "CORREAGORAML",
-     "descricao": "Em compras a partir de R$999 em produtos selecionados.",
-     "titulo": "Hora do desconto Mercado Livre: R$150 OFF com cupom",
-     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-11-11T18:34:03.606Z"
+   "em": "2026-11-12T01:00:29.780Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-11T18:34:03.606Z"
+   "em": "2026-11-12T01:00:29.780Z"
   },
   {
    "loja": "Casas Bahia",
@@ -123,6 +123,12 @@
    "alerta": false,
    "url": "https://www.cuponomia.com.br/desconto/casas-bahia",
    "cupons": [
+    {
+     "codigo": "OFERTASCOMTECH",
+     "descricao": "Válido em compras a partir de R$ 199, em produtos de Tecnologia e Eletrodomésticos. Desconto máximo de R$ 300.",
+     "titulo": "Ganhe 12% OFF aplicando cupom Casas Bahia",
+     "verificadoHoje": true
+    },
     {
      "codigo": "OFFSEMPRE",
      "descricao": "Válido em compras a partir de R$ 149. Desconto máximo de R$ 200.",
@@ -164,16 +170,10 @@
      "descricao": "Válido em compras a partir de R$ 149. Desconto máximo de R$ 200.",
      "titulo": "Seus pedidos com 10% de economia usando código Casas Bahia",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "PROMOSML",
-     "descricao": "Aplique o cupom Casas Bahia e garanta 10% OFF. Válido em compras a partir de R$ 149. Desconto máximo de R$ 200.",
-     "titulo": "10% de desconto em suas compras no site",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-11T18:34:03.606Z"
+   "em": "2026-11-12T01:00:29.780Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-11T18:34:03.606Z"
+   "em": "2026-11-12T01:00:29.780Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-11T18:34:03.606Z"
+   "em": "2026-11-12T01:00:29.780Z"
   }
  ]
 }
