@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-12T16:58:36.159Z",
+ "geradoEm": "2026-11-12T22:40:05.538Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-12T16:58:36.159Z"
+   "em": "2026-11-12T22:40:05.538Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-12T16:58:36.159Z"
+   "em": "2026-11-12T22:40:05.538Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-12T16:58:36.159Z"
+   "em": "2026-11-12T22:40:05.538Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-12T16:58:36.159Z"
+   "em": "2026-11-12T22:40:05.538Z"
   },
   {
    "loja": "KaBuM",
@@ -282,14 +282,14 @@
      "verificadoHoje": false
     },
     {
-     "codigo": "HEYALEXAVIP",
-     "descricao": "Válido para os itens selecionados.",
-     "titulo": "Aproveite 10% OFF com o código KaBuM!",
+     "codigo": "JBL30OFF",
+     "descricao": "Válido para a seleção do link.",
+     "titulo": "Faça suas compras com cupom KaBuM! e ganhe 30% OFF",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-12T16:58:36.159Z"
+   "em": "2026-11-12T22:40:05.538Z"
   }
  ]
 }
