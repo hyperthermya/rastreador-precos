@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-13T18:05:36.456Z",
+ "geradoEm": "2026-11-13T23:34:16.765Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -7,6 +7,12 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
+    {
+     "codigo": "OFERTAPRATEC",
+     "descricao": "Em compras a partir de R$2.699 em produtos selecionados de tecnologia e eletrodomésticos.",
+     "titulo": "R$400 OFF com cupom Mercado Livre",
+     "verificadoHoje": true
+    },
     {
      "codigo": "PROMOSTECH",
      "descricao": "Em compras acima de R$149 em produtos selecionados de tecnologia e eletrodomésticos, com desconto máximo limitado a R$200.",
@@ -48,16 +54,10 @@
      "descricao": "30% OFF em compras a partir de R$1, limitado a R$500.",
      "titulo": "Aproveite 30% de economia com cupom Mercado Livre",
      "verificadoHoje": true
-    },
-    {
-     "codigo": "LEVEAGORA30",
-     "descricao": "30% OFF em compras a partir de R$1, limitado a R$500.",
-     "titulo": "Faça compras com cupom Mercado Livre e obtenha 30% OFF",
-     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-11-13T18:05:36.456Z"
+   "em": "2026-11-13T23:34:16.765Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-13T18:05:36.456Z"
+   "em": "2026-11-13T23:34:16.765Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-13T18:05:36.456Z"
+   "em": "2026-11-13T23:34:16.765Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-13T18:05:36.456Z"
+   "em": "2026-11-13T23:34:16.765Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-13T18:05:36.456Z"
+   "em": "2026-11-13T23:34:16.765Z"
   }
  ]
 }
