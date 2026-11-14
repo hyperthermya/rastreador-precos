@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-14T03:35:49.535Z",
+ "geradoEm": "2026-11-14T10:57:39.841Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-14T03:35:49.535Z"
+   "em": "2026-11-14T10:57:39.841Z"
   },
   {
    "loja": "Amazon",
@@ -69,19 +69,19 @@
      "codigo": "MALAPRIME",
      "descricao": "Desconto válido para produtos selecionados.",
      "titulo": "30% OFF em suas compras com cupom Amazon",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "CARTEIRA20",
      "descricao": "Válido para produtos selecionados. Consulte as condições da promoção no site.",
      "titulo": "20% OFF com cupom Amazon",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "BF15OFF",
      "descricao": "Aproveite 15% de desconto em produtos selecionados. Consulte as condições da promoção no site.",
      "titulo": "Amazon concede 15% OFF com cupom",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MODAPRIME20",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-14T03:35:49.535Z"
+   "em": "2026-11-14T10:57:39.841Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-14T03:35:49.535Z"
+   "em": "2026-11-14T10:57:39.841Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-14T03:35:49.535Z"
+   "em": "2026-11-14T10:57:39.841Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-14T03:35:49.535Z"
+   "em": "2026-11-14T10:57:39.841Z"
   }
  ]
 }
