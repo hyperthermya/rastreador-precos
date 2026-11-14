@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-14T10:57:39.841Z",
+ "geradoEm": "2026-11-14T16:56:32.379Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -7,6 +7,36 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
+    {
+     "codigo": "PROMOTEC",
+     "descricao": "Em compras a partir de R$2.299 em produtos selecionados de tecnologia e eletrodomésticos.",
+     "titulo": "Aproveite para ganhar R$300 OFF utilizando código Mercado Livre",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "CUPOMPRAHOME",
+     "descricao": "Em compras acima de R$149 em produtos selecionados de tecnologia e eletrodomésticos, com desconto máximo limitado a R$200.",
+     "titulo": "Cupom Mercado Livre oferece 10% OFF em suas compras",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "MEUPROJETO",
+     "descricao": "Em compras acima de R$79 em produtos selecionados de construção e indústria, com desconto máximo limitado a R$70.",
+     "titulo": "Use cupom Mercado Livre e tenha desconto de 15%",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "PROMOAGORAML",
+     "descricao": "Em compras acima de R$99 em produtos selecionados de acessórios para veículos, com desconto máximo limitado a R$60.",
+     "titulo": "Aproveite para economizar 18% com cupom Mercado Livre",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "SEMPREOFERTAS",
+     "descricao": "Em compras acima de R$79 em produtos selecionados de casa e decoração, com desconto máximo limitado a R$60.",
+     "titulo": "Cupom Mercado Livre concede desconto de 25%",
+     "verificadoHoje": false
+    },
     {
      "codigo": "OFERTAPRATEC",
      "descricao": "Em compras a partir de R$2.699 em produtos selecionados de tecnologia e eletrodomésticos.",
@@ -24,40 +54,10 @@
      "descricao": "Em compras acima de R$79 em produtos selecionados de construção e indústria, com desconto máximo limitado a R$50.",
      "titulo": "Aplique cupom Mercado Livre e ganhe 15% OFF",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "PROMOHOJETEM",
-     "descricao": "Em compras acima de R$99 em produtos selecionados de acessórios para veículos, com desconto máximo limitado a R$50.",
-     "titulo": "Garanta desconto de 18% em seus pedidos com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "PRASAUDEPROMO",
-     "descricao": "Em compras acima de R$79 em produtos selecionados de saúde, com desconto máximo limitado a R$40.",
-     "titulo": "Economia de 18% com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "VEMHOJE",
-     "descricao": "Em compras acima de R$79 em produtos selecionados de casa e decoração, com desconto máximo limitado a R$80.",
-     "titulo": "Obtenha desconto de 20% no Mercado Livre com cupom",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "CHEGOUCUPOM30",
-     "descricao": "30% OFF em compras a partir de R$1, limitado a R$500.",
-     "titulo": "Momento Mercado Livre: 30% OFF com cupom",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "POUPAAGORA30",
-     "descricao": "30% OFF em compras a partir de R$1, limitado a R$500.",
-     "titulo": "Aproveite 30% de economia com cupom Mercado Livre",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-14T10:57:39.841Z"
+   "em": "2026-11-14T16:56:32.379Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-14T10:57:39.841Z"
+   "em": "2026-11-14T16:56:32.379Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-14T10:57:39.841Z"
+   "em": "2026-11-14T16:56:32.379Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-14T10:57:39.841Z"
+   "em": "2026-11-14T16:56:32.379Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-14T10:57:39.841Z"
+   "em": "2026-11-14T16:56:32.379Z"
   }
  ]
 }
