@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-15T15:24:47.886Z",
+ "geradoEm": "2026-11-15T20:29:15.169Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -7,6 +7,12 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
+    {
+     "codigo": "CUPOMPRATEC",
+     "descricao": "Em compras a partir de R$2.299 em produtos selecionados de tecnologia e eletrodomésticos.",
+     "titulo": "R$300 OFF com cupom Mercado Livre",
+     "verificadoHoje": false
+    },
     {
      "codigo": "VIPNOML",
      "descricao": "Em compras acima de R$79, com desconto máximo limitado a R$100.",
@@ -48,16 +54,10 @@
      "descricao": "Em compras acima de R$149 em produtos selecionados de tecnologia e eletrodomésticos, com desconto máximo limitado a R$200.",
      "titulo": "Cupom Mercado Livre oferece 10% OFF em suas compras",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "MEUPROJETO",
-     "descricao": "Em compras acima de R$79 em produtos selecionados de construção e indústria, com desconto máximo limitado a R$70.",
-     "titulo": "Use cupom Mercado Livre e tenha desconto de 15%",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-15T15:24:47.886Z"
+   "em": "2026-11-15T20:29:15.169Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-15T15:24:47.886Z"
+   "em": "2026-11-15T20:29:15.169Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-15T15:24:47.886Z"
+   "em": "2026-11-15T20:29:15.169Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-15T15:24:47.886Z"
+   "em": "2026-11-15T20:29:15.169Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-15T15:24:47.886Z"
+   "em": "2026-11-15T20:29:15.169Z"
   }
  ]
 }
