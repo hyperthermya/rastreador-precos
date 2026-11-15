@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-15T07:52:09.160Z",
+ "geradoEm": "2026-11-15T15:24:47.886Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -7,6 +7,36 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
+    {
+     "codigo": "VIPNOML",
+     "descricao": "Em compras acima de R$79, com desconto máximo limitado a R$100.",
+     "titulo": "Compre com código promocional Mercado Livre e obtenha 10% OFF",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "OFFTEC",
+     "descricao": "Em compras acima de R$149 em produtos selecionados de tecnologia e eletrodomésticos, com desconto máximo limitado a R$200.",
+     "titulo": "Faça compras com cupom Mercado Livre e economize 10%",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "ESTRUTURAFORTE",
+     "descricao": "Em compras acima de R$79 em produtos selecionados de construção e indústria, com desconto máximo limitado a R$70.",
+     "titulo": "15% a menos usando cupom Mercado Livre",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "PROMOVEIC",
+     "descricao": "Em compras acima de R$99 em produtos selecionados de acessórios para veículos, com desconto máximo limitado a R$60.",
+     "titulo": "Em ritmo de desconto: 18% OFF com cupom Mercado Livre",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "OFERTASNOML",
+     "descricao": "Em compras acima de R$79 em produtos selecionados de casa e decoração, com desconto máximo limitado a R$60.",
+     "titulo": "Sua chance de conseguir 18% OFF no Mercado Livre",
+     "verificadoHoje": false
+    },
     {
      "codigo": "PROMOTEC",
      "descricao": "Em compras a partir de R$2.299 em produtos selecionados de tecnologia e eletrodomésticos.",
@@ -24,40 +54,10 @@
      "descricao": "Em compras acima de R$79 em produtos selecionados de construção e indústria, com desconto máximo limitado a R$70.",
      "titulo": "Use cupom Mercado Livre e tenha desconto de 15%",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "PROMOAGORAML",
-     "descricao": "Em compras acima de R$99 em produtos selecionados de acessórios para veículos, com desconto máximo limitado a R$60.",
-     "titulo": "Aproveite para economizar 18% com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "SEMPREOFERTAS",
-     "descricao": "Em compras acima de R$79 em produtos selecionados de casa e decoração, com desconto máximo limitado a R$60.",
-     "titulo": "Cupom Mercado Livre concede desconto de 25%",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "OFERTAPRATEC",
-     "descricao": "Em compras a partir de R$2.699 em produtos selecionados de tecnologia e eletrodomésticos.",
-     "titulo": "R$400 OFF com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "PROMOSTECH",
-     "descricao": "Em compras acima de R$149 em produtos selecionados de tecnologia e eletrodomésticos, com desconto máximo limitado a R$200.",
-     "titulo": "Cupom Mercado Livre concede 10% OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "PARTIUREFORMA",
-     "descricao": "Em compras acima de R$79 em produtos selecionados de construção e indústria, com desconto máximo limitado a R$50.",
-     "titulo": "Aplique cupom Mercado Livre e ganhe 15% OFF",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-15T07:52:09.160Z"
+   "em": "2026-11-15T15:24:47.886Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-15T07:52:09.160Z"
+   "em": "2026-11-15T15:24:47.886Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-15T07:52:09.160Z"
+   "em": "2026-11-15T15:24:47.886Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-15T07:52:09.160Z"
+   "em": "2026-11-15T15:24:47.886Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-15T07:52:09.160Z"
+   "em": "2026-11-15T15:24:47.886Z"
   }
  ]
 }
