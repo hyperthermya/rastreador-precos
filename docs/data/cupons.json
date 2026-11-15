@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-15T01:05:29.593Z",
+ "geradoEm": "2026-11-15T07:52:09.160Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-15T01:05:29.593Z"
+   "em": "2026-11-15T07:52:09.160Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-15T01:05:29.593Z"
+   "em": "2026-11-15T07:52:09.160Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-15T01:05:29.593Z"
+   "em": "2026-11-15T07:52:09.160Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-15T01:05:29.593Z"
+   "em": "2026-11-15T07:52:09.160Z"
   },
   {
    "loja": "KaBuM",
@@ -264,15 +264,15 @@
      "verificadoHoje": false
     },
     {
-     "codigo": "PEGALOGOGTA",
-     "descricao": "Aplique o cupom KaBuM! no carrinho de compras. Válido para o produto selecionado.",
-     "titulo": "R$30 de desconto no jogo GTA VI",
+     "codigo": "DOMINGOX3D",
+     "descricao": "Válido para os itens selecionados.",
+     "titulo": "Cupom KaBuM!: Ganhe 7% OFF em suas compras",
      "verificadoHoje": false
     },
     {
-     "codigo": "SABADOX3D",
-     "descricao": "Desconto válido para os produtos selecionados.",
-     "titulo": "Compre Processador com cupom KaBuM! e ganhe 7% OFF",
+     "codigo": "PEGALOGOGTA",
+     "descricao": "Aplique o cupom KaBuM! no carrinho de compras. Válido para o produto selecionado.",
+     "titulo": "R$30 de desconto no jogo GTA VI",
      "verificadoHoje": false
     },
     {
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-15T01:05:29.593Z"
+   "em": "2026-11-15T07:52:09.160Z"
   }
  ]
 }
