@@ -328,6 +328,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 22.9,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T06:40:59.221Z",
+   "preco": 29.99,
+   "fonte": "zoom"
   }
  ],
  "ebike-powerbank-20000mah": [
@@ -349,6 +354,11 @@
   {
    "em": "2026-11-16T02:33:08.684Z",
    "preco": 126.48,
+   "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-16T06:40:59.221Z",
+   "preco": 131.96,
    "fonte": "zoom"
   }
  ],
@@ -607,6 +617,11 @@
    "em": "2026-11-16T02:33:08.684Z",
    "preco": 36.94,
    "fonte": "buscape"
+  },
+  {
+   "em": "2026-11-16T06:40:59.221Z",
+   "preco": 36.27,
+   "fonte": "zoom"
   }
  ],
  "ebike-capacete-ciclismo-viseira": [
@@ -682,6 +697,11 @@
   {
    "em": "2026-11-16T01:49:17.079Z",
    "preco": 119.51,
+   "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-16T06:40:59.221Z",
+   "preco": 112.23,
    "fonte": "zoom"
   }
  ],
@@ -867,6 +887,11 @@
    "em": "2026-11-16T02:33:08.684Z",
    "preco": 34.53,
    "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-16T06:40:59.221Z",
+   "preco": 35,
+   "fonte": "promobit"
   }
  ],
  "estufa-sensor-umidade-capacitivo": [
@@ -995,6 +1020,11 @@
    "em": "2026-11-16T02:33:08.684Z",
    "preco": 34.53,
    "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-16T06:40:59.221Z",
+   "preco": 35,
+   "fonte": "promobit"
   }
  ],
  "estufa-ds3231": [
@@ -1121,6 +1151,11 @@
    "em": "2026-11-16T02:33:08.684Z",
    "preco": 34.53,
    "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-16T06:40:59.221Z",
+   "preco": 35,
+   "fonte": "promobit"
   }
  ],
  "estufa-zmpt101b": [
@@ -1139,6 +1174,11 @@
   {
    "em": "2026-11-16T02:33:08.684Z",
    "preco": 34.53,
+   "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-16T06:40:59.221Z",
+   "preco": 35,
    "fonte": "promobit"
   }
  ],
