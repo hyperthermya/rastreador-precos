@@ -290,30 +290,33 @@
   "menorHistorico": 11.05
  },
  "estufa-eletrovalvula-12v": {
-  "menorHistorico": 26
+  "menorHistorico": 17
  },
  "estufa-zmpt101b": {
-  "menorHistorico": 21.8
+  "menorHistorico": 17
  },
  "estufa-sct013": {
-  "menorHistorico": 26
+  "menorHistorico": 17
  },
  "estufa-aht20-bmp280": {
   "menorHistorico": 12.18
  },
  "estufa-esp32s3-n16r8": {
-  "menorHistorico": 26
+  "menorHistorico": 17
  },
  "estufa-74hc595": {
-  "menorHistorico": 18.9
+  "menorHistorico": 17
  },
  "estufa-fugu2-indutor-100uh": {
   "menorHistorico": 9.83
  },
  "estufa-fugu2-shunt-10mohm": {
-  "menorHistorico": 20.96
+  "menorHistorico": 17
  },
  "estufa-painel-solar-80w": {
   "menorHistorico": 61.75
+ },
+ "ebike-descanso-cavalete-central-26-29": {
+  "menorHistorico": 23.49
  }
 }
