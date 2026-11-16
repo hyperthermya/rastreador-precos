@@ -51,10 +51,19 @@
         " bms",
         "chilwee",
         "litio lithium bicicleta",
-        "li-ion lithium"
+        "li-ion lithium",
+        "case",
+        "estojo",
+        "caixa de bateria",
+        "suporte de bateria",
+        "aro 24",
+        "aro 20",
+        "aro 16",
+        "aro 29",
+        "aro 27"
       ],
       "precoAlvo": 2500,
-      "precoMin": 500,
+      "precoMin": 1000,
       "precoMax": 3000,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/esportes-fitness/ciclismo/bicicletas/bicicletas-eletricas/novo/48v/_OrderId_PRICE_PriceRange_0-3000_Installments_NoInterest_NoIndex_True_WITH_REMOVABLE_BATTERY_242085_original_category_landing_true"

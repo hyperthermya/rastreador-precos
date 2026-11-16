@@ -9,7 +9,7 @@ import * as zoom from "./sources/zoom.js";
 import * as buscape from "./sources/buscape.js";
 import * as pelando from "./sources/pelando.js";
 import * as promobit from "./sources/promobit.js";
-import { precoNaFaixa } from "./lib.js";
+import { precoNaFaixa, tituloRelevante } from "./lib.js";
 import { processarAlertas } from "./alert.js";
 import { buscarCupons, alertarCuponsNovos } from "./cupons.js";
 
@@ -99,7 +99,11 @@ async function coletarProduto(produto, anterior, agora) {
       const ultimoOkEm = anterior?.fontes?.[nome]?.ultimoOkEm ?? null;
       const idadeMs = ultimoOkEm ? Date.parse(agora) - Date.parse(ultimoOkEm) : Infinity;
       const fresco = idadeMs < STALE_MS;
-      const antigasOfertas = (anterior?.ofertas ?? []).filter((o) => o.fonte === nome);
+      // reaproveita só o que ainda passa nos filtros ATUAIS do produto (se o item mudou,
+      // ex.: passou a exigir aro 26, os anúncios antigos que não servem somem)
+      const antigasOfertas = (anterior?.ofertas ?? []).filter(
+        (o) => o.fonte === nome && tituloRelevante(o.titulo, produto) && precoNaFaixa(o.preco, produto)
+      );
       const antigasPromos = (anterior?.promocoes ?? []).filter((o) => o.fonte === nome);
       resultado.ofertas.push(...antigasOfertas.map((o) => ({ ...o, desatualizado: !fresco })));
       resultado.promocoes.push(...antigasPromos.map((o) => ({ ...o, desatualizado: !fresco })));
