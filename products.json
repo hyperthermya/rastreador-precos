@@ -106,10 +106,23 @@
         "250w",
         "36v somente",
         "capa",
-        "adesivo"
+        "adesivo",
+        "painel",
+        "lcd",
+        "display",
+        "tela",
+        "controlador",
+        "controladora",
+        "placa",
+        "chicote",
+        "suporte",
+        "engrenagem",
+        "polia",
+        "carcaca",
+        "sensor"
       ],
       "precoAlvo": 900,
-      "precoMin": 400,
+      "precoMin": 700,
       "precoMax": 1600,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/motor-tongsheng-tsdz2-500w_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
