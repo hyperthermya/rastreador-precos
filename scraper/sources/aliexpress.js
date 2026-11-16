@@ -18,7 +18,7 @@
 //      que mudam a cada redesign do site.
 import puppeteer from "puppeteer-extra";
 import StealthPlugin from "puppeteer-extra-plugin-stealth";
-import { normalizar } from "../lib.js";
+import { normalizar, tituloRelevante } from "../lib.js";
 
 puppeteer.use(StealthPlugin());
 
@@ -44,15 +44,6 @@ export async function fecharBrowser() {
     await b?.close().catch(() => {});
     browserPromise = undefined;
   }
-}
-
-function tituloRelevanteAli(titulo, produto) {
-  const t = normalizar(titulo);
-  const obrigOk = (produto.termosObrigatorios ?? []).every((termo) =>
-    Array.isArray(termo) ? termo.some((alt) => t.includes(normalizar(alt))) : t.includes(normalizar(termo))
-  );
-  const proibOk = !(produto.termosProibidos ?? []).some((termo) => t.includes(normalizar(termo)));
-  return obrigOk && proibOk;
 }
 
 // Extrai productId + título + preço mínimo do JSON embutido no HTML da busca.
@@ -127,7 +118,7 @@ export async function buscar(produto, { timeoutMs = 45000, freteGratis = false, 
     if (r.erro) return { erro: r.erro };
 
     const relevantes = r.anuncios
-      .filter((o) => tituloRelevanteAli(o.titulo, produto))
+      .filter((o) => tituloRelevante(o.titulo, produto))
       .filter((o) => o.preco >= (produto.precoMin ?? 0) && o.preco <= (produto.precoMax ?? Infinity))
       .sort((a, b) => a.preco - b.preco)
       .slice(0, limite);

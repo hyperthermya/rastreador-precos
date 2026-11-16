@@ -1,0 +1,10 @@
+{
+  "_comentario": "Termos que eliminam o anúncio em QUALQUER produto (minúsculo, sem acento; basta aparecer no título). Edite à vontade. Termos específicos de um item ficam em termosProibidos no products.json.",
+  "termos": [
+    "usado", "usada", "seminovo", "semi novo", "recondicionado", "reformado",
+    "defeito", "defeituoso", "sucata", "para retirada de pecas", "retirada de pecas", "quebrado", "avariado",
+    "brinquedo", "miniatura", "maquete", "replica", "infantil", "boneca",
+    "adesivo", "decalque", "capa protetora", "livro", "apostila",
+    "aluguel", "locacao", "conserto", "servico de", "mao de obra"
+  ]
+}

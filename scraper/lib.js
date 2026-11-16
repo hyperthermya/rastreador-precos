@@ -1,4 +1,11 @@
 // Utilidades compartilhadas pelas fontes.
+import { readFileSync } from "node:fs";
+
+// Lista global de exclusão (exclusoes.json): vale para todos os produtos.
+let EXCLUSOES_GLOBAIS = [];
+try {
+  EXCLUSOES_GLOBAIS = JSON.parse(readFileSync(new URL("./exclusoes.json", import.meta.url), "utf8")).termos ?? [];
+} catch {}
 
 export const UAS_DESKTOP = [
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
@@ -75,7 +82,7 @@ export function tituloRelevante(titulo, produto) {
   const obrigOk = (produto.termosObrigatorios ?? []).every((termo) =>
     Array.isArray(termo) ? termo.some((alt) => t.includes(normalizar(alt))) : t.includes(normalizar(termo))
   );
-  const proibOk = !(produto.termosProibidos ?? []).some((termo) => t.includes(normalizar(termo)));
+  const proibOk = ![...EXCLUSOES_GLOBAIS, ...(produto.termosProibidos ?? [])].some((termo) => t.includes(normalizar(termo)));
   return obrigOk && proibOk;
 }
 
