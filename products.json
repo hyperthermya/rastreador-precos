@@ -142,7 +142,9 @@
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/esportes-fitness/ciclismo/bicicletas/bicicletas-eletricas/novo/48v/_OrderId_PRICE_PriceRange_0-3000_Installments_NoInterest_NoIndex_True_WITH_REMOVABLE_BATTERY_242085_original_category_landing_true"
       ],
-      "aliexpress": true
+      "aliexpress": true,
+      "aliexpressDoBrasil": false,
+      "aliexpressBusca": "electric bike 1000w"
     },
     {
       "id": "ebike-motor-tongsheng-tsdz8-750w",
