@@ -97,8 +97,10 @@ export async function buscar(produto, { timeoutMs = 45000, freteGratis = false, 
   const termo = produto.aliexpressBusca ?? produto.palavrasChave;
   const slug = paraSlug(termo);
   // Por padrão só anúncios ENVIADOS DO BRASIL (filtro "Enviado de" do site): evita
-  // imposto de importação/taxação. `aliexpressDoBrasil: false` no produto desliga.
-  const doBrasil = produto.aliexpressDoBrasil !== false;
+  // imposto de importação/taxação. 
+  // Padrão: ligado para o grupo Bike, desligado para os demais (componentes de estufa quase
+  // não têm anúncio enviado do Brasil). `aliexpressDoBrasil: true/false` no produto manda.
+  const doBrasil = produto.aliexpressDoBrasil ?? produto.grupo === "Bike";
   const sufixoFrete = doBrasil
     ? `?g=y&SearchText=${encodeURIComponent(termo).replace(/%20/g, "+")}&selectedSwitches=filterCode:shipfrom`
     : freteGratis ? "?g=y" : "";

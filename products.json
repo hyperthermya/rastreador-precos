@@ -5,14 +5,17 @@
       "grupo": "Bike",
       "subgrupo": "Bicicleta completa",
       "nome": "Bicicleta Elétrica 500W 48V Lítio Aro 26 com Pedal Assistido",
-      "palavrasChave": "bicicleta eletrica aro 26 500w 48v litio",
+      "palavrasChave": "wehawk bicicleta eletrica aro 26 500w 48v",
       "termosObrigatorios": [
         [
           "bicicleta",
           "bike"
         ],
         "48v",
-        "26"
+        "26",
+        [
+          "wehawk"
+        ]
       ],
       "termosProibidos": [
         "400w",
@@ -112,7 +115,8 @@
       "aliexpressBusca": "Tongsheng TSDZ8 48V 750W mid drive motor kit",
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/motor-tongsheng-tsdz8-750w_OrderId_PRICE_NoIndex_True"
-      ]
+      ],
+      "aliexpressDoBrasil": true
     },
     {
       "id": "ebike-cassete-sunshine-8v",
@@ -124,7 +128,23 @@
         [
           "sunshine"
         ],
-        "8v"
+        "8v",
+        [
+          "11/40",
+          "11/42",
+          "11-40",
+          "11-42",
+          "11x40",
+          "11x42",
+          "11 40",
+          "11 42",
+          "40d",
+          "42d",
+          "40t",
+          "42t",
+          "40 dentes",
+          "42 dentes"
+        ]
       ],
       "precoAlvo": 150,
       "precoMin": 60,
@@ -455,11 +475,11 @@
       "id": "ebike-bolsa-alforge-estanque",
       "grupo": "Bike",
       "subgrupo": "Segurança e acessórios",
-      "nome": "Bolsa Alforge Estanque (Absolute ou Rockbros)",
-      "palavrasChave": "alforge estanque absolute rockbros bicicleta",
+      "nome": "Bolsa de Quadro Tipo Alforge (impermeável)",
+      "palavrasChave": "bolsa quadro tipo alforge bicicleta impermeavel",
       "termosObrigatorios": [
         [
-          "alforge"
+          "quadro"
         ]
       ],
       "precoAlvo": 150,
@@ -467,6 +487,24 @@
       "precoMax": 350,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/alforge-estanque-absolute-rockbros-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "termosProibidos": [
+        "bagageiro",
+        "traseir",
+        "dianteir",
+        "guidao",
+        "selim",
+        "pannier",
+        "porta mala",
+        "porta-mala",
+        "10l",
+        "12l",
+        "15l",
+        "20l",
+        "25l",
+        "30l",
+        "35l",
+        "40l"
       ]
     },
     {
@@ -944,22 +982,32 @@
       ]
     },
     {
-      "id": "ebike-descanso-pezinho",
+      "id": "ebike-descanso-cavalete-central-26-29",
       "grupo": "Bike",
       "subgrupo": "Quadro e cockpit",
-      "nome": "Descanso / Pezinho para estacionar a bike",
-      "palavrasChave": "descanso pezinho bicicleta",
+      "nome": "Descanso Cavalete Regulagem Central Bike Bicicleta 26/29",
+      "palavrasChave": "descanso cavalete central regulagem bicicleta aro 26 29",
       "termosObrigatorios": [
         [
           "descanso",
+          "cavalete",
           "pezinho"
+        ],
+        [
+          "central"
+        ],
+        [
+          "26"
         ]
       ],
-      "precoAlvo": 30,
-      "precoMin": 10,
-      "precoMax": 80,
+      "termosProibidos": [
+        "lateral"
+      ],
+      "precoAlvo": 40,
+      "precoMin": 15,
+      "precoMax": 120,
       "mercadoLivreUrls": [
-        "https://lista.mercadolivre.com.br/descanso-pezinho-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+        "https://lista.mercadolivre.com.br/descanso-cavalete-central-regulagem-bicicleta-aro-26-29_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
       ]
     },
     {
@@ -1029,6 +1077,12 @@
         ],
         [
           "brutus"
+        ],
+        [
+          "cubo"
+        ],
+        [
+          "traseiro"
         ]
       ],
       "precoAlvo": 150,
@@ -1036,6 +1090,46 @@
       "precoMax": 300,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/cubo-absolute-brutus-dj-135mm_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "termosProibidos": [
+        "dianteiro",
+        "corpo do",
+        "esticador",
+        "selim",
+        " dh ",
+        "boost",
+        "freehub p"
+      ]
+    },
+    {
+      "id": "ebike-cubo-traseiro-36-furos-hg",
+      "grupo": "Bike",
+      "subgrupo": "Rodas e pneus",
+      "nome": "Cubo Traseiro 36 Furos HG (cassete/freehub, aro 26)",
+      "palavrasChave": "cubo traseiro 36 furos freehub cassete bicicleta",
+      "termosObrigatorios": [
+        [
+          "cubo"
+        ],
+        [
+          "traseiro"
+        ],
+        [
+          "36"
+        ]
+      ],
+      "termosProibidos": [
+        "dianteiro",
+        "corpo do",
+        "freehub p",
+        "bmx",
+        "absolute"
+      ],
+      "precoAlvo": 120,
+      "precoMin": 40,
+      "precoMax": 350,
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/cubo-traseiro-36-furos-cassete-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
       ]
     },
     {
@@ -1236,40 +1330,6 @@
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/conduite-para-cabo-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
       ]
-    },
-    {
-      "id": "celula-lifepo4-eve-c40-40135",
-      "grupo": "Bike",
-      "subgrupo": "Motor, bateria e elétrica",
-      "nome": "Célula LiFePO4 EVE C40 40135 (3.2V, 20Ah) — costuma vender em kit de 4",
-      "palavrasChave": "kit 4 celulas bateria lifepo4 eve c40 40135 20ah",
-      "termosObrigatorios": [
-        [
-          "c40",
-          "40135"
-        ]
-      ],
-      "termosProibidos": [
-        "carregador",
-        "solda",
-        "spot welder",
-        "maquina",
-        "placa",
-        "case",
-        "suporte",
-        "organizador",
-        "disjuntor",
-        "tramontina"
-      ],
-      "precoAlvo": 200,
-      "precoMin": 15,
-      "precoMax": 800,
-      "mercadoLivreUrls": [
-        "https://lista.mercadolivre.com.br/celula-lifepo4-eve-c40_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True",
-        "https://lista.mercadolivre.com.br/kit-4-celulas-lifepo4-eve-c40-40135_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ],
-      "aliexpress": true,
-      "aliexpressBusca": "EVE C40 40135 20Ah LiFePO4 battery cell 4pcs pack"
     },
     {
       "id": "hidraulica-manometro-63mm-20kgf-14npt",

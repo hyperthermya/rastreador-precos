@@ -21,12 +21,21 @@ async function main() {
   }
 
   const resultado = { geradoEm: agora, produtos: {} };
+  // coleta anterior: se esta rodada vier vazia/com erro (ex.: o runner do GitHub é bloqueado ou vê
+  // outro catálogo), mantém os anúncios da última coleta boa marcados como desatualizados
+  let anterior = {};
+  try { anterior = JSON.parse(fs.readFileSync(path.join(dataDir, "aliexpress.json"), "utf8")).produtos ?? {}; } catch {}
   for (const produto of alvos) {
     console.log(`Coletando (AliExpress): ${produto.nome}`);
     const r = await buscar(produto);
+    const antigas = (anterior[produto.id]?.ofertas ?? []).map((o) => ({ ...o, desatualizado: true }));
+    const emAntiga = anterior[produto.id]?.em;
     if (r.erro) {
       console.error(`  falhou: ${r.erro}`);
-      resultado.produtos[produto.id] = { ok: false, erro: r.erro, em: agora, ofertas: [] };
+      resultado.produtos[produto.id] = { ok: false, erro: r.erro, em: emAntiga ?? agora, ofertas: antigas };
+    } else if (r.ofertas.length === 0 && antigas.length > 0) {
+      console.log(`  0 oferta(s) agora; mantendo ${antigas.length} da coleta anterior (desatualizadas)`);
+      resultado.produtos[produto.id] = { ok: true, em: emAntiga ?? agora, ofertas: antigas };
     } else {
       console.log(`  ${r.ofertas.length} oferta(s) relevante(s)`);
       resultado.produtos[produto.id] = { ok: true, em: agora, ofertas: r.ofertas };
