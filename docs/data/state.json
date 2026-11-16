@@ -107,7 +107,7 @@
   "menorHistorico": 25.68
  },
  "ebike-martelo-borracha": {
-  "menorHistorico": 17.96
+  "menorHistorico": 10.15
  },
  "ebike-graxa-rolamentos": {
   "menorHistorico": 15.99
@@ -197,7 +197,7 @@
   "menorHistorico": 25
  },
  "ebike-conduites-cabos-fiacao": {
-  "menorHistorico": 17.07
+  "menorHistorico": 13.53
  },
  "celula-lifepo4-eve-c33-33140": {
   "menorHistorico": 690
@@ -245,7 +245,7 @@
   "menorHistorico": 4
  },
  "estufa-jsn-sr04t": {
-  "menorHistorico": 13.7
+  "menorHistorico": 13.36
  },
  "estufa-bpw34": {
   "menorHistorico": 4
@@ -273,5 +273,47 @@
  },
  "estufa-led-grow-light-150w-fullspectrum": {
   "menorHistorico": 100
+ },
+ "estufa-cd74hc4067": {
+  "menorHistorico": 16.41
+ },
+ "estufa-moc3063": {
+  "menorHistorico": 11.92
+ },
+ "estufa-bta16": {
+  "menorHistorico": 7.6
+ },
+ "estufa-irlz44n": {
+  "menorHistorico": 15.24
+ },
+ "estufa-sensor-umidade-solo": {
+  "menorHistorico": 11.05
+ },
+ "estufa-eletrovalvula-12v": {
+  "menorHistorico": 26
+ },
+ "estufa-zmpt101b": {
+  "menorHistorico": 21.8
+ },
+ "estufa-sct013": {
+  "menorHistorico": 26
+ },
+ "estufa-aht20-bmp280": {
+  "menorHistorico": 12.18
+ },
+ "estufa-esp32s3-n16r8": {
+  "menorHistorico": 26
+ },
+ "estufa-74hc595": {
+  "menorHistorico": 18.9
+ },
+ "estufa-fugu2-indutor-100uh": {
+  "menorHistorico": 9.83
+ },
+ "estufa-fugu2-shunt-10mohm": {
+  "menorHistorico": 20.96
+ },
+ "estufa-painel-solar-80w": {
+  "menorHistorico": 61.75
  }
 }

@@ -114,6 +114,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 1500,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 1692.87,
+   "fonte": "zoom"
   }
  ],
  "bicicleta-eletrica-dobravel-500w-48v-lithium": [
@@ -154,6 +159,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 61.88,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 107.41,
+   "fonte": "zoom"
   }
  ],
  "ebike-cambio-traseiro-8v-gaiola-longa": [
@@ -161,6 +171,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 55.99,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 157.17,
+   "fonte": "zoom"
   }
  ],
  "ebike-passador-shimano-8v": [
@@ -175,6 +190,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 40.11,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 49.5,
+   "fonte": "zoom"
   }
  ],
  "ebike-cambio-dianteiro-8v": [
@@ -189,6 +209,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 32.95,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 33.24,
+   "fonte": "zoom"
   }
  ],
  "ebike-suspensao-absolute-nero-32": [
@@ -222,6 +247,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 29.9,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 34.4,
+   "fonte": "zoom"
   }
  ],
  "ebike-guidao-rise": [
@@ -229,6 +259,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 41.19,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 43.11,
+   "fonte": "zoom"
   }
  ],
  "ebike-manopla-simples": [
@@ -249,6 +284,11 @@
   {
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 40.84,
+   "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 47.41,
    "fonte": "zoom"
   }
  ],
@@ -276,6 +316,11 @@
    "em": "2026-09-24T19:24:26.992Z",
    "preco": 14.11,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 16.14,
+   "fonte": "zoom"
   }
  ],
  "ebike-paralamas-dianteiro-traseiro": [
@@ -290,6 +335,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 46.71,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 126.48,
+   "fonte": "zoom"
   }
  ],
  "ebike-bolsa-alforge-estanque": [
@@ -297,6 +347,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 68.9,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 90.16,
+   "fonte": "zoom"
   }
  ],
  "ebike-torquimetro-2-20nm": [
@@ -310,6 +365,11 @@
   {
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 15.75,
+   "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 16.63,
    "fonte": "zoom"
   }
  ],
@@ -332,6 +392,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 16.11,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 17.49,
+   "fonte": "zoom"
   }
  ],
  "ebike-extrator-caixa-direcao-megaover": [
@@ -339,6 +404,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 25.9,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 25.95,
+   "fonte": "zoom"
   }
  ],
  "ebike-kit-sangria-freio-shimano": [
@@ -360,6 +430,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 23.59,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 25.18,
+   "fonte": "zoom"
   }
  ],
  "ebike-multimetro": [
@@ -367,12 +442,22 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 25.68,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 26.75,
+   "fonte": "zoom"
   }
  ],
  "ebike-martelo-borracha": [
   {
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 17.96,
+   "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 10.15,
    "fonte": "zoom"
   }
  ],
@@ -395,6 +480,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 108,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 120,
+   "fonte": "zoom"
   }
  ],
  "ebike-rotores-203mm": [
@@ -402,6 +492,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 40.1,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 53.7,
+   "fonte": "zoom"
   }
  ],
  "ebike-pastilhas-sinterizadas": [
@@ -430,6 +525,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 56.55,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 193.51,
+   "fonte": "zoom"
   }
  ],
  "ebike-manete-freio-hidraulico": [
@@ -437,6 +537,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 20.95,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 28.82,
+   "fonte": "zoom"
   }
  ],
  "ebike-parafusos-inox-a4": [
@@ -458,6 +563,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 94.05,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 175.66,
+   "fonte": "zoom"
   }
  ],
  "ebike-luva-motoqueiro-meio-dedo-protetor": [
@@ -465,6 +575,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 23,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 67.48,
+   "fonte": "zoom"
   }
  ],
  "ebike-balaclava": [
@@ -472,6 +587,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 16.49,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 36.27,
+   "fonte": "buscape"
   }
  ],
  "ebike-capacete-ciclismo-viseira": [
@@ -479,6 +599,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 60.32,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 77.93,
+   "fonte": "zoom"
   }
  ],
  "ebike-descanso-pezinho": [
@@ -486,6 +611,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 15.5,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 23.49,
+   "fonte": "zoom"
   }
  ],
  "ebike-lubrificante-corrente-maresia": [
@@ -514,6 +644,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 72.79,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 257.91,
+   "fonte": "zoom"
   }
  ],
  "ebike-raios-inox-niples-latao": [
@@ -528,6 +663,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 96.76,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 119.51,
+   "fonte": "zoom"
   }
  ],
  "ebike-couro-de-bode-antifuro": [
@@ -549,6 +689,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 15.6,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 18,
+   "fonte": "zoom"
   }
  ],
  "ebike-sistema-auxiliar-12v-buckboost": [
@@ -563,6 +708,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 16.4,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 56.09,
+   "fonte": "zoom"
   }
  ],
  "ebike-sinalizacao-full-range-12-80v": [
@@ -577,12 +727,22 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 25,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 30.79,
+   "fonte": "zoom"
   }
  ],
  "ebike-conduites-cabos-fiacao": [
   {
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 17.07,
+   "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 13.53,
    "fonte": "zoom"
   }
  ],
@@ -612,6 +772,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 8.82,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 17.91,
+   "fonte": "buscape"
   }
  ],
  "hidraulica-te-agua-fria-12-vs": [
@@ -633,6 +798,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 20.29,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 56.9,
+   "fonte": "zoom"
   }
  ],
  "estufa-esp32-s3-devkit": [
@@ -657,6 +827,11 @@
    "em": "2026-09-24T19:24:26.992Z",
    "preco": 11.69,
    "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 26,
+   "fonte": "promobit"
   }
  ],
  "estufa-sensor-umidade-capacitivo": [
@@ -676,6 +851,11 @@
    "em": "2026-09-24T19:24:26.992Z",
    "preco": 11.69,
    "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 13.02,
+   "fonte": "zoom"
   }
  ],
  "estufa-bme280": [
@@ -712,6 +892,11 @@
    "em": "2026-09-24T19:24:26.992Z",
    "preco": 4,
    "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 12.54,
+   "fonte": "zoom"
   }
  ],
  "estufa-ds18b20": [
@@ -724,12 +909,22 @@
    "em": "2026-09-24T19:24:26.992Z",
    "preco": 4,
    "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 12.9,
+   "fonte": "zoom"
   }
  ],
  "estufa-jsn-sr04t": [
   {
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 13.7,
+   "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 13.36,
    "fonte": "zoom"
   }
  ],
@@ -750,6 +945,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 11.69,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 26,
+   "fonte": "promobit"
   }
  ],
  "estufa-ds3231": [
@@ -762,12 +962,22 @@
    "em": "2026-09-24T19:24:26.992Z",
    "preco": 4,
    "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 26,
+   "fonte": "promobit"
   }
  ],
  "estufa-ina226": [
   {
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 14.34,
+   "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 24.64,
    "fonte": "zoom"
   }
  ],
@@ -814,6 +1024,104 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 100,
    "fonte": "mercadolivre"
+  }
+ ],
+ "estufa-cd74hc4067": [
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 16.41,
+   "fonte": "zoom"
+  }
+ ],
+ "estufa-moc3063": [
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 11.92,
+   "fonte": "zoom"
+  }
+ ],
+ "estufa-bta16": [
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 7.6,
+   "fonte": "zoom"
+  }
+ ],
+ "estufa-irlz44n": [
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 15.24,
+   "fonte": "zoom"
+  }
+ ],
+ "estufa-sensor-umidade-solo": [
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 11.05,
+   "fonte": "zoom"
+  }
+ ],
+ "estufa-eletrovalvula-12v": [
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 26,
+   "fonte": "promobit"
+  }
+ ],
+ "estufa-zmpt101b": [
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 21.8,
+   "fonte": "zoom"
+  }
+ ],
+ "estufa-sct013": [
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 26,
+   "fonte": "promobit"
+  }
+ ],
+ "estufa-aht20-bmp280": [
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 12.18,
+   "fonte": "zoom"
+  }
+ ],
+ "estufa-esp32s3-n16r8": [
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 26,
+   "fonte": "promobit"
+  }
+ ],
+ "estufa-74hc595": [
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 18.9,
+   "fonte": "zoom"
+  }
+ ],
+ "estufa-fugu2-indutor-100uh": [
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 9.83,
+   "fonte": "zoom"
+  }
+ ],
+ "estufa-fugu2-shunt-10mohm": [
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 20.96,
+   "fonte": "zoom"
+  }
+ ],
+ "estufa-painel-solar-80w": [
+  {
+   "em": "2026-11-16T01:49:17.079Z",
+   "preco": 61.75,
+   "fonte": "zoom"
   }
  ]
 }
