@@ -290,22 +290,22 @@
   "menorHistorico": 11.05
  },
  "estufa-eletrovalvula-12v": {
-  "menorHistorico": 17
+  "menorHistorico": 16.83
  },
  "estufa-zmpt101b": {
   "menorHistorico": 17
  },
  "estufa-sct013": {
-  "menorHistorico": 17
+  "menorHistorico": 16.83
  },
  "estufa-aht20-bmp280": {
   "menorHistorico": 12.18
  },
  "estufa-esp32s3-n16r8": {
-  "menorHistorico": 17
+  "menorHistorico": 16.83
  },
  "estufa-74hc595": {
-  "menorHistorico": 17
+  "menorHistorico": 2.41
  },
  "estufa-fugu2-indutor-100uh": {
   "menorHistorico": 9.83
