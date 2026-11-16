@@ -1,10 +1,25 @@
 {
- "geradoEm": "2026-11-16T02:33:17.694Z",
+ "geradoEm": "2026-11-16T09:48:27.430Z",
  "produtos": {
   "ebike-motor-tongsheng-tsdz8-750w": {
    "ok": true,
-   "em": "2026-11-16T02:33:17.694Z",
-   "ofertas": []
+   "em": "2026-11-16T09:48:27.430Z",
+   "ofertas": [
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "Motor Elétrico de Bicicleta Tongsheng TSDZ2B TSDZ8 Brushless 48V 750Watt 500W com Sensor de Torque, Kit de Conversão DIY para E-Bike",
+     "preco": 2654.99,
+     "url": "https://pt.aliexpress.com/item/1005005572453746.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "Tongsheng tsdz8 48v 750w kit de conversão de bicicleta elétrica sensor de torque motor de montagem média embreagem dupla diy ebike kit de acionamento sem escova",
+     "preco": 2989.03,
+     "url": "https://pt.aliexpress.com/item/1005005572496470.html"
+    }
+   ]
   },
   "ebike-sensores-e-brake": {
    "ok": true,
