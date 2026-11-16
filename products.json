@@ -60,78 +60,6 @@
       ]
     },
     {
-      "id": "ebike-motor-tongsheng-tsdz2b-500w",
-      "grupo": "Bike",
-      "subgrupo": "Motor, bateria e elétrica",
-      "nome": "Motor Mid-Drive Tongsheng TSDZ2B 500W (48V, firmware open source)",
-      "palavrasChave": "motor tongsheng tsdz2 500w",
-      "termosObrigatorios": [
-        [
-          "tongsheng",
-          "tsdz2"
-        ]
-      ],
-      "termosProibidos": [
-        "250w",
-        "36v somente",
-        "capa",
-        "adesivo",
-        "painel",
-        "lcd",
-        "display",
-        "tela",
-        "controlador",
-        "controladora",
-        "placa",
-        "chicote",
-        "suporte",
-        "engrenagem",
-        "polia",
-        "carcaca",
-        "sensor"
-      ],
-      "precoAlvo": 900,
-      "precoMin": 1200,
-      "precoMax": 4500,
-      "mercadoLivreUrls": [
-        "https://lista.mercadolivre.com.br/motor-tongsheng-tsdz2-500w_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
-    },
-    {
-      "id": "ebike-bms-16s-lifepo4",
-      "grupo": "Bike",
-      "subgrupo": "Motor, bateria e elétrica",
-      "nome": "BMS 16S para pack LiFePO4 (51.2V nominal, células EVE C33/C40)",
-      "palavrasChave": "bms 16s lifepo4 51.2v bateria bicicleta eletrica",
-      "termosObrigatorios": [
-        [
-          "16s"
-        ],
-        [
-          "lifepo4",
-          "life po4",
-          "lfp"
-        ]
-      ],
-      "termosProibidos": [
-        "chumbo",
-        "gel",
-        "acido",
-        "18650",
-        "21700",
-        "liion",
-        "li-ion"
-      ],
-      "precoAlvo": 150,
-      "precoMin": 40,
-      "precoMax": 500,
-      "mercadoLivreUrls": [
-        "https://lista.mercadolivre.com.br/bms-16s-lifepo4_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ],
-      "aliexpress": true,
-      "aliexpressBusca": "16S LiFePO4 BMS 51.2V smart battery protection board"
-    },
-    {
       "id": "ebike-cassete-sunshine-8v",
       "grupo": "Bike",
       "subgrupo": "Transmissão",
@@ -207,30 +135,6 @@
       "precoMax": 200,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/corrente-kmc-z8-shimano-linkglide-lg500-8v_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
-    },
-    {
-      "id": "ebike-cambio-dianteiro-8v",
-      "grupo": "Bike",
-      "subgrupo": "Transmissão",
-      "nome": "Câmbio Dianteiro 8v (Shimano Altus/Acera, coroa dupla)",
-      "palavrasChave": "cambio dianteiro shimano altus acera 8v coroa dupla",
-      "termosObrigatorios": [
-        [
-          "shimano"
-        ],
-        [
-          "dianteiro"
-        ]
-      ],
-      "termosProibidos": [
-        "traseiro"
-      ],
-      "precoAlvo": 70,
-      "precoMin": 25,
-      "precoMax": 180,
-      "mercadoLivreUrls": [
-        "https://lista.mercadolivre.com.br/cambio-dianteiro-shimano-altus-acera-8v_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
       ]
     },
     {
@@ -377,31 +281,6 @@
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/manopla-punho-bicicleta-mtb_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
       ]
-    },
-    {
-      "id": "ebike-acelerador-polegar",
-      "grupo": "Bike",
-      "subgrupo": "Motor, bateria e elétrica",
-      "nome": "Acelerador de Polegar (thumb throttle) para e-bike",
-      "palavrasChave": "acelerador polegar thumb throttle bicicleta eletrica",
-      "termosObrigatorios": [
-        [
-          "acelerador",
-          "throttle"
-        ],
-        [
-          "polegar",
-          "thumb"
-        ]
-      ],
-      "precoAlvo": 50,
-      "precoMin": 15,
-      "precoMax": 130,
-      "mercadoLivreUrls": [
-        "https://lista.mercadolivre.com.br/acelerador-polegar-bicicleta-eletrica_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ],
-      "aliexpress": true,
-      "aliexpressBusca": "ebike thumb throttle accelerator"
     },
     {
       "id": "ebike-selim-absolute-vazado-gel",
@@ -731,22 +610,6 @@
       ]
     },
     {
-      "id": "ebike-martelo-borracha",
-      "grupo": "Bike",
-      "subgrupo": "Ferramentas e manutenção",
-      "nome": "Martelo de Borracha",
-      "palavrasChave": "martelo de borracha oficina",
-      "termosObrigatorios": [
-        "martelo"
-      ],
-      "precoAlvo": 30,
-      "precoMin": 10,
-      "precoMax": 70,
-      "mercadoLivreUrls": [
-        "https://lista.mercadolivre.com.br/martelo-de-borracha_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
-    },
-    {
       "id": "ebike-graxa-rolamentos",
       "grupo": "Bike",
       "subgrupo": "Ferramentas e manutenção",
@@ -760,22 +623,6 @@
       "precoMax": 80,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/graxa-para-rolamento-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
-    },
-    {
-      "id": "ebike-cavalete-suporte",
-      "grupo": "Bike",
-      "subgrupo": "Quadro e cockpit",
-      "nome": "Cavalete de Bike (Suporte para manutenção)",
-      "palavrasChave": "cavalete suporte manutencao bicicleta",
-      "termosObrigatorios": [
-        "cavalete"
-      ],
-      "precoAlvo": 200,
-      "precoMin": 80,
-      "precoMax": 500,
-      "mercadoLivreUrls": [
-        "https://lista.mercadolivre.com.br/cavalete-suporte-manutencao-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
       ]
     },
     {
@@ -1333,40 +1180,6 @@
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/conduite-para-cabo-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
       ]
-    },
-    {
-      "id": "celula-lifepo4-eve-c33-33140",
-      "grupo": "Bike",
-      "subgrupo": "Motor, bateria e elétrica",
-      "nome": "Célula LiFePO4 EVE C33 33140 (3.2V, 15Ah) — costuma vender em kit de 4",
-      "palavrasChave": "kit 4 celulas bateria lifepo4 eve c33 33140 15ah",
-      "termosObrigatorios": [
-        [
-          "c33",
-          "33140"
-        ]
-      ],
-      "termosProibidos": [
-        "carregador",
-        "solda",
-        "spot welder",
-        "maquina",
-        "placa",
-        "case",
-        "suporte",
-        "organizador",
-        "mb31",
-        "mb56"
-      ],
-      "precoAlvo": 160,
-      "precoMin": 15,
-      "precoMax": 700,
-      "mercadoLivreUrls": [
-        "https://lista.mercadolivre.com.br/celula-lifepo4-eve-c33_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True",
-        "https://lista.mercadolivre.com.br/kit-4-celulas-lifepo4-eve-c33-33140_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ],
-      "aliexpress": true,
-      "aliexpressBusca": "EVE C33 33140 15Ah LiFePO4 battery cell 4pcs pack"
     },
     {
       "id": "celula-lifepo4-eve-c40-40135",
