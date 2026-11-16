@@ -75,18 +75,14 @@
       "id": "bicicleta-eletrica-dobravel-500w-48v-lithium",
       "grupo": "Bike",
       "subgrupo": "Bicicleta completa",
-      "nome": "Bicicleta Elétrica 500W 48V Lítio Aro 26 com Pedal Assistido",
-      "palavrasChave": "wehawk bicicleta eletrica aro 26 500w 48v",
+      "nome": "Bicicleta Elétrica 1000W",
+      "palavrasChave": "bicicleta eletrica 1000w",
       "termosObrigatorios": [
         [
           "bicicleta",
           "bike"
         ],
-        "48v",
-        "26",
-        [
-          "wehawk"
-        ]
+        "1000w"
       ],
       "termosProibidos": [
         "400w",
@@ -107,8 +103,6 @@
         "menina",
         "menino",
         "scoo",
-        "sem pedal",
-        "s/ pedal",
         "autopropelid",
         "kit ",
         "controlador",
@@ -134,7 +128,13 @@
         "aro 20",
         "aro 16",
         "aro 29",
-        "aro 27"
+        "aro 27",
+        "500w",
+        "750w",
+        "800w",
+        "1200w",
+        "1500w",
+        "2000w"
       ],
       "precoAlvo": 2500,
       "precoMin": 1000,
