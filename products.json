@@ -141,7 +141,8 @@
       "precoMax": 10000,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/esportes-fitness/ciclismo/bicicletas/bicicletas-eletricas/novo/48v/_OrderId_PRICE_PriceRange_0-3000_Installments_NoInterest_NoIndex_True_WITH_REMOVABLE_BATTERY_242085_original_category_landing_true"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-motor-tongsheng-tsdz8-750w",
@@ -222,7 +223,8 @@
       "precoMax": 300,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/cassete-sunshine-8v_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-cambio-traseiro-8v-gaiola-longa",
@@ -247,7 +249,8 @@
         "roldanas",
         "polia",
         "rodas de engrenagem"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-passador-shimano-8v",
@@ -340,7 +343,8 @@
       "precoMax": 600,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/suspensao-absolute-nero-32-aro-26-100mm_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-caixa-direcao-absolute-megaover",
@@ -365,7 +369,8 @@
       "precoMax": 250,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/caixa-direcao-absolute-mega-over-44mm_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-espacadores-aheadset-aluminio",
@@ -429,7 +434,8 @@
       ],
       "termosProibidos": [
         "mesa"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-manopla-simples",
@@ -473,7 +479,8 @@
       "precoMax": 220,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/selim-absolute-vazado-gel_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-canote-offset-20-30mm",
@@ -616,7 +623,8 @@
         "30l",
         "35l",
         "40l"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-torquimetro-2-20nm",
@@ -636,7 +644,8 @@
       "termosProibidos": [
         "pe de corvo",
         "3/8"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-quebra-corrente-8v",
@@ -879,7 +888,8 @@
       "precoMax": 450,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/freio-hidraulico-shimano-mt200_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-rotores-203mm",
@@ -895,7 +905,8 @@
       "precoMax": 200,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/rotor-disco-de-freio-203mm-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-pastilhas-sinterizadas",
@@ -976,7 +987,8 @@
       "precoMax": 350,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/trava-u-lock-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-gps-rastreamento-48v",
@@ -995,7 +1007,8 @@
       "precoMax": 350,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/gps-rastreador-bicicleta-eletrica_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-manete-freio-hidraulico",
@@ -1072,7 +1085,8 @@
       "precoMax": 250,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/capa-de-chuva-motociclista-delta-alba-pantaneiro_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-luva-motoqueiro-meio-dedo-protetor",
@@ -1131,7 +1145,8 @@
       "precoMax": 350,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/capacete-de-ciclismo-com-viseira_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-descanso-cavalete-central-26-29",
@@ -1215,7 +1230,8 @@
       "precoMax": 400,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/aro-vzan-aro-26-parede-dupla-downhill-freio-a-disco-36-furos_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-cubo-absolute-brutus-dj",
@@ -1251,7 +1267,8 @@
         " dh ",
         "boost",
         "freehub p"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-cubo-traseiro-36-furos-hg",
@@ -1282,7 +1299,8 @@
       "precoMax": 350,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/cubo-traseiro-36-furos-cassete-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-raios-inox-niples-latao",
@@ -1314,7 +1332,8 @@
       "precoMax": 250,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/raio-inox-2.3mm-2.5mm-aro-26-niple-latao-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-pneus-175-semislick",
@@ -1335,7 +1354,8 @@
       "precoMax": 400,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/pneu-aro-26-bicicleta-kenda-k-847-pirelli-scorpion-mb2_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-couro-de-bode-antifuro",
@@ -1377,7 +1397,8 @@
       "precoMax": 350,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/antifurto-de-eixo-onipax-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-camaras-de-ar-aro26",
@@ -1456,7 +1477,8 @@
       "precoMax": 250,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/farol-seta-luz-de-freio-full-range-12v-80v_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
-      ]
+      ],
+      "aliexpress": true
     },
     {
       "id": "ebike-buzina-caracol-12v",
