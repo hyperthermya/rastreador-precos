@@ -65,6 +65,8 @@ async function coletarProduto(produto, anterior, agora) {
       precoMin: produto.precoMin,
       precoMax: produto.precoMax,
       palavrasChave: produto.palavrasChave,
+      grupo: produto.grupo,
+      subgrupo: produto.subgrupo,
     },
     ofertas: [],
     promocoes: [],

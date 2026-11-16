@@ -137,6 +137,73 @@ function mesclarAliexpress(latest, aliexpress) {
   return latest;
 }
 
+// --- Filtro por grupo/subgrupo ---
+let todosProdutos = [];
+const filtro = { grupo: "", subgrupo: "" };
+try {
+  const salvo = JSON.parse(localStorage.getItem("filtroGrupo") ?? "{}");
+  filtro.grupo = salvo.grupo ?? "";
+  filtro.subgrupo = salvo.subgrupo ?? "";
+} catch {}
+
+function contar(lista, chave) {
+  const m = new Map();
+  for (const p of lista) m.set(p[chave], (m.get(p[chave]) ?? 0) + 1);
+  return [...m.entries()].sort((a, b) => b[1] - a[1]);
+}
+
+function renderizarLista() {
+  const nav = document.getElementById("filtros");
+  const grupos = contar(todosProdutos, "grupo");
+  if (!grupos.some(([g]) => g === filtro.grupo)) { filtro.grupo = ""; filtro.subgrupo = ""; }
+  const doGrupo = todosProdutos.filter((p) => !filtro.grupo || p.grupo === filtro.grupo);
+  const subs = filtro.grupo ? contar(doGrupo, "subgrupo") : [];
+  if (!subs.some(([s]) => s === filtro.subgrupo)) filtro.subgrupo = "";
+
+  const botao = (rotulo, n, ativo, attrs) =>
+    `<button type="button" aria-pressed="${ativo}" ${attrs}>${esc(rotulo)}<small>${n}</small></button>`;
+  nav.innerHTML =
+    `<div class="linha-filtro">${botao("Todos", todosProdutos.length, !filtro.grupo, 'data-grupo=""')}` +
+    grupos.map(([g, n]) => botao(g, n, filtro.grupo === g, `data-grupo="${esc(g)}"`)).join("") + `</div>` +
+    (subs.length > 1
+      ? `<div class="linha-filtro sub">${botao("Todos de " + filtro.grupo, doGrupo.length, !filtro.subgrupo, 'data-sub=""')}` +
+        subs.map(([s, n]) => botao(s, n, filtro.subgrupo === s, `data-sub="${esc(s)}"`)).join("") + `</div>`
+      : "");
+  nav.hidden = grupos.length < 2;
+
+  // seções recolhíveis: grupo > subgrupo > cards. Com "Todos" tudo começa fechado;
+  // ao filtrar um grupo (ou subgrupo) a seção escolhida já vem aberta.
+  const visiveis = doGrupo.filter((p) => !filtro.subgrupo || p.subgrupo === filtro.subgrupo);
+  const porGrupo = new Map();
+  for (const p of visiveis) {
+    if (!porGrupo.has(p.grupo)) porGrupo.set(p.grupo, new Map());
+    const subsMap = porGrupo.get(p.grupo);
+    const chave = p.subgrupo || "Geral";
+    if (!subsMap.has(chave)) subsMap.set(chave, []);
+    subsMap.get(chave).push(p.html);
+  }
+  const secoes = [...porGrupo.entries()].map(([g, subsMap]) => {
+    const total = [...subsMap.values()].reduce((n, l) => n + l.length, 0);
+    const abrirGrupo = !!filtro.grupo;
+    const abrirSub = !!filtro.subgrupo;
+    const internas = [...subsMap.entries()].map(([sg, htmls]) =>
+      `<details class="secao sub-secao"${abrirSub ? " open" : ""}><summary>${esc(sg)} <small>${htmls.length}</small></summary><div class="grade">${htmls.join("")}</div></details>`
+    ).join("");
+    return `<details class="secao"${abrirGrupo ? " open" : ""}><summary>${esc(g)} <small>${total}</small></summary>${internas}</details>`;
+  });
+  document.getElementById("cards").innerHTML =
+    secoes.join("") || `<p class="aviso">Nenhum produto configurado. Adicione em products.json.</p>`;
+  try { localStorage.setItem("filtroGrupo", JSON.stringify(filtro)); } catch {}
+}
+
+document.getElementById("filtros").addEventListener("click", (e) => {
+  const b = e.target.closest("button");
+  if (!b) return;
+  if (b.dataset.grupo !== undefined) { filtro.grupo = b.dataset.grupo; filtro.subgrupo = ""; }
+  else if (b.dataset.sub !== undefined) filtro.subgrupo = b.dataset.sub;
+  renderizarLista();
+});
+
 async function carregar() {
   try {
     const cb = `?t=${Date.now()}`;
@@ -148,11 +215,12 @@ async function carregar() {
     mesclarAliexpress(latest, aliexpress);
     document.getElementById("ultima-coleta").textContent =
       `última coleta: ${tempoRelativo(latest.geradoEm)} (${new Date(latest.geradoEm).toLocaleString("pt-BR")})`;
-    const cards = Object.entries(latest.produtos ?? {})
-      .map(([id, p]) => cardProduto(id, p, history[id]))
-      .join("");
-    document.getElementById("cards").innerHTML =
-      cards || `<p class="aviso">Nenhum produto configurado. Adicione em products.json.</p>`;
+    todosProdutos = Object.entries(latest.produtos ?? {}).map(([id, p]) => ({
+      grupo: p.config?.grupo ?? "Sem grupo",
+      subgrupo: p.config?.subgrupo ?? "",
+      html: cardProduto(id, p, history[id]),
+    }));
+    renderizarLista();
   } catch (e) {
     document.getElementById("cards").innerHTML =
       `<p class="aviso">Não consegui carregar os dados (${esc(e.message)}). A primeira coleta já rodou?</p>`;

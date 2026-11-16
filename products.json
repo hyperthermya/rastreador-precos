@@ -2,6 +2,8 @@
   "products": [
     {
       "id": "fonte-ajustavel-0-600v-2000w",
+      "grupo": "Eletrônica",
+      "subgrupo": "Bancada",
       "nome": "Fonte Chaveada Ajustável 0-600VDC 2000W (entrada 110/220/380VAC)",
       "palavrasChave": "fonte ajustavel 600v 2000w",
       "termosObrigatorios": [
@@ -23,6 +25,8 @@
     },
     {
       "id": "bicicleta-eletrica-dobravel-500w-48v-lithium",
+      "grupo": "Bike",
+      "subgrupo": "Bicicleta completa",
       "nome": "Bicicleta Elétrica 500W 48V Lítio com Pedal Assistido (dobrável é bônus, não obrigatório)",
       "palavrasChave": "bicicleta eletrica 500w 48v litio lithium",
       "termosObrigatorios": [
@@ -80,6 +84,8 @@
     },
     {
       "id": "tablet-lenovo-ideatab",
+      "grupo": "Outros",
+      "subgrupo": "Informática",
       "nome": "Tablet Lenovo IdeaTab 4GB 128GB WiFi + caneta + case (azul)",
       "palavrasChave": "tablet lenovo",
       "termosObrigatorios": [
@@ -94,6 +100,8 @@
     },
     {
       "id": "ebike-motor-tongsheng-tsdz2b-500w",
+      "grupo": "Bike",
+      "subgrupo": "Motor, bateria e elétrica",
       "nome": "Motor Mid-Drive Tongsheng TSDZ2B 500W (48V, firmware open source)",
       "palavrasChave": "motor tongsheng tsdz2 500w",
       "termosObrigatorios": [
@@ -130,6 +138,8 @@
     },
     {
       "id": "ebike-bms-16s-lifepo4",
+      "grupo": "Bike",
+      "subgrupo": "Motor, bateria e elétrica",
       "nome": "BMS 16S para pack LiFePO4 (51.2V nominal, células EVE C33/C40)",
       "palavrasChave": "bms 16s lifepo4 51.2v bateria bicicleta eletrica",
       "termosObrigatorios": [
@@ -162,6 +172,8 @@
     },
     {
       "id": "ebike-cassete-sunshine-8v",
+      "grupo": "Bike",
+      "subgrupo": "Transmissão",
       "nome": "Cassete SUNSHINE 8v (11-40T ou 11-42T)",
       "palavrasChave": "cassete sunshine 8v 11-40 11-42",
       "termosObrigatorios": [
@@ -179,6 +191,8 @@
     },
     {
       "id": "ebike-cambio-traseiro-8v-gaiola-longa",
+      "grupo": "Bike",
+      "subgrupo": "Transmissão",
       "nome": "Câmbio Traseiro Gaiola Longa 8v (Shimano Altus/Acera)",
       "palavrasChave": "cambio traseiro shimano altus acera 8v gaiola longa",
       "termosObrigatorios": [
@@ -196,6 +210,8 @@
     },
     {
       "id": "ebike-passador-shimano-8v",
+      "grupo": "Bike",
+      "subgrupo": "Transmissão",
       "nome": "Passador (Trigger/Shifter) Shimano Altus ou Acera 8v",
       "palavrasChave": "passador shimano altus acera 8v",
       "termosObrigatorios": [
@@ -214,6 +230,8 @@
     },
     {
       "id": "ebike-corrente-8v-reforcada",
+      "grupo": "Bike",
+      "subgrupo": "Transmissão",
       "nome": "Corrente KMC Z8.3 ou Shimano LinkGlide LG500 (8v reforçada p/ e-bike)",
       "palavrasChave": "corrente kmc z8 shimano linkglide lg500 8v",
       "termosObrigatorios": [
@@ -232,6 +250,8 @@
     },
     {
       "id": "ebike-cambio-dianteiro-8v",
+      "grupo": "Bike",
+      "subgrupo": "Transmissão",
       "nome": "Câmbio Dianteiro 8v (Shimano Altus/Acera, coroa dupla)",
       "palavrasChave": "cambio dianteiro shimano altus acera 8v coroa dupla",
       "termosObrigatorios": [
@@ -254,6 +274,8 @@
     },
     {
       "id": "ebike-pedais-plataforma-aluminio",
+      "grupo": "Bike",
+      "subgrupo": "Transmissão",
       "nome": "Pedais Plataforma de Alumínio (rosca 9/16)",
       "palavrasChave": "pedal plataforma aluminio mtb 9/16",
       "termosObrigatorios": [
@@ -268,6 +290,8 @@
     },
     {
       "id": "ebike-suspensao-absolute-nero-32",
+      "grupo": "Bike",
+      "subgrupo": "Quadro e cockpit",
       "nome": "Suspensão Dianteira Absolute Nero 32, Aro 26, espiga reta, 100mm",
       "palavrasChave": "suspensao absolute nero 32 aro 26 100mm",
       "termosObrigatorios": [
@@ -287,6 +311,8 @@
     },
     {
       "id": "ebike-caixa-direcao-absolute-megaover",
+      "grupo": "Bike",
+      "subgrupo": "Quadro e cockpit",
       "nome": "Caixa de Direção Absolute Mega Over 44mm (integrada/semi-integrada reforçada)",
       "palavrasChave": "caixa direcao absolute mega over 44mm",
       "termosObrigatorios": [
@@ -310,6 +336,8 @@
     },
     {
       "id": "ebike-espacadores-aheadset-aluminio",
+      "grupo": "Bike",
+      "subgrupo": "Quadro e cockpit",
       "nome": "Espaçadores Aheadset de Alumínio (kit)",
       "palavrasChave": "espacadores aheadset aluminio bicicleta",
       "termosObrigatorios": [
@@ -327,6 +355,8 @@
     },
     {
       "id": "ebike-mesa-curta-60-80mm",
+      "grupo": "Bike",
+      "subgrupo": "Quadro e cockpit",
       "nome": "Mesa Curta 60-80mm, inclinação positiva (Simera ou similar)",
       "palavrasChave": "mesa guidao curta 60mm 70mm 80mm mtb inclinacao positiva",
       "termosObrigatorios": [
@@ -348,6 +378,8 @@
     },
     {
       "id": "ebike-guidao-rise",
+      "grupo": "Bike",
+      "subgrupo": "Quadro e cockpit",
       "nome": "Guidão Rise Alumínio 6061/7075 (440-460mm)",
       "palavrasChave": "guidao rise aluminio mtb 440 460mm",
       "termosObrigatorios": [
@@ -364,6 +396,8 @@
     },
     {
       "id": "ebike-manopla-simples",
+      "grupo": "Bike",
+      "subgrupo": "Quadro e cockpit",
       "nome": "Manopla (punho) simples, sem acelerador integrado",
       "palavrasChave": "manopla punho bicicleta mtb borracha",
       "termosObrigatorios": [
@@ -385,6 +419,8 @@
     },
     {
       "id": "ebike-acelerador-polegar",
+      "grupo": "Bike",
+      "subgrupo": "Motor, bateria e elétrica",
       "nome": "Acelerador de Polegar (thumb throttle) para e-bike",
       "palavrasChave": "acelerador polegar thumb throttle bicicleta eletrica",
       "termosObrigatorios": [
@@ -408,6 +444,8 @@
     },
     {
       "id": "ebike-selim-absolute-vazado-gel",
+      "grupo": "Bike",
+      "subgrupo": "Quadro e cockpit",
       "nome": "Selim Absolute Vazado Gel 268x174mm (SKU 44679)",
       "palavrasChave": "selim absolute vazado gel",
       "termosObrigatorios": [
@@ -427,6 +465,8 @@
     },
     {
       "id": "ebike-canote-offset-20-30mm",
+      "grupo": "Bike",
+      "subgrupo": "Quadro e cockpit",
       "nome": "Canote de Alumínio 400mm COM offset 20-30mm",
       "palavrasChave": "canote aluminio 400mm offset recuado bicicleta",
       "termosObrigatorios": [
@@ -446,6 +486,8 @@
     },
     {
       "id": "ebike-retrovisor-gvs-zefal",
+      "grupo": "Bike",
+      "subgrupo": "Segurança e acessórios",
       "nome": "Retrovisor GVS (BMW F800/Twister) ou Zéfal Spin/Dooback 2 — lente convexa",
       "palavrasChave": "retrovisor convexo gvs zefal spin bicicleta moto",
       "termosObrigatorios": [
@@ -468,6 +510,8 @@
     },
     {
       "id": "ebike-abracadeira-selim-31-8",
+      "grupo": "Bike",
+      "subgrupo": "Quadro e cockpit",
       "nome": "Abraçadeira de Selim 31.8mm",
       "palavrasChave": "abracadeira de selim 31.8mm",
       "termosObrigatorios": [
@@ -482,6 +526,8 @@
     },
     {
       "id": "ebike-paralamas-dianteiro-traseiro",
+      "grupo": "Bike",
+      "subgrupo": "Quadro e cockpit",
       "nome": "Paralamas Dianteiro e Traseiro",
       "palavrasChave": "paralama dianteiro traseiro bicicleta mtb",
       "termosObrigatorios": [
@@ -496,6 +542,8 @@
     },
     {
       "id": "ebike-powerbank-20000mah",
+      "grupo": "Bike",
+      "subgrupo": "Motor, bateria e elétrica",
       "nome": "Powerbank 20.000mAh para celular (1 ou 2 unidades)",
       "palavrasChave": "powerbank 20000mah carregador portatil",
       "termosObrigatorios": [
@@ -510,6 +558,8 @@
     },
     {
       "id": "ebike-bolsa-alforge-estanque",
+      "grupo": "Bike",
+      "subgrupo": "Segurança e acessórios",
       "nome": "Bolsa Alforge Estanque (Absolute ou Rockbros)",
       "palavrasChave": "alforge estanque absolute rockbros bicicleta",
       "termosObrigatorios": [
@@ -526,6 +576,8 @@
     },
     {
       "id": "ebike-torquimetro-2-20nm",
+      "grupo": "Bike",
+      "subgrupo": "Ferramentas e manutenção",
       "nome": "Torquímetro 2-20 Nm",
       "palavrasChave": "torquimetro 2-20nm bicicleta",
       "termosObrigatorios": [
@@ -540,6 +592,8 @@
     },
     {
       "id": "ebike-quebra-corrente-8v",
+      "grupo": "Bike",
+      "subgrupo": "Ferramentas e manutenção",
       "nome": "Quebra-Corrente compatível 8v (KMC/Shimano)",
       "palavrasChave": "quebra corrente bicicleta 8v kmc shimano",
       "termosObrigatorios": [
@@ -555,6 +609,8 @@
     },
     {
       "id": "ebike-alicate-elo-rapido",
+      "grupo": "Bike",
+      "subgrupo": "Ferramentas e manutenção",
       "nome": "Alicate para Elo Rápido (Missing Link Pliers)",
       "palavrasChave": "alicate elo rapido missing link pliers bicicleta",
       "termosObrigatorios": [
@@ -572,6 +628,8 @@
     },
     {
       "id": "ebike-desmontador-de-pneu",
+      "grupo": "Bike",
+      "subgrupo": "Ferramentas e manutenção",
       "nome": "Desmontador de Pneu (Tire Levers, jogo 2-3 unid.)",
       "palavrasChave": "desmontador de pneu tire levers bicicleta",
       "termosObrigatorios": [
@@ -589,6 +647,8 @@
     },
     {
       "id": "ebike-chave-de-raio-latao",
+      "grupo": "Bike",
+      "subgrupo": "Ferramentas e manutenção",
       "nome": "Chave de Raio compatível com niples de latão",
       "palavrasChave": "chave de raio bicicleta latao",
       "termosObrigatorios": [
@@ -603,6 +663,8 @@
     },
     {
       "id": "ebike-extrator-de-cassete",
+      "grupo": "Bike",
+      "subgrupo": "Ferramentas e manutenção",
       "nome": "Extrator de Cassete (saca-catraca + chave de corrente)",
       "palavrasChave": "extrator de cassete saca catraca bicicleta",
       "termosObrigatorios": [
@@ -621,6 +683,8 @@
     },
     {
       "id": "ebike-extrator-caixa-direcao-megaover",
+      "grupo": "Bike",
+      "subgrupo": "Ferramentas e manutenção",
       "nome": "Chave/Extrator de Caixa de Direção Mega Over 44mm",
       "palavrasChave": "extrator caixa de direcao mega over 44mm",
       "termosObrigatorios": [
@@ -638,6 +702,8 @@
     },
     {
       "id": "ebike-kit-sangria-freio-shimano",
+      "grupo": "Bike",
+      "subgrupo": "Ferramentas e manutenção",
       "nome": "Kit de Sangria de Freio Hidráulico Shimano (óleo mineral + seringas)",
       "palavrasChave": "kit sangria freio hidraulico shimano oleo mineral",
       "termosObrigatorios": [
@@ -657,6 +723,8 @@
     },
     {
       "id": "ebike-cortador-cabo-conduite",
+      "grupo": "Bike",
+      "subgrupo": "Ferramentas e manutenção",
       "nome": "Cortador de Cabo/Conduíte para bicicleta",
       "palavrasChave": "cortador de cabo conduite bicicleta",
       "termosObrigatorios": [
@@ -671,6 +739,8 @@
     },
     {
       "id": "ebike-alicate-crimpagem",
+      "grupo": "Bike",
+      "subgrupo": "Ferramentas e manutenção",
       "nome": "Alicate de Crimpagem para ponteiras de cabo",
       "palavrasChave": "alicate de crimpagem ponteira cabo bicicleta",
       "termosObrigatorios": [
@@ -685,6 +755,8 @@
     },
     {
       "id": "ebike-multimetro",
+      "grupo": "Bike",
+      "subgrupo": "Ferramentas e manutenção",
       "nome": "Multímetro (diagnóstico bateria/motor/sinalização)",
       "palavrasChave": "multimetro digital automotivo",
       "termosObrigatorios": [
@@ -699,6 +771,8 @@
     },
     {
       "id": "ebike-martelo-borracha",
+      "grupo": "Bike",
+      "subgrupo": "Ferramentas e manutenção",
       "nome": "Martelo de Borracha",
       "palavrasChave": "martelo de borracha oficina",
       "termosObrigatorios": [
@@ -713,6 +787,8 @@
     },
     {
       "id": "ebike-graxa-rolamentos",
+      "grupo": "Bike",
+      "subgrupo": "Ferramentas e manutenção",
       "nome": "Graxa para Rolamentos (caixa de direção e cubos)",
       "palavrasChave": "graxa para rolamento bicicleta",
       "termosObrigatorios": [
@@ -727,6 +803,8 @@
     },
     {
       "id": "ebike-cavalete-suporte",
+      "grupo": "Bike",
+      "subgrupo": "Quadro e cockpit",
       "nome": "Cavalete de Bike (Suporte para manutenção)",
       "palavrasChave": "cavalete suporte manutencao bicicleta",
       "termosObrigatorios": [
@@ -741,6 +819,8 @@
     },
     {
       "id": "ebike-freio-shimano-mt200",
+      "grupo": "Bike",
+      "subgrupo": "Freios",
       "nome": "Sistema de Freio Hidráulico Shimano MT200 (par)",
       "palavrasChave": "freio hidraulico shimano mt200",
       "termosObrigatorios": [
@@ -757,6 +837,8 @@
     },
     {
       "id": "ebike-rotores-203mm",
+      "grupo": "Bike",
+      "subgrupo": "Freios",
       "nome": "Rotores de Freio 203mm (par)",
       "palavrasChave": "rotor disco de freio 203mm bicicleta",
       "termosObrigatorios": [
@@ -771,6 +853,8 @@
     },
     {
       "id": "ebike-pastilhas-sinterizadas",
+      "grupo": "Bike",
+      "subgrupo": "Freios",
       "nome": "Pastilhas de Freio Sinterizadas (Absolute ou Bremstec B01S/B05S)",
       "palavrasChave": "pastilha de freio sinterizada absolute bremstec",
       "termosObrigatorios": [
@@ -787,6 +871,8 @@
     },
     {
       "id": "ebike-sensores-e-brake",
+      "grupo": "Bike",
+      "subgrupo": "Motor, bateria e elétrica",
       "nome": "Sensores E-brake Universais (corte de motor ao frear)",
       "palavrasChave": "sensor freio eletrico bicicleta eletrica corta motor",
       "termosObrigatorios": [
@@ -829,6 +915,8 @@
     },
     {
       "id": "ebike-trava-u-lock",
+      "grupo": "Bike",
+      "subgrupo": "Segurança e acessórios",
       "nome": "Trava U-Lock (pesada e resistente)",
       "palavrasChave": "trava u-lock bicicleta",
       "termosObrigatorios": [
@@ -846,6 +934,8 @@
     },
     {
       "id": "ebike-gps-rastreamento-48v",
+      "grupo": "Bike",
+      "subgrupo": "Motor, bateria e elétrica",
       "nome": "GPS de Rastreamento 48V (embutido na bateria) + Samsung SmartTag2",
       "palavrasChave": "gps rastreador bicicleta eletrica 48v smarttag2",
       "termosObrigatorios": [
@@ -863,6 +953,8 @@
     },
     {
       "id": "ebike-manete-freio-hidraulico",
+      "grupo": "Bike",
+      "subgrupo": "Freios",
       "nome": "Manete de Freio Hidráulico (verificar se incluso no kit MT200)",
       "palavrasChave": "manete de freio hidraulico bicicleta",
       "termosObrigatorios": [
@@ -877,6 +969,8 @@
     },
     {
       "id": "ebike-parafusos-inox-a4",
+      "grupo": "Bike",
+      "subgrupo": "Ferramentas e manutenção",
       "nome": "Kit Parafusos Aço Inox Grade 316 (A4) — substituir originais",
       "palavrasChave": "kit parafusos inox 316 a4 bicicleta",
       "termosObrigatorios": [
@@ -893,6 +987,8 @@
     },
     {
       "id": "ebike-descontaminante-ferroso",
+      "grupo": "Bike",
+      "subgrupo": "Ferramentas e manutenção",
       "nome": "Descontaminante Ferroso (proteção contra maresia)",
       "palavrasChave": "descontaminante ferroso automotivo",
       "termosObrigatorios": [
@@ -907,6 +1003,8 @@
     },
     {
       "id": "ebike-capa-de-chuva",
+      "grupo": "Bike",
+      "subgrupo": "Segurança e acessórios",
       "nome": "Capa de Chuva para Motociclista/Ciclista (Delta/Alba/Pantaneiro)",
       "palavrasChave": "capa de chuva motociclista delta alba pantaneiro",
       "termosObrigatorios": [
@@ -925,6 +1023,8 @@
     },
     {
       "id": "ebike-luva-motoqueiro-meio-dedo-protetor",
+      "grupo": "Bike",
+      "subgrupo": "Segurança e acessórios",
       "nome": "Luva Motoqueiro Meio Dedo com Protetor (nós dos dedos)",
       "palavrasChave": "luva motoqueiro meio dedo protetor nos dedos",
       "termosObrigatorios": [
@@ -950,6 +1050,8 @@
     },
     {
       "id": "ebike-balaclava",
+      "grupo": "Bike",
+      "subgrupo": "Segurança e acessórios",
       "nome": "Balaclava (proteção facial)",
       "palavrasChave": "balaclava motociclista ciclista",
       "termosObrigatorios": [
@@ -964,6 +1066,8 @@
     },
     {
       "id": "ebike-capacete-ciclismo-viseira",
+      "grupo": "Bike",
+      "subgrupo": "Segurança e acessórios",
       "nome": "Capacete de Ciclismo com Viseira",
       "palavrasChave": "capacete de ciclismo com viseira",
       "termosObrigatorios": [
@@ -978,6 +1082,8 @@
     },
     {
       "id": "ebike-descanso-pezinho",
+      "grupo": "Bike",
+      "subgrupo": "Quadro e cockpit",
       "nome": "Descanso / Pezinho para estacionar a bike",
       "palavrasChave": "descanso pezinho bicicleta",
       "termosObrigatorios": [
@@ -995,6 +1101,8 @@
     },
     {
       "id": "ebike-lubrificante-corrente-maresia",
+      "grupo": "Bike",
+      "subgrupo": "Ferramentas e manutenção",
       "nome": "Lubrificante de Corrente resistente à maresia",
       "palavrasChave": "lubrificante de corrente bicicleta maresia",
       "termosObrigatorios": [
@@ -1009,6 +1117,8 @@
     },
     {
       "id": "ebike-colete-refletivo",
+      "grupo": "Bike",
+      "subgrupo": "Segurança e acessórios",
       "nome": "Colete Refletivo (visibilidade noturna)",
       "palavrasChave": "colete refletivo motociclista ciclista",
       "termosObrigatorios": [
@@ -1023,6 +1133,8 @@
     },
     {
       "id": "ebike-aros-vzan-aro26-36furos",
+      "grupo": "Bike",
+      "subgrupo": "Rodas e pneus",
       "nome": "Aros VZAN (VMAXX DH ou Extreme Pro), Aro 26, Parede Dupla Downhill, Freio a Disco, 36 furos",
       "palavrasChave": "aro vzan aro 26 parede dupla downhill freio a disco 36 furos",
       "termosObrigatorios": [
@@ -1044,6 +1156,8 @@
     },
     {
       "id": "ebike-cubo-absolute-brutus-dj",
+      "grupo": "Bike",
+      "subgrupo": "Rodas e pneus",
       "nome": "Cubo Absolute Brutus DJ (traseiro, cassete/freehub, 135mm)",
       "palavrasChave": "cubo absolute brutus dj 135mm",
       "termosObrigatorios": [
@@ -1063,6 +1177,8 @@
     },
     {
       "id": "ebike-raios-inox-niples-latao",
+      "grupo": "Bike",
+      "subgrupo": "Rodas e pneus",
       "nome": "Raios Aço Inox grosso 2,3mm/2,5mm, Aro 26, com Niples de Latão Niquelado",
       "palavrasChave": "raio inox grosso 2.3mm 2.5mm aro 26 niple latao bicicleta",
       "termosObrigatorios": [
@@ -1093,6 +1209,8 @@
     },
     {
       "id": "ebike-pneus-175-semislick",
+      "grupo": "Bike",
+      "subgrupo": "Rodas e pneus",
       "nome": "Pneus 1.75\" Semi-slick (Kenda K-847 Kross Plus ou Pirelli Scorpion MB2) — par",
       "palavrasChave": "pneu bicicleta 1.75 kenda k-847 pirelli scorpion mb2",
       "termosObrigatorios": [
@@ -1111,6 +1229,8 @@
     },
     {
       "id": "ebike-couro-de-bode-antifuro",
+      "grupo": "Bike",
+      "subgrupo": "Rodas e pneus",
       "nome": "Couro de Bode (artesanal) para Antifuro — usado com Câmara de Ar",
       "palavrasChave": "couro de bode antifuro bicicleta pneu",
       "termosObrigatorios": [
@@ -1127,6 +1247,8 @@
     },
     {
       "id": "ebike-antifurto-eixo-onipax",
+      "grupo": "Bike",
+      "subgrupo": "Segurança e acessórios",
       "nome": "Antifurto de Eixo ONIPAX (sistema com chave específica)",
       "palavrasChave": "antifurto de eixo onipax bicicleta",
       "termosObrigatorios": [
@@ -1143,6 +1265,8 @@
     },
     {
       "id": "ebike-camaras-de-ar-aro26",
+      "grupo": "Bike",
+      "subgrupo": "Rodas e pneus",
       "nome": "Câmaras de Ar Aro 26 (par, compatível com pneu escolhido)",
       "palavrasChave": "camara de ar aro 26 bicicleta",
       "termosObrigatorios": [
@@ -1160,6 +1284,8 @@
     },
     {
       "id": "ebike-sistema-auxiliar-12v-buckboost",
+      "grupo": "Bike",
+      "subgrupo": "Motor, bateria e elétrica",
       "nome": "Sistema Auxiliar 12V: Conversor Buck-Boost (8-60V→12.6V) + Diodo Schottky + Pack 3S",
       "palavrasChave": "conversor buck boost 12v diodo schottky bicicleta eletrica",
       "termosObrigatorios": [
@@ -1177,6 +1303,8 @@
     },
     {
       "id": "ebike-conectores-xt90s",
+      "grupo": "Bike",
+      "subgrupo": "Motor, bateria e elétrica",
       "nome": "Conectores XT90-S (Anti-faísca)",
       "palavrasChave": "conector xt90s anti faisca bateria",
       "termosObrigatorios": [
@@ -1193,6 +1321,8 @@
     },
     {
       "id": "ebike-sinalizacao-full-range-12-80v",
+      "grupo": "Bike",
+      "subgrupo": "Motor, bateria e elétrica",
       "nome": "Sinalização Farol/Setas/Luz de Freio \"Full Range\" (12V-80V)",
       "palavrasChave": "farol seta luz de freio moto full range 12v 80v",
       "termosObrigatorios": [
@@ -1211,6 +1341,8 @@
     },
     {
       "id": "ebike-buzina-caracol-12v",
+      "grupo": "Bike",
+      "subgrupo": "Motor, bateria e elétrica",
       "nome": "Buzina 12V tipo \"Caracol\"",
       "palavrasChave": "buzina caracol 12v moto",
       "termosObrigatorios": [
@@ -1227,6 +1359,8 @@
     },
     {
       "id": "ebike-conduites-cabos-fiacao",
+      "grupo": "Bike",
+      "subgrupo": "Motor, bateria e elétrica",
       "nome": "Conduítes para cabos de freio/câmbio e fiação elétrica",
       "palavrasChave": "conduite para cabo bicicleta fiacao",
       "termosObrigatorios": [
@@ -1241,6 +1375,8 @@
     },
     {
       "id": "celula-lifepo4-eve-c33-33140",
+      "grupo": "Bike",
+      "subgrupo": "Motor, bateria e elétrica",
       "nome": "Célula LiFePO4 EVE C33 33140 (3.2V, 15Ah) — costuma vender em kit de 4",
       "palavrasChave": "kit 4 celulas bateria lifepo4 eve c33 33140 15ah",
       "termosObrigatorios": [
@@ -1273,6 +1409,8 @@
     },
     {
       "id": "celula-lifepo4-eve-c40-40135",
+      "grupo": "Bike",
+      "subgrupo": "Motor, bateria e elétrica",
       "nome": "Célula LiFePO4 EVE C40 40135 (3.2V, 20Ah) — costuma vender em kit de 4",
       "palavrasChave": "kit 4 celulas bateria lifepo4 eve c40 40135 20ah",
       "termosObrigatorios": [
@@ -1305,6 +1443,8 @@
     },
     {
       "id": "hidraulica-manometro-63mm-20kgf-14npt",
+      "grupo": "Hidráulica",
+      "subgrupo": "Conexões e medição",
       "nome": "Manômetro com Glicerina 63mm, 0-20 kgf/cm², rosca 1/4\" NPT",
       "palavrasChave": "manometro glicerina 63mm 0-20 kgf/cm2 rosca 1/4 npt",
       "termosObrigatorios": [
@@ -1334,6 +1474,8 @@
     },
     {
       "id": "hidraulica-bucha-reducao-latao-12x14npt",
+      "grupo": "Hidráulica",
+      "subgrupo": "Conexões e medição",
       "nome": "Bucha de Redução Latão 1/2\" x 1/4\" NPT (adaptador para manômetro)",
       "palavrasChave": "bucha reducao latao 1/2 x 1/4 npt manometro",
       "termosObrigatorios": [
@@ -1359,6 +1501,8 @@
     },
     {
       "id": "hidraulica-te-agua-fria-12-vs",
+      "grupo": "Hidráulica",
+      "subgrupo": "Conexões e medição",
       "nome": "Tê 1/2\" PVC linha água fria (linha reforçada VS, ≥10 kgf/cm², não a linha normal 7,5 kgf/cm²)",
       "palavrasChave": "te 1/2 pvc agua fria vs reforcado",
       "termosObrigatorios": [
@@ -1386,6 +1530,8 @@
     },
     {
       "id": "hidraulica-registro-esfera-vs-12",
+      "grupo": "Hidráulica",
+      "subgrupo": "Conexões e medição",
       "nome": "Registro de Esfera PVC 1/2\" linha VS (10 kgf/cm² / ~9,8 bar, não a linha normal 7,5 kgf/cm²)",
       "palavrasChave": "registro esfera pvc 1/2 vs 10 kgf/cm2 agua fria",
       "termosObrigatorios": [
@@ -1416,6 +1562,8 @@
     },
     {
       "id": "hidraulica-engate-rapido-lava-jato-12-250psi",
+      "grupo": "Hidráulica",
+      "subgrupo": "Conexões e medição",
       "nome": "Engate Rápido tipo Lava-Jato/Pneumático 1/2\" (250 PSI ≈17 bar, para mangueira sob pressão)",
       "palavrasChave": "engate rapido lava jato pneumatico rosca 1/2 250 psi",
       "termosObrigatorios": [
@@ -1442,6 +1590,8 @@
     },
     {
       "id": "estufa-mcp23017",
+      "grupo": "Estufa",
+      "subgrupo": "Controle e potência",
       "nome": "MCP23017 expansor I/O I2C 16 canais",
       "palavrasChave": "mcp23017 modulo i2c",
       "precoAlvo": 10,
@@ -1452,6 +1602,8 @@
     },
     {
       "id": "estufa-ads1115",
+      "grupo": "Estufa",
+      "subgrupo": "Controle e potência",
       "nome": "ADS1115 ADC I2C 16-bit 4 canais",
       "palavrasChave": "ads1115 modulo conversor",
       "precoAlvo": 15,
@@ -1462,6 +1614,8 @@
     },
     {
       "id": "estufa-bh1750",
+      "grupo": "Estufa",
+      "subgrupo": "Sensores",
       "nome": "BH1750 sensor luminosidade lux I2C",
       "palavrasChave": "bh1750 sensor luminosidade",
       "precoAlvo": 6,
@@ -1472,6 +1626,8 @@
     },
     {
       "id": "estufa-ds18b20",
+      "grupo": "Estufa",
+      "subgrupo": "Sensores",
       "nome": "DS18B20 sensor temperatura OneWire",
       "palavrasChave": "ds18b20 sensor temperatura",
       "precoAlvo": 5,
@@ -1482,6 +1638,8 @@
     },
     {
       "id": "estufa-jsn-sr04t",
+      "grupo": "Estufa",
+      "subgrupo": "Sensores",
       "nome": "JSN-SR04T sensor ultrassonico a prova d'agua",
       "palavrasChave": "jsn-sr04t sensor ultrassonico",
       "precoAlvo": 15,
@@ -1492,6 +1650,8 @@
     },
     {
       "id": "estufa-bpw34",
+      "grupo": "Estufa",
+      "subgrupo": "Sensores",
       "nome": "BPW34 fotodiodo",
       "palavrasChave": "bpw34 fotodiodo",
       "precoAlvo": 3,
@@ -1502,6 +1662,8 @@
     },
     {
       "id": "estufa-as7341",
+      "grupo": "Estufa",
+      "subgrupo": "Sensores",
       "nome": "AS7341 Sensor Espectral 11 canais I2C (3 unidades, por zona)",
       "palavrasChave": "as7341 sensor espectral",
       "precoAlvo": 25,
@@ -1512,6 +1674,8 @@
     },
     {
       "id": "estufa-ds3231",
+      "grupo": "Estufa",
+      "subgrupo": "Controle e potência",
       "nome": "DS3231 RTC com TCXO",
       "palavrasChave": "ds3231 modulo rtc",
       "precoAlvo": 8,
@@ -1522,6 +1686,8 @@
     },
     {
       "id": "estufa-cd74hc4067",
+      "grupo": "Estufa",
+      "subgrupo": "Controle e potência",
       "nome": "CD74HC4067 Multiplexador Analogico 16 canais",
       "palavrasChave": "cd74hc4067 multiplexador 16 canais",
       "precoAlvo": 10,
@@ -1532,6 +1698,8 @@
     },
     {
       "id": "estufa-moc3063",
+      "grupo": "Estufa",
+      "subgrupo": "Controle e potência",
       "nome": "MOC3063 Optoacoplador Zero-Cross",
       "palavrasChave": "moc3063 optoacoplador",
       "precoAlvo": 10,
@@ -1542,6 +1710,8 @@
     },
     {
       "id": "estufa-bta16",
+      "grupo": "Estufa",
+      "subgrupo": "Controle e potência",
       "nome": "BTA16-600B TRIAC",
       "palavrasChave": "bta16 600b triac",
       "precoAlvo": 10,
@@ -1552,6 +1722,8 @@
     },
     {
       "id": "estufa-irlz44n",
+      "grupo": "Estufa",
+      "subgrupo": "Controle e potência",
       "nome": "IRLZ44N MOSFET TO-220",
       "palavrasChave": "irlz44n mosfet kit",
       "precoAlvo": 15,
@@ -1562,6 +1734,8 @@
     },
     {
       "id": "estufa-sensor-umidade-solo",
+      "grupo": "Estufa",
+      "subgrupo": "Sensores",
       "nome": "Sensor Umidade Solo Capacitivo V2.0",
       "palavrasChave": "sensor umidade solo capacitivo v2",
       "precoAlvo": 10,
@@ -1572,6 +1746,8 @@
     },
     {
       "id": "estufa-eletrovalvula-12v",
+      "grupo": "Estufa",
+      "subgrupo": "Controle e potência",
       "nome": "Eletrovalvula 12V DC NC Agua",
       "palavrasChave": "eletrovalvula 12v dc agua",
       "precoAlvo": 20,
@@ -1582,6 +1758,8 @@
     },
     {
       "id": "estufa-zmpt101b",
+      "grupo": "Estufa",
+      "subgrupo": "Sensores",
       "nome": "ZMPT101B Sensor de Tensao AC",
       "palavrasChave": "zmpt101b sensor tensao",
       "precoAlvo": 15,
@@ -1592,6 +1770,8 @@
     },
     {
       "id": "estufa-sct013",
+      "grupo": "Estufa",
+      "subgrupo": "Sensores",
       "nome": "SCT-013-005 Sensor de Corrente AC",
       "palavrasChave": "sct-013-005 sensor corrente",
       "precoAlvo": 15,
@@ -1602,6 +1782,8 @@
     },
     {
       "id": "estufa-aht20-bmp280",
+      "grupo": "Estufa",
+      "subgrupo": "Sensores",
       "nome": "AHT20+BMP280 Modulo Temperatura Umidade Pressao",
       "palavrasChave": "aht20 bmp280 modulo",
       "precoAlvo": 10,
@@ -1612,6 +1794,8 @@
     },
     {
       "id": "estufa-esp32s3-n16r8",
+      "grupo": "Estufa",
+      "subgrupo": "Controle e potência",
       "nome": "ESP32-S3-WROOM-1-N16R8 Modulo",
       "palavrasChave": "esp32 s3 wroom n16r8",
       "precoAlvo": 40,
@@ -1622,6 +1806,8 @@
     },
     {
       "id": "estufa-74hc595",
+      "grupo": "Estufa",
+      "subgrupo": "Controle e potência",
       "nome": "74HC595 Shift Register",
       "palavrasChave": "74hc595 shift register",
       "precoAlvo": 10,
@@ -1632,6 +1818,8 @@
     },
     {
       "id": "estufa-ina226",
+      "grupo": "Estufa",
+      "subgrupo": "Energia solar",
       "nome": "INA226 Sensor Corrente/Tensao DC I2C (A3, Fugu2 MPPT)",
       "palavrasChave": "ina226 sensor corrente tensao dc",
       "precoAlvo": 15,
@@ -1642,6 +1830,8 @@
     },
     {
       "id": "estufa-fugu2-indutor-100uh",
+      "grupo": "Estufa",
+      "subgrupo": "Energia solar",
       "nome": "Indutor 100uH 8A+ (Fugu2 MPPT redimensionado)",
       "palavrasChave": "indutor 100uh 8a toroidal",
       "precoAlvo": 15,
@@ -1652,6 +1842,8 @@
     },
     {
       "id": "estufa-fugu2-shunt-10mohm",
+      "grupo": "Estufa",
+      "subgrupo": "Energia solar",
       "nome": "Resistor Shunt 10mOhm 1W (INA226, Fugu2)",
       "palavrasChave": "resistor shunt 10mohm 1w",
       "precoAlvo": 10,
@@ -1662,6 +1854,8 @@
     },
     {
       "id": "estufa-painel-solar-80w",
+      "grupo": "Estufa",
+      "subgrupo": "Energia solar",
       "nome": "Painel Solar 80W 18-20V (carga banco 48Ah via Fugu2)",
       "palavrasChave": "painel solar 80w 18v",
       "precoAlvo": 150,

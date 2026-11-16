@@ -205,3 +205,28 @@ summary { cursor: pointer; color: var(--texto-fraco); font-size: 0.9rem; }
 .aviso { color: var(--texto-fraco); }
 .sem-oferta { color: var(--amarelo); }
 footer { text-align: center; color: var(--texto-fraco); font-size: 0.78rem; padding: 0 20px 30px; }
+
+/* filtro por grupo/subgrupo */
+#filtros { max-width: 1100px; margin: 0 auto 0.5rem; padding: 0 1rem; display: flex; flex-direction: column; gap: 0.5rem; }
+#filtros .linha-filtro { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+#filtros button {
+  background: var(--card); color: var(--texto); border: 1px solid var(--borda);
+  border-radius: 999px; padding: 0.3rem 0.8rem; font-size: 0.85rem; cursor: pointer;
+}
+#filtros button small { color: var(--texto-fraco); margin-left: 0.25rem; }
+#filtros button[aria-pressed="true"] { border-color: #5b9dff; background: #223049; }
+#filtros .sub button { font-size: 0.78rem; padding: 0.2rem 0.65rem; }
+
+/* seções recolhíveis (grupo > subgrupo) */
+main { display: block; }
+.grade { display: grid; grid-template-columns: repeat(auto-fill, minmax(480px, 1fr)); gap: 16px; margin: 0.6rem 0 1rem; }
+@media (max-width: 560px) { .grade { grid-template-columns: 1fr; } }
+details.secao { margin-bottom: 0.6rem; }
+details.secao > summary {
+  cursor: pointer; font-weight: 600; font-size: 1.05rem; padding: 0.55rem 0.9rem;
+  background: var(--card); border: 1px solid var(--borda); border-radius: 8px;
+}
+details.secao > summary small { color: var(--texto-fraco); font-weight: 400; margin-left: 0.35rem; }
+details.sub-secao { margin: 0.5rem 0 0 0.8rem; }
+details.sub-secao > summary { font-size: 0.95rem; font-weight: 500; }
+details.secao[open] > summary { border-color: #5b9dff; }
