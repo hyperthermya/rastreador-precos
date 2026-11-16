@@ -60,6 +60,51 @@
       ]
     },
     {
+      "id": "ebike-motor-tongsheng-tsdz8-750w",
+      "grupo": "Bike",
+      "subgrupo": "Motor, bateria e elétrica",
+      "nome": "Motor Mid-Drive Tongsheng TSDZ8 750W (48V, firmware open source)",
+      "palavrasChave": "motor tongsheng tsdz8 750w",
+      "termosObrigatorios": [
+        "tsdz8",
+        [
+          "750w",
+          "750 w",
+          "750watt"
+        ]
+      ],
+      "termosProibidos": [
+        "bafang",
+        "250w",
+        "36v somente",
+        "adesivo",
+        "sticker",
+        "capa",
+        "painel",
+        "lcd",
+        "display",
+        "tela",
+        "controlador",
+        "controller",
+        "placa",
+        "chicote",
+        "suporte",
+        "engrenagem",
+        "gear",
+        "polia",
+        "carcaca",
+        "sensor de torque substituicao"
+      ],
+      "precoAlvo": 2500,
+      "precoMin": 2000,
+      "precoMax": 4500,
+      "aliexpress": true,
+      "aliexpressBusca": "Tongsheng TSDZ8 48V 750W mid drive motor kit",
+      "mercadoLivreUrls": [
+        "https://lista.mercadolivre.com.br/motor-tongsheng-tsdz8-750w_OrderId_PRICE_NoIndex_True"
+      ]
+    },
+    {
       "id": "ebike-cassete-sunshine-8v",
       "grupo": "Bike",
       "subgrupo": "Transmissão",
