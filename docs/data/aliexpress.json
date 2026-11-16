@@ -1,225 +1,211 @@
 {
- "geradoEm": "2026-11-16T21:23:38.004Z",
+ "geradoEm": "2026-11-16T23:28:52.407Z",
  "produtos": {
   "bicicleta-eletrica-dobravel-500w-48v-lithium": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Bicicleta Elétrica HDJ 1000w 32km/h 60V20AH Bateria Removível 60km Suspensão Dupla Freios Hidráulicos 2 Lugares E-bike Urbana com Controle Remoto",
-     "preco": 7699,
-     "url": "https://pt.aliexpress.com/item/1005013534150821.html"
+     "titulo": "Bicicletas Elétricas Baratas, E-bike 1000w 48v, Bicicleta Elétrica Multicolorida de Alta Qualidade para Adultos com Suporte",
+     "preco": 1712.99,
+     "url": "https://pt.aliexpress.com/item/1005011896760844.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "Bicicleta Elétrica de Montanha (MTB) Urbana com Pneu Largo 48V 1000W para Neve e Terra - Preço Baixo - À Venda",
+     "preco": 2250.93,
+     "url": "https://pt.aliexpress.com/item/1005011898804403.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "Bicicleta Elétrica para Adultos, E-bike Urbana de 26 polegadas com Motor de Pico de 1000W, 35 km/h, 80 km de Autonomia, Personalizável",
+     "preco": 2555.99,
+     "url": "https://pt.aliexpress.com/item/1005012260794681.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "Bicicleta Elétrica BMX com Pneus Largos 20*3.0, Bateria Removível 48V 13Ah, Motor de 1000W, Bicicleta Elétrica Urbana para Adultos",
+     "preco": 3363.99,
+     "url": "https://pt.aliexpress.com/item/1005012734441413.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Bicicleta Elétrica HDJ 1000w 60V20AH Bateria Removível 60km 32km/h Suspensão Dupla Freios Hidráulicos 2 Lugares E-bike Urbana com Controle Remoto",
-     "preco": 7699,
+     "preco": 4130.36,
      "url": "https://pt.aliexpress.com/item/1005013256342971.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "Bicicleta Elétrica HDJ LEMI 1000W 60KM 60V20AH Bateria Removível Bicicleta Urbana para Adultos E-bike com Controle Remoto Dois Assentos Suspensão Dupla",
-     "preco": 7699,
-     "url": "https://pt.aliexpress.com/item/1005013474963854.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "Bicicleta Elétrica Ouxi V8 Ultra 1000w Bateria De Lítio",
-     "preco": 7699,
-     "url": "https://pt.aliexpress.com/item/1005013242763908.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "Bicicleta Elétrica Ouxi Q8 1000w 48v Lítio 60km",
-     "preco": 7899,
-     "url": "https://pt.aliexpress.com/item/1005013253496443.html"
     }
    ]
   },
   "ebike-motor-tongsheng-tsdz8-750w": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Motor Elétrico de Bicicleta Tongsheng TSDZ2B TSDZ8 Brushless 48V 750Watt 500W com Sensor de Torque, Kit de Conversão DIY para E-Bike",
-     "preco": 2669.99,
-     "url": "https://pt.aliexpress.com/item/1005005572453746.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
      "titulo": "Tongsheng tsdz8 48v 750w kit de conversão de bicicleta elétrica sensor de torque motor de montagem média embreagem dupla diy ebike kit de acionamento sem escova",
-     "preco": 3005.57,
+     "preco": 3007.57,
      "url": "https://pt.aliexpress.com/item/1005005572496470.html"
     }
    ]
   },
   "ebike-cassete-sunshine-8v": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": []
   },
   "ebike-cambio-traseiro-8v-gaiola-longa": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Shimano-Desviador Traseiro De Bicicleta, Alavanca De Exibição De Engrenagem De Bicicleta, Altus RD-M310, Shifter De Engrenagem, M315, 7, 8 Velocidade, 21S, 24V, 3S",
-     "preco": 63.2,
+     "preco": 127.84,
      "url": "https://pt.aliexpress.com/item/1005007422965872.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Câmbio de Bicicleta de Montanha LTWOO A5 9S + Câmbio Traseiro, 1x9 Velocidades MTB Compatível com ALIVIO / ACERA",
-     "preco": 69.19,
+     "preco": 138.38,
      "url": "https://pt.aliexpress.com/item/1005012145801362.html"
     }
    ]
   },
   "ebike-suspensao-absolute-nero-32": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": []
   },
   "ebike-caixa-direcao-absolute-megaover": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": []
   },
   "ebike-guidao-rise": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": []
   },
   "ebike-selim-absolute-vazado-gel": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": []
   },
   "ebike-bolsa-alforge-estanque": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": []
   },
   "ebike-torquimetro-2-20nm": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": []
   },
   "ebike-freio-shimano-mt200": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "SHIMAN – Freio a disco hidráulico MT200, para uso em apenas um lado, para bicicletas de montanha. Mangueira dianteira: 800/900/950/1000 mm. Mangueira traseira: 1450/1700/1800 mm.",
-     "preco": 100.45,
-     "url": "https://pt.aliexpress.com/item/1005013555246810.html"
+     "titulo": "Shimano BR MT200 Freio a disco hidráulico apenas um lado para mountain bike 800mm 1400mm 1450mm 1500mm 1550mm Freio de bicicleta",
+     "preco": 117.78,
+     "url": "https://pt.aliexpress.com/item/1005010206854735.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Freio a Disco Hidráulico SHIMANO MT200 2 Pistões Original com Design Separado Unilateral e Roteamento Interno para Bicicletas MTB",
-     "preco": 100.79,
-     "url": "https://pt.aliexpress.com/item/1005012899078715.html"
+     "titulo": "Shimano mt200 parte de freio da bicicleta apenas traseira apenas frente lado direito lado esquerdo para mtb freio a disco hidráulico mountain bike",
+     "preco": 124.98,
+     "url": "https://pt.aliexpress.com/item/1005007857622345.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Conjunto de freios a disco hidráulicos de bicicleta TTPRO MT200 com pistão duplo, pinças de freio para bicicleta de montanha, frenagem suave, compatível com Shimano e SRAM.",
-     "preco": 123.59,
-     "url": "https://pt.aliexpress.com/item/1005013421709776.html"
+     "titulo": "Shimano mt200 freio a disco hidráulico apenas 1 lado do conjunto de freio mt200 dianteiro esquerdo/direito pinça de freio dianteiro + alavanca de freio para mtb",
+     "preco": 137.34,
+     "url": "https://pt.aliexpress.com/item/1005007449632927.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Conjunto de freio hidráulico SHIMANO MT200 BL-MT200 Alavanca+BR-MT200 Caliper para comprimento aleatório",
-     "preco": 126.59,
-     "url": "https://pt.aliexpress.com/item/1005012544736914.html"
+     "titulo": "Freio SHIMANO MT200 para Bicicleta MTB, Freios a Disco Hidráulicos de 2 Pistões, Comprimentos de 800MM a 1700MM",
+     "preco": 144.77,
+     "url": "https://pt.aliexpress.com/item/1005008373992794.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Conjunto de Freio Hidráulico Shimano MT200 para Roda Dianteira Esquerda com Alavanca + Caliper, Comprimento de Tubo Aleatório",
-     "preco": 135.99,
-     "url": "https://pt.aliexpress.com/item/1005012613397040.html"
+     "titulo": "Caliper de Freio Hidráulico Shimano MT200 - Conjunto Completo de Braçadeiras para Sistemas de Freio de Bicicleta de Montanha",
+     "preco": 151.84,
+     "url": "https://pt.aliexpress.com/item/1005011546763281.html"
     }
    ]
   },
   "ebike-rotores-203mm": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "2 peças bucklos freio a disco de bicicleta 160/180/203 rotores flutuantes de aço inoxidável rotor de freio de mountain bike rotores mtb parte 1 peça",
-     "preco": 40.31,
-     "url": "https://pt.aliexpress.com/item/1005005209022863.html"
+     "titulo": "G3 rotor bicicleta disco de freio hidráulico mtb 160mm 180mm 203mm rotor da bicicleta mtb ciclismo freio mountain bike peça disco freio hidráulico",
+     "preco": 53.75,
+     "url": "https://pt.aliexpress.com/item/1005005999157180.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Rotor de disco de freio com trava central ZRACE forte dissipação de calor flutuante 140/160/180/203, para MTB / estrada",
-     "preco": 42.99,
-     "url": "https://pt.aliexpress.com/item/1005006226762498.html"
+     "titulo": "Bucklos g3 rotor de bicicleta 160mm 180mm 203mm rotor de freio a disco de bicicleta respirável disco de freio durável estrada mtb rotor",
+     "preco": 60.16,
+     "url": "https://pt.aliexpress.com/item/1005010436111186.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Rotor de disco de freio com trava central ZRACE forte dissipação de calor flutuante 140/160/180/203, para MTB / estrada",
-     "preco": 45.56,
-     "url": "https://pt.aliexpress.com/item/1005006226351929.html"
+     "titulo": "Rotor de Freio a Disco para Bicicleta MTB TANKE em Aço Inoxidável 160mm 180mm 203mm com 6 Parafusos para Montagem no Cubo, Peças para Bicicleta com Espessura de 1.8mm",
+     "preco": 64.76,
+     "url": "https://pt.aliexpress.com/item/1005010770772003.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "Discos de Freio Hidráulico em Aço Inoxidável para MTB, Rotores de Freio de Bicicleta de 160mm, 180mm e 203mm para Bicicletas de Montanha",
+     "preco": 65.76,
+     "url": "https://pt.aliexpress.com/item/1005011880851952.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Rotor de freio a disco SHIMANO SM-RT66 tipo 6 parafusos 160mm 180mm 203mm para peças de mountain bike 1 peça",
-     "preco": 57.41,
+     "preco": 73.6,
      "url": "https://pt.aliexpress.com/item/1005008262902467.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "Shimano deore SM-RT86 rotores de freio a disco 160mm 180mm 203mm mtb 6 tipo parafuso rotores de freio a disco peças de ciclismo 1 peça",
-     "preco": 134.91,
-     "url": "https://pt.aliexpress.com/item/1005008044918100.html"
     }
    ]
   },
   "ebike-sensores-e-brake": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": []
   },
   "ebike-trava-u-lock": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": []
   },
   "ebike-gps-rastreamento-48v": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "Mini Rastreador GPS Anti-perda para Android Google Find My, Localizador de Longa Distância com Voz para Malas e Chaves (Airtags)",
-     "preco": 61.15,
-     "url": "https://pt.aliexpress.com/item/1005012576343186.html"
-    },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
@@ -230,104 +216,111 @@
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "UGREEN Smart Bluetooth Tracker, localizador de chaves, localizador de itens SmartTag, bateria de até 2 anos, localizador de telefone para Apple Find My (apenas IOS)",
-     "preco": 221.55,
-     "url": "https://pt.aliexpress.com/item/1005010238007683.html"
+     "titulo": "Mini Rastreador GPS Anti-perda para Google Find My, Localizador de Longa Distância com Localização por Voz para Malas, Chaves e Airtags Inteligentes",
+     "preco": 104.34,
+     "url": "https://pt.aliexpress.com/item/1005012273921562.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "Mini Rastreador GPS Anti-perda para Android Google Find My, Localizador de Longa Distância com Voz para Malas e Chaves (Airtags)",
+     "preco": 146.85,
+     "url": "https://pt.aliexpress.com/item/1005012576343186.html"
     }
    ]
   },
   "ebike-capa-de-chuva": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": []
   },
   "ebike-capacete-ciclismo-viseira": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
+     "titulo": "Capacetes de Moto Elétrica Tamanho 54-62CM com Proteção Solar UV e Lentes de Alta Definição para Verão - Cascos de Segurança para Scooters",
+     "preco": 80.16,
+     "url": "https://pt.aliexpress.com/item/1005012190337883.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
      "titulo": "Capacete de Esqui Ajustável, Capacete Esportivo para Snowboard, Acessórios para Ciclismo e Skate ao Ar Livre",
-     "preco": 74.59,
+     "preco": 149.18,
      "url": "https://pt.aliexpress.com/item/1005011959995616.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Capacete de proteção para adultos, para uso em bicicletas, scooters elétricas, skate, patins, rafting e escalada.",
-     "preco": 83,
-     "url": "https://pt.aliexpress.com/item/1005013342729912.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
      "titulo": "Capacete de esqui Capacete de snowboard Capacete de neve leve e ajustável para estrada",
-     "preco": 86.79,
+     "preco": 163.75,
      "url": "https://pt.aliexpress.com/item/1005008537085640.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Capacete para esqui e snowboard com protetores auriculares removíveis, ajustável e ventilado, ideal para esportes de neve, como esqui, skate e patinagem.",
-     "preco": 90.29,
+     "preco": 164.16,
      "url": "https://pt.aliexpress.com/item/1005013490286468.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Lua capacete de esqui masculino e feminino adulto leve único-doble placa capacete quente ao ar livre equipamentos esportivos de esqui capacete de neve",
-     "preco": 103.89,
-     "url": "https://pt.aliexpress.com/item/1005008747053523.html"
+     "titulo": "Capacete de ciclismo de estrada para homens e mulheres, leve, pneumático integral, capacete de mountain bike",
+     "preco": 165.3,
+     "url": "https://pt.aliexpress.com/item/1005006116057263.html"
     }
    ]
   },
   "ebike-aros-vzan-aro26-36furos": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": []
   },
   "ebike-cubo-absolute-brutus-dj": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": []
   },
   "ebike-cubo-traseiro-36-furos-hg": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": []
   },
   "ebike-raios-inox-niples-latao": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": []
   },
   "ebike-pneus-175-semislick": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Pneu de Bicicleta de Montanha Kenda K1047 26/27.5/29 x1.95/2.10 Dobrável, Proteção contra Furos, Ultraleve, Resistente ao Desgaste, Pneu para Ciclismo",
-     "preco": 129.02,
+     "preco": 297.75,
      "url": "https://pt.aliexpress.com/item/1005013134176016.html"
     }
    ]
   },
   "ebike-antifurto-eixo-onipax": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": []
   },
   "ebike-sinalizacao-full-range-12-80v": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": []
   },
   "estufa-mcp23017": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
@@ -339,146 +332,139 @@
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Módulo Expansor de E/S Bidirecional Liludin MCP23017 I2C IIC SPI de 16 Bits, Placa de Expansão de E/S de 10MHz, Módulo de Interface Serial",
-     "preco": 9.04,
-     "url": "https://pt.aliexpress.com/item/1005010345046000.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
      "titulo": "Tzt mcp23017 módulo de interface serial iic i2c spi mcp23s17 bidirecional 16 bits i/o expansor pinos 10mhz módulo de interface serial",
-     "preco": 12.11,
+     "preco": 13.16,
      "url": "https://pt.aliexpress.com/item/1005009954633444.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "1-10 pces mcp23017/23s17 módulo de interface serial iic i2c spi bidirecional 16 bits i/o expansor pinos 10mhz módulo de interface serial",
-     "preco": 12.28,
-     "url": "https://pt.aliexpress.com/item/1005006642757928.html"
+     "titulo": "MCP23017 Módulo de Interfaces Série IIC de 16 bits TZT 1/3PCS MCP23017 100kHz",
+     "preco": 13.34,
+     "url": "https://pt.aliexpress.com/item/1005012638559470.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "MCP23017 Módulo de Interfaces Série IIC de 16 bits TZT 1/3PCS MCP23017 100kHz",
-     "preco": 12.29,
-     "url": "https://pt.aliexpress.com/item/1005012638559470.html"
+     "titulo": "Módulo Expansor de E/S Bidirecional Liludin MCP23017 I2C IIC SPI de 16 Bits, Placa de Expansão de E/S de 10MHz, Módulo de Interface Serial",
+     "preco": 13.65,
+     "url": "https://pt.aliexpress.com/item/1005010345046000.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "Mcp23017 i2c módulo de extensão Mcp23017 interface i2c 16bit módulo de extensão i/o placa pino iic para gipo conversor 25ma1 unidade fonte alimentação para arduino e c51",
+     "preco": 14.08,
+     "url": "https://pt.aliexpress.com/item/1005009033439171.html"
     }
    ]
   },
   "estufa-ads1115": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
+     "titulo": "Módulo I2C ADS1115 ADS1015 de 16 bits ADC 4 canais com amplificador de ganho Pro 2,0 V a 5,5 V para Arduino RPi",
+     "preco": 8.91,
+     "url": "https://pt.aliexpress.com/item/1005002791312153.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
      "titulo": "BS Brand, 1 unidade, módulo ADC I2C de 16 bits e 4 canais, modelo ADS1115 ADS1015, com amplificador de ganho programável (PGA), para Arduino e Raspberry Pi.",
-     "preco": 8.15,
+     "preco": 9.05,
      "url": "https://pt.aliexpress.com/item/1005013001156752.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Módulo ADC 4 canais I2C ADS1115 de 16 bits com amplificador de ganho Pro",
-     "preco": 8.83,
-     "url": "https://pt.aliexpress.com/item/1005005973975124.html"
+     "titulo": "Módulo ADC de 16 bits I2C ADS1015 ADS1115 de 4 canais com amplificador de ganho programável de 2.0V a 5.5V para RPi",
+     "preco": 12.17,
+     "url": "https://pt.aliexpress.com/item/32672594709.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Ads1115 16 i2c módulo bits Ads1115 módulo i2c de 16 bits, precisão, placa de desenvolvimento de 4 canais, amplificador de ganho pro 2.0v a 5.5v para arduino rp",
-     "preco": 9.47,
-     "url": "https://pt.aliexpress.com/item/1005009043568525.html"
+     "titulo": "Módulo ADC DC 2 -5V 4 CH ADS1115 com microcontrolador Pro Gain Placa amplificadora de 16 bits para Arduino I2C IIC ADC AVDD",
+     "preco": 12.74,
+     "url": "https://pt.aliexpress.com/item/1005008479331647.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Módulo TENSTAR ADS1115 Placa Vermelha 16 Bit I2C ADC 4 Canais com Amplificador de Ganho Pro",
-     "preco": 10.67,
-     "url": "https://pt.aliexpress.com/item/1005008069051560.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "Módulo I2C GHPYQKC ADS1115 de 16 bits, ADC de precisão, placa de desenvolvimento de 4 canais, amplificador Pro Gain de 2.0V a 5.5V para Arduino RP",
-     "preco": 10.85,
-     "url": "https://pt.aliexpress.com/item/1005012272122956.html"
+     "titulo": "I2C ADS1115 ADS1015 4 canais módulo com amplificador programável do ganho, ADC de 16 bits, 2.0V a 5.5V RPi",
+     "preco": 13.16,
+     "url": "https://pt.aliexpress.com/item/32674556200.html"
     }
    ]
   },
   "estufa-bh1750": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Módulo Sensor de Intensidade de Luz e Iluminância Stlxy GY-302 BH1750 3.3-5V Placa de Detecção Digital I2C para Arduino",
-     "preco": 4.84,
+     "preco": 6.45,
      "url": "https://pt.aliexpress.com/item/1005013554594027.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "GY-302 BH1750 BH1750FVI iluminação de luz Módulo Sensor 3V-5V",
-     "preco": 5.36,
-     "url": "https://pt.aliexpress.com/item/1005013632866759.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
      "titulo": "Módulo de iluminação de intensidade de luz GY-302 BH1750 BH1750FVI 3V-5V",
-     "preco": 7.01,
+     "preco": 9.85,
      "url": "https://pt.aliexpress.com/item/1005006389610861.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "1-10 unidades Módulo de Intensidade de Luz GY-302 BH1750 BH1750FVI 3V-5V",
-     "preco": 7.71,
-     "url": "https://pt.aliexpress.com/item/1005012402323940.html"
+     "titulo": "1-10 pces sensor de iluminação de intensidade óptica digital GY-30 GY-302 bh1750fvi bh1750 bh1750fvi do módulo para arduino 3v-5v",
+     "preco": 10.59,
+     "url": "https://pt.aliexpress.com/item/1005006714132091.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "1-10 pces sensor de iluminação de intensidade óptica digital GY-30 GY-302 bh1750fvi bh1750 bh1750fvi do módulo para arduino 3v-5v",
-     "preco": 7.92,
-     "url": "https://pt.aliexpress.com/item/1005006714132091.html"
+     "titulo": "BH1750 sensor GY-302 Novo GY-302 GY-30 BH1750 BH1750FVI O sensor de iluminação de intensidade óptica digital BH1750FVI do módulo para arduino 3V-5V",
+     "preco": 10.79,
+     "url": "https://pt.aliexpress.com/item/1005009131265785.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "Módulo sensor de intensidade de luz BAISHUN BH1750 BH1750FVI, módulo de sensor de luz para Arduino.",
+     "preco": 11.62,
+     "url": "https://pt.aliexpress.com/item/1005012912486753.html"
     }
    ]
   },
   "estufa-ds18b20": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "3.3v-5v ds18b20 módulo de sensor de temperatura à prova dwaterproof água termômetro digital adaptador conversor módulo para arduino e raspberry pi",
-     "preco": 2.46,
-     "url": "https://pt.aliexpress.com/item/1005002989076212.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "Tzt ds1820 pacote de aço inoxidável à prova dwaterproof água ds18b20 sonda temperatura sensor 18b20 1m/2m // 3m para arduino",
-     "preco": 3.32,
-     "url": "https://pt.aliexpress.com/item/1005008330097440.html"
+     "titulo": "Kit de módulo de sensor de temperatura DS18B20, à prova de água, com cabo de sensor digital de 100 cm, sonda de aço inoxidável e adaptador de terminal para Arduino.",
+     "preco": 2.09,
+     "url": "https://pt.aliexpress.com/item/1005013275752188.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Kit de módulo sensor de temperatura ds18b20, à prova d'água, 100cm, cabo de sensor digital, adaptador de terminal de sonda de aço inoxidável para arduino",
-     "preco": 3.32,
+     "preco": 3.57,
      "url": "https://pt.aliexpress.com/item/4000068914916.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "DS18B20 Sensor com Cabo 3m Sonda de Temperatura DS18B20 em Aço Inoxidável à Prova d'Água, Sensor de Temperatura com Cabo de 1m, 3m, 5m para Arduino",
-     "preco": 3.83,
-     "url": "https://pt.aliexpress.com/item/1005012179635448.html"
+     "titulo": "Tzt ds1820 pacote de aço inoxidável à prova dwaterproof água ds18b20 sonda temperatura sensor 18b20 1m/2m // 3m para arduino",
+     "preco": 3.69,
+     "url": "https://pt.aliexpress.com/item/1005008330097440.html"
     },
     {
      "fonte": "aliexpress",
@@ -486,231 +472,203 @@
      "titulo": "Sensor digital ds18b20 temperatura Kit de módulo sensor de temperatura ds18b20, à prova d'água, 100cm, cabo de sensor digital, adaptador de terminal de sonda de aço inoxidável para arduino",
      "preco": 4.55,
      "url": "https://pt.aliexpress.com/item/1005001976602022.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "DS18B20 Sensor com Cabo 3m Sonda de Temperatura DS18B20 em Aço Inoxidável à Prova d'Água, Sensor de Temperatura com Cabo de 1m, 3m, 5m para Arduino",
+     "preco": 4.56,
+     "url": "https://pt.aliexpress.com/item/1005012179635448.html"
     }
    ]
   },
   "estufa-jsn-sr04t": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Módulo ultrassónico à prova de água JSN-SR04T / AJ-SR04M V3.0, sensor transdutor integrado para medição de distância, à prova de água, para Arduino.",
-     "preco": 9.07,
-     "url": "https://pt.aliexpress.com/item/1005013451628234.html"
+     "titulo": "JSN-SR04T V3.0 Módulo de medição de distância ultrassônico integrado Radar reverso Sensor ultrassônico à prova d'água",
+     "preco": 8.86,
+     "url": "https://pt.aliexpress.com/item/1005009584365998.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Módulo ultrassônico à prova d'água JSN-SR04T / AJ-SR04M Sensor transdutor de medição de distância integrado à prova d'água para Arduino",
-     "preco": 9.73,
-     "url": "https://pt.aliexpress.com/item/1005006320348756.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "Módulo ultrassônico impermeável para Arduino, Transdutor Integrado de Medição de Distância, Water Proof, JSN-SR04T, AJ-SR04M",
-     "preco": 11.79,
-     "url": "https://pt.aliexpress.com/item/1005006824515011.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "Módulo ultrassônico à prova d'água JSN-SR04T / AJ-SR04M Sensor transdutor de medição de distância integrado à prova d'água para Arduino",
-     "preco": 11.89,
+     "preco": 13.95,
      "url": "https://pt.aliexpress.com/item/1005003660335942.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
+     "titulo": "Módulo ultrassônico impermeável para Arduino, Transdutor Integrado de Medição de Distância, Water Proof, JSN-SR04T, AJ-SR04M",
+     "preco": 14.03,
+     "url": "https://pt.aliexpress.com/item/1005006824515011.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
      "titulo": "Sensor JSN-SR04T AJ-SR04M Módulo ultrassônico à prova d'água JSN-SR04T / AJ-SR04M 2 Sensor transdutor de medição de distância integrado à prova d'água para Arduino",
-     "preco": 14.72,
+     "preco": 17.52,
      "url": "https://pt.aliexpress.com/item/1005006814323837.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "JSN-SR04T jsn sr04t 3.3 módulo ultrassônico à prova d'água sensor transdutor de medição de distância integrado para arduino",
+     "preco": 18.26,
+     "url": "https://pt.aliexpress.com/item/1005003213157894.html"
     }
    ]
   },
   "estufa-bpw34": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "5pcs Fotodiodo BPW34 DIP-2 novo original",
-     "preco": 11.17,
+     "preco": 13.3,
      "url": "https://pt.aliexpress.com/item/1005006202905439.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "5-10 unidades/lote, 100% novo, fotodiodo BPW34, encapsulamento DIP-2, original.",
-     "preco": 13,
-     "url": "https://pt.aliexpress.com/item/1005013488244216.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "5 Pçs/lote novo original BPW34 BPW34S Fotodiodo DIP-2 SMD-2 PIN circuito integrado de fotocélula de silício",
-     "preco": 13.42,
-     "url": "https://pt.aliexpress.com/item/1005008109548530.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "(ZYDD01) 5 unidades de fotodiodo BPW34S BPW34 montagem em superfície/plugável direto SMD-2/DIP-2 tubo receptor infravermelho de fotodiodo de pino de silício",
-     "preco": 14.43,
-     "url": "https://pt.aliexpress.com/item/1005010521495981.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "5 peças bpw34s bpw34 montagem em superfície do fotodiodo/plugagem direta SMD-2/DIP-2 pino de silicone fotodiodo tubo receptor infravermelho",
-     "preco": 14.47,
-     "url": "https://pt.aliexpress.com/item/1005010559498963.html"
     }
    ]
   },
   "estufa-as7341": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Módulo de Sensores de Espectro Visível GREATZT AS7341 AS734x, Temperatura de Cor, Iluminância, Detecção de Cor de Alta Precisão para Arduino",
-     "preco": 18.89,
+     "preco": 21.97,
      "url": "https://pt.aliexpress.com/item/1005013275456969.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "As7341 as734x sensores espectrais visíveis módulo de temperatura de cor iluminância detecção de cor de alta precisão para arduino",
-     "preco": 23.3,
+     "preco": 25.33,
      "url": "https://pt.aliexpress.com/item/1005010665535753.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "AS7262 AS7263 AS7341 AS7343 Módulos de sensor espectral visível NIR Saída I2C para detecção de material de cor Várias opções",
-     "preco": 23.69,
+     "preco": 29.61,
      "url": "https://pt.aliexpress.com/item/1005010047998067.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "As7341 as734x sensores espectrais visíveis módulo de temperatura de cor iluminância detecção de cor de alta precisão para arduino",
-     "preco": 27.06,
+     "preco": 33.44,
      "url": "https://pt.aliexpress.com/item/1005008897941427.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Módulo do sensor de luz visível cor infravermelha, GY-AS7262, AS7263, AS7341, as7343, infravermelho, cor, sensor",
-     "preco": 28.59,
-     "url": "https://pt.aliexpress.com/item/1005006352623533.html"
+     "titulo": "GY-AS7262 AS7263 AS7341 AS7331 AS7343 Módulo sensor espectrômetro infravermelho visível 3-5V Pequeno volume",
+     "preco": 37.99,
+     "url": "https://pt.aliexpress.com/item/1005007669742412.html"
     }
    ]
   },
   "estufa-ds3231": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Módulo DS3231 AT24C32 IIC, módulo de relógio de precisão DS1302, módulo de memória DS1307, módulo mini, relógio de tempo real 3,3 V/5 V para Raspberry Pi.",
-     "preco": 3.32,
-     "url": "https://pt.aliexpress.com/item/1005013168142870.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "DS3231 Real TZT 1/3PCS Módulo DS3231 AT24C32 IIC Módulo de Relógio de Precisão DS1302 Módulo DS1307 Mini Módulo de Tempo Real 3.3V/5V",
-     "preco": 4.92,
-     "url": "https://pt.aliexpress.com/item/1005013299445880.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
      "titulo": "1 peça PCF8563 DS3231 PCF8523 AT24C32 DS1302 DS2121SN IIC Precision RTC Módulo de Memória de Relógio em Tempo Real",
-     "preco": 6.99,
+     "preco": 7.81,
      "url": "https://pt.aliexpress.com/item/1005005373071878.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Módulo ds3231 at24c32 iic ds1302 rtc i2c módulo de relógio de precisão ds1307 módulo de memória mini módulo em tempo real para raspberry pi",
-     "preco": 6.99,
+     "preco": 8.56,
      "url": "https://pt.aliexpress.com/item/1005007143542894.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Módulo PCF8563T PCF8563, Módulo de Relógio em Tempo Real (RTC), Desempenho Superior ao DS3231 AT24C32",
-     "preco": 9.16,
-     "url": "https://pt.aliexpress.com/item/1005006102342437.html"
+     "titulo": "At24c32 ds3231 iic rc módulo relógio temporizador módulo de memória batede substituir ds1307 i2c placa rcc para arduino raspberry pi",
+     "preco": 12.24,
+     "url": "https://pt.aliexpress.com/item/1005009048077126.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "DS3231 RTC Original estrangeiro Série de módulos de relógio para Raspberry Pi módulo RTC estrangeiro de alta precisão DS3231 módulos Original novo",
+     "preco": 13.79,
+     "url": "https://pt.aliexpress.com/item/1005009291284041.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "TZT 1/3PCS Módulo de Relógio em Tempo Real de Precisão DS3231 RTC DS3231 3.3V/5V com Bateria para Raspberry Pi e Arduino, Kit DIY",
+     "preco": 14.1,
+     "url": "https://pt.aliexpress.com/item/32918840010.html"
     }
    ]
   },
   "estufa-cd74hc4067": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "TZT 1/3PCS CD74HC4067 Módulo de Placa de Expansão Multiplexador Analógico Digital de 16 Canais para Arduino",
-     "preco": 3.01,
-     "url": "https://pt.aliexpress.com/item/32428098670.html"
+     "titulo": "Analógico Multiplexer Digital Breakout Board Module, Eletrônica Inteligente, 16-Channel, CD74HC4067",
+     "preco": 3.2,
+     "url": "https://pt.aliexpress.com/item/1005001621875985.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "Placa de retificação digital analógica wavatacado, módulo eletrônico inteligente cdhd 4067 16 canais",
+     "preco": 3.2,
+     "url": "https://pt.aliexpress.com/item/32848578672.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Tzt 1/3 peças cd74hc4067 módulo de placa de fuga multiplexador digital analógico de 16 canais para arduino",
-     "preco": 4.67,
-     "url": "https://pt.aliexpress.com/item/1005002710691057.html"
+     "preco": 3.26,
+     "url": "https://pt.aliexpress.com/item/1005005443258356.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "CD74HC4067 Módulo de placa de fuga multiplexador digital analógico de 16 canais para Arduino",
-     "preco": 4.67,
-     "url": "https://pt.aliexpress.com/item/1005008380827615.html"
+     "titulo": "Módulo de Placa de Conexão Multiplexadora Analógica Digital de 16 Canais GREATZT CD74HC4067 para Arduino",
+     "preco": 3.26,
+     "url": "https://pt.aliexpress.com/item/1005012077953453.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "CD74HC4067 Multiplexador analógico CMOS de 16 canais de alta velocidade Analógico/Digital",
-     "preco": 4.86,
-     "url": "https://pt.aliexpress.com/item/1005003700931020.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "CD74HC4067 Módulo de placa de fuga multiplexador digital analógico de 16 canais Eletrônicos inteligentes",
-     "preco": 6.6,
-     "url": "https://pt.aliexpress.com/item/1005010530078789.html"
+     "titulo": "74hc4067 cd74hc4067 16-channel analógico digital multiplexer breakout board módulo para arduino diy",
+     "preco": 3.38,
+     "url": "https://pt.aliexpress.com/item/1005004605660584.html"
     }
    ]
   },
   "estufa-moc3063": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "5 ~ 20 PCS MOC3063 DIP-6 MOC3063M Optoisoladores de Zero-Cross de 6 Pinos com Saída de Driver Triac Chip IC",
-     "preco": 4.18,
+     "preco": 4.98,
      "url": "https://pt.aliexpress.com/item/1005011540423134.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "MOC3063 SOP-6 optoacoplador 10PCS MOC3021SR2M MOC3021 MOC3022 MOC3023 MOC3052 MOC3061 MOC3062 MOC3063 SOP-6 optoacoplador novo original",
-     "preco": 6.99,
-     "url": "https://pt.aliexpress.com/item/1005006143632978.html"
     },
     {
      "fonte": "aliexpress",
@@ -722,22 +680,22 @@
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Fotoacoplador com Driver Dual-in-line, MoC3063, DIP6, 6 pinos, DIP, Zero-cross, Optoisoladores, Triac, Saída, 5pcs",
-     "preco": 11.79,
-     "url": "https://pt.aliexpress.com/item/1005007209126028.html"
+     "titulo": "MOC3063 SOP-6 optoacoplador 10PCS MOC3021SR2M MOC3021 MOC3022 MOC3023 MOC3052 MOC3061 MOC3062 MOC3063 SOP-6 optoacoplador novo original",
+     "preco": 9.71,
+     "url": "https://pt.aliexpress.com/item/1005006143632978.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "10 peças moc3020 moc3021 moc3022 moc3023 moc3041 moc3043 moc3052 moc3061 moc3062 moc3063 dip6 dip optoacoplador novo e ic",
-     "preco": 12.79,
-     "url": "https://pt.aliexpress.com/item/1005009515565209.html"
+     "titulo": "Fotoacoplador com Driver Dual-in-line, MoC3063, DIP6, 6 pinos, DIP, Zero-cross, Optoisoladores, Triac, Saída, 5pcs",
+     "preco": 24.06,
+     "url": "https://pt.aliexpress.com/item/1005007209126028.html"
     }
    ]
   },
   "estufa-bta16": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
@@ -750,63 +708,49 @@
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "GREATZT 10/30pcs BTA16-600B TO-220 BTA16-600 TO220 16-600B BTA16 600V 16A TRIACS novos e originais",
-     "preco": 9.59,
+     "preco": 10.45,
      "url": "https://pt.aliexpress.com/item/1005004673834868.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Frete grátis 10 unidades de tiristor bidirecional BTA16-600 BTA16 TO-220 16Amp 600Volt BTA16-600B Triacs",
-     "preco": 10.49,
+     "preco": 11.65,
      "url": "https://pt.aliexpress.com/item/1005013459926198.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "10-20-50pcs BTA16-600B BTA16-600 BTA16 Triacs -600B Transistor MOSFET BTA16600B TO-220",
-     "preco": 11.17,
-     "url": "https://pt.aliexpress.com/item/1005012704099495.html"
+     "titulo": "Bta16 5 peças triacs 5 peças flash bta16 triacs 16 amp 600 volt a-220 novo original",
+     "preco": 11.79,
+     "url": "https://pt.aliexpress.com/item/32506882741.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "5pcs BTA16-600B BTA16-600 BTA16 Triacs 16 Amp 600 Volts TO-220 novo original",
-     "preco": 11.43,
-     "url": "https://pt.aliexpress.com/item/1005006139608871.html"
+     "titulo": "5PCS BTA16 BTA20 BTA24 -600B -600C -800B -800C Inserção Direta Triac TO-220",
+     "preco": 12.99,
+     "url": "https://pt.aliexpress.com/item/1005005540856286.html"
     }
    ]
   },
   "estufa-irlz44n": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "10PCS IRLZ44N TO-220 IRLZ44 TO220 IRLZ44NPBF IRLZ24N IRLZ34N IRLZ46N IRLZ48N IRFZ24N IRFZ34N IRFZ44N IRFZ46N IRFZ48N IRFZ44",
-     "preco": 6.99,
-     "url": "https://pt.aliexpress.com/item/1005011850790053.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
      "titulo": "(10 peças) Novos IRLZ44N IRLZ24N IRLZ34N IRLZ46N IRLZ48N IRFZ24N IRFZ34N IRFZ44N IRFZ46N IRFZ48N TO-220 Em Estoque",
-     "preco": 6.99,
+     "preco": 8.55,
      "url": "https://pt.aliexpress.com/item/1005012527252127.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "10~PCS IRLZ34N IRLZ48N RHP50N06 IRLZ44N IRLZ46N FQP50N06 FRP50N06 TO/220 IRFZ44N IRFZ46N IRF3205 IRFZ48N IRLZ24N IRFZ24N IRFZ34N",
-     "preco": 9.18,
-     "url": "https://pt.aliexpress.com/item/1005012710698680.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "10 peças to-220 irlz44 irlz44npbf to220 irlz44n novo e original ic boa qualidade irlz44n",
-     "preco": 9.43,
-     "url": "https://pt.aliexpress.com/item/1005008715572945.html"
+     "titulo": "10PCS IRLZ44N TO-220 IRLZ44 TO220 IRLZ44NPBF IRLZ24N IRLZ34N IRLZ46N IRLZ48N IRFZ24N IRFZ34N IRFZ44N IRFZ46N IRFZ48N IRFZ44",
+     "preco": 9.3,
+     "url": "https://pt.aliexpress.com/item/1005011850790053.html"
     },
     {
      "fonte": "aliexpress",
@@ -814,54 +758,75 @@
      "titulo": "(10 peças) NOVO IRLZ44N IRLZ44 IRLZ44NPBF",
      "preco": 9.99,
      "url": "https://pt.aliexpress.com/item/1005008829396724.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "10~PCS IRLZ34N IRLZ48N RHP50N06 IRLZ44N IRLZ46N FQP50N06 FRP50N06 TO/220 IRFZ44N IRFZ46N IRF3205 IRFZ48N IRLZ24N IRFZ24N IRFZ34N",
+     "preco": 10.92,
+     "url": "https://pt.aliexpress.com/item/1005012710698680.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "10PCS IRLZ24NPBF IRLZ34NPBF IRLZ44NPBF IRLZ24N IRLZ34N IRLZ44N TO-220",
+     "preco": 11.29,
+     "url": "https://pt.aliexpress.com/item/1005012546406554.html"
     }
    ]
   },
   "estufa-sensor-umidade-solo": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "1/5/10pcs Sensor capacitivo de umidade do solo resistente à corrosão para Arduino Detecção de umidade Jardim rega DIY",
-     "preco": 6.76,
+     "preco": 8.05,
      "url": "https://pt.aliexpress.com/item/1005005202930632.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Sensor capacitivo/umidade solo 1/5/10 pces sensor de umidade capacitivo/umidade do solo display digital módulo de controle relé rega automática para arduino",
-     "preco": 8.29,
+     "preco": 8.46,
      "url": "https://pt.aliexpress.com/item/1005007209786167.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Sensor capacitivo umidade solo Módulo capacitivo do sensor de umidade do solo, 1-100 peças, não é fácil de corroer, fio de grande tensão 3.3 ~ 5.5v, resistente à corrosão",
-     "preco": 8.58,
+     "preco": 8.76,
      "url": "https://pt.aliexpress.com/item/1005006823242302.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Sensor 1-10 unidades Sensor de Umidade do Solo Capacitivo Resistente à Corrosão para Arduino, Detecção de Umidade, Rega de Jardim, DIY",
-     "preco": 8.95,
-     "url": "https://pt.aliexpress.com/item/1005013172647369.html"
+     "titulo": "Sensor Não Fácil Corrodar Módulo Sensor de Umidade do Solo Capacitivo, Não Fácil de Corrodar Fio, Resistente à Corrosão, Gravidade para Arduino, 3.3 a 5.5V, 1 a 10Pcs",
+     "preco": 9.87,
+     "url": "https://pt.aliexpress.com/item/1005007090783808.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Sensor Módulo Umidade Módulo Sensor de Umidade do Solo com Display Digital e Controle de Relé para Irrigação Automática Arduino (1 Unidade)",
-     "preco": 10.23,
-     "url": "https://pt.aliexpress.com/item/1005011896722994.html"
+     "titulo": "Sensor capacitivo ampla tensão 3.3v 1-10 pces módulo capacitivo do sensor de umidade do solo ampla tensão 3.3v resistente à corrosão com gravidade para arduino sensor de umidade do solo",
+     "preco": 11.16,
+     "url": "https://pt.aliexpress.com/item/1005009698447590.html"
     }
    ]
   },
   "estufa-eletrovalvula-12v": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "Válvula solenóide elétrica normalmente fechada magnética dc 12v interruptor de fluxo de entrada de água 1/4 \\",
+     "preco": 8.73,
+     "url": "https://pt.aliexpress.com/item/1005002876609358.html"
+    },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
@@ -872,9 +837,16 @@
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Normalmente fechado válvula solenóide elétrica, interruptor de fluxo de entrada, distribuidor controlador magnético, DC 12V, 1/4 \\",
-     "preco": 21.02,
-     "url": "https://pt.aliexpress.com/item/1005004464580774.html"
+     "titulo": "Mini eletromagnética solenóide válvula de água, normalmente fechado, pequeno controle elétrico, DC 12V, 0420",
+     "preco": 15.74,
+     "url": "https://pt.aliexpress.com/item/1005005752321480.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "Micro mini válvula solenóide, normalmente fechada, controle elétrico, água, exaustão, bidirecional, DC 3.7V, 6V, 12V",
+     "preco": 22.02,
+     "url": "https://pt.aliexpress.com/item/1005007337028241.html"
     },
     {
      "fonte": "aliexpress",
@@ -882,26 +854,12 @@
      "titulo": "Válvula solenóide elétrica AC220V DC 12V magnética N/C interruptor de fluxo de entrada de ar de água N/C 1/2\\",
      "preco": 22.5,
      "url": "https://pt.aliexpress.com/item/32845882904.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "Válvula solenóide elétrica de plástico dc 12v 220v, válvula solenóide de pressão normalmente fechada, interruptor de fluxo de entrada",
-     "preco": 23.83,
-     "url": "https://pt.aliexpress.com/item/1005006146766362.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "Válvula solenóide entrada Válvula solenóide de entrada de rosca de 3/4 \\",
-     "preco": 23.91,
-     "url": "https://pt.aliexpress.com/item/1005007580963166.html"
     }
    ]
   },
   "estufa-zmpt101b": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
@@ -913,57 +871,43 @@
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Módulo Transformador de Tensão Monofásico, Corrente de Saída AC, Sensor de Tensão para Arduino, Mega ZMPT101B, 2mA, ZMCT103C, 5A",
-     "preco": 5.16,
-     "url": "https://pt.aliexpress.com/item/1005001593859151.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "Módulo de Transformador de Tensão Ativa Monofásico AC com Sensor de Corrente e Tensão para Arduino ZMPT101B 2mA ZMCT103C 5mA Fai",
-     "preco": 5.16,
-     "url": "https://pt.aliexpress.com/item/1005009699634098.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
      "titulo": "Módulo de Placa de Transformador de Sensor de Corrente AC de Alta Precisão ZMPT101B ZMPT101 Tensão Monofásica 2mA para Arduino",
-     "preco": 5.72,
+     "preco": 7.56,
      "url": "https://pt.aliexpress.com/item/4001045353443.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Módulo transformador de tensão monofásico ZMPT101B da Sankai, sensor de corrente alternada de 0 a 250 V, saída analógica de 0 a 5 V para Arduino.",
-     "preco": 6.39,
-     "url": "https://pt.aliexpress.com/item/1005013107088162.html"
+     "titulo": "1 unidade do módulo transformador de tensão ZMPT101B, monofásico, CA, com saída ativa, módulo sensor de tensão para laboratório de ensino e projetos DIY.",
+     "preco": 7.82,
+     "url": "https://pt.aliexpress.com/item/1005013401458461.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "1 unidade do módulo transformador de tensão ZMPT101B, monofásico, CA, com saída ativa, módulo sensor de tensão para laboratório de ensino e projetos DIY.",
+     "preco": 7.82,
+     "url": "https://pt.aliexpress.com/item/1005013388931150.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "1 unidade do módulo transformador de tensão ZMPT101B, monofásico, CA, com saída ativa, módulo sensor de tensão para laboratório de ensino e projetos DIY.",
+     "preco": 7.82,
+     "url": "https://pt.aliexpress.com/item/1005013389019011.html"
     }
    ]
   },
   "estufa-sct013": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Transformador, derivação ou interruptor atuais, SCT013-000 SCT01315A 20A 30A 50A 60A 100A 50MA SCT-013 0-100A1V1%, 50HZ-15",
-     "preco": 17.27,
+     "preco": 18.38,
      "url": "https://pt.aliexpress.com/item/1005006080045813.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "Sensor de Corrente CA Não Invasivo Stlxy SCT013 SCT-013-000 5A 10A 15A 20A 30A 50A 60A Transformador de Corrente de Núcleo Dividido",
-     "preco": 18.05,
-     "url": "https://pt.aliexpress.com/item/1005011618756483.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "Sct013 sensor de corrente ca, transformador de corrente, alta qualidade, 5a, 10a, 15a, 20a, 30a, 50a, 60a",
-     "preco": 18.26,
-     "url": "https://pt.aliexpress.com/item/32232184819.html"
     },
     {
      "fonte": "aliexpress",
@@ -971,6 +915,20 @@
      "titulo": "SCT-013-000 10A 20A 30A 50A 60A 100A Transformador de corrente de núcleo dividido não invasivo Sensor de corrente CA",
      "preco": 18.79,
      "url": "https://pt.aliexpress.com/item/1005006953596970.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "Sct013 sensor de corrente ca, transformador de corrente, alta qualidade, 5a, 10a, 15a, 20a, 30a, 50a, 60a",
+     "preco": 19.24,
+     "url": "https://pt.aliexpress.com/item/32232184819.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "Sensor SCT013 aberto-fechado SCT-013 10A 20A 30A 50A 100A Transformador de corrente aberto-fechado SCT013 Sensor de corrente CA não invasivo Transformador de corrente de núcleo dividido",
+     "preco": 20.42,
+     "url": "https://pt.aliexpress.com/item/1005007939040338.html"
     },
     {
      "fonte": "aliexpress",
@@ -983,89 +941,89 @@
   },
   "estufa-aht20-bmp280": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Módulo de Temperatura, Umidade e Pressão do Ar AHT20+BMP280, Sensor Digital de Temperatura, Umidade e Pressão do Ar de Alta Precisão",
-     "preco": 4.12,
+     "preco": 4.49,
      "url": "https://pt.aliexpress.com/item/1005013262034275.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Módulo de sensor digital integrado AHT20+BMP280, sensor de alta precisão para medição de temperatura, humidade e pressão barométrica, para Arduino.",
-     "preco": 4.12,
+     "preco": 4.58,
      "url": "https://pt.aliexpress.com/item/1005013354465469.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Módulo de pressão de ar e umidade de temperatura AHT20 + BMP280 Sensor digital de alta precisão de temperatura, umidade e pressão de ar",
-     "preco": 5.04,
+     "preco": 5.59,
      "url": "https://pt.aliexpress.com/item/1005008486998173.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "AHT20 BMP280 TZT 1/5PCS Módulo de detecção de temperatura, umidade e pressão de ar de alta precisão AHT20 + BMP280",
-     "preco": 6.4,
+     "preco": 6.95,
      "url": "https://pt.aliexpress.com/item/1005009877220985.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Sensor de Temperatura AHT20 Módulo Sensor de Temperatura e Umidade AHT20, Sensor de Umidade de Alta Precisão, Modelo Atualizado DHT11 I2C",
-     "preco": 6.69,
-     "url": "https://pt.aliexpress.com/item/1005009290706527.html"
+     "titulo": "AHT20 BMP280 Sensor temperatura + Módulo de temperatura, umidade e pressão de ar AHT20 + BMP280 Sensor digital de alta precisão IIC I2C Arduino ESP32",
+     "preco": 7.6,
+     "url": "https://pt.aliexpress.com/item/1005007868094906.html"
     }
    ]
   },
   "estufa-esp32s3-n16r8": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Módulo de Placa de Desenvolvimento WiFi Bluetooth ESP32-S3-CAM com o Módulo ESP32-S3-WROOM-1 N16R8",
-     "preco": 15.15,
-     "url": "https://pt.aliexpress.com/item/1005010255544200.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "N16R8 ESP32-S3 N8R2 N8R8 N16R8 ESP32-S3 GPIO Dual Type-C com Antena, Suporte de Antena, Interface Externa, Placa de Expansão ESP32-S3 44PIN",
-     "preco": 16.59,
-     "url": "https://pt.aliexpress.com/item/1005013390039251.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "Placa de Desenvolvimento ESP32-S3 com Kit Adaptador de Expansão, Módulo Wifi BT 2.4G MCU ESP32-S3WROOM1 N16R8 44Pin Tipo-C ESP32S3",
-     "preco": 16.94,
-     "url": "https://pt.aliexpress.com/item/1005008957932920.html"
+     "titulo": "ESP32-S3-CAM Development Board, WiFi, Bluetooth, Onboard, ESP32-S3-WROOM-1, Módulo N16R8 com câmera OV2640",
+     "preco": 15.18,
+     "url": "https://pt.aliexpress.com/item/1005006766320227.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Novo módulo MCU dual-core original ESP32-S3-WROOM-1-N16R8 Wi-Fi + Bluetooth 16 MB 32 bits em estoque",
-     "preco": 17.66,
+     "preco": 19.66,
      "url": "https://pt.aliexpress.com/item/1005010384900224.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "N16r8 ESP32-S3-DevKit Esp32/ESP32-C3/ESP32-S3 placa de desenvolvimento dupla tipo-c placa núcleo ESP32-C3-DevKitM-1 ESP32-C3-MINI-1 ESP32-S3-DevKit c n16r8",
-     "preco": 17.76,
-     "url": "https://pt.aliexpress.com/item/1005008802548399.html"
+     "titulo": "Placa de Desenvolvimento ESP32-S3 com Kit Adaptador de Expansão, Módulo Wifi BT 2.4G MCU ESP32-S3WROOM1 N16R8 44Pin Tipo-C ESP32S3",
+     "preco": 20.15,
+     "url": "https://pt.aliexpress.com/item/1005008957932920.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "Placas de desenvolvimento esp32 s3 com kit adaptador de expansão 2.4g wifi módulo bt ESP32-S3-WROOM-1 n8r2 n16r8 44pin tipo-c ESP32-S3",
+     "preco": 20.58,
+     "url": "https://pt.aliexpress.com/item/1005008088485410.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "ESP32-S3-WROOM-1-N8R2 ESP32-S3-WROOM-1-N16R8 WiFi Bluetooth 5.0 Módulo MCU Dual-core ESP32-S3 Módulo Sem Fio",
+     "preco": 20.9,
+     "url": "https://pt.aliexpress.com/item/1005006215277145.html"
     }
    ]
   },
   "estufa-74hc595": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
@@ -1078,7 +1036,7 @@
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "10 peças novo e original 74hc595 74hc595n sn74hc595 dip-16 sn74hc595n",
-     "preco": 4.06,
+     "preco": 4.49,
      "url": "https://pt.aliexpress.com/item/1005009722899026.html"
     },
     {
@@ -1106,151 +1064,130 @@
   },
   "estufa-ina226": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "5/10pcs INA226 INA231 Módulo Sensor de Monitoramento de Corrente/Potência Bidirecional com Interface IIC I2C CJMCU-226",
-     "preco": 5.2,
+     "preco": 7.56,
      "url": "https://pt.aliexpress.com/item/1005012644306540.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Módulo sensor de monitorização de corrente e potência bidirecional com interface IIC I2C, modelo INA226.",
-     "preco": 5.44,
-     "url": "https://pt.aliexpress.com/item/1005013597881046.html"
+     "titulo": "Módulo de Monitoramento de Corrente INA226 I2C Sensor de Tensão e Corrente Bidirecional para Arduino ESP32 STM32",
+     "preco": 10.46,
+     "url": "https://pt.aliexpress.com/item/1005010774468084.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Módulo sensor de monitorização de corrente/potência bidirecional com interface IIC I2C, modelo INA226, para Arduino.",
-     "preco": 6.6,
-     "url": "https://pt.aliexpress.com/item/1005013514291480.html"
+     "titulo": "Módulo bidirecional do sensor da monitoração da corrente e do poder, INA226, INA231, IIC, I2C, I2C relação, INA226, MCU-226",
+     "preco": 11.13,
+     "url": "https://pt.aliexpress.com/item/1005001593541480.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Módulo Sensor de Monitoramento de Corrente/Potência Bidirecional INA226 IIC I2C para Arduino - 1/2/5 Peças",
-     "preco": 7.07,
-     "url": "https://pt.aliexpress.com/item/1005006934031486.html"
+     "titulo": "1 ~ 10 PCS INA226 IIC I2C interface bidirecional módulo sensor de monitoramento de corrente/potência para Arduino EGBO",
+     "preco": 11.68,
+     "url": "https://pt.aliexpress.com/item/1005006271341348.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Ina226 ina231 iic i2c interface bidirecional módulo sensor de monitoramento de corrente/potência para arduino",
-     "preco": 7.9,
-     "url": "https://pt.aliexpress.com/item/4000570136463.html"
+     "titulo": "Ina226 sensor i2c Módulo 1-10 pces ina226 CJMCU-226 iic i2c interface bidirecional módulo sensor de monitoramento de corrente/potência para arduino",
+     "preco": 12.33,
+     "url": "https://pt.aliexpress.com/item/1005006825728365.html"
     }
    ]
   },
   "estufa-fugu2-indutor-100uh": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "Indutor de potência SMD CD54 20~1000PC 2.2UH 3.3UH 4.7UH 6.8UH 10UH 15UH 22UH 33UH 47UH 68UH 100UH 150UH 220UH 330UH 470UH",
-     "preco": 15.24,
+     "preco": 15.55,
      "url": "https://pt.aliexpress.com/item/1005009760654510.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "2.2uH 3.3uH 4.7uH 10uH 22uH 47uH 68uH 100uH 220uH 1mH 4.7mH 10mH 100mH Kit sortido de indutor de potência de anel colorido de estrangulamento de núcleo toróide",
-     "preco": 20.72,
+     "preco": 27.04,
      "url": "https://pt.aliexpress.com/item/1005009956423245.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "10 peças fio indutor de núcleo toróide enrolado em vento mah--10uh 22uh 33uh 47uh 68uh 100uh 220uh 330uh 470uh",
-     "preco": 24.47,
-     "url": "https://pt.aliexpress.com/item/1005002679520277.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
      "titulo": "Indutor Alta Corrente 5 Peças Indutor de Anel Magnético de Ferrossilício-Alumínio 50125-33uh47uh100uh, Bobina Indutora de Armazenamento de Energia de Alta Corrente em Anel em Linha",
-     "preco": 29.29,
+     "preco": 32.54,
      "url": "https://pt.aliexpress.com/item/1005011842396113.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Indutor alta corrente 1 peça indutor de anel magnético de alta corrente T90125-47uh 100uh 220uh anel de armazenamento de energia bobina de filtro de alumínio de ferrosiliço",
-     "preco": 30.34,
-     "url": "https://pt.aliexpress.com/item/1005010620545385.html"
+     "titulo": "10 peças fio indutor de núcleo toróide enrolado em vento mah--10uh 22uh 33uh 47uh 68uh 100uh 220uh 330uh 470uh",
+     "preco": 33.13,
+     "url": "https://pt.aliexpress.com/item/1005002679520277.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "Indutor anel magnético 5 pces indutor de anel magnético de alumínio de ferrosiliço 50125-33uh47uh100uh anel em linha bobina indutora de armazenamento de energia de alta corrente",
+     "preco": 33.46,
+     "url": "https://pt.aliexpress.com/item/1005010620613258.html"
     }
    ]
   },
   "estufa-fugu2-shunt-10mohm": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Resistores de chip smd 100 0603 peças, resistores de chip 0 ohm-10m ohm 0r 4.7r 100r 200r 220r 1k 4.7k 4k7 10k 100k 200k resistência 220k",
-     "preco": 3.5,
-     "url": "https://pt.aliexpress.com/item/32887413843.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "Ohm 1W 5.6M Resistência 20 Peças/Lote Resistência de Filme de Carbono DIP 1W 0R~10M 5% 1R 10R 100R 470R 680R 1K 10K 22K 100K 1M 4.7M 5.6M 10M ohm Resistência de Potência",
-     "preco": 9.99,
-     "url": "https://pt.aliexpress.com/item/1005011927258168.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "20 Peças/Lote Resistência de Filme de Carbono 1W 0R~10M 1% Resistor de Filme Metálico 1R 10R 100R 1K 22K 100K 1M 4.7M 5.6M 10M ohm Resistência de Potência",
-     "preco": 13.83,
+     "titulo": "Ohm Resistor 1W Resistência Filme Carbono 20 Peças/Lote Resistência de Filme de Carbono 1W 0R~10M 1% Resistor de Filme Metálico 1R 10R 100R 1K 22K 100K 1M 4.7M 5.6M 10M ohm Resistência de Potência",
+     "preco": 14.31,
      "url": "https://pt.aliexpress.com/item/1005011917036801.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
      "titulo": "50 pçs/lote 0207 SMD Filme de Metal Precisão MELF Resistor Cilíndrico 1% 0R 1R 10R 100R 1K 4.7K 10K 20K 47K 100K 220K 470K1M 10M Ohm",
-     "preco": 14.35,
+     "preco": 18.28,
      "url": "https://pt.aliexpress.com/item/1005007939146996.html"
     }
    ]
   },
   "estufa-painel-solar-80w": {
    "ok": true,
-   "em": "2026-11-16T21:23:38.004Z",
+   "em": "2026-11-16T23:28:52.407Z",
    "ofertas": [
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Carregador Solar Monocristalino 12V para Bateria, Kit Portátil de Manutenção de Energia Solar com Saída 12V para Carro, Van, Moto",
-     "preco": 64.22,
-     "url": "https://pt.aliexpress.com/item/1005012286451886.html"
+     "titulo": "Painel solar para telefones celulares, carregador solar, célula solar monocristalina, painel solar de 2w, conversão de alta eficiência",
+     "preco": 67.25,
+     "url": "https://pt.aliexpress.com/item/1005012758185350.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Painel solar de 4W para montagem na parede, cabo de alimentação de 9,8 pés, painel de carregamento solar compatível com Eufy Eufycam 2, 2 Pro, 2C, 2C Pro, E.",
-     "preco": 65.39,
-     "url": "https://pt.aliexpress.com/item/1005013618932489.html"
+     "titulo": "Painel solar resistente a UV, fonte de alimentação para uso externo, interface dupla, carregador de alta taxa de conversão, ip65, à prova d'água, emergência",
+     "preco": 70.42,
+     "url": "https://pt.aliexpress.com/item/1005012832314934.html"
     },
     {
      "fonte": "aliexpress",
      "loja": "AliExpress",
-     "titulo": "Painel fotovoltaico de silício monocristalino de 8W, com acabamento fosco, compatível com todos os ventiladores disponíveis na loja, adequado para uso em situações de emergência ou falta de energia em ambientes externos, para carregamento solar de dispositivos eletrónicos de baixa voltagem com conector Tipo-C.",
-     "preco": 66.69,
-     "url": "https://pt.aliexpress.com/item/1005013178018895.html"
-    },
-    {
-     "fonte": "aliexpress",
-     "loja": "AliExpress",
-     "titulo": "Painel de carregamento solar de 4W para Eufy Eufycam 2/2 Pro/2C/2C Pro/E, com suporte de parede e cabo de alimentação estendido de 9,8 pés.",
-     "preco": 71.69,
-     "url": "https://pt.aliexpress.com/item/1005013596109009.html"
+     "titulo": "30w sunpower painel solar portátil 5v placa solar withusb seguro estabilizar carregador forcep banco de potência telefone acampamento ao ar livre casa rv presente",
+     "preco": 71.1,
+     "url": "https://pt.aliexpress.com/item/1005009234699147.html"
     },
     {
      "fonte": "aliexpress",
@@ -1258,6 +1195,13 @@
      "titulo": "Painel solar de polissilício Waveshare (18V 10W), alta eficiência de conversão",
      "preco": 89.59,
      "url": "https://pt.aliexpress.com/item/1005009178219395.html"
+    },
+    {
+     "fonte": "aliexpress",
+     "loja": "AliExpress",
+     "titulo": "ETFE para painel solar de 5,7 V, para alimentação de câmaras de vigilância exteriores, compatível com dispositivos de monitorização de 5 V, módulo fotovoltaico solar.",
+     "preco": 107.38,
+     "url": "https://pt.aliexpress.com/item/1005013544699138.html"
     }
    ]
   }
