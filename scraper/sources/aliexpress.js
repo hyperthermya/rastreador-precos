@@ -23,9 +23,15 @@ import { normalizar } from "../lib.js";
 puppeteer.use(StealthPlugin());
 
 let browserPromise;
-function getBrowser() {
-  // reaproveita o mesmo navegador entre produtos da mesma rodada (mais rápido, menos memória)
-  browserPromise ??= puppeteer.launch({
+async function getBrowser() {
+  // reaproveita o mesmo navegador entre produtos da mesma rodada (mais rápido, menos memória);
+  // se ele caiu (o site às vezes derruba a conexão), abre outro em vez de falhar o resto da rodada
+  if (browserPromise) {
+    const b = await browserPromise.catch(() => null);
+    if (b?.connected) return b;
+    browserPromise = undefined;
+  }
+  browserPromise = puppeteer.launch({
     headless: true,
     args: ["--no-sandbox", "--disable-setuid-sandbox"],
   });
@@ -34,8 +40,8 @@ function getBrowser() {
 
 export async function fecharBrowser() {
   if (browserPromise) {
-    const b = await browserPromise;
-    await b.close();
+    const b = await browserPromise.catch(() => null);
+    await b?.close().catch(() => {});
     browserPromise = undefined;
   }
 }
@@ -90,7 +96,12 @@ function paraSlug(termo) {
 export async function buscar(produto, { timeoutMs = 45000, freteGratis = false, limite = 5 } = {}) {
   const termo = produto.aliexpressBusca ?? produto.palavrasChave;
   const slug = paraSlug(termo);
-  const sufixoFrete = freteGratis ? "?g=y" : "";
+  // Por padrão só anúncios ENVIADOS DO BRASIL (filtro "Enviado de" do site): evita
+  // imposto de importação/taxação. `aliexpressDoBrasil: false` no produto desliga.
+  const doBrasil = produto.aliexpressDoBrasil !== false;
+  const sufixoFrete = doBrasil
+    ? `?g=y&SearchText=${encodeURIComponent(termo).replace(/%20/g, "+")}&selectedSwitches=filterCode:shipfrom`
+    : freteGratis ? "?g=y" : "";
   const url = `https://pt.aliexpress.com/w/wholesale-${slug}.html${sufixoFrete}`;
 
   const browser = await getBrowser();
@@ -123,6 +134,6 @@ export async function buscar(produto, { timeoutMs = 45000, freteGratis = false, 
   } catch (e) {
     return { erro: e.message };
   } finally {
-    await page.close();
+    await page.close().catch(() => {});
   }
 }

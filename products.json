@@ -4,14 +4,15 @@
       "id": "bicicleta-eletrica-dobravel-500w-48v-lithium",
       "grupo": "Bike",
       "subgrupo": "Bicicleta completa",
-      "nome": "Bicicleta Elétrica 500W 48V Lítio com Pedal Assistido (dobrável é bônus, não obrigatório)",
-      "palavrasChave": "bicicleta eletrica 500w 48v litio lithium",
+      "nome": "Bicicleta Elétrica 500W 48V Lítio Aro 26 com Pedal Assistido",
+      "palavrasChave": "bicicleta eletrica aro 26 500w 48v litio",
       "termosObrigatorios": [
         [
           "bicicleta",
           "bike"
         ],
-        "48v"
+        "48v",
+        "26"
       ],
       "termosProibidos": [
         "400w",
@@ -413,8 +414,8 @@
       "id": "ebike-paralamas-dianteiro-traseiro",
       "grupo": "Bike",
       "subgrupo": "Quadro e cockpit",
-      "nome": "Paralamas Dianteiro e Traseiro",
-      "palavrasChave": "paralama dianteiro traseiro bicicleta mtb",
+      "nome": "Paralamas Dianteiro e Traseiro (Aro 26)",
+      "palavrasChave": "paralama dianteiro traseiro bicicleta aro 26 mtb",
       "termosObrigatorios": [
         "paralam"
       ],
@@ -422,7 +423,7 @@
       "precoMin": 20,
       "precoMax": 150,
       "mercadoLivreUrls": [
-        "https://lista.mercadolivre.com.br/paralama-dianteiro-traseiro-bicicleta-mtb_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+        "https://lista.mercadolivre.com.br/paralama-dianteiro-traseiro-bicicleta-aro-26-mtb_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
       ]
     },
     {
@@ -1064,20 +1065,21 @@
       "id": "ebike-pneus-175-semislick",
       "grupo": "Bike",
       "subgrupo": "Rodas e pneus",
-      "nome": "Pneus 1.75\" Semi-slick (Kenda K-847 Kross Plus ou Pirelli Scorpion MB2) — par",
-      "palavrasChave": "pneu bicicleta 1.75 kenda k-847 pirelli scorpion mb2",
+      "nome": "Pneus Aro 26 x 1.75\" Semi-slick (Kenda K-847 Kross Plus ou Pirelli Scorpion MB2) — par",
+      "palavrasChave": "pneu aro 26 bicicleta 1.75 kenda k-847 pirelli scorpion mb2",
       "termosObrigatorios": [
         [
           "kenda",
           "pirelli",
           "scorpion"
-        ]
+        ],
+        "26"
       ],
       "precoAlvo": 200,
       "precoMin": 80,
       "precoMax": 400,
       "mercadoLivreUrls": [
-        "https://lista.mercadolivre.com.br/pneu-bicicleta-kenda-k-847-pirelli-scorpion-mb2_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+        "https://lista.mercadolivre.com.br/pneu-aro-26-bicicleta-kenda-k-847-pirelli-scorpion-mb2_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
       ]
     },
     {
