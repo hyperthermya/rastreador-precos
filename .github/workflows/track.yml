@@ -23,6 +23,10 @@ jobs:
         with:
           node-version: 22
 
+      - name: Instalar dependências (Puppeteer + Chromium)
+        working-directory: scraper
+        run: npm ci
+
       - name: Coletar preços e avaliar alertas
         working-directory: scraper
         env:
