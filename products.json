@@ -1,29 +1,6 @@
 {
   "products": [
     {
-      "id": "fonte-ajustavel-0-600v-2000w",
-      "grupo": "Eletrônica",
-      "subgrupo": "Bancada",
-      "nome": "Fonte Chaveada Ajustável 0-600VDC 2000W (entrada 110/220/380VAC)",
-      "palavrasChave": "fonte ajustavel 600v 2000w",
-      "termosObrigatorios": [
-        [
-          "600v",
-          "0-600"
-        ]
-      ],
-      "termosProibidos": [
-        "24v",
-        "12v",
-        "36v somente"
-      ],
-      "precoAlvo": 900,
-      "precoMin": 400,
-      "precoMax": 1600,
-      "aliexpress": true,
-      "aliexpressBusca": "2000w adjustable switching power supply 0-300v 400v 500v 600v"
-    },
-    {
       "id": "bicicleta-eletrica-dobravel-500w-48v-lithium",
       "grupo": "Bike",
       "subgrupo": "Bicicleta completa",
@@ -81,22 +58,6 @@
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/esportes-fitness/ciclismo/bicicletas/bicicletas-eletricas/novo/48v/_OrderId_PRICE_PriceRange_0-3000_Installments_NoInterest_NoIndex_True_WITH_REMOVABLE_BATTERY_242085_original_category_landing_true"
       ]
-    },
-    {
-      "id": "tablet-lenovo-ideatab",
-      "grupo": "Outros",
-      "subgrupo": "Informática",
-      "nome": "Tablet Lenovo IdeaTab 4GB 128GB WiFi + caneta + case (azul)",
-      "palavrasChave": "tablet lenovo",
-      "termosObrigatorios": [
-        "lenovo",
-        "idea",
-        "128"
-      ],
-      "precoAlvo": 1599,
-      "precoMin": 800,
-      "precoMax": 2600,
-      "amazonUrl": "https://www.amazon.com.br/dp/B0FN4BK3V7"
     },
     {
       "id": "ebike-motor-tongsheng-tsdz2b-500w",
