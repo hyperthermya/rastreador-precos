@@ -102,6 +102,12 @@ export async function buscar(produto, { timeoutMs = 45000, freteGratis = false, 
   try {
     await page.setViewport({ width: 1366, height: 900 });
     await page.setExtraHTTPHeaders({ "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7" });
+    // força região/moeda do Brasil (o IP do runner do GitHub é dos EUA e, sem isso, o filtro
+    // "Enviado de: Brasil" não aparece nos resultados)
+    await page.setCookie(
+      { name: "aep_usuc_f", value: "site=bra&c_tp=BRL&region=BR&b_locale=pt_BR", domain: ".aliexpress.com", path: "/" },
+      { name: "intl_locale", value: "pt_BR", domain: ".aliexpress.com", path: "/" }
+    );
     // "aquece" a sessão visitando a home antes da busca — um fetch/navegação
     // direta pra URL de busca sem isso cai na página de bloqueio anti-bot
     // (confirmado comparando com HAR de navegação real: cookies como
