@@ -170,6 +170,12 @@
       "precoMax": 250,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/cambio-traseiro-shimano-altus-acera-8v-gaiola-longa_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "termosProibidos": [
+        "roldana",
+        "roldanas",
+        "polia",
+        "rodas de engrenagem"
       ]
     },
     {
@@ -183,13 +189,24 @@
           "altus",
           "acera"
         ],
-        "8v"
+        "8v",
+        [
+          "passador",
+          "alavanca",
+          "shifter",
+          "trigger"
+        ]
       ],
       "precoAlvo": 90,
       "precoMin": 30,
       "precoMax": 180,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/passador-shimano-altus-acera-8v_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "termosProibidos": [
+        "cassete",
+        "k7",
+        "pino"
       ]
     },
     {
@@ -210,6 +227,11 @@
       "precoMax": 200,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/corrente-kmc-z8-shimano-linkglide-lg500-8v_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "termosProibidos": [
+        "9v",
+        "12 velocidades",
+        "emenda"
       ]
     },
     {
@@ -307,7 +329,8 @@
         "100mm",
         "110mm",
         "120mm",
-        "130mm"
+        "130mm",
+        "kit guidao"
       ],
       "precoAlvo": 60,
       "precoMin": 20,
@@ -332,6 +355,9 @@
       "precoMax": 250,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/guidao-rise-aluminio-mtb_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "termosProibidos": [
+        "mesa"
       ]
     },
     {
@@ -414,6 +440,12 @@
         [
           "convexo",
           "convexa"
+        ],
+        [
+          "bicicleta",
+          "bike",
+          "ciclismo",
+          "guidao"
         ]
       ],
       "precoAlvo": 80,
@@ -421,6 +453,14 @@
       "precoMax": 200,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/retrovisor-gvs-zefal-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "termosProibidos": [
+        "fazer",
+        "burgman",
+        "bmw",
+        "honda",
+        "yamaha",
+        "suzuki"
       ]
     },
     {
@@ -521,6 +561,10 @@
       "precoMax": 250,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/torquimetro-2-20nm-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "termosProibidos": [
+        "pe de corvo",
+        "3/8"
       ]
     },
     {
@@ -550,6 +594,10 @@
         [
           "elo rapido",
           "missing link"
+        ],
+        [
+          "alicate",
+          "ferramenta"
         ]
       ],
       "precoAlvo": 40,
@@ -592,6 +640,9 @@
       "precoMax": 60,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/chave-de-raio-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "termosProibidos": [
+        "triangular"
       ]
     },
     {
@@ -612,6 +663,9 @@
       "precoMax": 100,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/extrator-de-cassete-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "termosProibidos": [
+        "pino"
       ]
     },
     {
@@ -624,6 +678,11 @@
         [
           "mega over",
           "megaover"
+        ],
+        [
+          "extrator",
+          "ferramenta",
+          "saca"
         ]
       ],
       "precoAlvo": 60,
@@ -661,13 +720,22 @@
       "nome": "Cortador de Cabo/Conduíte para bicicleta",
       "palavrasChave": "cortador de cabo conduite bicicleta",
       "termosObrigatorios": [
-        "cortador"
+        "cortador",
+        [
+          "bike",
+          "bicicleta",
+          "conduite"
+        ]
       ],
       "precoAlvo": 40,
       "precoMin": 15,
       "precoMax": 100,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/cortador-de-cabo-conduite-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "termosProibidos": [
+        "tubo de cobre",
+        "pvc"
       ]
     },
     {
@@ -684,6 +752,12 @@
       "precoMax": 90,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/alicate-de-crimpagem-ponteira-cabo-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "termosProibidos": [
+        "coaxial",
+        "rj45",
+        "desencapador",
+        "cabo de rede"
       ]
     },
     {
@@ -866,6 +940,13 @@
       "precoMax": 150,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/manete-de-freio-hidraulico-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "termosProibidos": [
+        "protetor",
+        "capa",
+        "diafragma",
+        "parafuso",
+        "v-brake"
       ]
     },
     {
@@ -1201,6 +1282,12 @@
       "precoMax": 150,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/couro-de-bode-antifuro-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "termosProibidos": [
+        "cavalo",
+        "sela",
+        "manta",
+        "forro"
       ]
     },
     {
@@ -1238,6 +1325,9 @@
       "precoMax": 90,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/camara-de-ar-aro-26-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "termosProibidos": [
+        "fita"
       ]
     },
     {
@@ -1329,6 +1419,9 @@
       "precoMax": 70,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/conduite-para-cabo-bicicleta_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
+      ],
+      "termosProibidos": [
+        "alavanca de cambio"
       ]
     },
     {
@@ -1380,7 +1473,8 @@
       "termosProibidos": [
         "1/8",
         "3/4 x 1/2",
-        "3/4x1/2"
+        "3/4x1/2",
+        "tupy"
       ],
       "precoAlvo": 12,
       "precoMin": 3,
@@ -1469,7 +1563,9 @@
         "click plastico",
         "3/4",
         "3/8",
-        "1/4"
+        "1/4",
+        "pneumatic",
+        "ar comprimido"
       ],
       "precoAlvo": 25,
       "precoMin": 8,
@@ -1488,7 +1584,12 @@
       "precoMin": 5,
       "precoMax": 40,
       "aliexpress": true,
-      "aliexpressBusca": "mcp23017 i2c io expander module"
+      "aliexpressBusca": "mcp23017 i2c io expander module",
+      "termosObrigatorios": [
+        [
+          "mcp23017"
+        ]
+      ]
     },
     {
       "id": "estufa-ads1115",
@@ -1500,7 +1601,12 @@
       "precoMin": 8,
       "precoMax": 50,
       "aliexpress": true,
-      "aliexpressBusca": "ads1115 16 bit adc module i2c"
+      "aliexpressBusca": "ads1115 16 bit adc module i2c",
+      "termosObrigatorios": [
+        [
+          "ads1115"
+        ]
+      ]
     },
     {
       "id": "estufa-bh1750",
@@ -1512,7 +1618,12 @@
       "precoMin": 2,
       "precoMax": 25,
       "aliexpress": true,
-      "aliexpressBusca": "bh1750 light intensity sensor module"
+      "aliexpressBusca": "bh1750 light intensity sensor module",
+      "termosObrigatorios": [
+        [
+          "bh1750"
+        ]
+      ]
     },
     {
       "id": "estufa-ds18b20",
@@ -1524,7 +1635,12 @@
       "precoMin": 2,
       "precoMax": 25,
       "aliexpress": true,
-      "aliexpressBusca": "ds18b20 waterproof temperature sensor probe"
+      "aliexpressBusca": "ds18b20 waterproof temperature sensor probe",
+      "termosObrigatorios": [
+        [
+          "ds18b20"
+        ]
+      ]
     },
     {
       "id": "estufa-jsn-sr04t",
@@ -1536,7 +1652,15 @@
       "precoMin": 8,
       "precoMax": 50,
       "aliexpress": true,
-      "aliexpressBusca": "jsn-sr04t waterproof ultrasonic sensor module"
+      "aliexpressBusca": "jsn-sr04t waterproof ultrasonic sensor module",
+      "termosObrigatorios": [
+        [
+          "jsn-sr04t",
+          "aj-sr04",
+          "sr04t",
+          "sr04m"
+        ]
+      ]
     },
     {
       "id": "estufa-bpw34",
@@ -1548,7 +1672,14 @@
       "precoMin": 1,
       "precoMax": 15,
       "aliexpress": true,
-      "aliexpressBusca": "bpw34 photodiode"
+      "aliexpressBusca": "bpw34 photodiode",
+      "termosObrigatorios": [
+        [
+          "bpw34",
+          "fotodiodo",
+          "photodiode"
+        ]
+      ]
     },
     {
       "id": "estufa-as7341",
@@ -1560,7 +1691,12 @@
       "precoMin": 10,
       "precoMax": 80,
       "aliexpress": true,
-      "aliexpressBusca": "as7341 10-channel spectral sensor module"
+      "aliexpressBusca": "as7341 10-channel spectral sensor module",
+      "termosObrigatorios": [
+        [
+          "as7341"
+        ]
+      ]
     },
     {
       "id": "estufa-ds3231",
@@ -1572,7 +1708,12 @@
       "precoMin": 3,
       "precoMax": 30,
       "aliexpress": true,
-      "aliexpressBusca": "ds3231 rtc real time clock module"
+      "aliexpressBusca": "ds3231 rtc real time clock module",
+      "termosObrigatorios": [
+        [
+          "ds3231"
+        ]
+      ]
     },
     {
       "id": "estufa-cd74hc4067",
@@ -1596,7 +1737,13 @@
       "precoMin": 3,
       "precoMax": 25,
       "aliexpress": true,
-      "aliexpressBusca": "MOC3063 optoisolator zero cross"
+      "aliexpressBusca": "MOC3063 optoisolator zero cross",
+      "termosObrigatorios": [
+        [
+          "moc3063",
+          "moc 3063"
+        ]
+      ]
     },
     {
       "id": "estufa-bta16",
@@ -1608,7 +1755,13 @@
       "precoMin": 3,
       "precoMax": 25,
       "aliexpress": true,
-      "aliexpressBusca": "BTA16-600B triac"
+      "aliexpressBusca": "BTA16-600B triac",
+      "termosObrigatorios": [
+        [
+          "bta16",
+          "bta 16"
+        ]
+      ]
     },
     {
       "id": "estufa-irlz44n",
@@ -1620,7 +1773,13 @@
       "precoMin": 5,
       "precoMax": 35,
       "aliexpress": true,
-      "aliexpressBusca": "IRLZ44N mosfet TO-220 10pcs"
+      "aliexpressBusca": "IRLZ44N mosfet TO-220 10pcs",
+      "termosObrigatorios": [
+        [
+          "irlz44",
+          "irlz 44"
+        ]
+      ]
     },
     {
       "id": "estufa-sensor-umidade-solo",
@@ -1632,7 +1791,13 @@
       "precoMin": 3,
       "precoMax": 25,
       "aliexpress": true,
-      "aliexpressBusca": "Capacitive Soil Moisture Sensor V2.0 IP67"
+      "aliexpressBusca": "Capacitive Soil Moisture Sensor V2.0 IP67",
+      "termosObrigatorios": [
+        [
+          "umidade do solo",
+          "soil moisture"
+        ]
+      ]
     },
     {
       "id": "estufa-eletrovalvula-12v",
@@ -1656,7 +1821,12 @@
       "precoMin": 5,
       "precoMax": 35,
       "aliexpress": true,
-      "aliexpressBusca": "ZMPT101B voltage sensor module"
+      "aliexpressBusca": "ZMPT101B voltage sensor module",
+      "termosObrigatorios": [
+        [
+          "zmpt101"
+        ]
+      ]
     },
     {
       "id": "estufa-sct013",
@@ -1680,7 +1850,13 @@
       "precoMin": 2,
       "precoMax": 25,
       "aliexpress": true,
-      "aliexpressBusca": "AHT20 BMP280 temperature humidity pressure module"
+      "aliexpressBusca": "AHT20 BMP280 temperature humidity pressure module",
+      "termosObrigatorios": [
+        [
+          "aht20",
+          "bmp280"
+        ]
+      ]
     },
     {
       "id": "estufa-esp32s3-n16r8",
@@ -1716,7 +1892,12 @@
       "precoMin": 5,
       "precoMax": 35,
       "aliexpress": true,
-      "aliexpressBusca": "INA226 current voltage sensor module I2C"
+      "aliexpressBusca": "INA226 current voltage sensor module I2C",
+      "termosObrigatorios": [
+        [
+          "ina226"
+        ]
+      ]
     },
     {
       "id": "estufa-fugu2-indutor-100uh",
@@ -1728,7 +1909,13 @@
       "precoMin": 3,
       "precoMax": 35,
       "aliexpress": true,
-      "aliexpressBusca": "toroid power choke inductor 10A high current"
+      "aliexpressBusca": "toroid power choke inductor 10A high current",
+      "termosObrigatorios": [
+        [
+          "100uh",
+          "100 uh"
+        ]
+      ]
     },
     {
       "id": "estufa-fugu2-shunt-10mohm",
@@ -1740,7 +1927,15 @@
       "precoMin": 2,
       "precoMax": 25,
       "aliexpress": true,
-      "aliexpressBusca": "10mohm 0.01 ohm shunt resistor 1W current sense"
+      "aliexpressBusca": "10mohm 0.01 ohm shunt resistor 1W current sense",
+      "termosObrigatorios": [
+        [
+          "10mohm",
+          "10 mohm",
+          "10m ohm",
+          "shunt"
+        ]
+      ]
     },
     {
       "id": "estufa-painel-solar-80w",
