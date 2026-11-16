@@ -1,13 +1,11 @@
 // Utilidades compartilhadas pelas fontes.
-// Palavras que eliminam o anúncio em QUALQUER produto (minúsculo, sem acento; basta aparecer
-// no título). Termos específicos de um item ficam em `termosProibidos` no products.json.
-export const TERMOS_PROIBIDOS_GLOBAIS = [
-  "usado", "usada", "seminovo", "semi novo", "recondicionado", "reformado",
-  "defeito", "defeituoso", "sucata", "retirada de pecas", "quebrado", "avariado",
-  "brinquedo", "miniatura", "maquete", "replica", "infantil", "boneca",
-  "adesivo", "decalque", "capa protetora", "livro", "apostila",
-  "aluguel", "locacao", "conserto", "servico de", "mao de obra",
-];
+import { readFileSync } from "node:fs";
+// Palavras que eliminam o anúncio em QUALQUER produto: `termosProibidosGlobais` no products.json
+// (minúsculo, sem acento; basta aparecer no título). As de um item só ficam em `termosProibidos` dele.
+let TERMOS_PROIBIDOS_GLOBAIS = [];
+try {
+  TERMOS_PROIBIDOS_GLOBAIS = JSON.parse(readFileSync(new URL("../products.json", import.meta.url), "utf8")).termosProibidosGlobais ?? [];
+} catch {}
 
 export const UAS_DESKTOP = [
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
