@@ -122,8 +122,8 @@
         "sensor"
       ],
       "precoAlvo": 900,
-      "precoMin": 700,
-      "precoMax": 1600,
+      "precoMin": 1200,
+      "precoMax": 4500,
       "mercadoLivreUrls": [
         "https://lista.mercadolivre.com.br/motor-tongsheng-tsdz2-500w_CustoFrete_Gratis_OrderId_PRICE_NoIndex_True"
       ]
