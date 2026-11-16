@@ -1,11 +1,13 @@
 // Utilidades compartilhadas pelas fontes.
-import { readFileSync } from "node:fs";
-
-// Lista global de exclusão (exclusoes.json): vale para todos os produtos.
-let EXCLUSOES_GLOBAIS = [];
-try {
-  EXCLUSOES_GLOBAIS = JSON.parse(readFileSync(new URL("./exclusoes.json", import.meta.url), "utf8")).termos ?? [];
-} catch {}
+// Palavras que eliminam o anúncio em QUALQUER produto (minúsculo, sem acento; basta aparecer
+// no título). Termos específicos de um item ficam em `termosProibidos` no products.json.
+export const TERMOS_PROIBIDOS_GLOBAIS = [
+  "usado", "usada", "seminovo", "semi novo", "recondicionado", "reformado",
+  "defeito", "defeituoso", "sucata", "retirada de pecas", "quebrado", "avariado",
+  "brinquedo", "miniatura", "maquete", "replica", "infantil", "boneca",
+  "adesivo", "decalque", "capa protetora", "livro", "apostila",
+  "aluguel", "locacao", "conserto", "servico de", "mao de obra",
+];
 
 export const UAS_DESKTOP = [
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
@@ -82,7 +84,7 @@ export function tituloRelevante(titulo, produto) {
   const obrigOk = (produto.termosObrigatorios ?? []).every((termo) =>
     Array.isArray(termo) ? termo.some((alt) => t.includes(normalizar(alt))) : t.includes(normalizar(termo))
   );
-  const proibOk = ![...EXCLUSOES_GLOBAIS, ...(produto.termosProibidos ?? [])].some((termo) => t.includes(normalizar(termo)));
+  const proibOk = ![...TERMOS_PROIBIDOS_GLOBAIS, ...(produto.termosProibidos ?? [])].some((termo) => t.includes(normalizar(termo)));
   return obrigOk && proibOk;
 }
 
