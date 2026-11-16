@@ -340,6 +340,11 @@
    "em": "2026-11-16T01:49:17.079Z",
    "preco": 126.48,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-16T02:09:57.972Z",
+   "preco": 131.96,
+   "fonte": "zoom"
   }
  ],
  "ebike-bolsa-alforge-estanque": [
@@ -777,6 +782,11 @@
    "em": "2026-11-16T01:49:17.079Z",
    "preco": 17.91,
    "fonte": "buscape"
+  },
+  {
+   "em": "2026-11-16T02:09:57.972Z",
+   "preco": 33.87,
+   "fonte": "zoom"
   }
  ],
  "hidraulica-te-agua-fria-12-vs": [
@@ -832,6 +842,11 @@
    "em": "2026-11-16T01:49:17.079Z",
    "preco": 26,
    "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-16T02:09:57.972Z",
+   "preco": 36.09,
+   "fonte": "zoom"
   }
  ],
  "estufa-sensor-umidade-capacitivo": [
@@ -950,6 +965,11 @@
    "em": "2026-11-16T01:49:17.079Z",
    "preco": 26,
    "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-16T02:09:57.972Z",
+   "preco": 49.69,
+   "fonte": "zoom"
   }
  ],
  "estufa-ds3231": [
@@ -1066,6 +1086,11 @@
    "em": "2026-11-16T01:49:17.079Z",
    "preco": 26,
    "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-16T02:09:57.972Z",
+   "preco": 46.41,
+   "fonte": "zoom"
   }
  ],
  "estufa-zmpt101b": [
@@ -1094,6 +1119,11 @@
    "em": "2026-11-16T01:49:17.079Z",
    "preco": 26,
    "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-16T02:09:57.972Z",
+   "preco": 30.63,
+   "fonte": "zoom"
   }
  ],
  "estufa-74hc595": [
