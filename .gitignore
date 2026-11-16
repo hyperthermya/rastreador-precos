@@ -1,2 +1,13 @@
 node_modules/
 tools/
+
+# Segredos / material pessoal — nunca versionar
+.env
+.env.*
+*.pem
+*.key
+notas/
+scraper/busca-*.mjs
+scraper/pesquisa-*.mjs
+scraper/test-link.mjs
+scraper/receptor-ml.mjs

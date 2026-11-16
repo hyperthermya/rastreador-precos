@@ -33,6 +33,29 @@ function lerJson(arquivo, padrao) {
   }
 }
 
+// Disjuntor: se uma fonte é bloqueada (anti-robô/403) várias vezes seguidas, para de
+// tentar nela no resto da rodada. Sem isso, cada produto gasta todas as tentativas e
+// timeouts numa fonte que o IP do runner não consegue acessar (rodada passa de 90 min).
+const LIMITE_BLOQUEIOS = 3;
+const bloqueiosSeguidos = {};
+const ehBloqueio = (msg) => /bloqueado|HTTP 403|captcha/i.test(msg);
+
+async function buscarComDisjuntor(nome, mod, produto) {
+  if ((bloqueiosSeguidos[nome] ?? 0) >= LIMITE_BLOQUEIOS) {
+    throw new Error("pulada nesta rodada: bloqueio persistente");
+  }
+  try {
+    const r = await mod.buscar(produto);
+    if (r?.erro && ehBloqueio(r.erro)) bloqueiosSeguidos[nome] = (bloqueiosSeguidos[nome] ?? 0) + 1;
+    else bloqueiosSeguidos[nome] = 0;
+    return r;
+  } catch (e) {
+    if (ehBloqueio(e?.message ?? "")) bloqueiosSeguidos[nome] = (bloqueiosSeguidos[nome] ?? 0) + 1;
+    else bloqueiosSeguidos[nome] = 0;
+    throw e;
+  }
+}
+
 async function coletarProduto(produto, anterior, agora) {
   // config embutida para o dashboard (products.json da raiz não é servido pelo Pages)
   const resultado = {
@@ -49,7 +72,7 @@ async function coletarProduto(produto, anterior, agora) {
   };
 
   const execucoes = await Promise.allSettled(
-    Object.entries(FONTES).map(async ([nome, mod]) => [nome, await mod.buscar(produto)])
+    Object.entries(FONTES).map(async ([nome, mod]) => [nome, await buscarComDisjuntor(nome, mod, produto)])
   );
 
   for (let i = 0; i < execucoes.length; i++) {
