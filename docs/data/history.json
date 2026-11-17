@@ -672,6 +672,11 @@
    "em": "2026-11-17T03:57:44.047Z",
    "preco": 38.75,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-17T16:09:05.804Z",
+   "preco": 34.27,
+   "fonte": "zoom"
   }
  ],
  "ebike-capacete-ciclismo-viseira": [
@@ -991,6 +996,11 @@
    "em": "2026-11-16T20:47:37.444Z",
    "preco": 41.76,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-17T16:09:05.804Z",
+   "preco": 20.37,
+   "fonte": "zoom"
   }
  ],
  "estufa-bme280": [
@@ -1296,6 +1306,11 @@
    "em": "2026-11-17T03:57:44.047Z",
    "preco": 33.25,
    "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-17T16:09:05.804Z",
+   "preco": 39,
+   "fonte": "promobit"
   }
  ],
  "estufa-zmpt101b": [
@@ -1344,6 +1359,11 @@
   {
    "em": "2026-11-17T03:57:44.047Z",
    "preco": 33.25,
+   "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-17T16:09:05.804Z",
+   "preco": 39,
    "fonte": "promobit"
   }
  ],
