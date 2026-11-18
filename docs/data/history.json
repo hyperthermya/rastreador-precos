@@ -385,6 +385,11 @@
    "em": "2026-11-18T11:52:22.198Z",
    "preco": 126.48,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-18T20:38:37.535Z",
+   "preco": 131.96,
+   "fonte": "zoom"
   }
  ],
  "ebike-bolsa-alforge-estanque": [
@@ -604,6 +609,11 @@
    "em": "2026-09-24T17:35:50.283Z",
    "preco": 21,
    "fonte": "mercadolivre"
+  },
+  {
+   "em": "2026-11-18T20:38:37.535Z",
+   "preco": 28.9,
+   "fonte": "zoom"
   }
  ],
  "ebike-descontaminante-ferroso": [
@@ -1336,6 +1346,11 @@
    "em": "2026-11-18T11:52:22.198Z",
    "preco": 46.41,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-18T20:38:37.535Z",
+   "preco": 39.23,
+   "fonte": "promobit"
   }
  ],
  "estufa-zmpt101b": [
@@ -1394,6 +1409,11 @@
   {
    "em": "2026-11-18T00:59:45.963Z",
    "preco": 15.9,
+   "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-18T20:38:37.535Z",
+   "preco": 39.23,
    "fonte": "promobit"
   }
  ],
