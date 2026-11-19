@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-19T02:37:47.433Z",
+ "geradoEm": "2026-11-19T04:31:33.778Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-19T02:37:47.433Z"
+   "em": "2026-11-19T04:31:33.778Z"
   },
   {
    "loja": "Amazon",
@@ -69,43 +69,43 @@
      "codigo": "BF30",
      "descricao": "Válido para produtos selecionados.",
      "titulo": "Faça compras com cupom Amazon e garanta 30% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MALAPRIME",
      "descricao": "Desconto válido para produtos selecionados.",
      "titulo": "30% OFF em suas compras com cupom Amazon",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MOVEIS200",
      "descricao": "R$200 de desconto em compras a partir de R$800 em móveis selecionados. Exclusivo Prime.",
      "titulo": "Garanta desconto de R$200 com cupom Amazon",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "SNACKS15",
      "descricao": "Desconto válido para produtos selecionados.",
      "titulo": "Aproveite para economizar 15% com cupom Amazon",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "BF15PETS",
      "descricao": "Válido para produtos selecionados.",
      "titulo": "Cupom Amazon concede 15% OFF em seus pedidos",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "BABY10",
      "descricao": "Válido para produtos selecionados.",
      "titulo": "Compre com código promocional Amazon e economize 10%",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "ESPORTEPRIME",
      "descricao": "Válido para produtos selecionados.",
      "titulo": "20% a menos usando cupom Amazon",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "ESPORTE10",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-19T02:37:47.433Z"
+   "em": "2026-11-19T04:31:33.778Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-19T02:37:47.433Z"
+   "em": "2026-11-19T04:31:33.778Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-19T02:37:47.433Z"
+   "em": "2026-11-19T04:31:33.778Z"
   },
   {
    "loja": "KaBuM",
@@ -243,53 +243,53 @@
      "codigo": "JBL30OFF",
      "descricao": "Válido para a seleção do link.",
      "titulo": "Faça suas compras com cupom KaBuM! e ganhe 30% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "VEMGTA",
      "descricao": "Válido para o produto selecionado.",
      "titulo": "Jogo GTA VI com R$50 de desconto aplicando código KaBuM!",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "TELANINJA10",
-     "descricao": "Válido para a seleção do link.",
-     "titulo": "Cupom KaBuM!: Garanta seu Monitor Gamer com 10% OFF",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "PERI10OFF",
-     "descricao": "Válido para os produtos do link. Aplique o cupom KaBuM! no carrinho de compras.",
-     "titulo": "Periféricos com 10% de economia",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "CASATECH10",
-     "descricao": "Válido para seleção do link.",
-     "titulo": "Garanta itens para sua casa com 10% OFF aplicando código KaBuM!",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "CASANINJA10",
-     "descricao": "Válido para os produtos do link.",
-     "titulo": "Itens selecionados com 10% OFF usando cupom KaBuM!",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "JBL30",
-     "descricao": "Desconto válido para produtos selecionados no site.",
-     "titulo": "Produtos JBL com 30% de economia aplicando voucher KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "KORUJAO",
      "descricao": "Válido para seleção de produtos do link.",
      "titulo": "Korujão: Produtos com 10% OFF aplicando código KaBuM!",
      "verificadoHoje": false
+    },
+    {
+     "codigo": "TELANINJA10",
+     "descricao": "Válido para a seleção do link.",
+     "titulo": "Cupom KaBuM!: Garanta seu Monitor Gamer com 10% OFF",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "PERI10OFF",
+     "descricao": "Válido para os produtos do link. Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Periféricos com 10% de economia",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "CASATECH10",
+     "descricao": "Válido para seleção do link.",
+     "titulo": "Garanta itens para sua casa com 10% OFF aplicando código KaBuM!",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "CASANINJA10",
+     "descricao": "Válido para os produtos do link.",
+     "titulo": "Itens selecionados com 10% OFF usando cupom KaBuM!",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "ACERNOKABUM",
+     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Compre Notebook Gamer Acer com R$400 OFF",
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-19T02:37:47.433Z"
+   "em": "2026-11-19T04:31:33.778Z"
   }
  ]
 }
