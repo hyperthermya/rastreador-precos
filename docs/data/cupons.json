@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-18T23:30:34.557Z",
+ "geradoEm": "2026-11-19T02:37:47.433Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-18T23:30:34.557Z"
+   "em": "2026-11-19T02:37:47.433Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-18T23:30:34.557Z"
+   "em": "2026-11-19T02:37:47.433Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-18T23:30:34.557Z"
+   "em": "2026-11-19T02:37:47.433Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-18T23:30:34.557Z"
+   "em": "2026-11-19T02:37:47.433Z"
   },
   {
    "loja": "KaBuM",
@@ -282,14 +282,14 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "ACERNOKABUM",
-     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
-     "titulo": "Compre Notebook Gamer Acer com R$400 OFF",
+     "codigo": "KORUJAO",
+     "descricao": "Válido para seleção de produtos do link.",
+     "titulo": "Korujão: Produtos com 10% OFF aplicando código KaBuM!",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-18T23:30:34.557Z"
+   "em": "2026-11-19T02:37:47.433Z"
   }
  ]
 }
