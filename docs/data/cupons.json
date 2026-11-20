@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-20T11:49:35.571Z",
+ "geradoEm": "2026-11-20T19:12:11.737Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -7,6 +7,36 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
+    {
+     "codigo": "INOVATECHML",
+     "descricao": "Em compras acima de R$199 em produtos selecionados de tecnologia e eletrodomésticos, com desconto máximo limitado a R$200.",
+     "titulo": "Compre com cupom Mercado Livre e obtenha 10% de desconto",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "CONSTRUAMAIS",
+     "descricao": "Em compras acima de R$199 em produtos selecionados de construção e indústria, com desconto máximo limitado a R$50.",
+     "titulo": "O melhor do Mercado Livre com 15% OFF aplicando cupom",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "OFFPRAVEIC",
+     "descricao": "Em compras acima de R$199 em produtos selecionados de acessórios para veículos, com desconto máximo limitado a R$60.",
+     "titulo": "Código promocional Mercado Livre concede 10% OFF",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "OFERTAPARASAUDE",
+     "descricao": "Em compras acima de R$199 em produtos selecionados de saúde, com desconto máximo limitado a R$30.",
+     "titulo": "Hora do desconto Mercado Livre: 10% OFF com cupom",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "AQUISEMPREOFF",
+     "descricao": "Em compras acima de R$199 em produtos selecionados de casa e decoração, com desconto máximo limitado a R$60.",
+     "titulo": "Casa e decoração com 15% de desconto utilizando cupom Mercado Livre",
+     "verificadoHoje": false
+    },
     {
      "codigo": "MELIGAMER",
      "descricao": "Em compras acima de R$99 em produtos selecionados, com desconto máximo limitado a R$70.",
@@ -24,40 +54,10 @@
      "descricao": "Em compras acima de R$149 em produtos selecionados de tecnologia e eletrodomésticos, com desconto máximo limitado a R$200.",
      "titulo": "Faça compras com cupom Mercado Livre e ganhe 10% OFF",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "ECONOMIAEMDOBRO",
-     "descricao": "Em compras acima de R$79 em produtos selecionados de construção e indústria, com desconto máximo limitado a R$50.",
-     "titulo": "15% OFF com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "OFERTAVEIC",
-     "descricao": "Em compras acima de R$99 em produtos selecionados de acessórios para veículos, com desconto máximo limitado a R$60.",
-     "titulo": "Confira desconto imperdível de 15% com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "OFFSAUDE",
-     "descricao": "Em compras acima de R$119 em produtos selecionados de saúde, com desconto máximo limitado a R$30.",
-     "titulo": "Aproveite 10% OFF com cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "SEMPREOFF",
-     "descricao": "Em compras acima de R$79 em produtos selecionados de casa e decoração, com desconto máximo limitado a R$70.",
-     "titulo": "Economia de 18% aplicando cupom Mercado Livre",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "CHEGOUCUPOM30",
-     "descricao": "30% OFF em compras a partir de R$1, limitado a R$500.",
-     "titulo": "Momento Mercado Livre: 30% OFF com cupom",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-20T11:49:35.571Z"
+   "em": "2026-11-20T19:12:11.737Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-20T11:49:35.571Z"
+   "em": "2026-11-20T19:12:11.737Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-20T11:49:35.571Z"
+   "em": "2026-11-20T19:12:11.737Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-20T11:49:35.571Z"
+   "em": "2026-11-20T19:12:11.737Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-20T11:49:35.571Z"
+   "em": "2026-11-20T19:12:11.737Z"
   }
  ]
 }
