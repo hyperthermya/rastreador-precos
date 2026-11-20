@@ -1276,6 +1276,11 @@
    "em": "2026-11-18T11:52:22.198Z",
    "preco": 16.41,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-20T11:49:35.571Z",
+   "preco": 16,
+   "fonte": "promobit"
   }
  ],
  "estufa-moc3063": [
@@ -1396,6 +1401,11 @@
    "em": "2026-11-20T02:22:20.131Z",
    "preco": 29.9,
    "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-20T11:49:35.571Z",
+   "preco": 16,
+   "fonte": "promobit"
   }
  ],
  "estufa-zmpt101b": [
@@ -1475,6 +1485,11 @@
    "em": "2026-11-20T02:22:20.131Z",
    "preco": 29.9,
    "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-20T11:49:35.571Z",
+   "preco": 16,
+   "fonte": "promobit"
   }
  ],
  "estufa-aht20-bmp280": [
@@ -1539,6 +1554,11 @@
    "em": "2026-11-20T02:22:20.131Z",
    "preco": 29.9,
    "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-20T11:49:35.571Z",
+   "preco": 16,
+   "fonte": "promobit"
   }
  ],
  "estufa-74hc595": [
@@ -1571,6 +1591,11 @@
    "em": "2026-11-18T11:52:22.198Z",
    "preco": 18.9,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-20T11:49:35.571Z",
+   "preco": 16,
+   "fonte": "promobit"
   }
  ],
  "estufa-fugu2-indutor-100uh": [
