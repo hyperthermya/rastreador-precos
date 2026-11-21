@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-21T11:15:44.246Z",
+ "geradoEm": "2026-11-21T16:09:25.670Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -7,6 +7,12 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
+    {
+     "codigo": "SEMPRENOML",
+     "descricao": "Em compras acima de R$149 em produtos selecionados de tecnologia e eletrodomésticos, com desconto máximo limitado a R$200.",
+     "titulo": "Use cupom Mercado Livre e ganhe 10% OFF",
+     "verificadoHoje": false
+    },
     {
      "codigo": "INOVATECHML",
      "descricao": "Em compras acima de R$199 em produtos selecionados de tecnologia e eletrodomésticos, com desconto máximo limitado a R$200.",
@@ -48,16 +54,10 @@
      "descricao": "Em compras acima de R$79, com desconto máximo limitado a R$100.",
      "titulo": "Cupom Mercado Livre concede 10% OFF",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "ELETROTECHML",
-     "descricao": "Em compras acima de R$149 em produtos selecionados de tecnologia e eletrodomésticos, com desconto máximo limitado a R$200.",
-     "titulo": "Faça compras com cupom Mercado Livre e ganhe 10% OFF",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-21T11:15:44.246Z"
+   "em": "2026-11-21T16:09:25.670Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-21T11:15:44.246Z"
+   "em": "2026-11-21T16:09:25.670Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-21T11:15:44.246Z"
+   "em": "2026-11-21T16:09:25.670Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-21T11:15:44.246Z"
+   "em": "2026-11-21T16:09:25.670Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-21T11:15:44.246Z"
+   "em": "2026-11-21T16:09:25.670Z"
   }
  ]
 }
