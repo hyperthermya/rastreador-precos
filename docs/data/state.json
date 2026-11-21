@@ -275,7 +275,7 @@
   "menorHistorico": 100
  },
  "estufa-cd74hc4067": {
-  "menorHistorico": 15.9
+  "menorHistorico": 10.79
  },
  "estufa-moc3063": {
   "menorHistorico": 11.92
@@ -290,13 +290,13 @@
   "menorHistorico": 11.05
  },
  "estufa-eletrovalvula-12v": {
-  "menorHistorico": 15.9
+  "menorHistorico": 10.79
  },
  "estufa-zmpt101b": {
   "menorHistorico": 17
  },
  "estufa-sct013": {
-  "menorHistorico": 15.9
+  "menorHistorico": 10.79
  },
  "estufa-aht20-bmp280": {
   "menorHistorico": 12.18
