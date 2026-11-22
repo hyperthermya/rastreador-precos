@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-22T11:35:19.766Z",
+ "geradoEm": "2026-11-22T16:55:17.984Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -7,6 +7,18 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
+    {
+     "codigo": "PROMOHOME",
+     "descricao": "Em compras a partir de R$149 em produtos selecionados de tecnologia e eletrodomésticos, com desconto máximo limitado a R$200.",
+     "titulo": "Ganhe 10% OFF com cupom Mercado Livre",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "MELHORPROMO",
+     "descricao": "Em compras a partir de R$149 em produtos selecionados de tecnologia e eletrodomésticos, com desconto máximo limitado a R$200.",
+     "titulo": "Desconto de 10% com cupom Mercado Livre",
+     "verificadoHoje": false
+    },
     {
      "codigo": "SEMPRENOML",
      "descricao": "Em compras acima de R$149 em produtos selecionados de tecnologia e eletrodomésticos, com desconto máximo limitado a R$200.",
@@ -42,22 +54,10 @@
      "descricao": "Em compras acima de R$199 em produtos selecionados de casa e decoração, com desconto máximo limitado a R$60.",
      "titulo": "Casa e decoração com 15% de desconto utilizando cupom Mercado Livre",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "MELIGAMER",
-     "descricao": "Em compras acima de R$99 em produtos selecionados, com desconto máximo limitado a R$70.",
-     "titulo": "Super promo Mercado Livre com 8% OFF utilizando cupom",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "OFFSEMPREML",
-     "descricao": "Em compras acima de R$79, com desconto máximo limitado a R$100.",
-     "titulo": "Cupom Mercado Livre concede 10% OFF",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-22T11:35:19.766Z"
+   "em": "2026-11-22T16:55:17.984Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-22T11:35:19.766Z"
+   "em": "2026-11-22T16:55:17.984Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-22T11:35:19.766Z"
+   "em": "2026-11-22T16:55:17.984Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-22T11:35:19.766Z"
+   "em": "2026-11-22T16:55:17.984Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-22T11:35:19.766Z"
+   "em": "2026-11-22T16:55:17.984Z"
   }
  ]
 }
