@@ -1441,6 +1441,11 @@
    "em": "2026-11-21T11:15:44.246Z",
    "preco": 46.41,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-22T01:23:51.361Z",
+   "preco": 25.61,
+   "fonte": "promobit"
   }
  ],
  "estufa-zmpt101b": [
@@ -1614,6 +1619,11 @@
    "em": "2026-11-20T20:28:16.703Z",
    "preco": 30.63,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-22T01:23:51.361Z",
+   "preco": 25.61,
+   "fonte": "promobit"
   }
  ],
  "estufa-74hc595": [
@@ -1697,6 +1707,11 @@
    "em": "2026-11-21T19:23:35.065Z",
    "preco": 60.37,
    "fonte": "promobit"
+  },
+  {
+   "em": "2026-11-22T01:23:51.361Z",
+   "preco": 61.75,
+   "fonte": "zoom"
   }
  ],
  "ebike-descanso-cavalete-central-26-29": [
