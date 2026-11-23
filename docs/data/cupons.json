@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-23T12:10:53.382Z",
+ "geradoEm": "2026-11-23T13:00:10.812Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-23T12:10:53.382Z"
+   "em": "2026-11-23T13:00:10.812Z"
   },
   {
    "loja": "Amazon",
@@ -69,53 +69,53 @@
      "codigo": "BF30",
      "descricao": "Válido para produtos selecionados.",
      "titulo": "Faça compras com cupom Amazon e garanta 30% OFF",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "MALAPRIME",
      "descricao": "Desconto válido para produtos selecionados.",
      "titulo": "30% OFF em suas compras com cupom Amazon",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "MOVEIS200",
-     "descricao": "R$200 de desconto em compras a partir de R$800 em móveis selecionados. Exclusivo Prime.",
-     "titulo": "Garanta desconto de R$200 com cupom Amazon",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "SNACKS15",
      "descricao": "Desconto válido para produtos selecionados.",
      "titulo": "Aproveite para economizar 15% com cupom Amazon",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "BF15PETS",
      "descricao": "Válido para produtos selecionados.",
      "titulo": "Cupom Amazon concede 15% OFF em seus pedidos",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "BABY10",
      "descricao": "Válido para produtos selecionados.",
      "titulo": "Compre com código promocional Amazon e economize 10%",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "ESPORTEPRIME",
      "descricao": "Válido para produtos selecionados.",
      "titulo": "20% a menos usando cupom Amazon",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "ESPORTE10",
      "descricao": "Válido para produtos selecionados.",
      "titulo": "Em ritmo de desconto: 10% OFF com cupom Amazon",
      "verificadoHoje": false
+    },
+    {
+     "codigo": "PESCA20",
+     "descricao": "Válido para produtos selecionados.",
+     "titulo": "Economize 20% em seus pedidos aplicando cupom Amazon",
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-23T12:10:53.382Z"
+   "em": "2026-11-23T13:00:10.812Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-23T12:10:53.382Z"
+   "em": "2026-11-23T13:00:10.812Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-23T12:10:53.382Z"
+   "em": "2026-11-23T13:00:10.812Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-23T12:10:53.382Z"
+   "em": "2026-11-23T13:00:10.812Z"
   }
  ]
 }
