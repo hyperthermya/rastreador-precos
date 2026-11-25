@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-25T12:59:34.439Z",
+ "geradoEm": "2026-11-25T19:22:19.219Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -8,9 +8,15 @@
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
     {
+     "codigo": "LIVREOFF",
+     "descricao": "Em compras acima de R$199, com desconto máximo limitado a R$200.",
+     "titulo": "Aproveite para economizar 10% com cupom Mercado Livre",
+     "verificadoHoje": true
+    },
+    {
      "codigo": "LIVREHOJE",
      "descricao": "Em compras acima de R$2.499, com desconto máximo limitado a R$250.",
-     "titulo": "Use cupom Mercado Livre e tenha desconto de até R$250",
+     "titulo": "Use cupom Mercado Livre e tenha desconto 25%",
      "verificadoHoje": true
     },
     {
@@ -48,16 +54,10 @@
      "descricao": "Desconto de 25% em produtos selecionados.",
      "titulo": "Use o cupom Mercado Livre e ganhe 25% OFF",
      "verificadoHoje": true
-    },
-    {
-     "codigo": "PROMOSCERTAS30",
-     "descricao": "Desconto de 30% em produtos selecionados.",
-     "titulo": "Garanta 30% OFF no Mercado Livre com cupom",
-     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-11-25T12:59:34.439Z"
+   "em": "2026-11-25T19:22:19.219Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-25T12:59:34.439Z"
+   "em": "2026-11-25T19:22:19.219Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-25T12:59:34.439Z"
+   "em": "2026-11-25T19:22:19.219Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-25T12:59:34.439Z"
+   "em": "2026-11-25T19:22:19.219Z"
   },
   {
    "loja": "KaBuM",
@@ -240,56 +240,56 @@
    "url": "https://www.cuponomia.com.br/desconto/kabum",
    "cupons": [
     {
-     "codigo": "JBL30OFF",
-     "descricao": "Válido para a seleção do link.",
-     "titulo": "Faça suas compras com cupom KaBuM! e ganhe 30% OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "PERI10OFF",
+     "codigo": "CASADINHO",
      "descricao": "Válido para os produtos do link. Aplique o cupom KaBuM! no carrinho de compras.",
-     "titulo": "Periféricos com 10% de economia",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "CASATECH10",
-     "descricao": "Válido para seleção do link.",
-     "titulo": "Garanta itens para sua casa com 10% OFF aplicando código KaBuM!",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "CASANINJA10",
-     "descricao": "Válido para os produtos do link.",
-     "titulo": "Itens selecionados com 10% OFF usando cupom KaBuM!",
-     "verificadoHoje": false
+     "titulo": "Garanta produtos com 8% de desconto",
+     "verificadoHoje": true
     },
     {
      "codigo": "100IMPRESSORA",
      "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
      "titulo": "Impressoras com R$100 de desconto",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "JBL30",
-     "descricao": "Desconto válido para produtos selecionados no site.",
-     "titulo": "Produtos JBL com 30% de economia aplicando voucher KaBuM!",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "CASADINHO",
-     "descricao": "Válido para os produtos do link. Aplique o cupom KaBuM! no carrinho de compras.",
-     "titulo": "Garanta produtos com 8% de desconto",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "200OFFSCANNER",
      "descricao": "Aplique o cupom KaBuM! no carrinho de compras. Válido para o produto do link.",
      "titulo": "Garanta Scanner De Mesa Brother com R$200 OFF",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "MAGA100",
+     "descricao": "Válido para o produto selecionado.",
+     "titulo": "Utilize o código KaBuM! e garanta tablet Samsung com R$100 OFF",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "HEYALEXA",
+     "descricao": "Válido para a seleção do link. Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Itens selecionados com 7% de desconto",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "NOVOLANTE",
+     "descricao": "Use cupom KaBuM! no carrinho para garantir economia.",
+     "titulo": "Desconto de R$200 no Volante Logitech G29",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "SSD100",
+     "descricao": "Válido para o produto selecionado.",
+     "titulo": "Garanta SSD Kingston com R$100 OFF utilizando cupom KaBuM!",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "STAR5",
+     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Use o código KaBuM! e garanta Kit Starlink Mini com 5% OFF",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-25T12:59:34.439Z"
+   "em": "2026-11-25T19:22:19.219Z"
   }
  ]
 }
