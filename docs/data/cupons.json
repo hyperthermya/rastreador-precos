@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-24T23:55:55.041Z",
+ "geradoEm": "2026-11-25T03:11:41.517Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-24T23:55:55.041Z"
+   "em": "2026-11-25T03:11:41.517Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-24T23:55:55.041Z"
+   "em": "2026-11-25T03:11:41.517Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-24T23:55:55.041Z"
+   "em": "2026-11-25T03:11:41.517Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-24T23:55:55.041Z"
+   "em": "2026-11-25T03:11:41.517Z"
   },
   {
    "loja": "KaBuM",
@@ -243,37 +243,19 @@
      "codigo": "JBL30OFF",
      "descricao": "Válido para a seleção do link.",
      "titulo": "Faça suas compras com cupom KaBuM! e ganhe 30% OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "PERI10OFF",
      "descricao": "Válido para os produtos do link. Aplique o cupom KaBuM! no carrinho de compras.",
      "titulo": "Periféricos com 10% de economia",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "CASATECH10",
      "descricao": "Válido para seleção do link.",
      "titulo": "Garanta itens para sua casa com 10% OFF aplicando código KaBuM!",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "CASADINHO",
-     "descricao": "Válido para os produtos do link. Aplique o cupom KaBuM! no carrinho de compras.",
-     "titulo": "Garanta produtos com 8% de desconto",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "200OFFSCANNER",
-     "descricao": "Aplique o cupom KaBuM! no carrinho de compras. Válido para o produto do link.",
-     "titulo": "Garanta Scanner De Mesa Brother com R$200 OFF",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "MULTI5OFF",
-     "descricao": "Válido para o produto selecionado.",
-     "titulo": "Multifuncional Epson Ecotank com 5% OFF utilizando cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "CASANINJA10",
@@ -286,10 +268,28 @@
      "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
      "titulo": "Impressoras com R$100 de desconto",
      "verificadoHoje": false
+    },
+    {
+     "codigo": "JBL30",
+     "descricao": "Desconto válido para produtos selecionados no site.",
+     "titulo": "Produtos JBL com 30% de economia aplicando voucher KaBuM!",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "CASADINHO",
+     "descricao": "Válido para os produtos do link. Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Garanta produtos com 8% de desconto",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "200OFFSCANNER",
+     "descricao": "Aplique o cupom KaBuM! no carrinho de compras. Válido para o produto do link.",
+     "titulo": "Garanta Scanner De Mesa Brother com R$200 OFF",
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-24T23:55:55.041Z"
+   "em": "2026-11-25T03:11:41.517Z"
   }
  ]
 }
