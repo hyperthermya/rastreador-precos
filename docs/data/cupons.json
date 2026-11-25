@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-24T19:43:45.717Z",
+ "geradoEm": "2026-11-24T23:55:55.041Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -7,6 +7,12 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
+    {
+     "codigo": "CUPONOMOVEIS",
+     "descricao": "Em compras a partir de R$1.000 em produtos selecionados.",
+     "titulo": "R$150 OFF com cupom Mercado Livre exclusivo",
+     "verificadoHoje": true
+    },
     {
      "codigo": "MELIVIP15",
      "descricao": "Desconto de 15% em produtos selecionados.",
@@ -20,6 +26,24 @@
      "verificadoHoje": true
     },
     {
+     "codigo": "VEMPROMP",
+     "descricao": "Válido para compras acima de R$500. Consulte as condições da oferta no site.",
+     "titulo": "Aproveite R$150 OFF com cupom Mercado Livre",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "CURTAMELI",
+     "descricao": "Em compras acima de R$199 em produtos selecionados.",
+     "titulo": "Suas compras com 10% de desconto utilizando cupom Mercado Livre",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "OFERTAPRATECH",
+     "descricao": "Em compras acima de R$2.699 em produtos selecionados de tecnologia e eletrodomésticos.",
+     "titulo": "Super promo Mercado Livre com R$300 OFF aplicando código promocional",
+     "verificadoHoje": true
+    },
+    {
      "codigo": "OFICIAIS2411",
      "descricao": "Em compras acima de R$199 em produtos selecionados, com desconto máximo limitado a R$200.",
      "titulo": "10% OFF com cupom Mercado Livre",
@@ -30,34 +54,10 @@
      "descricao": "Em compras acima de R$79 em produtos selecionados, com desconto máximo limitado a R$30.",
      "titulo": "Os melhores itens do site com 10% de economia aplicando cupom Mercado Livre",
      "verificadoHoje": true
-    },
-    {
-     "codigo": "DESCONTOSMELI",
-     "descricao": "Em compras acima de R$199 em produtos selecionados, com desconto máximo limitado a R$100.",
-     "titulo": "Compre com cupom Mercado Livre e ganhe 10% OFF",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "TECHHOME",
-     "descricao": "Em compras acima de R$199 em produtos selecionados, com desconto máximo limitado a R$200.",
-     "titulo": "Ofertas imperdíveis com 10% de desconto no Mercado Livre",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "MAGALUTECH",
-     "descricao": "Em compras acima de R$1.999 em produtos selecionados.",
-     "titulo": "Descontão de R$200 com cupom Mercado Livre",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "QUEROCUPONS30",
-     "descricao": "Desconto de 30% em produtos selecionados.",
-     "titulo": "Aproveite desconto de 30% com cupom Mercado Livre",
-     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-11-24T19:43:45.717Z"
+   "em": "2026-11-24T23:55:55.041Z"
   },
   {
    "loja": "Amazon",
@@ -75,6 +75,18 @@
      "codigo": "NIVEA20",
      "descricao": "Desconto válido para produtos selecionados.",
      "titulo": "Compre com cupom Amazon e obtenha 20% OFF em seus pedidos",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "NOVODOT",
+     "descricao": "Válido para item selecionado.",
+     "titulo": "Aproveite Novo Echo Dot com 20% de desconto aplicando cupom Amazon",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "BLACKTAQUETA",
+     "descricao": "15% de desconto em compras a partir de R$50. Exclusivo Prime.",
+     "titulo": "Ganhe 15% OFF com cupom Amazon",
      "verificadoHoje": true
     },
     {
@@ -100,22 +112,10 @@
      "descricao": "20% de desconto em Mondelez.",
      "titulo": "Hora do desconto Amazon: 20% OFF com cupom",
      "verificadoHoje": true
-    },
-    {
-     "codigo": "BF30",
-     "descricao": "Válido para produtos selecionados.",
-     "titulo": "Faça compras com cupom Amazon e garanta 30% OFF",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "MALAPRIME",
-     "descricao": "Desconto válido para produtos selecionados.",
-     "titulo": "30% OFF em suas compras com cupom Amazon",
-     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-11-24T19:43:45.717Z"
+   "em": "2026-11-24T23:55:55.041Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-24T19:43:45.717Z"
+   "em": "2026-11-24T23:55:55.041Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-24T19:43:45.717Z"
+   "em": "2026-11-24T23:55:55.041Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-24T19:43:45.717Z"
+   "em": "2026-11-24T23:55:55.041Z"
   }
  ]
 }
