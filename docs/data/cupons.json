@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-26T14:12:37.268Z",
+ "geradoEm": "2026-11-26T17:00:20.842Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -7,6 +7,12 @@
    "alerta": true,
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
+    {
+     "codigo": "PROMOTOP",
+     "descricao": "Em compras acima de R$2.499, com desconto máximo limitado a R$250.",
+     "titulo": "Faça compras com cupom Mercado Livre e ganhe 25% OFF",
+     "verificadoHoje": true
+    },
     {
      "codigo": "SUPEROFERTA",
      "descricao": "Em compras acima de R$79, com desconto máximo limitado a R$40.",
@@ -48,16 +54,10 @@
      "descricao": "Desconto de 30% em produtos selecionados.",
      "titulo": "Confira desconto de 30% com cupom Mercado Livre",
      "verificadoHoje": true
-    },
-    {
-     "codigo": "CUPOMDEHOJE30",
-     "descricao": "Desconto de 30% em produtos selecionados.",
-     "titulo": "30% a menos com cupom Mercado Livre",
-     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-11-26T14:12:37.268Z"
+   "em": "2026-11-26T17:00:20.842Z"
   },
   {
    "loja": "Amazon",
@@ -96,6 +96,12 @@
      "verificadoHoje": true
     },
     {
+     "codigo": "BLACK150",
+     "descricao": "Válido para compras acima de R$1.499.",
+     "titulo": "Ganhe R$150 OFF em suas compras aplicando código Amazon",
+     "verificadoHoje": false
+    },
+    {
      "codigo": "BF26OFF10",
      "descricao": "10% de economia em produtos selecionados de cuidado de salão.",
      "titulo": "Ganhe 10% OFF com cupom Amazon",
@@ -106,16 +112,10 @@
      "descricao": "Aproveite R$250 de desconto em produtos Samsung selecionados.",
      "titulo": "Super promo Amazon com R$250 OFF aplicando cupom",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "MONDELEZ",
-     "descricao": "20% de desconto em Mondelez.",
-     "titulo": "Hora do desconto Amazon: 20% OFF com cupom",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-26T14:12:37.268Z"
+   "em": "2026-11-26T17:00:20.842Z"
   },
   {
    "loja": "Casas Bahia",
@@ -123,6 +123,18 @@
    "alerta": false,
    "url": "https://www.cuponomia.com.br/desconto/casas-bahia",
    "cupons": [
+    {
+     "codigo": "SUPEROFERTA",
+     "descricao": "Em compras acima de R$149, com desconto máximo limitado a R$40.",
+     "titulo": "Compre com código promocional Casas Bahia e tenha 25% OFF",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "PROMOAGORA",
+     "descricao": "Em compras acima de R$149, com desconto máximo limitado a R$100.",
+     "titulo": "Cupom Casas Bahia concede desconto de 10%",
+     "verificadoHoje": false
+    },
     {
      "codigo": "OFFHOJENOML",
      "descricao": "Válido em compras a partir de R$79, limitado a R$100 de desconto.",
@@ -158,22 +170,10 @@
      "descricao": "Válido em compras a partir de R$149, limitado a R$200 de desconto.",
      "titulo": "Suas compras com 12% OFF usando cupom Casas Bahia",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "OFFNOML",
-     "descricao": "Válido em compras a partir de R$149, limitado a R$200 de desconto.",
-     "titulo": "10% de economia usando código Casas Bahia",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "DESCONTOSESPECIAIS",
-     "descricao": "Válido em compras a partir de R$ 79. Desconto máximo de R$ 100.",
-     "titulo": "Garanta 10% OFF com cupom Casas Bahia",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-26T14:12:37.268Z"
+   "em": "2026-11-26T17:00:20.842Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-26T14:12:37.268Z"
+   "em": "2026-11-26T17:00:20.842Z"
   },
   {
    "loja": "KaBuM",
@@ -240,28 +240,22 @@
    "url": "https://www.cuponomia.com.br/desconto/kabum",
    "cupons": [
     {
+     "codigo": "HYPERX10",
+     "descricao": "Seleção de periféricos com 10% de desconto.",
+     "titulo": "Os melhores itens do site com 10% OFF utilizando cupom KaBuM!",
+     "verificadoHoje": true
+    },
+    {
      "codigo": "NOTE15OFF",
      "descricao": "Desconto válido para a seleção do link.",
      "titulo": "Notebooks selecionados com 15% OFF usando código KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "PS100",
      "descricao": "Aplique cupom KaBuM! no carrinho para garantir economia.",
      "titulo": "Compre PS5 com R$100 OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "TELANINJA12",
-     "descricao": "Válido para os produtos selecionados.",
-     "titulo": "Monitores com 12% OFF aplicando código KaBuM!",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "HYPERX10",
-     "descricao": "Seleção de periféricos com 10% de desconto.",
-     "titulo": "Os melhores itens do site com 10% OFF utilizando cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "JOGUIN",
@@ -286,10 +280,16 @@
      "descricao": "Aplicável para item selecionado no site.",
      "titulo": "25% OFF em Mouse Gamer Attack Shark com cupom KaBuM!",
      "verificadoHoje": false
+    },
+    {
+     "codigo": "IPHONE150",
+     "descricao": "Válido para a seleção do link.",
+     "titulo": "iPhone com R$150 de desconto usando cupom KaBuM!",
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-26T14:12:37.268Z"
+   "em": "2026-11-26T17:00:20.842Z"
   }
  ]
 }
