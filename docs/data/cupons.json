@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-26T03:37:23.798Z",
+ "geradoEm": "2026-11-26T04:16:03.875Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -11,53 +11,53 @@
      "codigo": "LIVREOFF",
      "descricao": "Em compras acima de R$199, com desconto máximo limitado a R$200.",
      "titulo": "Aproveite para economizar 10% com cupom Mercado Livre",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "CUPONOMOVEIS",
      "descricao": "Em compras a partir de R$1.000 em produtos selecionados.",
      "titulo": "R$150 OFF com cupom Mercado Livre exclusivo",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "LIVREHOJE",
      "descricao": "Em compras acima de R$2.499, com desconto máximo limitado a R$250.",
      "titulo": "Use cupom Mercado Livre e tenha desconto 25%",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MELIAGORA",
      "descricao": "Em compras acima de R$199, com desconto máximo limitado a R$100.",
      "titulo": "Cupom Mercado Livre oferece 10% OFF em suas compras",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
-     "codigo": "MELIVIP15",
-     "descricao": "Desconto de 15% em produtos selecionados.",
-     "titulo": "Cupom Mercado Livre concede 15% OFF em suas compras",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "DESCONTOSMELI",
-     "descricao": "Em compras acima de R$199 em produtos selecionados, com desconto máximo limitado a R$100.",
-     "titulo": "Compre com cupom Mercado Livre e ganhe 10% OFF",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "QUEROCUPONS30",
+     "codigo": "PRECINHO30",
      "descricao": "Desconto de 30% em produtos selecionados.",
-     "titulo": "Aproveite desconto de 30% com cupom Mercado Livre",
-     "verificadoHoje": true
+     "titulo": "Compre no Mercado Livre com 30% OFF usando cupom",
+     "verificadoHoje": false
     },
     {
-     "codigo": "CUPOMDOML25",
+     "codigo": "SOUVIP30",
+     "descricao": "Desconto de 30% em produtos selecionados.",
+     "titulo": "Desconto imperdível de 30% aplicando cupom Mercado Livre",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "CUPOMNOML25",
      "descricao": "Desconto de 25% em produtos selecionados.",
-     "titulo": "Use o cupom Mercado Livre e ganhe 25% OFF",
-     "verificadoHoje": true
+     "titulo": "Suas compras com 25% de economia utilizando cupom Mercado Livre",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "TUDODEBOM30",
+     "descricao": "Desconto de 30% em produtos selecionados.",
+     "titulo": "Mercado Livre garante 30% OFF nas suas compras com cupom",
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-26T03:37:23.798Z"
+   "em": "2026-11-26T04:16:03.875Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-26T03:37:23.798Z"
+   "em": "2026-11-26T04:16:03.875Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-26T03:37:23.798Z"
+   "em": "2026-11-26T04:16:03.875Z"
   },
   {
    "loja": "Magalu",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-26T03:37:23.798Z"
+   "em": "2026-11-26T04:16:03.875Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-26T03:37:23.798Z"
+   "em": "2026-11-26T04:16:03.875Z"
   }
  ]
 }
