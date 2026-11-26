@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-25T22:23:45.722Z",
+ "geradoEm": "2026-11-26T03:37:23.798Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -14,6 +14,12 @@
      "verificadoHoje": true
     },
     {
+     "codigo": "CUPONOMOVEIS",
+     "descricao": "Em compras a partir de R$1.000 em produtos selecionados.",
+     "titulo": "R$150 OFF com cupom Mercado Livre exclusivo",
+     "verificadoHoje": true
+    },
+    {
      "codigo": "LIVREHOJE",
      "descricao": "Em compras acima de R$2.499, com desconto máximo limitado a R$250.",
      "titulo": "Use cupom Mercado Livre e tenha desconto 25%",
@@ -23,12 +29,6 @@
      "codigo": "MELIAGORA",
      "descricao": "Em compras acima de R$199, com desconto máximo limitado a R$100.",
      "titulo": "Cupom Mercado Livre oferece 10% OFF em suas compras",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "CUPONOMOVEIS",
-     "descricao": "Em compras a partir de R$1.000 em produtos selecionados.",
-     "titulo": "R$150 OFF com cupom Mercado Livre exclusivo",
      "verificadoHoje": true
     },
     {
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-25T22:23:45.722Z"
+   "em": "2026-11-26T03:37:23.798Z"
   },
   {
    "loja": "Amazon",
@@ -69,37 +69,31 @@
      "codigo": "NIVEA20",
      "descricao": "Desconto válido para produtos selecionados.",
      "titulo": "Compre com cupom Amazon e obtenha 20% OFF em seus pedidos",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "NOVODOT",
      "descricao": "Válido para item selecionado.",
      "titulo": "Aproveite Novo Echo Dot com 20% de desconto aplicando cupom Amazon",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "PRO200FF",
      "descricao": "25% de desconto em produtos selecionados de Kérastase & L’oréal.",
      "titulo": "Aplique cupom Amazon e tenha 25% de desconto",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "BF26OFF10",
      "descricao": "10% de economia em produtos selecionados de cuidado de salão.",
      "titulo": "Ganhe 10% OFF com cupom Amazon",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "SAMSUNG250",
      "descricao": "Aproveite R$250 de desconto em produtos Samsung selecionados.",
      "titulo": "Super promo Amazon com R$250 OFF aplicando cupom",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "BLACKTAQUETA",
-     "descricao": "15% de desconto em compras a partir de R$50. Exclusivo Prime.",
-     "titulo": "Ganhe 15% OFF com cupom Amazon",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "MONDELEZ",
@@ -112,10 +106,16 @@
      "descricao": "Válido para produtos selecionados.",
      "titulo": "Faça compras com cupom Amazon e garanta 30% OFF",
      "verificadoHoje": false
+    },
+    {
+     "codigo": "MALAPRIME",
+     "descricao": "Desconto válido para produtos selecionados.",
+     "titulo": "30% OFF em suas compras com cupom Amazon",
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-25T22:23:45.722Z"
+   "em": "2026-11-26T03:37:23.798Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-25T22:23:45.722Z"
+   "em": "2026-11-26T03:37:23.798Z"
   },
   {
    "loja": "Magalu",
@@ -185,19 +185,19 @@
      "codigo": "LU300",
      "descricao": "R$300 OFF para itens selecionados.",
      "titulo": "Cupom Magalu com R$300 OFF em suas compras",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "LU100",
      "descricao": "Economize R$100 ao usar o código promocional no carrinho de compras.",
      "titulo": "Economize R$100 com cupom Magalu",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "LU50",
      "descricao": "R$50 OFF para itens selecionados vendidos pelo Magalu.",
      "titulo": "Seleção especial com R$50 OFF utilizando cupom Magalu",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "LU200",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-25T22:23:45.722Z"
+   "em": "2026-11-26T03:37:23.798Z"
   },
   {
    "loja": "KaBuM",
@@ -240,56 +240,56 @@
    "url": "https://www.cuponomia.com.br/desconto/kabum",
    "cupons": [
     {
-     "codigo": "CASADINHO",
-     "descricao": "Válido para os produtos do link. Aplique o cupom KaBuM! no carrinho de compras.",
-     "titulo": "Garanta produtos com 8% de desconto",
-     "verificadoHoje": true
+     "codigo": "NOTE15OFF",
+     "descricao": "Desconto válido para a seleção do link.",
+     "titulo": "Notebooks selecionados com 15% OFF usando código KaBuM!",
+     "verificadoHoje": false
     },
     {
-     "codigo": "100IMPRESSORA",
-     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
-     "titulo": "Impressoras com R$100 de desconto",
-     "verificadoHoje": true
+     "codigo": "PS100",
+     "descricao": "Aplique cupom KaBuM! no carrinho para garantir economia.",
+     "titulo": "Compre PS5 com R$100 OFF",
+     "verificadoHoje": false
     },
     {
-     "codigo": "200OFFSCANNER",
-     "descricao": "Aplique o cupom KaBuM! no carrinho de compras. Válido para o produto do link.",
-     "titulo": "Garanta Scanner De Mesa Brother com R$200 OFF",
-     "verificadoHoje": true
-    },
-    {
-     "codigo": "ZAFADINHO13",
+     "codigo": "TELANINJA12",
      "descricao": "Válido para os produtos selecionados.",
-     "titulo": "13% de desconto em suas compras utilizando cupom KaBuM!",
+     "titulo": "Monitores com 12% OFF aplicando código KaBuM!",
      "verificadoHoje": false
     },
     {
-     "codigo": "MAGA100",
+     "codigo": "GAMER10OFF",
+     "descricao": "Válido para os Notebooks selecionados.",
+     "titulo": "Aproveite 10% OFF usando cupom KaBuM!",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "IPHONE150",
+     "descricao": "Válido para a seleção do link.",
+     "titulo": "iPhone com R$150 de desconto usando cupom KaBuM!",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "ALIEN10OFF",
+     "descricao": "Aplique o cupom KaBuM! no carrinho de compras.",
+     "titulo": "Garanta Notebook Gamer Dell Alienware 15 com 10% OFF",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "BFNINTENDO",
+     "descricao": "Válido para a seleção do link.",
+     "titulo": "Itens Nintendo com 10% de desconto",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "BLACK5800",
      "descricao": "Válido para o produto selecionado.",
-     "titulo": "Utilize o código KaBuM! e garanta tablet Samsung com R$100 OFF",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "HEYALEXA",
-     "descricao": "Válido para a seleção do link. Aplique o cupom KaBuM! no carrinho de compras.",
-     "titulo": "Itens selecionados com 7% de desconto",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "NOVOLANTE",
-     "descricao": "Use cupom KaBuM! no carrinho para garantir economia.",
-     "titulo": "Desconto de R$200 no Volante Logitech G29",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "SSD100",
-     "descricao": "Válido para o produto selecionado.",
-     "titulo": "Garanta SSD Kingston com R$100 OFF utilizando cupom KaBuM!",
+     "titulo": "Processador AMD Ryzen 7 com R$100 OFF",
      "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-25T22:23:45.722Z"
+   "em": "2026-11-26T03:37:23.798Z"
   }
  ]
 }
