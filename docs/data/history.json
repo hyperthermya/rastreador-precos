@@ -211,6 +211,11 @@
    "em": "2026-11-16T01:49:17.079Z",
    "preco": 157.17,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-27T12:36:54.344Z",
+   "preco": 208.91,
+   "fonte": "zoom"
   }
  ],
  "ebike-passador-shimano-8v": [
@@ -670,6 +675,11 @@
    "em": "2026-11-27T01:46:14.083Z",
    "preco": 194.04,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-27T12:36:54.344Z",
+   "preco": 179.01,
+   "fonte": "zoom"
   }
  ],
  "ebike-manete-freio-hidraulico": [
@@ -782,6 +792,11 @@
    "em": "2026-11-27T01:46:14.083Z",
    "preco": 37.91,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-27T12:36:54.344Z",
+   "preco": 36.01,
+   "fonte": "buscape"
   }
  ],
  "ebike-capacete-ciclismo-viseira": [
@@ -1386,6 +1401,11 @@
    "em": "2026-11-24T13:52:05.075Z",
    "preco": 16.41,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-27T12:36:54.344Z",
+   "preco": 15.5,
+   "fonte": "promobit"
   }
  ],
  "estufa-moc3063": [
@@ -1428,6 +1448,11 @@
   {
    "em": "2026-11-27T01:46:14.083Z",
    "preco": 12.58,
+   "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-27T12:36:54.344Z",
+   "preco": 11.61,
    "fonte": "zoom"
   }
  ],
@@ -1576,6 +1601,11 @@
    "em": "2026-11-25T19:22:19.219Z",
    "preco": 46.41,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-27T12:36:54.344Z",
+   "preco": 15.5,
+   "fonte": "promobit"
   }
  ],
  "estufa-zmpt101b": [
@@ -1715,6 +1745,11 @@
    "em": "2026-11-25T19:22:19.219Z",
    "preco": 20.34,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-27T12:36:54.344Z",
+   "preco": 15.5,
+   "fonte": "promobit"
   }
  ],
  "estufa-aht20-bmp280": [
@@ -1834,6 +1869,11 @@
    "em": "2026-11-25T19:22:19.219Z",
    "preco": 30.63,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-27T12:36:54.344Z",
+   "preco": 15.5,
+   "fonte": "promobit"
   }
  ],
  "estufa-74hc595": [
@@ -1926,6 +1966,11 @@
    "em": "2026-11-25T19:22:19.219Z",
    "preco": 18.9,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-27T12:36:54.344Z",
+   "preco": 15.5,
+   "fonte": "promobit"
   }
  ],
  "estufa-fugu2-indutor-100uh": [
