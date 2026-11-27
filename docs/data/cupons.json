@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-27T01:46:14.083Z",
+ "geradoEm": "2026-11-27T05:03:22.119Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -8,56 +8,56 @@
    "url": "https://www.cuponomia.com.br/desconto/mercado-livre",
    "cupons": [
     {
-     "codigo": "CHEGOUOFF",
-     "descricao": "Em compras acima de R$199, com desconto máximo limitado a R$200.",
-     "titulo": "Momento Mercado Livre: 10% OFF com cupom",
-     "verificadoHoje": true
+     "codigo": "MELIVIP35",
+     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
+     "titulo": "35% OFF em seus pedidos com código Mercado Livre",
+     "verificadoHoje": false
     },
     {
-     "codigo": "VALEHOJE",
-     "descricao": "Em compras acima de R$2.299, com desconto máximo limitado a R$300.",
-     "titulo": "Confira desconto de 30% aplicando código promocional Mercado Livre",
-     "verificadoHoje": true
+     "codigo": "MELIOFF35",
+     "descricao": "Em compras acima de R$1, com desconto máximo limitado a R$500.",
+     "titulo": "Aproveite suas compras com 35% OFF",
+     "verificadoHoje": false
     },
     {
-     "codigo": "GARANTAJAHJ",
-     "descricao": "Em compras acima de R$79, com desconto máximo limitado a R$60.",
-     "titulo": "A chance de economizar 20% em compras no Mercado Livre com cupom",
-     "verificadoHoje": true
+     "codigo": "CORREPROMELI30",
+     "descricao": "Desconto de 30% em produtos selecionados.",
+     "titulo": "Cupom Mercado Livre oferece 30% OFF",
+     "verificadoHoje": false
     },
     {
-     "codigo": "CORREHOJEAGORA",
-     "descricao": "Em compras acima de R$2.299, com desconto máximo limitado a R$300.",
-     "titulo": "Garanta 30% OFF no Mercado Livre utilizando cupom",
-     "verificadoHoje": true
+     "codigo": "CORREPROAPP30",
+     "descricao": "Desconto de 30% em produtos selecionados.",
+     "titulo": "O melhor do Mercado Livre com 30% OFF utilizando cupom",
+     "verificadoHoje": false
     },
     {
-     "codigo": "APROVEITA",
-     "descricao": "Em compras acima de R$2.499, com desconto máximo limitado a R$250.",
-     "titulo": "Desconto imperdível de 25% com voucher Mercado Livre",
-     "verificadoHoje": true
+     "codigo": "APROVEITANOML25",
+     "descricao": "Desconto de 25% em produtos selecionados.",
+     "titulo": "Aplique cupom Mercado Livre e obtenha 25% OFF",
+     "verificadoHoje": false
     },
     {
-     "codigo": "BELEZAPREMIUM",
-     "descricao": "Válido nas compras acima de R$99 da categoria de beleza. Desconto máximo de R$40.",
-     "titulo": "Mais beleza por menos: cupom garante 20% OFF",
-     "verificadoHoje": true
+     "codigo": "GANHEBLACK",
+     "descricao": "Em compras acima de R$1.999, com desconto máximo limitado a R$300.",
+     "titulo": "Aproveite R$300 OFF utilizando cupom Mercado Livre",
+     "verificadoHoje": false
     },
     {
-     "codigo": "ACHADINHO",
-     "descricao": "Em compras acima de R$1.499, com desconto máximo limitado a R$150.",
-     "titulo": "Aproveite para ganhar 15% OFF com código Mercado Livre",
-     "verificadoHoje": true
+     "codigo": "CORREBLACK",
+     "descricao": "Em compras acima de R$79, com desconto máximo limitado a R$100.",
+     "titulo": "Black Friday Mercado Livre: 25% OFF com cupom",
+     "verificadoHoje": false
     },
     {
-     "codigo": "PROMOEXTRA",
-     "descricao": "Em compras acima de R$2.299, com desconto máximo limitado a R$300.",
-     "titulo": "Em ritmo de desconto: 30% OFF em seu pedido com cupom Mercado Livre",
-     "verificadoHoje": true
+     "codigo": "COMPREJA",
+     "descricao": "Em compras acima de R$199, com desconto máximo limitado a R$150.",
+     "titulo": "Hora do desconto: 15% OFF aplicando cupom Mercado Livre",
+     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-27T01:46:14.083Z"
+   "em": "2026-11-27T05:03:22.119Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-27T01:46:14.083Z"
+   "em": "2026-11-27T05:03:22.119Z"
   },
   {
    "loja": "Casas Bahia",
@@ -123,6 +123,42 @@
    "alerta": false,
    "url": "https://www.cuponomia.com.br/desconto/casas-bahia",
    "cupons": [
+    {
+     "codigo": "GANHEBLACK",
+     "descricao": "Em compras acima de R$1.999, com desconto máximo limitado a R$300.",
+     "titulo": "Aproveite 30% OFF utilizando cupom Casas Bahia",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "CORREBLACK",
+     "descricao": "Em compras acima de R$199, com desconto máximo limitado a R$200.",
+     "titulo": "Black Friday Casas Bahia: 10% OFF com cupom",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "BAIXOU",
+     "descricao": "Em compras acima de R$199, com desconto máximo limitado a R$150.",
+     "titulo": "Os melhores itens do site com 20% OFF utilizando cupom Casas Bahia",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "COMPREJA",
+     "descricao": "Em compras acima de R$199, com desconto máximo limitado a R$150.",
+     "titulo": "Hora do desconto: 15% OFF aplicando cupom Casas Bahia",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "CHEGOUOFF",
+     "descricao": "Em compras acima de R$149, com desconto máximo limitado a R$200.",
+     "titulo": "Momento Casas Bahia: 10% OFF com cupom",
+     "verificadoHoje": false
+    },
+    {
+     "codigo": "VALEHOJE",
+     "descricao": "Em compras acima de R$2.299, com desconto máximo limitado a R$300.",
+     "titulo": "Confira desconto de 30% aplicando código promocional Casas Bahia",
+     "verificadoHoje": false
+    },
     {
      "codigo": "GARANTAJAHJ",
      "descricao": "Em compras acima de R$149, com desconto máximo limitado a R$60.",
@@ -134,46 +170,10 @@
      "descricao": "Em compras acima de R$2.299, com desconto máximo limitado a R$300.",
      "titulo": "Garanta 30% OFF nas Casas Bahia utilizando cupom",
      "verificadoHoje": false
-    },
-    {
-     "codigo": "APROVEITA",
-     "descricao": "Em compras acima de R$2.499, com desconto máximo limitado a R$250.",
-     "titulo": "Desconto imperdível de 25% com voucher Casas Bahia",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "MELHOROFERTA",
-     "descricao": "Em compras acima de R$149, com desconto máximo limitado a R$200.",
-     "titulo": "Sua chance de conseguir 10% OFF nas Casas Bahia com cupom",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "ACHADINHO",
-     "descricao": "Em compras acima de R$1.499, com desconto máximo limitado a R$150.",
-     "titulo": "Aproveite para ganhar 15% OFF com código Casas Bahia",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "PROMOEXTRA",
-     "descricao": "Em compras acima de R$2.299, com desconto máximo limitado a R$300.",
-     "titulo": "Em ritmo de desconto: 30% OFF em seu pedido com cupom Casas Bahia",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "DESCONTOHOJE",
-     "descricao": "Em compras acima de R$149, com desconto máximo limitado a R$40.",
-     "titulo": "25% OFF usando cupom Casas Bahia",
-     "verificadoHoje": false
-    },
-    {
-     "codigo": "OFERTAVIP",
-     "descricao": "Em compras acima de R$149, com desconto máximo limitado a R$60.",
-     "titulo": "Economize 15% em seus pedidos aplicando cupom Casas Bahia",
-     "verificadoHoje": false
     }
    ],
    "ok": true,
-   "em": "2026-11-27T01:46:14.083Z"
+   "em": "2026-11-27T05:03:22.119Z"
   },
   {
    "loja": "Magalu",
@@ -185,13 +185,13 @@
      "codigo": "LU300",
      "descricao": "R$300 OFF para itens selecionados.",
      "titulo": "Cupom Magalu com R$300 OFF em suas compras",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "LU100",
      "descricao": "Economize R$100 ao usar o código promocional no carrinho de compras.",
      "titulo": "Economize R$100 com cupom Magalu",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "LU50",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-27T01:46:14.083Z"
+   "em": "2026-11-27T05:03:22.119Z"
   },
   {
    "loja": "KaBuM",
@@ -243,19 +243,19 @@
      "codigo": "HYPERX10",
      "descricao": "Seleção de periféricos com 10% de desconto.",
      "titulo": "Os melhores itens do site com 10% OFF utilizando cupom KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "NOTE15OFF",
      "descricao": "Desconto válido para a seleção do link.",
      "titulo": "Notebooks selecionados com 15% OFF usando código KaBuM!",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "PS100",
      "descricao": "Aplique cupom KaBuM! no carrinho para garantir economia.",
      "titulo": "Compre PS5 com R$100 OFF",
-     "verificadoHoje": true
+     "verificadoHoje": false
     },
     {
      "codigo": "GUS20",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-27T01:46:14.083Z"
+   "em": "2026-11-27T05:03:22.119Z"
   }
  ]
 }
