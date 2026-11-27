@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-27T23:27:39.992Z",
+ "geradoEm": "2026-11-27T23:30:07.714Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -57,7 +57,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-27T23:27:39.992Z"
+   "em": "2026-11-27T23:30:07.714Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-27T23:27:39.992Z"
+   "em": "2026-11-27T23:30:07.714Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-27T23:27:39.992Z"
+   "em": "2026-11-27T23:30:07.714Z"
   },
   {
    "loja": "Magalu",
@@ -188,15 +188,15 @@
      "verificadoHoje": true
     },
     {
-     "codigo": "MAGALU100",
-     "descricao": "Válido apenas nas compras acima de R$1.000.",
-     "titulo": "Código Magalu concede R$100 OFF",
-     "verificadoHoje": true
-    },
-    {
      "codigo": "LU50",
      "descricao": "R$50 OFF para itens selecionados vendidos pelo Magalu.",
      "titulo": "Seleção especial com R$50 OFF utilizando cupom Magalu",
+     "verificadoHoje": true
+    },
+    {
+     "codigo": "MAGALU100",
+     "descricao": "Válido apenas nas compras acima de R$1.000.",
+     "titulo": "Código Magalu concede R$100 OFF",
      "verificadoHoje": true
     },
     {
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-27T23:27:39.992Z"
+   "em": "2026-11-27T23:30:07.714Z"
   },
   {
    "loja": "KaBuM",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-27T23:27:39.992Z"
+   "em": "2026-11-27T23:30:07.714Z"
   }
  ]
 }
