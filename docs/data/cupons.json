@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-28T07:57:10.537Z",
+ "geradoEm": "2026-11-28T13:55:41.413Z",
  "lojas": [
   {
    "loja": "Mercado Livre",
@@ -11,53 +11,53 @@
      "codigo": "QUEROPROMOS22",
      "descricao": "Desconto de 22% em produtos selecionados, limitado a R$ 500.",
      "titulo": "Use o código Mercado Livre e ganhe 22% de desconto",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "PROMOFLASH18",
      "descricao": "Desconto de 18% em produtos selecionados, limitado a R$ 500.",
      "titulo": "Ganhe 18% OFF com cupom Mercado Livre",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "CORREPROAPP25",
      "descricao": "Desconto de 25% em produtos selecionados, limitado a R$ 500.",
      "titulo": "25% de desconto em suas compras",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "CORREAQUIML30",
      "descricao": "Desconto de 30% em produtos selecionados, limitado a R$ 500.",
      "titulo": "Economize 30% usando código Mercado Livre",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "CORREAQUIML25",
      "descricao": "Desconto de 25% em produtos selecionados, limitado a R$ 500.",
      "titulo": "Garanta 25% OFF em produtos selecionados",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "CHEGUEIML25",
      "descricao": "Desconto de 25% em produtos selecionados, limitado a R$ 500.",
      "titulo": "Cupom Mercado Livre garante 25% de desconto",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "BOMDEMAIS25",
      "descricao": "Desconto de 25% em produtos selecionados, limitado a R$ 500.",
      "titulo": "Aproveite 25% OFF em seus pedidos",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
-     "codigo": "MAISBLACK",
-     "descricao": "Em compras acima de R$599, com desconto máximo limitado a R$350.",
-     "titulo": "20% OFF com cupom Mercado Livre",
-     "verificadoHoje": false
+     "codigo": "CUPONOMOVEIS",
+     "descricao": "Em compras a partir de R$859 em produtos selecionados.",
+     "titulo": "R$150 OFF com cupom Mercado Livre exclusivo",
+     "verificadoHoje": true
     }
    ],
    "ok": true,
-   "em": "2026-11-28T07:57:10.537Z"
+   "em": "2026-11-28T13:55:41.413Z"
   },
   {
    "loja": "Amazon",
@@ -115,7 +115,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-28T07:57:10.537Z"
+   "em": "2026-11-28T13:55:41.413Z"
   },
   {
    "loja": "Casas Bahia",
@@ -173,7 +173,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-28T07:57:10.537Z"
+   "em": "2026-11-28T13:55:41.413Z"
   },
   {
    "loja": "Magalu",
@@ -185,7 +185,7 @@
      "codigo": "LU100",
      "descricao": "Economize R$100 ao usar o código promocional no carrinho de compras.",
      "titulo": "Economize R$100 com cupom Magalu",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "MAGALU100",
@@ -231,7 +231,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-28T07:57:10.537Z"
+   "em": "2026-11-28T13:55:41.413Z"
   },
   {
    "loja": "KaBuM",
@@ -243,7 +243,7 @@
      "codigo": "HYPERX10",
      "descricao": "Seleção de periféricos com 10% de desconto.",
      "titulo": "Os melhores itens do site com 10% OFF utilizando cupom KaBuM!",
-     "verificadoHoje": false
+     "verificadoHoje": true
     },
     {
      "codigo": "NOTE15OFF",
@@ -289,7 +289,7 @@
     }
    ],
    "ok": true,
-   "em": "2026-11-28T07:57:10.537Z"
+   "em": "2026-11-28T13:55:41.413Z"
   }
  ]
 }
