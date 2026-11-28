@@ -204,6 +204,11 @@
    "em": "2026-11-16T01:49:17.079Z",
    "preco": 107.41,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-28T07:57:10.537Z",
+   "preco": 193.7,
+   "fonte": "mercadolivre"
   }
  ],
  "ebike-cambio-traseiro-8v-gaiola-longa": [
@@ -919,6 +924,11 @@
    "em": "2026-11-27T23:30:07.714Z",
    "preco": 17.99,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-28T07:57:10.537Z",
+   "preco": 18,
+   "fonte": "zoom"
   }
  ],
  "ebike-sistema-auxiliar-12v-buckboost": [
@@ -1421,6 +1431,11 @@
    "em": "2026-11-27T23:30:07.714Z",
    "preco": 16.41,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-28T07:57:10.537Z",
+   "preco": 6,
+   "fonte": "promobit"
   }
  ],
  "estufa-moc3063": [
@@ -1775,6 +1790,11 @@
    "em": "2026-11-27T23:30:07.714Z",
    "preco": 20.34,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-28T07:57:10.537Z",
+   "preco": 6,
+   "fonte": "promobit"
   }
  ],
  "estufa-aht20-bmp280": [
@@ -2006,6 +2026,11 @@
    "em": "2026-11-27T23:30:07.714Z",
    "preco": 18.9,
    "fonte": "zoom"
+  },
+  {
+   "em": "2026-11-28T07:57:10.537Z",
+   "preco": 6,
+   "fonte": "promobit"
   }
  ],
  "estufa-fugu2-indutor-100uh": [
